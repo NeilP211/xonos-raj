@@ -8,7 +8,7 @@
   --text: #e8e8e8;
   --muted: #9a9a9a;
   --muted-2: #707070;
-  --accent: #ffabc3;
+  --accent: #2f6fed;
   --radius: 0px;
   --shadow: none;
   --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
@@ -184,7 +184,7 @@ body {
 .loading { display: grid; place-items: center; height: 60vh; color: var(--muted); font-family: var(--mono); text-transform: uppercase; letter-spacing: 1px; }
 .footnote { color: var(--muted-2); font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; text-align: center; margin-top: 28px; }
 .watermark { color: var(--muted-2); font-family: var(--mono); font-size: 10px; text-transform: uppercase; letter-spacing: 1px; text-align: center; margin-top: 10px; opacity: 0.7; }
-.sample-banner { background: rgba(255, 171, 195, 0.08); border: 1px solid rgba(255, 171, 195, 0.35); color: var(--accent); border-radius: 0; padding: 10px 14px; font-family: var(--mono); font-size: 12px; margin-bottom: 16px; text-align: center; }
+.sample-banner { background: rgba(47, 111, 237, 0.08); border: 1px solid rgba(47, 111, 237, 0.35); color: var(--accent); border-radius: 0; padding: 10px 14px; font-family: var(--mono); font-size: 12px; margin-bottom: 16px; text-align: center; }
 a { color: var(--accent); }
 
 /* Scrollbars to match */

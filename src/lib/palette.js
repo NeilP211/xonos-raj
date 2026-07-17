@@ -1,13 +1,13 @@
-// Restrained mono + soft-pink ramp for the terminal/brutalist theme. Each
+// Restrained mono + blue ramp for the terminal/brutalist theme. Each
 // fallback thumbnail gets a stable, on-brand shade by index (no rainbow).
 export const PALETTE = [
-  '#ffabc3', // soft pink
+  '#2f6fed', // blue
   '#2b2b2b', // graphite
-  '#e07d99', // dim pink
+  '#5b7fc4', // dim blue
   '#3a3a3a', // slate
-  '#ffd1de', // light pink
+  '#a9c6ff', // light blue
   '#1f1f1f', // near-black
-  '#b3677e', // dark pink
+  '#1a3f8f', // dark blue
   '#4a4a4a', // ash
 ]
 
