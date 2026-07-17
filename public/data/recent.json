@@ -1,28 +1,575 @@
 {
-  "_note": "Placeholder sample data. The fetch job appends real plays here over time.",
-  "updated_at": "2026-06-03T08:55:00.000Z",
+  "updated_at": "2026-07-17T22:48:48.292Z",
   "plays": [
-    { "played_at": "2026-05-28T07:42:00.000Z", "name": "Borderline", "artists": ["Tame Impala"], "album": "The Slow Rush", "image": null, "uri": "", "duration_ms": 237000 },
-    { "played_at": "2026-05-28T08:10:00.000Z", "name": "Sweater Weather", "artists": ["The Neighbourhood"], "album": "I Love You.", "image": null, "uri": "", "duration_ms": 240000 },
-    { "played_at": "2026-05-28T22:05:00.000Z", "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 307000 },
-    { "played_at": "2026-05-29T08:30:00.000Z", "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 229000 },
-    { "played_at": "2026-05-29T13:15:00.000Z", "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "duration_ms": 327000 },
-    { "played_at": "2026-05-29T23:40:00.000Z", "name": "Chamber of Reflection", "artists": ["Mac DeMarco"], "album": "Salad Days", "image": null, "uri": "", "duration_ms": 234000 },
-    { "played_at": "2026-05-30T10:05:00.000Z", "name": "Heat Waves", "artists": ["Glass Animals"], "album": "Dreamland", "image": null, "uri": "", "duration_ms": 238000 },
-    { "played_at": "2026-05-30T16:20:00.000Z", "name": "Reptilia", "artists": ["The Strokes"], "album": "Room on Fire", "image": null, "uri": "", "duration_ms": 220000 },
-    { "played_at": "2026-05-30T16:24:00.000Z", "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "duration_ms": 216000 },
-    { "played_at": "2026-05-31T09:50:00.000Z", "name": "Pink + White", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 184000 },
-    { "played_at": "2026-05-31T14:30:00.000Z", "name": "Time to Pretend", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 262000 },
-    { "played_at": "2026-05-31T21:15:00.000Z", "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "duration_ms": 240000 },
-    { "played_at": "2026-06-01T08:05:00.000Z", "name": "Feels Like We Only Go Backwards", "artists": ["Tame Impala"], "album": "Lonerism", "image": null, "uri": "", "duration_ms": 192000 },
-    { "played_at": "2026-06-01T12:40:00.000Z", "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 307000 },
-    { "played_at": "2026-06-01T18:55:00.000Z", "name": "Borderline", "artists": ["Tame Impala"], "album": "The Slow Rush", "image": null, "uri": "", "duration_ms": 237000 },
-    { "played_at": "2026-06-02T07:35:00.000Z", "name": "Sweater Weather", "artists": ["The Neighbourhood"], "album": "I Love You.", "image": null, "uri": "", "duration_ms": 240000 },
-    { "played_at": "2026-06-02T11:10:00.000Z", "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 229000 },
-    { "played_at": "2026-06-02T15:45:00.000Z", "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "duration_ms": 327000 },
-    { "played_at": "2026-06-02T22:30:00.000Z", "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "duration_ms": 216000 },
-    { "played_at": "2026-06-03T07:20:00.000Z", "name": "Heat Waves", "artists": ["Glass Animals"], "album": "Dreamland", "image": null, "uri": "", "duration_ms": 238000 },
-    { "played_at": "2026-06-03T08:15:00.000Z", "name": "Pink + White", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 184000 },
-    { "played_at": "2026-06-03T08:50:00.000Z", "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "duration_ms": 240000 }
+    {
+      "played_at": "2026-07-12T01:11:05.209Z",
+      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin",
+        "OHGEESY"
+      ],
+      "album": "OTXmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
+      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
+      "duration_ms": 164400
+    },
+    {
+      "played_at": "2026-07-12T01:13:17.660Z",
+      "name": "Lemonade",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
+      "duration_ms": 132000
+    },
+    {
+      "played_at": "2026-07-12T01:15:57.576Z",
+      "name": "Demon Time",
+      "artists": [
+        "Trippie Redd",
+        "Ski Mask The Slump God"
+      ],
+      "album": "Trip At Knight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4",
+      "uri": "spotify:track:5kyiTQjYaQVDhapExFQdwA",
+      "duration_ms": 159452
+    },
+    {
+      "played_at": "2026-07-12T01:18:47.350Z",
+      "name": "Transportin'",
+      "artists": [
+        "Kodak Black"
+      ],
+      "album": "Project Baby 2: All Grown Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
+      "uri": "spotify:track:1WIZiOuNO3woKfdlSK2gNn",
+      "duration_ms": 169344
+    },
+    {
+      "played_at": "2026-07-12T01:24:38.981Z",
+      "name": "Never Stop",
+      "artists": [
+        "ian"
+      ],
+      "album": "Valedictorian [Deluxe]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+      "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
+      "duration_ms": 127872
+    },
+    {
+      "played_at": "2026-07-12T01:26:25.840Z",
+      "name": "Beach leak",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+      "duration_ms": 106169
+    },
+    {
+      "played_at": "2026-07-12T01:28:35.089Z",
+      "name": "Five Nights",
+      "artists": [
+        "Blamian"
+      ],
+      "album": "Five Nights",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4bcd29d571ac885d40cc880",
+      "uri": "spotify:track:6mDwvYzcukRoRIXkvDG9sM",
+      "duration_ms": 98962
+    },
+    {
+      "played_at": "2026-07-12T13:02:56.303Z",
+      "name": "Five Nights",
+      "artists": [
+        "Blamian"
+      ],
+      "album": "Five Nights",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4bcd29d571ac885d40cc880",
+      "uri": "spotify:track:6mDwvYzcukRoRIXkvDG9sM",
+      "duration_ms": 98962
+    },
+    {
+      "played_at": "2026-07-12T13:20:58.031Z",
+      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Hotel California (40th Anniversary Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
+      "duration_ms": 287533
+    },
+    {
+      "played_at": "2026-07-12T16:18:32.254Z",
+      "name": "Holy Wars...The Punishment Due - 2004 Remix",
+      "artists": [
+        "Megadeth"
+      ],
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "uri": "spotify:track:5LyRtsQLhcXmy50VXhQXXS",
+      "duration_ms": 392600
+    },
+    {
+      "played_at": "2026-07-12T17:30:30.274Z",
+      "name": "Floods",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "The Great Southern Trendkill",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e698b41c758c1a49fecbc1cf",
+      "uri": "spotify:track:1L2ZkXbRX00ZiaUDuMMgf7",
+      "duration_ms": 419893
+    },
+    {
+      "played_at": "2026-07-12T17:38:41.998Z",
+      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Hotel California (40th Anniversary Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
+      "duration_ms": 287533
+    },
+    {
+      "played_at": "2026-07-12T17:40:32.363Z",
+      "name": "Southern Nights",
+      "artists": [
+        "Glen Campbell"
+      ],
+      "album": "Southern Nights",
+      "image": "https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097",
+      "uri": "spotify:track:7kv7zBjMtVf0eIJle2VZxn",
+      "duration_ms": 180026
+    },
+    {
+      "played_at": "2026-07-12T22:00:34.944Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-07-12T22:02:39.963Z",
+      "name": "Hardcore",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
+      "duration_ms": 124567
+    },
+    {
+      "played_at": "2026-07-12T22:06:14.299Z",
+      "name": "Homecoming",
+      "artists": [
+        "Lil Uzi Vert"
+      ],
+      "album": "Eternal Atake",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735267529d83ab73cf102fcbbd",
+      "uri": "spotify:track:6vxU64pcIuQ38O015Zy4qj",
+      "duration_ms": 213884
+    },
+    {
+      "played_at": "2026-07-12T22:07:36.411Z",
+      "name": "40 - Dj Ess Mix",
+      "artists": [
+        "evilgiane",
+        "xaviersobased",
+        "Nettspend",
+        "DJ Ess"
+      ],
+      "album": "40 (Dj Ess Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-07-12T22:10:26.772Z",
+      "name": "Nun Major",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+      "duration_ms": 151836
+    },
+    {
+      "played_at": "2026-07-12T22:16:54.693Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-07-12T22:19:00.185Z",
+      "name": "fukumean",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "a Gift & a Curse",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+      "duration_ms": 125040
+    },
+    {
+      "played_at": "2026-07-12T22:24:54.341Z",
+      "name": "Sick Love",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ],
+      "album": "The Getaway",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef",
+      "uri": "spotify:track:6GsP3uMCd0Dn5T37C93waZ",
+      "duration_ms": 221440
+    },
+    {
+      "played_at": "2026-07-14T11:51:19.381Z",
+      "name": "Jump - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "1984 (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
+      "uri": "spotify:track:7N3PAbqfTjSEU1edb2tY8j",
+      "duration_ms": 241599
+    },
+    {
+      "played_at": "2026-07-14T14:59:19.305Z",
+      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Hotel California (40th Anniversary Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
+      "duration_ms": 287533
+    },
+    {
+      "played_at": "2026-07-14T15:06:54.348Z",
+      "name": "Your Love",
+      "artists": [
+        "The Outfield"
+      ],
+      "album": "Super Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27301ed248b4ac01c868e688322",
+      "uri": "spotify:track:5dRQUolXAVX3BbCiIxmSsf",
+      "duration_ms": 221840
+    },
+    {
+      "played_at": "2026-07-14T16:51:17.417Z",
+      "name": "Beyond the Sea",
+      "artists": [
+        "Bobby Darin"
+      ],
+      "album": "That's All",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e774643594281699bde1e4ed",
+      "uri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg",
+      "duration_ms": 172480
+    },
+    {
+      "played_at": "2026-07-14T16:57:48.045Z",
+      "name": "Blue Train",
+      "artists": [
+        "John Coltrane"
+      ],
+      "album": "Blue Train",
+      "image": "https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77",
+      "uri": "spotify:track:3zIuHdD8dkh1vPxQu334T7",
+      "duration_ms": 643127
+    },
+    {
+      "played_at": "2026-07-15T11:59:43.717Z",
+      "name": "My Own Summer (Shove It)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
+      "duration_ms": 214760
+    },
+    {
+      "played_at": "2026-07-15T14:49:03.196Z",
+      "name": "Blind",
+      "artists": [
+        "Korn"
+      ],
+      "album": "Korn",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737153b1cf6ee990c2a9fa46cc",
+      "uri": "spotify:track:1pr9TZGOXeJUggIal1Wq3R",
+      "duration_ms": 258266
+    },
+    {
+      "played_at": "2026-07-15T14:54:10.717Z",
+      "name": "Psychosocial",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
+      "uri": "spotify:track:3RAFcUBrCNaboRXoP3S5t1",
+      "duration_ms": 284120
+    },
+    {
+      "played_at": "2026-07-15T18:23:03.964Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-07-15T18:27:44.379Z",
+      "name": "3.5",
+      "artists": [
+        "ian"
+      ],
+      "album": "Goodbye Horses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+      "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+      "duration_ms": 156444
+    },
+    {
+      "played_at": "2026-07-15T18:29:31.127Z",
+      "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
+      "artists": [
+        "Playboi Carti",
+        "Young Nudy"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:45Ln3F9PRPYTXBcMFkZMzS",
+      "duration_ms": 161200
+    },
+    {
+      "played_at": "2026-07-16T00:40:54.915Z",
+      "name": "Blind",
+      "artists": [
+        "Korn"
+      ],
+      "album": "Korn",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737153b1cf6ee990c2a9fa46cc",
+      "uri": "spotify:track:1pr9TZGOXeJUggIal1Wq3R",
+      "duration_ms": 258266
+    },
+    {
+      "played_at": "2026-07-16T00:47:34.442Z",
+      "name": "Aria Math",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6VK8OMA2FhX4KoS3QCH7rL",
+      "duration_ms": 310000
+    },
+    {
+      "played_at": "2026-07-16T00:50:30.901Z",
+      "name": "Beginning 2",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:1dYQgQT34Wm1pSMNeBoT0O",
+      "duration_ms": 176000
+    },
+    {
+      "played_at": "2026-07-16T01:15:01.875Z",
+      "name": "Mall",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:1quoFqHBiVLrVmE9AOz0Vz",
+      "duration_ms": 198000
+    },
+    {
+      "played_at": "2026-07-16T01:26:02.712Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-07-16T15:45:50.543Z",
+      "name": "Stupid Shit - A.T. mixxx",
+      "artists": [
+        "Rio Da Yung Og",
+        "A.T."
+      ],
+      "album": "Stupid Shit (A.T. mixxx)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edad4d0cffc189e0134a4ecb",
+      "uri": "spotify:track:5Iq5rRcwoWzrR8cZEKcxXk",
+      "duration_ms": 120320
+    },
+    {
+      "played_at": "2026-07-16T17:06:22.231Z",
+      "name": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "duration_ms": 183685
+    },
+    {
+      "played_at": "2026-07-17T06:32:59.861Z",
+      "name": "Champagne Supernova",
+      "artists": [
+        "Oasis"
+      ],
+      "album": "(What's The Story) Morning Glory?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+      "uri": "spotify:track:6EMynpZ10GVcwVqiLZj6Ye",
+      "duration_ms": 450506
+    },
+    {
+      "played_at": "2026-07-17T14:01:29.576Z",
+      "name": "Champagne Supernova",
+      "artists": [
+        "Oasis"
+      ],
+      "album": "(What's The Story) Morning Glory?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+      "uri": "spotify:track:6EMynpZ10GVcwVqiLZj6Ye",
+      "duration_ms": 450506
+    },
+    {
+      "played_at": "2026-07-17T16:19:03.778Z",
+      "name": "Pennies From Heaven",
+      "artists": [
+        "Stan Getz",
+        "Oscar Peterson Trio"
+      ],
+      "album": "Stan Getz And The Oscar Peterson Trio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8bdec8f743b1961cd459b33",
+      "uri": "spotify:track:1cKieOitNWqzxDdOboOzHy",
+      "duration_ms": 311813
+    },
+    {
+      "played_at": "2026-07-17T16:22:06.661Z",
+      "name": "Lamento",
+      "artists": [
+        "Antônio Carlos Jobim"
+      ],
+      "album": "Wave",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c634d4769c1fb60221cdc021",
+      "uri": "spotify:track:4VzL2zgYITGrRwSTFiL9pI",
+      "duration_ms": 166506
+    },
+    {
+      "played_at": "2026-07-17T16:28:24.201Z",
+      "name": "Jelly Roll",
+      "artists": [
+        "Charles Mingus"
+      ],
+      "album": "Mingus Ah Um",
+      "image": "https://i.scdn.co/image/ab67616d0000b27346ae4364de12380a77ebfd20",
+      "uri": "spotify:track:6l2rEIbe62N5aGTwASmzTT",
+      "duration_ms": 377093
+    },
+    {
+      "played_at": "2026-07-17T16:33:19.068Z",
+      "name": "Tour's End",
+      "artists": [
+        "Stan Getz",
+        "Oscar Peterson Trio"
+      ],
+      "album": "Stan Getz And The Oscar Peterson Trio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8bdec8f743b1961cd459b33",
+      "uri": "spotify:track:68TpAiXKitmiAwEWKjPFeN",
+      "duration_ms": 294413
+    },
+    {
+      "played_at": "2026-07-17T16:36:40.476Z",
+      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
+      "artists": [
+        "Dean Martin"
+      ],
+      "album": "This Time I'm Swingin'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737167de1e674916f63defe96c",
+      "uri": "spotify:track:4WUcNkpoNSKoe5MUuyzrfC",
+      "duration_ms": 133933
+    },
+    {
+      "played_at": "2026-07-17T16:43:19.171Z",
+      "name": "Bahia",
+      "artists": [
+        "Stan Getz",
+        "Charlie Byrd"
+      ],
+      "album": "Jazz Samba",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
+      "uri": "spotify:track:7GXdmvaiFc66NzXmZZi2MJ",
+      "duration_ms": 398266
+    },
+    {
+      "played_at": "2026-07-17T16:46:05.981Z",
+      "name": "Liza (All The Clouds'll Roll Away)",
+      "artists": [
+        "Sonny Stitt Quartet"
+      ],
+      "album": "Kaleidoscope",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732699485aba393f27b81bd2f0",
+      "uri": "spotify:track:2TzhQP0MuEQrmMPQTtoZIY",
+      "duration_ms": 166373
+    },
+    {
+      "played_at": "2026-07-17T16:48:27.213Z",
+      "name": "San Salvador",
+      "artists": [
+        "Tamba 4"
+      ],
+      "album": "Samba Blim",
+      "image": "https://i.scdn.co/image/ab67616d0000b27362c738fbd061fb07610cc1d8",
+      "uri": "spotify:track:51qur0i8tgOMLf4b481dw6",
+      "duration_ms": 140773
+    },
+    {
+      "played_at": "2026-07-17T16:52:20.392Z",
+      "name": "O Morro Nao Tem Vez",
+      "artists": [
+        "Stan Getz",
+        "Luiz Bonfá"
+      ],
+      "album": "Jazz Samba Encore!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273977f615be04be8c21a4be906",
+      "uri": "spotify:track:1NF8RxcyP6qWaipOfusQp2",
+      "duration_ms": 413022
+    }
   ]
 }
