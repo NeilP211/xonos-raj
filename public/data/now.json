@@ -1,0 +1,7 @@
+{
+  "_note": "Placeholder sample data. Updated by the fetch job; falls back to last played when nothing is live.",
+  "updated_at": "2026-06-03T08:55:00.000Z",
+  "is_playing": false,
+  "track": { "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "" },
+  "played_at": "2026-06-03T08:50:00.000Z"
+}

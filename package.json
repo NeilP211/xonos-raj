@@ -1,0 +1,27 @@
+{
+  "name": "xonos-raj",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Xonos-Raj: an always-updating Spotify stats dashboard for Raj.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test test/*.test.mjs",
+    "fetch": "node scripts/fetch.mjs",
+    "auth": "node scripts/auth.mjs",
+    "auth:link": "node scripts/auth-remote.mjs link",
+    "auth:code": "node scripts/auth-remote.mjs code",
+    "ingest": "node scripts/ingest-history.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.13.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}

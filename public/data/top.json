@@ -1,0 +1,104 @@
+{
+  "_note": "Placeholder sample data. Overwritten on the first authenticated fetch (scripts/fetch.mjs).",
+  "generated_at": "2026-06-03T09:00:00.000Z",
+  "ranges": {
+    "short_term": {
+      "tracks": [
+        { "rank": 1, "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "url": "", "duration_ms": 240000 },
+        { "rank": 2, "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "url": "", "duration_ms": 216000 },
+        { "rank": 3, "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "url": "", "duration_ms": 327000 },
+        { "rank": 4, "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "url": "", "duration_ms": 307000 },
+        { "rank": 5, "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "url": "", "duration_ms": 229000 },
+        { "rank": 6, "name": "Sweater Weather", "artists": ["The Neighbourhood"], "album": "I Love You.", "image": null, "uri": "", "url": "", "duration_ms": 240000 },
+        { "rank": 7, "name": "Time to Pretend", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "url": "", "duration_ms": 262000 },
+        { "rank": 8, "name": "Borderline", "artists": ["Tame Impala"], "album": "The Slow Rush", "image": null, "uri": "", "url": "", "duration_ms": 237000 }
+      ],
+      "artists": [
+        { "rank": 1, "name": "Tame Impala", "image": null, "genres": ["psychedelic rock", "indie", "neo-psychedelic"], "uri": "", "url": "" },
+        { "rank": 2, "name": "Frank Ocean", "image": null, "genres": ["r&b", "alternative r&b", "neo soul"], "uri": "", "url": "" },
+        { "rank": 3, "name": "MGMT", "image": null, "genres": ["indie", "psychedelic pop", "modern rock"], "uri": "", "url": "" },
+        { "rank": 4, "name": "M83", "image": null, "genres": ["synthpop", "indie", "dream pop"], "uri": "", "url": "" },
+        { "rank": 5, "name": "The Neighbourhood", "image": null, "genres": ["modern rock", "indie", "alternative"], "uri": "", "url": "" },
+        { "rank": 6, "name": "Childish Gambino", "image": null, "genres": ["hip hop", "r&b", "funk"], "uri": "", "url": "" },
+        { "rank": 7, "name": "Glass Animals", "image": null, "genres": ["indie", "psychedelic pop", "modern rock"], "uri": "", "url": "" },
+        { "rank": 8, "name": "Mac DeMarco", "image": null, "genres": ["indie", "slacker rock", "bedroom pop"], "uri": "", "url": "" }
+      ]
+    },
+    "medium_term": {
+      "tracks": [
+        { "rank": 1, "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "url": "", "duration_ms": 307000 },
+        { "rank": 2, "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "url": "", "duration_ms": 216000 },
+        { "rank": 3, "name": "Heat Waves", "artists": ["Glass Animals"], "album": "Dreamland", "image": null, "uri": "", "url": "", "duration_ms": 238000 },
+        { "rank": 4, "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "url": "", "duration_ms": 240000 },
+        { "rank": 5, "name": "Pink + White", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "url": "", "duration_ms": 184000 },
+        { "rank": 6, "name": "Chamber of Reflection", "artists": ["Mac DeMarco"], "album": "Salad Days", "image": null, "uri": "", "url": "", "duration_ms": 234000 },
+        { "rank": 7, "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "url": "", "duration_ms": 327000 },
+        { "rank": 8, "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "url": "", "duration_ms": 229000 }
+      ],
+      "artists": [
+        { "rank": 1, "name": "Frank Ocean", "image": null, "genres": ["r&b", "alternative r&b", "neo soul"], "uri": "", "url": "" },
+        { "rank": 2, "name": "Tame Impala", "image": null, "genres": ["psychedelic rock", "indie", "neo-psychedelic"], "uri": "", "url": "" },
+        { "rank": 3, "name": "Glass Animals", "image": null, "genres": ["indie", "psychedelic pop", "modern rock"], "uri": "", "url": "" },
+        { "rank": 4, "name": "Mac DeMarco", "image": null, "genres": ["indie", "slacker rock", "bedroom pop"], "uri": "", "url": "" },
+        { "rank": 5, "name": "MGMT", "image": null, "genres": ["indie", "psychedelic pop", "modern rock"], "uri": "", "url": "" },
+        { "rank": 6, "name": "M83", "image": null, "genres": ["synthpop", "indie", "dream pop"], "uri": "", "url": "" },
+        { "rank": 7, "name": "Childish Gambino", "image": null, "genres": ["hip hop", "r&b", "funk"], "uri": "", "url": "" },
+        { "rank": 8, "name": "The Strokes", "image": null, "genres": ["modern rock", "garage rock", "indie"], "uri": "", "url": "" }
+      ]
+    },
+    "long_term": {
+      "tracks": [
+        { "rank": 1, "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "url": "", "duration_ms": 327000 },
+        { "rank": 2, "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "url": "", "duration_ms": 307000 },
+        { "rank": 3, "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "url": "", "duration_ms": 216000 },
+        { "rank": 4, "name": "Reptilia", "artists": ["The Strokes"], "album": "Room on Fire", "image": null, "uri": "", "url": "", "duration_ms": 220000 },
+        { "rank": 5, "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "url": "", "duration_ms": 240000 },
+        { "rank": 6, "name": "Feels Like We Only Go Backwards", "artists": ["Tame Impala"], "album": "Lonerism", "image": null, "uri": "", "url": "", "duration_ms": 192000 },
+        { "rank": 7, "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "url": "", "duration_ms": 229000 },
+        { "rank": 8, "name": "Heat Waves", "artists": ["Glass Animals"], "album": "Dreamland", "image": null, "uri": "", "url": "", "duration_ms": 238000 }
+      ],
+      "artists": [
+        { "rank": 1, "name": "Tame Impala", "image": null, "genres": ["psychedelic rock", "indie", "neo-psychedelic"], "uri": "", "url": "" },
+        { "rank": 2, "name": "Frank Ocean", "image": null, "genres": ["r&b", "alternative r&b", "neo soul"], "uri": "", "url": "" },
+        { "rank": 3, "name": "The Strokes", "image": null, "genres": ["modern rock", "garage rock", "indie"], "uri": "", "url": "" },
+        { "rank": 4, "name": "MGMT", "image": null, "genres": ["indie", "psychedelic pop", "modern rock"], "uri": "", "url": "" },
+        { "rank": 5, "name": "Childish Gambino", "image": null, "genres": ["hip hop", "r&b", "funk"], "uri": "", "url": "" },
+        { "rank": 6, "name": "Glass Animals", "image": null, "genres": ["indie", "psychedelic pop", "modern rock"], "uri": "", "url": "" },
+        { "rank": 7, "name": "Arctic Monkeys", "image": null, "genres": ["modern rock", "garage rock", "indie"], "uri": "", "url": "" },
+        { "rank": 8, "name": "M83", "image": null, "genres": ["synthpop", "indie", "dream pop"], "uri": "", "url": "" }
+      ]
+    }
+  },
+  "genres": {
+    "short_term": [
+      { "genre": "indie", "weight": 0.31 },
+      { "genre": "psychedelic rock", "weight": 0.16 },
+      { "genre": "r&b", "weight": 0.12 },
+      { "genre": "modern rock", "weight": 0.11 },
+      { "genre": "synthpop", "weight": 0.09 },
+      { "genre": "psychedelic pop", "weight": 0.08 },
+      { "genre": "hip hop", "weight": 0.07 },
+      { "genre": "dream pop", "weight": 0.06 }
+    ],
+    "medium_term": [
+      { "genre": "indie", "weight": 0.33 },
+      { "genre": "r&b", "weight": 0.15 },
+      { "genre": "modern rock", "weight": 0.13 },
+      { "genre": "psychedelic rock", "weight": 0.12 },
+      { "genre": "psychedelic pop", "weight": 0.1 },
+      { "genre": "slacker rock", "weight": 0.07 },
+      { "genre": "hip hop", "weight": 0.06 },
+      { "genre": "garage rock", "weight": 0.04 }
+    ],
+    "long_term": [
+      { "genre": "indie", "weight": 0.3 },
+      { "genre": "modern rock", "weight": 0.18 },
+      { "genre": "psychedelic rock", "weight": 0.13 },
+      { "genre": "garage rock", "weight": 0.11 },
+      { "genre": "r&b", "weight": 0.1 },
+      { "genre": "hip hop", "weight": 0.08 },
+      { "genre": "psychedelic pop", "weight": 0.06 },
+      { "genre": "synthpop", "weight": 0.04 }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_note": "Placeholder sample data. The fetch job appends real plays here over time.",
+  "updated_at": "2026-06-03T08:55:00.000Z",
+  "plays": [
+    { "played_at": "2026-05-28T07:42:00.000Z", "name": "Borderline", "artists": ["Tame Impala"], "album": "The Slow Rush", "image": null, "uri": "", "duration_ms": 237000 },
+    { "played_at": "2026-05-28T08:10:00.000Z", "name": "Sweater Weather", "artists": ["The Neighbourhood"], "album": "I Love You.", "image": null, "uri": "", "duration_ms": 240000 },
+    { "played_at": "2026-05-28T22:05:00.000Z", "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 307000 },
+    { "played_at": "2026-05-29T08:30:00.000Z", "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 229000 },
+    { "played_at": "2026-05-29T13:15:00.000Z", "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "duration_ms": 327000 },
+    { "played_at": "2026-05-29T23:40:00.000Z", "name": "Chamber of Reflection", "artists": ["Mac DeMarco"], "album": "Salad Days", "image": null, "uri": "", "duration_ms": 234000 },
+    { "played_at": "2026-05-30T10:05:00.000Z", "name": "Heat Waves", "artists": ["Glass Animals"], "album": "Dreamland", "image": null, "uri": "", "duration_ms": 238000 },
+    { "played_at": "2026-05-30T16:20:00.000Z", "name": "Reptilia", "artists": ["The Strokes"], "album": "Room on Fire", "image": null, "uri": "", "duration_ms": 220000 },
+    { "played_at": "2026-05-30T16:24:00.000Z", "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "duration_ms": 216000 },
+    { "played_at": "2026-05-31T09:50:00.000Z", "name": "Pink + White", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 184000 },
+    { "played_at": "2026-05-31T14:30:00.000Z", "name": "Time to Pretend", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 262000 },
+    { "played_at": "2026-05-31T21:15:00.000Z", "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "duration_ms": 240000 },
+    { "played_at": "2026-06-01T08:05:00.000Z", "name": "Feels Like We Only Go Backwards", "artists": ["Tame Impala"], "album": "Lonerism", "image": null, "uri": "", "duration_ms": 192000 },
+    { "played_at": "2026-06-01T12:40:00.000Z", "name": "Nights", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 307000 },
+    { "played_at": "2026-06-01T18:55:00.000Z", "name": "Borderline", "artists": ["Tame Impala"], "album": "The Slow Rush", "image": null, "uri": "", "duration_ms": 237000 },
+    { "played_at": "2026-06-02T07:35:00.000Z", "name": "Sweater Weather", "artists": ["The Neighbourhood"], "album": "I Love You.", "image": null, "uri": "", "duration_ms": 240000 },
+    { "played_at": "2026-06-02T11:10:00.000Z", "name": "Electric Feel", "artists": ["MGMT"], "album": "Oracular Spectacular", "image": null, "uri": "", "duration_ms": 229000 },
+    { "played_at": "2026-06-02T15:45:00.000Z", "name": "Redbone", "artists": ["Childish Gambino"], "album": "Awaken, My Love!", "image": null, "uri": "", "duration_ms": 327000 },
+    { "played_at": "2026-06-02T22:30:00.000Z", "name": "The Less I Know the Better", "artists": ["Tame Impala"], "album": "Currents", "image": null, "uri": "", "duration_ms": 216000 },
+    { "played_at": "2026-06-03T07:20:00.000Z", "name": "Heat Waves", "artists": ["Glass Animals"], "album": "Dreamland", "image": null, "uri": "", "duration_ms": 238000 },
+    { "played_at": "2026-06-03T08:15:00.000Z", "name": "Pink + White", "artists": ["Frank Ocean"], "album": "Blonde", "image": null, "uri": "", "duration_ms": 184000 },
+    { "played_at": "2026-06-03T08:50:00.000Z", "name": "Midnight City", "artists": ["M83"], "album": "Hurry Up, We're Dreaming", "image": null, "uri": "", "duration_ms": 240000 }
+  ]
+}
