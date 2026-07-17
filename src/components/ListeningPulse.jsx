@@ -30,7 +30,7 @@ function buildPulse(plays) {
 function cellColor(count, max) {
   if (!count) return 'var(--bg-2)'
   const a = 0.12 + 0.88 * (count / max)
-  return `rgba(47, 111, 237, ${a.toFixed(3)})`
+  return `rgba(47, 237, 111, ${a.toFixed(3)})`
 }
 
 // Display order: Monday-first (real day indices into the Sunday-based grid).
@@ -120,7 +120,7 @@ export default function ListeningPulse({ recent }) {
             contentStyle={{ background: '#0a0a0a', border: '1px solid #2b2b2b', borderRadius: 0, color: '#e8e8e8' }}
             formatter={(v) => [v, 'plays']}
           />
-          <Line type="monotone" dataKey="plays" stroke="#2f6fed" strokeWidth={2} dot={{ r: 2, fill: '#2f6fed' }} />
+          <Line type="monotone" dataKey="plays" stroke="#2fed6f" strokeWidth={2} dot={{ r: 2, fill: '#2fed6f' }} />
         </LineChart>
       </ResponsiveContainer>
     </div>
