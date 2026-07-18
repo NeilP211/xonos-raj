@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-18T01:52:24.525Z",
+  "updated_at": "2026-07-18T05:18:31.485Z",
   "is_playing": false,
   "track": {
-    "name": "O Morro Nao Tem Vez",
+    "name": "Can't Tell Me Nothing",
     "artists": [
-      "Stan Getz",
-      "Luiz Bonfá"
+      "Kanye West"
     ],
-    "album": "Jazz Samba Encore!",
-    "image": "https://i.scdn.co/image/ab67616d0000b273977f615be04be8c21a4be906",
-    "uri": "spotify:track:1NF8RxcyP6qWaipOfusQp2"
+    "album": "Graduation",
+    "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM"
   },
-  "played_at": "2026-07-17T16:52:20.392Z"
+  "played_at": "2026-07-17T23:01:42.851Z"
 }
