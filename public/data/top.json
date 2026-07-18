@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:38:50.144Z",
+  "generated_at": "2026-07-18T10:13:35.439Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1685,6 +1685,14 @@
         },
         {
           "rank": 22,
+          "name": "Stan Getz",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e",
+          "genres": [],
+          "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "rank": 23,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182",
           "genres": [],
@@ -1692,20 +1700,12 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
           "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        },
-        {
-          "rank": 24,
-          "name": "Stan Getz",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e",
-          "genres": [],
-          "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
           "rank": 25,
