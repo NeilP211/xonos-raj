@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T21:43:13.184Z",
+  "updated_at": "2026-07-19T02:03:18.874Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -581,6 +581,114 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
       "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
       "duration_ms": 271600
+    },
+    {
+      "played_at": "2026-07-18T21:43:29.335Z",
+      "name": "Dreams - 2004 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Rumours (Super Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+      "uri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz",
+      "duration_ms": 257800
+    },
+    {
+      "played_at": "2026-07-18T22:00:51.900Z",
+      "name": "Beach leak",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+      "duration_ms": 106169
+    },
+    {
+      "played_at": "2026-07-18T22:03:41.015Z",
+      "name": "Heather",
+      "artists": [
+        "4zz",
+        "GBG shiek",
+        "S9ine",
+        "Kyle Richh"
+      ],
+      "album": "Heather",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349438384ddb1d252e2732b92",
+      "uri": "spotify:track:6MBRAa2JUEQO1DcP6McjGl",
+      "duration_ms": 113963
+    },
+    {
+      "played_at": "2026-07-18T22:17:37.669Z",
+      "name": "The Art of Shredding",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "Cowboys from Hell",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
+      "uri": "spotify:track:17sbfQLWxyC0ciBXi9g54f",
+      "duration_ms": 258093
+    },
+    {
+      "played_at": "2026-07-18T22:24:36.398Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-07-18T22:32:41.732Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-07-18T22:40:38.965Z",
+      "name": "Whuss the Deal",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
+      "duration_ms": 195636
+    },
+    {
+      "played_at": "2026-07-18T22:45:13.079Z",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "artists": [
+        "Kodak Black",
+        "Offset",
+        "Travis Scott"
+      ],
+      "album": "Dying to Live",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+      "duration_ms": 228759
+    },
+    {
+      "played_at": "2026-07-18T22:51:38.871Z",
+      "name": "fukumean",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "a Gift & a Curse",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+      "duration_ms": 125040
     }
   ]
 }
