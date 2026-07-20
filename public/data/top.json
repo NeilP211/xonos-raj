@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T02:24:11.602Z",
+  "generated_at": "2026-07-20T06:11:38.166Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1255,6 +1255,18 @@
         },
         {
           "rank": 30,
+          "name": "fukumean",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "a Gift & a Curse",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
+          "duration_ms": 125040
+        },
+        {
+          "rank": 31,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -1266,7 +1278,7 @@
           "duration_ms": 132000
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "GOOBA",
           "artists": [
             "6ix9ine"
@@ -1276,18 +1288,6 @@
           "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
           "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
           "duration_ms": 132303
-        },
-        {
-          "rank": 32,
-          "name": "fukumean",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "a Gift & a Curse",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
-          "duration_ms": 125040
         },
         {
           "rank": 33,
@@ -1481,6 +1481,18 @@
         },
         {
           "rank": 48,
+          "name": "Special",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "Keep it goin xav",
+          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
+          "duration_ms": 104650
+        },
+        {
+          "rank": 49,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -1492,7 +1504,7 @@
           "duration_ms": 157779
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -1503,18 +1515,6 @@
           "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
           "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
           "duration_ms": 256161
-        },
-        {
-          "rank": 50,
-          "name": "LOT OF ME",
-          "artists": [
-            "Lil Tecca"
-          ],
-          "album": "We Love You Tecca 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f156ced88fa6920e86ddf11f",
-          "uri": "spotify:track:2ZXxRC6V6AXzMdbLQZMHSB",
-          "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB",
-          "duration_ms": 123870
         }
       ],
       "artists": [
@@ -1552,19 +1552,19 @@
         },
         {
           "rank": 5,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 6,
           "name": "Gunna",
           "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
           "genres": [],
           "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "rank": 6,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 7,
