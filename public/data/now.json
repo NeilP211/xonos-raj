@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-07-20T16:21:08.477Z",
-  "is_playing": false,
+  "updated_at": "2026-07-20T19:29:59.535Z",
+  "is_playing": true,
   "track": {
-    "name": "Every Breath You Take",
+    "name": "World, Hold On - FISHER Rework",
     "artists": [
-      "The Police"
+      "Bob Sinclar",
+      "Steve Edwards",
+      "FISHER"
     ],
-    "album": "Synchronicity (Remastered 2003)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-    "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1"
+    "album": "World, Hold On (FISHER Rework)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+    "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1"
   },
-  "played_at": "2026-07-20T12:52:43.588Z"
+  "played_at": "2026-07-20T19:29:59.535Z"
 }
