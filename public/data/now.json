@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-07-20T19:29:59.535Z",
-  "is_playing": true,
+  "updated_at": "2026-07-20T21:56:32.363Z",
+  "is_playing": false,
   "track": {
-    "name": "World, Hold On - FISHER Rework",
+    "name": "Lean Wit Me",
     "artists": [
-      "Bob Sinclar",
-      "Steve Edwards",
-      "FISHER"
+      "Juice WRLD"
     ],
-    "album": "World, Hold On (FISHER Rework)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
-    "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1"
+    "album": "Goodbye & Good Riddance",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+    "uri": "spotify:track:3oDkdAySo1VQQG0ptV7uwa"
   },
-  "played_at": "2026-07-20T19:29:59.535Z"
+  "played_at": "2026-07-20T20:27:48.887Z"
 }
