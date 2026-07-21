@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T05:43:36.618Z",
+  "generated_at": "2026-07-21T08:14:04.181Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -346,6 +346,18 @@
         },
         {
           "rank": 28,
+          "name": "Whuss the Deal",
+          "artists": [
+            "Shoreline Mafia"
+          ],
+          "album": "ShorelineDoThatShit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+          "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
+          "url": "https://open.spotify.com/track/64FxpKdU055iIaMDY441Qc",
+          "duration_ms": 195636
+        },
+        {
+          "rank": 29,
           "name": "Heather",
           "artists": [
             "4zz",
@@ -360,7 +372,7 @@
           "duration_ms": 113963
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -372,7 +384,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -384,7 +396,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "I Don't Want To Set The World On Fire",
           "artists": [
             "The Ink Spots"
@@ -396,7 +408,7 @@
           "duration_ms": 187120
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -408,7 +420,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -420,7 +432,7 @@
           "duration_ms": 127853
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Sextape",
           "artists": [
             "Deftones"
@@ -432,7 +444,7 @@
           "duration_ms": 241533
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Giant Steps - 2020 Remaster",
           "artists": [
             "John Coltrane"
@@ -444,7 +456,7 @@
           "duration_ms": 287843
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -455,18 +467,6 @@
           "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
           "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
           "duration_ms": 256161
-        },
-        {
-          "rank": 37,
-          "name": "Whuss the Deal",
-          "artists": [
-            "Shoreline Mafia"
-          ],
-          "album": "ShorelineDoThatShit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
-          "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
-          "url": "https://open.spotify.com/track/64FxpKdU055iIaMDY441Qc",
-          "duration_ms": 195636
         },
         {
           "rank": 38,
