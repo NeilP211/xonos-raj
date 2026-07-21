@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T16:18:35.633Z",
+  "updated_at": "2026-07-21T19:08:56.857Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -1197,6 +1197,235 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273db34c75eb1c6d446dc61e788",
       "uri": "spotify:track:2VuzBUB5V9AlpniCUhaszP",
       "duration_ms": 126720
+    },
+    {
+      "played_at": "2026-07-21T17:10:49.495Z",
+      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "artists": [
+        "KETTAMA"
+      ],
+      "album": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edcf69db6e31c9c69870cac7",
+      "uri": "spotify:track:3Q2RZh5dlBuqaeDIxPeieP",
+      "duration_ms": 258682
+    },
+    {
+      "played_at": "2026-07-21T17:14:52.564Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-07-21T17:19:00.083Z",
+      "name": "wokeuplikethis*",
+      "artists": [
+        "Playboi Carti",
+        "Lil Uzi Vert"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:59J5nzL1KniFHnU120dQzt",
+      "duration_ms": 235535
+    },
+    {
+      "played_at": "2026-07-21T17:23:36.309Z",
+      "name": "Dark Knight Dummo (feat. Travis Scott)",
+      "artists": [
+        "Trippie Redd",
+        "Travis Scott"
+      ],
+      "album": "LIFE'S A TRIP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+      "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+      "duration_ms": 256161
+    },
+    {
+      "played_at": "2026-07-21T17:30:31.119Z",
+      "name": "OLYMPIAN",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+      "duration_ms": 174733
+    },
+    {
+      "played_at": "2026-07-21T17:32:05.892Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-07-21T18:01:52.714Z",
+      "name": "HEAT STICK",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:15Lphc77TFtqRTGyYRYeNA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-07-21T18:06:00.402Z",
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artists": [
+        "Drake",
+        "Future",
+        "Molly Santana"
+      ],
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "uri": "spotify:track:3DK90400cDlV5WUJPraMph",
+      "duration_ms": 247183
+    },
+    {
+      "played_at": "2026-07-21T18:08:12.854Z",
+      "name": "Lemonade",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
+      "duration_ms": 132000
+    },
+    {
+      "played_at": "2026-07-21T18:09:55.745Z",
+      "name": "The Grinch",
+      "artists": [
+        "Trippie Redd"
+      ],
+      "album": "A Love Letter To You 4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
+      "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
+      "duration_ms": 91288
+    },
+    {
+      "played_at": "2026-07-21T18:13:16.275Z",
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "artists": [
+        "Metro Boomin",
+        "Future",
+        "Don Toliver"
+      ],
+      "album": "HEROES & VILLAINS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+      "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+      "duration_ms": 199920
+    },
+    {
+      "played_at": "2026-07-21T18:17:00.765Z",
+      "name": "Who's Dat",
+      "artists": [
+        "ABG Neal"
+      ],
+      "album": "Who's Dat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5aea629e18c12f931d111a3",
+      "uri": "spotify:track:1kg3sjif9p9Qvq4zWDGpcK",
+      "duration_ms": 110837
+    },
+    {
+      "played_at": "2026-07-21T18:40:36.444Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-07-21T18:45:47.637Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-07-21T18:49:09.785Z",
+      "name": "fukumean",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "a Gift & a Curse",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+      "duration_ms": 125040
+    },
+    {
+      "played_at": "2026-07-21T18:54:42.652Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-07-21T18:58:06.508Z",
+      "name": "Touch Down",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27397d2079a834443fc82547f3c",
+      "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
+      "duration_ms": 203428
+    },
+    {
+      "played_at": "2026-07-21T19:00:55.384Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-07-21T19:06:56.503Z",
+      "name": "Location",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+      "duration_ms": 168783
     }
   ]
 }
