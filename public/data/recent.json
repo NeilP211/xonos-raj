@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T19:08:56.857Z",
+  "updated_at": "2026-07-21T21:59:20.603Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -1426,6 +1426,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
       "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
       "duration_ms": 168783
+    },
+    {
+      "played_at": "2026-07-21T19:18:11.289Z",
+      "name": "Tornado Of Souls - 2004 Remix",
+      "artists": [
+        "Megadeth"
+      ],
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
+      "duration_ms": 319266
     }
   ]
 }
