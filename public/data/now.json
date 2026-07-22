@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-22T19:02:59.809Z",
+  "updated_at": "2026-07-22T22:00:17.856Z",
   "is_playing": false,
   "track": {
-    "name": "Dark Thoughts",
+    "name": "Work",
     "artists": [
-      "Lil Tecca"
+      "Rihanna",
+      "Drake"
     ],
-    "album": "DOPAMINE",
-    "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-    "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N"
+    "album": "ANTI (Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+    "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt"
   },
-  "played_at": "2026-07-22T18:07:01.335Z"
+  "played_at": "2026-07-22T21:10:45.027Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:02:59.480Z",
+  "generated_at": "2026-07-22T22:00:17.697Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -47,18 +47,6 @@
         },
         {
           "rank": 4,
-          "name": "Location",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
-          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
-          "duration_ms": 168783
-        },
-        {
-          "rank": 5,
           "name": "Champagne Supernova",
           "artists": [
             "Oasis"
@@ -68,6 +56,18 @@
           "uri": "spotify:track:5GGTgkmfEzkhAfmG0hxXk9",
           "url": "https://open.spotify.com/track/5GGTgkmfEzkhAfmG0hxXk9",
           "duration_ms": 449506
+        },
+        {
+          "rank": 5,
+          "name": "Location",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+          "duration_ms": 168783
         },
         {
           "rank": 6,
@@ -97,6 +97,19 @@
         },
         {
           "rank": 8,
+          "name": "Work",
+          "artists": [
+            "Rihanna",
+            "Drake"
+          ],
+          "album": "ANTI (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+          "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
+          "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt",
+          "duration_ms": 219320
+        },
+        {
+          "rank": 9,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -108,7 +121,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -120,7 +133,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -130,19 +143,6 @@
           "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
           "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
           "duration_ms": 174733
-        },
-        {
-          "rank": 11,
-          "name": "Work",
-          "artists": [
-            "Rihanna",
-            "Drake"
-          ],
-          "album": "ANTI (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
-          "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
-          "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt",
-          "duration_ms": 219320
         },
         {
           "rank": 12,
@@ -246,6 +246,18 @@
         },
         {
           "rank": 20,
+          "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+          "artists": [
+            "Eagles"
+          ],
+          "album": "Hotel California (40th Anniversary Expanded Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+          "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
+          "url": "https://open.spotify.com/track/3vtyxtDrkeiayOBUcKqdhS",
+          "duration_ms": 287533
+        },
+        {
+          "rank": 21,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -257,7 +269,7 @@
           "duration_ms": 132000
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -269,7 +281,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -283,7 +295,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Beach leak",
           "artists": [
             "Nettspend"
@@ -295,7 +307,7 @@
           "duration_ms": 106169
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -307,7 +319,7 @@
           "duration_ms": 232648
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Heart To Heart",
           "artists": [
             "Mac DeMarco"
@@ -319,7 +331,7 @@
           "duration_ms": 211140
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -331,7 +343,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -344,7 +356,7 @@
           "duration_ms": 166400
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -355,18 +367,6 @@
           "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
           "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
           "duration_ms": 209680
-        },
-        {
-          "rank": 29,
-          "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
-          "artists": [
-            "Eagles"
-          ],
-          "album": "Hotel California (40th Anniversary Expanded Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
-          "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
-          "url": "https://open.spotify.com/track/3vtyxtDrkeiayOBUcKqdhS",
-          "duration_ms": 287533
         },
         {
           "rank": 30,
