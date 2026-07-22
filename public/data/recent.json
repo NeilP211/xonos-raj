@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T02:00:32.364Z",
+  "updated_at": "2026-07-22T05:42:20.232Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -1495,6 +1495,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
       "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
       "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-07-22T01:41:35.290Z",
+      "name": "Wokeup",
+      "artists": [
+        "Kankan"
+      ],
+      "album": "Wokeup",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
+      "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
+      "duration_ms": 115347
+    },
+    {
+      "played_at": "2026-07-22T02:15:33.166Z",
+      "name": "Night , Blooming Jasmine .",
+      "artists": [
+        "fakemink"
+      ],
+      "album": "Night , Blooming Jasmine .",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732822c6fa1d20afb002e5417f",
+      "uri": "spotify:track:4WKUmjoUeYkzyoEvTbiVdW",
+      "duration_ms": 178868
     }
   ]
 }
