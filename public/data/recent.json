@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T21:59:20.603Z",
+  "updated_at": "2026-07-22T02:00:32.364Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -1437,6 +1437,64 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
       "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
       "duration_ms": 319266
+    },
+    {
+      "played_at": "2026-07-22T00:57:37.682Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-07-22T01:04:11.268Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-07-22T01:08:56.084Z",
+      "name": "Work",
+      "artists": [
+        "Rihanna",
+        "Drake"
+      ],
+      "album": "ANTI (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+      "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
+      "duration_ms": 219320
+    },
+    {
+      "played_at": "2026-07-22T01:14:32.711Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-07-22T01:40:33.067Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
     }
   ]
 }
