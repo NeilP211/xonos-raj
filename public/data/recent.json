@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T11:02:15.362Z",
+  "updated_at": "2026-07-22T13:28:03.976Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -1517,6 +1517,75 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732822c6fa1d20afb002e5417f",
       "uri": "spotify:track:4WKUmjoUeYkzyoEvTbiVdW",
       "duration_ms": 178868
+    },
+    {
+      "played_at": "2026-07-22T13:00:30.700Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-07-22T13:06:17.765Z",
+      "name": "Location",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+      "duration_ms": 168783
+    },
+    {
+      "played_at": "2026-07-22T13:11:36.804Z",
+      "name": "Can't Tell Me Nothing",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600
+    },
+    {
+      "played_at": "2026-07-22T13:15:44.642Z",
+      "name": "Flashing Lights",
+      "artists": [
+        "Kanye West",
+        "Dwele"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:5TRPicyLGbAF2LGBFbHGvO",
+      "duration_ms": 237506
+    },
+    {
+      "played_at": "2026-07-22T13:25:23.774Z",
+      "name": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "duration_ms": 183685
+    },
+    {
+      "played_at": "2026-07-22T13:28:00.343Z",
+      "name": "VOY A LLeVARTE PA PR",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
+      "duration_ms": 156364
     }
   ]
 }
