@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:04:11.318Z",
+  "updated_at": "2026-07-23T13:40:59.034Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -2219,6 +2219,118 @@
     },
     {
       "played_at": "2026-07-23T02:05:24.948Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-07-23T02:19:59.739Z",
+      "name": "Blue Hair",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-07-23T12:50:04.774Z",
+      "name": "Wokeup",
+      "artists": [
+        "Kankan"
+      ],
+      "album": "Wokeup",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
+      "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
+      "duration_ms": 115347
+    },
+    {
+      "played_at": "2026-07-23T12:55:43.504Z",
+      "name": "M.... She Wrote",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:1WRzux3cJRM9xRNN99QKgR",
+      "duration_ms": 112000
+    },
+    {
+      "played_at": "2026-07-23T13:03:47.785Z",
+      "name": "Wokeup",
+      "artists": [
+        "Kankan"
+      ],
+      "album": "Wokeup",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
+      "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
+      "duration_ms": 115347
+    },
+    {
+      "played_at": "2026-07-23T13:10:17.294Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-07-23T13:17:50.539Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
+    },
+    {
+      "played_at": "2026-07-23T13:28:08.257Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-07-23T13:31:55.693Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-07-23T13:35:33.145Z",
+      "name": "Blue Hair",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-07-23T13:39:52.798Z",
       "name": "Nutshell",
       "artists": [
         "Alice In Chains"

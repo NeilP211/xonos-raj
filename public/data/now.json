@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-23T11:04:11.428Z",
-  "is_playing": false,
+  "updated_at": "2026-07-23T13:40:59.177Z",
+  "is_playing": true,
   "track": {
-    "name": "Nutshell",
+    "name": "Every Breath You Take",
     "artists": [
-      "Alice In Chains"
+      "The Police"
     ],
-    "album": "Jar Of Flies",
-    "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-    "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ"
+    "album": "Synchronicity (Remastered 2003)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+    "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1"
   },
-  "played_at": "2026-07-23T02:05:24.948Z"
+  "played_at": "2026-07-23T13:40:59.177Z"
 }
