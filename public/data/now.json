@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-23T13:40:59.177Z",
-  "is_playing": true,
+  "updated_at": "2026-07-23T19:04:18.650Z",
+  "is_playing": false,
   "track": {
-    "name": "Every Breath You Take",
+    "name": "Lovers Rock",
     "artists": [
-      "The Police"
+      "TV Girl"
     ],
-    "album": "Synchronicity (Remastered 2003)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-    "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1"
+    "album": "French Exit",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+    "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM"
   },
-  "played_at": "2026-07-23T13:40:59.177Z"
+  "played_at": "2026-07-23T15:58:54.772Z"
 }
