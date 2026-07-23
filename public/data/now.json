@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-23T02:07:36.260Z",
-  "is_playing": true,
+  "updated_at": "2026-07-23T05:47:52.187Z",
+  "is_playing": false,
   "track": {
-    "name": "Rotten Apple",
+    "name": "Nutshell",
     "artists": [
       "Alice In Chains"
     ],
     "album": "Jar Of Flies",
     "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-    "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB"
+    "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ"
   },
-  "played_at": "2026-07-23T02:07:36.260Z"
+  "played_at": "2026-07-23T02:05:24.948Z"
 }
