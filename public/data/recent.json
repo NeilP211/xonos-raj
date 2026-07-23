@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T19:04:18.582Z",
+  "updated_at": "2026-07-23T22:00:11.545Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -2614,6 +2614,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
       "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-07-23T19:59:28.338Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-07-23T20:15:05.443Z",
+      "name": "Fade - Grant Nelson Big Room Remix",
+      "artists": [
+        "Solu Music",
+        "KimBlee"
+      ],
+      "album": "Fade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
+      "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
+      "duration_ms": 175840
     }
   ]
 }

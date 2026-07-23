@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:04:18.387Z",
+  "generated_at": "2026-07-23T22:00:11.397Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -61,18 +61,6 @@
         },
         {
           "rank": 5,
-          "name": "Location",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
-          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
-          "duration_ms": 168783
-        },
-        {
-          "rank": 6,
           "name": "Champagne Supernova",
           "artists": [
             "Oasis"
@@ -84,19 +72,19 @@
           "duration_ms": 449506
         },
         {
-          "rank": 7,
-          "name": "Beyond the Sea",
+          "rank": 6,
+          "name": "Location",
           "artists": [
-            "Bobby Darin"
+            "Playboi Carti"
           ],
-          "album": "That's All",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e774643594281699bde1e4ed",
-          "uri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg",
-          "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg",
-          "duration_ms": 172480
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+          "duration_ms": 168783
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Work",
           "artists": [
             "Rihanna",
@@ -109,19 +97,19 @@
           "duration_ms": 219320
         },
         {
-          "rank": 9,
-          "name": "Special",
+          "rank": 8,
+          "name": "Beyond the Sea",
           "artists": [
-            "xaviersobased"
+            "Bobby Darin"
           ],
-          "album": "Keep it goin xav",
-          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
-          "duration_ms": 104650
+          "album": "That's All",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e774643594281699bde1e4ed",
+          "uri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg",
+          "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg",
+          "duration_ms": 172480
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -133,7 +121,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -143,6 +131,18 @@
           "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
           "url": "https://open.spotify.com/track/026wpXkLAjImiWOzzcJBHj",
           "duration_ms": 214800
+        },
+        {
+          "rank": 11,
+          "name": "Special",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "Keep it goin xav",
+          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
+          "duration_ms": 104650
         },
         {
           "rank": 12,
