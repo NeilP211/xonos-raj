@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T22:00:17.823Z",
+  "updated_at": "2026-07-23T02:07:36.112Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -2012,6 +2012,221 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
       "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
       "duration_ms": 219320
+    },
+    {
+      "played_at": "2026-07-22T21:16:22.942Z",
+      "name": "Can't Tell Me Nothing",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600
+    },
+    {
+      "played_at": "2026-07-22T23:53:47.747Z",
+      "name": "Magnolia",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:1e1JKLEDKP7hEQzJfNAgPl",
+      "duration_ms": 181812
+    },
+    {
+      "played_at": "2026-07-22T23:57:20.126Z",
+      "name": "Long Time - Intro",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:4IO2X2YoXoUMv0M2rwomLC",
+      "duration_ms": 211773
+    },
+    {
+      "played_at": "2026-07-23T00:07:21.906Z",
+      "name": "Champagne Supernova",
+      "artists": [
+        "Oasis"
+      ],
+      "album": "(What's The Story) Morning Glory?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+      "uri": "spotify:track:6EMynpZ10GVcwVqiLZj6Ye",
+      "duration_ms": 450506
+    },
+    {
+      "played_at": "2026-07-23T00:10:11.041Z",
+      "name": "Location",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+      "duration_ms": 168783
+    },
+    {
+      "played_at": "2026-07-23T00:12:32.098Z",
+      "name": "Mimosa 2000",
+      "artists": [
+        "Furacão 2000",
+        "Nyasia"
+      ],
+      "album": "27 Anos Nacional",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344704e2df96f07cc450dc968",
+      "uri": "spotify:track:79bWkyd08EFDO0ZZuu7IRT",
+      "duration_ms": 140560
+    },
+    {
+      "played_at": "2026-07-23T00:18:20.901Z",
+      "name": "Special",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+      "duration_ms": 104650
+    },
+    {
+      "played_at": "2026-07-23T00:21:51.039Z",
+      "name": "RATHER LIE (with The Weeknd)",
+      "artists": [
+        "Playboi Carti",
+        "The Weeknd"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-07-23T00:23:24.137Z",
+      "name": "Forrest Gump (feat. ABG Neal)",
+      "artists": [
+        "Krimelife Ca$$",
+        "ABG Neal"
+      ],
+      "album": "Forrest Gump (feat. ABG Neal)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27300d50a21d8626037e9fb3bdd",
+      "uri": "spotify:track:32LLYzFcucxGqqIOQzpcNM",
+      "duration_ms": 92640
+    },
+    {
+      "played_at": "2026-07-23T00:25:32.478Z",
+      "name": "Never Stop",
+      "artists": [
+        "ian"
+      ],
+      "album": "Valedictorian [Deluxe]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+      "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
+      "duration_ms": 127872
+    },
+    {
+      "played_at": "2026-07-23T00:28:03.149Z",
+      "name": "Succubus",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:2pcv4nUQqaZnJk1kYvCfXV",
+      "duration_ms": 149892
+    },
+    {
+      "played_at": "2026-07-23T00:31:29.196Z",
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "artists": [
+        "Trippie Redd",
+        "Coi Leray"
+      ],
+      "album": "!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+      "duration_ms": 205701
+    },
+    {
+      "played_at": "2026-07-23T00:34:03.303Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-07-23T00:35:42.754Z",
+      "name": "Five Nights",
+      "artists": [
+        "Blamian"
+      ],
+      "album": "Five Nights",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4bcd29d571ac885d40cc880",
+      "uri": "spotify:track:6mDwvYzcukRoRIXkvDG9sM",
+      "duration_ms": 98962
+    },
+    {
+      "played_at": "2026-07-23T00:37:28.203Z",
+      "name": "I <3 My Choppa",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:0Dk9lP1YnOqssHH0oCeq9u",
+      "duration_ms": 105000
+    },
+    {
+      "played_at": "2026-07-23T00:40:44.333Z",
+      "name": "Whuss the Deal",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
+      "duration_ms": 195636
+    },
+    {
+      "played_at": "2026-07-23T01:59:08.565Z",
+      "name": "Transportin'",
+      "artists": [
+        "Kodak Black"
+      ],
+      "album": "Project Baby 2: All Grown Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
+      "uri": "spotify:track:1WIZiOuNO3woKfdlSK2gNn",
+      "duration_ms": 169344
+    },
+    {
+      "played_at": "2026-07-23T01:59:17.222Z",
+      "name": "Transportin'",
+      "artists": [
+        "Kodak Black"
+      ],
+      "album": "Project Baby 2: All Grown Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
+      "uri": "spotify:track:1WIZiOuNO3woKfdlSK2gNn",
+      "duration_ms": 169344
+    },
+    {
+      "played_at": "2026-07-23T02:05:24.948Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
     }
   ]
 }

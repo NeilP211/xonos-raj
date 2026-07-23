@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-22T22:00:17.856Z",
-  "is_playing": false,
+  "updated_at": "2026-07-23T02:07:36.260Z",
+  "is_playing": true,
   "track": {
-    "name": "Work",
+    "name": "Rotten Apple",
     "artists": [
-      "Rihanna",
-      "Drake"
+      "Alice In Chains"
     ],
-    "album": "ANTI (Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
-    "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt"
+    "album": "Jar Of Flies",
+    "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+    "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB"
   },
-  "played_at": "2026-07-22T21:10:45.027Z"
+  "played_at": "2026-07-23T02:07:36.260Z"
 }
