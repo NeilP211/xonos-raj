@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:16:10.736Z",
+  "updated_at": "2026-07-24T21:59:28.184Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -2939,6 +2939,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
       "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
       "duration_ms": 132000
+    },
+    {
+      "played_at": "2026-07-24T19:08:25.118Z",
+      "name": "Dark Knight Dummo (feat. Travis Scott)",
+      "artists": [
+        "Trippie Redd",
+        "Travis Scott"
+      ],
+      "album": "LIFE'S A TRIP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+      "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+      "duration_ms": 256161
+    },
+    {
+      "played_at": "2026-07-24T20:01:02.045Z",
+      "name": "Massive X Touch Me",
+      "artists": [
+        "NovaX",
+        "Sevven"
+      ],
+      "album": "Massive X Touch Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
+      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
+      "duration_ms": 174160
+    },
+    {
+      "played_at": "2026-07-24T21:13:22.544Z",
+      "name": "Dreamer - Janice Robinson Vocal",
+      "artists": [
+        "Livin' Joy"
+      ],
+      "album": "Don’t Stop Movin’",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d1b4387ef61788f72715186",
+      "uri": "spotify:track:6wetvpPWooBdmAEOKnDhpo",
+      "duration_ms": 223535
     }
   ]
 }
