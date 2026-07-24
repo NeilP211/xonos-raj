@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T02:03:25.651Z",
+  "generated_at": "2026-07-24T05:44:03.094Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -172,18 +172,6 @@
         },
         {
           "rank": 14,
-          "name": "Coffin",
-          "artists": [
-            "Lil Yachty"
-          ],
-          "album": "Lil Boat 3.5",
-          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
-          "duration_ms": 89535
-        },
-        {
-          "rank": 15,
           "name": "Holy Wars...The Punishment Due - 2004 Remix",
           "artists": [
             "Megadeth"
@@ -193,6 +181,18 @@
           "uri": "spotify:track:5LyRtsQLhcXmy50VXhQXXS",
           "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS",
           "duration_ms": 392600
+        },
+        {
+          "rank": 15,
+          "name": "Coffin",
+          "artists": [
+            "Lil Yachty"
+          ],
+          "album": "Lil Boat 3.5",
+          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
+          "duration_ms": 89535
         },
         {
           "rank": 16,
@@ -306,18 +306,6 @@
         },
         {
           "rank": 25,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
-        },
-        {
-          "rank": 26,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -331,19 +319,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 27,
-          "name": "Sextape",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Diamond Eyes",
-          "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-          "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-          "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE",
-          "duration_ms": 241533
-        },
-        {
-          "rank": 28,
+          "rank": 26,
           "name": "Beach leak",
           "artists": [
             "Nettspend"
@@ -355,7 +331,7 @@
           "duration_ms": 106169
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "And I Love Her",
           "artists": [
             "Kurt Cobain"
@@ -367,7 +343,7 @@
           "duration_ms": 124920
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -379,7 +355,7 @@
           "duration_ms": 232648
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -391,7 +367,19 @@
           "duration_ms": 217000
         },
         {
-          "rank": 32,
+          "rank": 30,
+          "name": "Every Breath You Take",
+          "artists": [
+            "The Police"
+          ],
+          "album": "Synchronicity (Remastered 2003)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
+          "duration_ms": 253920
+        },
+        {
+          "rank": 31,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -404,7 +392,7 @@
           "duration_ms": 166400
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -416,19 +404,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 34,
-          "name": "Every Breath You Take",
-          "artists": [
-            "The Police"
-          ],
-          "album": "Synchronicity (Remastered 2003)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
-          "duration_ms": 253920
-        },
-        {
-          "rank": 35,
+          "rank": 33,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -441,7 +417,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -456,7 +432,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -469,7 +445,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "Blind",
           "artists": [
             "Korn"
@@ -481,7 +457,7 @@
           "duration_ms": 258266
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -495,7 +471,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "Heather",
           "artists": [
             "4zz",
@@ -508,6 +484,30 @@
           "uri": "spotify:track:6MBRAa2JUEQO1DcP6McjGl",
           "url": "https://open.spotify.com/track/6MBRAa2JUEQO1DcP6McjGl",
           "duration_ms": 113963
+        },
+        {
+          "rank": 39,
+          "name": "Rotten Apple",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
+        },
+        {
+          "rank": 40,
+          "name": "Sextape",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Diamond Eyes",
+          "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+          "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+          "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE",
+          "duration_ms": 241533
         },
         {
           "rank": 41,
@@ -622,15 +622,15 @@
         },
         {
           "rank": 50,
-          "name": "Chamber Of Reflection",
+          "name": "Fade To Black - Remastered",
           "artists": [
-            "Mac DeMarco"
+            "Metallica"
           ],
-          "album": "Salad Days",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ec6e9c13eeed14eedbd5f7c9",
-          "uri": "spotify:track:7H7NyZ3G075GqPx2evsfeb",
-          "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb",
-          "duration_ms": 231723
+          "album": "Ride The Lightning (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
+          "uri": "spotify:track:7866E49sLyI938dEqxi8a4",
+          "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
+          "duration_ms": 417226
         }
       ],
       "artists": [
@@ -708,19 +708,19 @@
         },
         {
           "rank": 10,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 11,
           "name": "Trippie Redd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2db81b3312a1f167fc54096",
           "genres": [],
           "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "rank": 11,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 12,
@@ -820,14 +820,6 @@
         },
         {
           "rank": 24,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 25,
           "name": "Czech Symphony Orchestra",
           "image": "https://i.scdn.co/image/ab6761610000e5ebeec722d94eb271cb0e72b813",
           "genres": [],
@@ -835,7 +827,7 @@
           "url": "https://open.spotify.com/artist/6dBBpd1zW3iywDqNt0UVOk"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Andrés Madariaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb941bea8cdbf331ce03c278e",
           "genres": [],
@@ -843,7 +835,23 @@
           "url": "https://open.spotify.com/artist/56bbMkibAiu5iv3ZLfHQ0G"
         },
         {
+          "rank": 26,
+          "name": "Van Halen",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
+          "genres": [],
+          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        },
+        {
           "rank": 27,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 28,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182",
           "genres": [],
@@ -851,7 +859,7 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Korn",
           "image": "https://i.scdn.co/image/ab6761610000e5eb29af2ffb6f4ddd6324f878bc",
           "genres": [],
@@ -859,7 +867,7 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -867,20 +875,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
           "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        },
-        {
-          "rank": 31,
-          "name": "Van Halen",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
-          "genres": [],
-          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ]
     },
