@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T10:22:37.645Z",
+  "generated_at": "2026-07-25T15:59:16.311Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -295,18 +295,6 @@
         },
         {
           "rank": 24,
-          "name": "Heart To Heart",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "Here Comes The Cowboy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
-          "uri": "spotify:track:7EAMXbLcL0qXmciM5SwMh2",
-          "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2",
-          "duration_ms": 211140
-        },
-        {
-          "rank": 25,
           "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
           "artists": [
             "Eagles"
@@ -318,7 +306,7 @@
           "duration_ms": 287533
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -332,7 +320,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -344,19 +332,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 28,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
-        },
-        {
-          "rank": 29,
+          "rank": 27,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -369,19 +345,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 30,
-          "name": "And I Love Her",
-          "artists": [
-            "Kurt Cobain"
-          ],
-          "album": "Montage Of Heck: The Home Recordings (Deluxe Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c12bfed88d8f44ed506832e8",
-          "uri": "spotify:track:5cH8EVxJ8skgWRDXo3G5Cv",
-          "url": "https://open.spotify.com/track/5cH8EVxJ8skgWRDXo3G5Cv",
-          "duration_ms": 124920
-        },
-        {
-          "rank": 31,
+          "rank": 28,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -393,7 +357,19 @@
           "duration_ms": 232648
         },
         {
-          "rank": 32,
+          "rank": 29,
+          "name": "Heart To Heart",
+          "artists": [
+            "Mac DeMarco"
+          ],
+          "album": "Here Comes The Cowboy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
+          "uri": "spotify:track:7EAMXbLcL0qXmciM5SwMh2",
+          "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2",
+          "duration_ms": 211140
+        },
+        {
+          "rank": 30,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -405,7 +381,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -418,7 +394,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -430,7 +406,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -445,7 +421,19 @@
           "duration_ms": 134400
         },
         {
-          "rank": 36,
+          "rank": 34,
+          "name": "Loving Machine",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
+        },
+        {
+          "rank": 35,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -460,7 +448,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Blind",
           "artists": [
             "Korn"
@@ -472,7 +460,7 @@
           "duration_ms": 258266
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -484,6 +472,18 @@
           "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
           "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
           "duration_ms": 199920
+        },
+        {
+          "rank": 38,
+          "name": "And I Love Her",
+          "artists": [
+            "Kurt Cobain"
+          ],
+          "album": "Montage Of Heck: The Home Recordings (Deluxe Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c12bfed88d8f44ed506832e8",
+          "uri": "spotify:track:5cH8EVxJ8skgWRDXo3G5Cv",
+          "url": "https://open.spotify.com/track/5cH8EVxJ8skgWRDXo3G5Cv",
+          "duration_ms": 124920
         },
         {
           "rank": 39,
@@ -514,18 +514,6 @@
         },
         {
           "rank": 41,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
-        },
-        {
-          "rank": 42,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -537,7 +525,7 @@
           "duration_ms": 418466
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -549,7 +537,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -561,7 +549,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "I Don't Want To Set The World On Fire",
           "artists": [
             "The Ink Spots"
@@ -573,7 +561,7 @@
           "duration_ms": 187120
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "The Blister Exists",
           "artists": [
             "Slipknot"
@@ -585,7 +573,7 @@
           "duration_ms": 319426
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Giant Steps - 2020 Remaster",
           "artists": [
             "John Coltrane"
@@ -597,19 +585,7 @@
           "duration_ms": 287843
         },
         {
-          "rank": 48,
-          "name": "For the First Time",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "This Old Dog",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739f1b21f21b13ff2d3e891f6b",
-          "uri": "spotify:track:2R4AlwtrrkMaRKojcTIzmL",
-          "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL",
-          "duration_ms": 182306
-        },
-        {
-          "rank": 49,
+          "rank": 47,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -621,7 +597,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "No Other Heart",
           "artists": [
             "Mac DeMarco"
@@ -631,6 +607,30 @@
           "uri": "spotify:track:2aaCNg42RA74s0EmHTBqS7",
           "url": "https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7",
           "duration_ms": 173117
+        },
+        {
+          "rank": 49,
+          "name": "Magic Johnson",
+          "artists": [
+            "ian"
+          ],
+          "album": "Valedictorian [Deluxe]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+          "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
+          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn",
+          "duration_ms": 137158
+        },
+        {
+          "rank": 50,
+          "name": "VOY A LLeVARTE PA PR",
+          "artists": [
+            "Bad Bunny"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
+          "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ",
+          "duration_ms": 156364
         }
       ],
       "artists": [
@@ -684,14 +684,6 @@
         },
         {
           "rank": 7,
-          "name": "TV Girl",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-          "genres": [],
-          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "rank": 8,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
@@ -699,7 +691,7 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Trippie Redd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2db81b3312a1f167fc54096",
           "genres": [],
@@ -707,12 +699,20 @@
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
           "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 10,
+          "name": "TV Girl",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
+          "genres": [],
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
           "rank": 11,

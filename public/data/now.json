@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-07-25T10:22:37.736Z",
+  "updated_at": "2026-07-25T15:59:16.445Z",
   "is_playing": false,
   "track": {
-    "name": "Consolation (Consolacao)",
+    "name": "Can't Tell Me Nothing",
     "artists": [
-      "Herbie Mann",
-      "João Gilberto",
-      "Antônio Carlos Jobim"
+      "Kanye West"
     ],
-    "album": "Do the Bossa Nova",
-    "image": "https://i.scdn.co/image/ab67616d0000b273005612c246a0d2022ddf8c7c",
-    "uri": "spotify:track:4ch1ylH8TECcranRFm8Kdv"
+    "album": "Graduation",
+    "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM"
   },
-  "played_at": "2026-07-25T04:36:51.674Z"
+  "played_at": "2026-07-25T12:48:16.700Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T10:22:37.701Z",
+  "updated_at": "2026-07-25T15:59:16.410Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3106,6 +3106,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273005612c246a0d2022ddf8c7c",
       "uri": "spotify:track:4ch1ylH8TECcranRFm8Kdv",
       "duration_ms": 266546
+    },
+    {
+      "played_at": "2026-07-25T12:31:47.325Z",
+      "name": "Ocean Man",
+      "artists": [
+        "Ween"
+      ],
+      "album": "The Mollusk",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372d99df21eb858e23d6f1ee9",
+      "uri": "spotify:track:6M14BiCN00nOsba4JaYsHW",
+      "duration_ms": 126946
+    },
+    {
+      "played_at": "2026-07-25T12:48:16.700Z",
+      "name": "Can't Tell Me Nothing",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600
     }
   ]
 }
