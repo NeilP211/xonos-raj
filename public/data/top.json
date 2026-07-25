@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T18:57:39.939Z",
+  "generated_at": "2026-07-25T21:47:17.702Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2204,18 +2204,6 @@
         },
         {
           "rank": 21,
-          "name": "R.I.P.",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Die Lit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-          "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
-          "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv",
-          "duration_ms": 192026
-        },
-        {
-          "rank": 22,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -2225,6 +2213,18 @@
           "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
           "url": "https://open.spotify.com/track/64FxpKdU055iIaMDY441Qc",
           "duration_ms": 195636
+        },
+        {
+          "rank": 22,
+          "name": "R.I.P.",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Die Lit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+          "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
+          "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv",
+          "duration_ms": 192026
         },
         {
           "rank": 23,
@@ -2483,6 +2483,19 @@
         },
         {
           "rank": 43,
+          "name": "Dark Knight Dummo (feat. Travis Scott)",
+          "artists": [
+            "Trippie Redd",
+            "Travis Scott"
+          ],
+          "album": "LIFE'S A TRIP",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
+          "duration_ms": 256161
+        },
+        {
+          "rank": 44,
           "name": "3.5",
           "artists": [
             "ian"
@@ -2494,7 +2507,7 @@
           "duration_ms": 156444
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -2506,7 +2519,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "NEVEREVER",
           "artists": [
             "Destroy Lonely"
@@ -2518,7 +2531,7 @@
           "duration_ms": 144000
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Fuck It Up (feat. Mike Sherm)",
           "artists": [
             "Shoreline Mafia",
@@ -2532,7 +2545,7 @@
           "duration_ms": 148285
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -2542,19 +2555,6 @@
           "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
           "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
           "duration_ms": 104650
-        },
-        {
-          "rank": 48,
-          "name": "Dark Knight Dummo (feat. Travis Scott)",
-          "artists": [
-            "Trippie Redd",
-            "Travis Scott"
-          ],
-          "album": "LIFE'S A TRIP",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
-          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
-          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
-          "duration_ms": 256161
         },
         {
           "rank": 49,
@@ -2760,6 +2760,14 @@
         },
         {
           "rank": 23,
+          "name": "Stan Getz",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e",
+          "genres": [],
+          "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "rank": 24,
           "name": "Juice WRLD",
           "image": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
           "genres": [],
@@ -2767,20 +2775,12 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
           "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "rank": 25,
-          "name": "Stan Getz",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e",
-          "genres": [],
-          "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
           "rank": 26,

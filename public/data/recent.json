@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T18:57:40.083Z",
+  "updated_at": "2026-07-25T21:47:17.864Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3176,6 +3176,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737e1d2a4f64b8b472982bf0cf",
       "uri": "spotify:track:6ulEymrJ2Azx1uo3YHSE5w",
       "duration_ms": 170267
+    },
+    {
+      "played_at": "2026-07-25T21:00:27.710Z",
+      "name": "Lake Of Fire - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:4UJmPSJsBsIR1U0N79BU1g",
+      "duration_ms": 175973
+    },
+    {
+      "played_at": "2026-07-25T21:12:42.119Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-07-25T21:16:39.022Z",
+      "name": "OLYMPIAN",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+      "duration_ms": 174733
+    },
+    {
+      "played_at": "2026-07-25T21:19:27.122Z",
+      "name": "Never Stop",
+      "artists": [
+        "ian"
+      ],
+      "album": "Valedictorian [Deluxe]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+      "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
+      "duration_ms": 127872
     }
   ]
 }
