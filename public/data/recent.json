@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T15:59:16.410Z",
+  "updated_at": "2026-07-25T18:57:40.083Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3128,6 +3128,54 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
       "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
       "duration_ms": 271600
+    },
+    {
+      "played_at": "2026-07-25T17:07:09.015Z",
+      "name": "Whuss the Deal",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
+      "duration_ms": 195636
+    },
+    {
+      "played_at": "2026-07-25T17:11:20.669Z",
+      "name": "Work",
+      "artists": [
+        "Rihanna",
+        "Drake"
+      ],
+      "album": "ANTI (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+      "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
+      "duration_ms": 219320
+    },
+    {
+      "played_at": "2026-07-25T17:15:56.389Z",
+      "name": "Can't Tell Me Nothing",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600
+    },
+    {
+      "played_at": "2026-07-25T17:21:59.212Z",
+      "name": "Bent",
+      "artists": [
+        "41",
+        "Kyle Richh",
+        "Jenn Carter",
+        "TaTa"
+      ],
+      "album": "Bent",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e1d2a4f64b8b472982bf0cf",
+      "uri": "spotify:track:6ulEymrJ2Azx1uo3YHSE5w",
+      "duration_ms": 170267
     }
   ]
 }

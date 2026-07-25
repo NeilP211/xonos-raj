@@ -1,14 +1,17 @@
 {
-  "updated_at": "2026-07-25T15:59:16.445Z",
+  "updated_at": "2026-07-25T18:57:40.158Z",
   "is_playing": false,
   "track": {
-    "name": "Can't Tell Me Nothing",
+    "name": "Bent",
     "artists": [
-      "Kanye West"
+      "41",
+      "Kyle Richh",
+      "Jenn Carter",
+      "TaTa"
     ],
-    "album": "Graduation",
-    "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-    "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM"
+    "album": "Bent",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737e1d2a4f64b8b472982bf0cf",
+    "uri": "spotify:track:6ulEymrJ2Azx1uo3YHSE5w"
   },
-  "played_at": "2026-07-25T12:48:16.700Z"
+  "played_at": "2026-07-25T17:21:59.212Z"
 }
