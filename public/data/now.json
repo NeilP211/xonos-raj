@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-07-25T02:03:03.925Z",
+  "updated_at": "2026-07-25T05:37:22.834Z",
   "is_playing": false,
   "track": {
-    "name": "Samba Triste",
+    "name": "Consolation (Consolacao)",
     "artists": [
-      "Stan Getz",
-      "Charlie Byrd"
+      "Herbie Mann",
+      "João Gilberto",
+      "Antônio Carlos Jobim"
     ],
-    "album": "Jazz Samba",
-    "image": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
-    "uri": "spotify:track:6y2YxIUeM9uMgAINRnb11K"
+    "album": "Do the Bossa Nova",
+    "image": "https://i.scdn.co/image/ab67616d0000b273005612c246a0d2022ddf8c7c",
+    "uri": "spotify:track:4ch1ylH8TECcranRFm8Kdv"
   },
-  "played_at": "2026-07-24T23:15:53.618Z"
+  "played_at": "2026-07-25T04:36:51.674Z"
 }

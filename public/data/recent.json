@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T02:03:03.815Z",
+  "updated_at": "2026-07-25T05:37:22.796Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3093,6 +3093,19 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
       "uri": "spotify:track:6y2YxIUeM9uMgAINRnb11K",
       "duration_ms": 283626
+    },
+    {
+      "played_at": "2026-07-25T04:36:51.674Z",
+      "name": "Consolation (Consolacao)",
+      "artists": [
+        "Herbie Mann",
+        "João Gilberto",
+        "Antônio Carlos Jobim"
+      ],
+      "album": "Do the Bossa Nova",
+      "image": "https://i.scdn.co/image/ab67616d0000b273005612c246a0d2022ddf8c7c",
+      "uri": "spotify:track:4ch1ylH8TECcranRFm8Kdv",
+      "duration_ms": 266546
     }
   ]
 }
