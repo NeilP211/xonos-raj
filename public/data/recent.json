@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T21:59:28.184Z",
+  "updated_at": "2026-07-25T02:03:03.815Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -2974,6 +2974,125 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737d1b4387ef61788f72715186",
       "uri": "spotify:track:6wetvpPWooBdmAEOKnDhpo",
       "duration_ms": 223535
+    },
+    {
+      "played_at": "2026-07-24T22:32:54.602Z",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "artists": [
+        "Kodak Black",
+        "Offset",
+        "Travis Scott"
+      ],
+      "album": "Dying to Live",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+      "duration_ms": 228759
+    },
+    {
+      "played_at": "2026-07-24T22:40:01.972Z",
+      "name": "Pedal Point Blues",
+      "artists": [
+        "Charles Mingus"
+      ],
+      "album": "Mingus Ah Um",
+      "image": "https://i.scdn.co/image/ab67616d0000b27346ae4364de12380a77ebfd20",
+      "uri": "spotify:track:3m75dha3vtUe2ImeWfaNR8",
+      "duration_ms": 390733
+    },
+    {
+      "played_at": "2026-07-24T22:42:48.938Z",
+      "name": "Lamento",
+      "artists": [
+        "Antônio Carlos Jobim"
+      ],
+      "album": "Wave",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c634d4769c1fb60221cdc021",
+      "uri": "spotify:track:4VzL2zgYITGrRwSTFiL9pI",
+      "duration_ms": 166506
+    },
+    {
+      "played_at": "2026-07-24T22:50:03.518Z",
+      "name": "I Remember Clifford",
+      "artists": [
+        "Lee Morgan"
+      ],
+      "album": "The Best Of Lee Morgan",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac1d47b73344281d6de3ea6f",
+      "uri": "spotify:track:5LaTsDrhrpXwLniidLpnF7",
+      "duration_ms": 428973
+    },
+    {
+      "played_at": "2026-07-24T22:52:44.212Z",
+      "name": "Mrs. Robinson",
+      "artists": [
+        "Paul Desmond"
+      ],
+      "album": "Bridge Over Troubled Water",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d43ac8d7f2a837ac89be217",
+      "uri": "spotify:track:0RYJnTy9kC4KreZKEGRDdd",
+      "duration_ms": 160280
+    },
+    {
+      "played_at": "2026-07-24T22:55:41.110Z",
+      "name": "My Favorite Things",
+      "artists": [
+        "The Dave Brubeck Quartet"
+      ],
+      "album": "Time Signatures: A Career Retrospective",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b26174bf1564b225996dc2f2",
+      "uri": "spotify:track:6IR5TiiQ7YlIaAkDsoEORM",
+      "duration_ms": 176466
+    },
+    {
+      "played_at": "2026-07-24T22:59:13.855Z",
+      "name": "Samba Dees Days",
+      "artists": [
+        "Stan Getz",
+        "Charlie Byrd"
+      ],
+      "album": "Jazz Samba",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
+      "uri": "spotify:track:68ELKUCl9CkRx3gXpMfjzL",
+      "duration_ms": 212320
+    },
+    {
+      "played_at": "2026-07-24T23:04:56.392Z",
+      "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "artists": [
+        "Miles Davis",
+        "John Coltrane",
+        "Cannonball Adderley",
+        "Red Garland",
+        "Paul Chambers",
+        "Philly Joe Jones"
+      ],
+      "album": "Milestones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016",
+      "uri": "spotify:track:1xicvSO4CJ2ymqYgpk7DFh",
+      "duration_ms": 342066
+    },
+    {
+      "played_at": "2026-07-24T23:09:11.950Z",
+      "name": "Love Theme From Spartacus - Remastered 2023",
+      "artists": [
+        "Yusef Lateef"
+      ],
+      "album": "Eastern Sounds (Remastered 2023)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff4a38917d1eb6c85752e9ff",
+      "uri": "spotify:track:2QHFSR7VUZZfRRwZycKqSa",
+      "duration_ms": 255097
+    },
+    {
+      "played_at": "2026-07-24T23:15:53.618Z",
+      "name": "Samba Triste",
+      "artists": [
+        "Stan Getz",
+        "Charlie Byrd"
+      ],
+      "album": "Jazz Samba",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
+      "uri": "spotify:track:6y2YxIUeM9uMgAINRnb11K",
+      "duration_ms": 283626
     }
   ]
 }
