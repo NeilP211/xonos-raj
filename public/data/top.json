@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:05:17.258Z",
+  "generated_at": "2026-07-26T19:01:36.654Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -21,18 +21,6 @@
         },
         {
           "rank": 2,
-          "name": "Can't Tell Me Nothing",
-          "artists": [
-            "Kanye West"
-          ],
-          "album": "Graduation",
-          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-          "duration_ms": 271600
-        },
-        {
-          "rank": 3,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -44,6 +32,18 @@
           "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
           "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9",
           "duration_ms": 135861
+        },
+        {
+          "rank": 3,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
         },
         {
           "rank": 4,
@@ -134,18 +134,6 @@
         },
         {
           "rank": 11,
-          "name": "Good Looking",
-          "artists": [
-            "Suki Waterhouse"
-          ],
-          "album": "Good Looking",
-          "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
-          "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
-          "url": "https://open.spotify.com/track/026wpXkLAjImiWOzzcJBHj",
-          "duration_ms": 214800
-        },
-        {
-          "rank": 12,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -157,7 +145,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -169,7 +157,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -179,6 +167,18 @@
           "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
           "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
           "duration_ms": 174733
+        },
+        {
+          "rank": 14,
+          "name": "Good Looking",
+          "artists": [
+            "Suki Waterhouse"
+          ],
+          "album": "Good Looking",
+          "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+          "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+          "url": "https://open.spotify.com/track/026wpXkLAjImiWOzzcJBHj",
+          "duration_ms": 214800
         },
         {
           "rank": 15,
@@ -595,6 +595,18 @@
         },
         {
           "rank": 48,
+          "name": "Hardcore",
+          "artists": [
+            "Ken Carson"
+          ],
+          "album": "A Great Chaos",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+          "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
+          "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI",
+          "duration_ms": 124567
+        },
+        {
+          "rank": 49,
           "name": "Magic Johnson",
           "artists": [
             "ian"
@@ -606,7 +618,7 @@
           "duration_ms": 137158
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -616,18 +628,6 @@
           "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
           "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ",
           "duration_ms": 156364
-        },
-        {
-          "rank": 50,
-          "name": "Armed And Dangerous",
-          "artists": [
-            "Juice WRLD"
-          ],
-          "album": "Goodbye & Good Riddance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-          "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
-          "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
-          "duration_ms": 169999
         }
       ],
       "artists": [
@@ -825,22 +825,6 @@
         },
         {
           "rank": 25,
-          "name": "Czech Symphony Orchestra",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebeec722d94eb271cb0e72b813",
-          "genres": [],
-          "uri": "spotify:artist:6dBBpd1zW3iywDqNt0UVOk",
-          "url": "https://open.spotify.com/artist/6dBBpd1zW3iywDqNt0UVOk"
-        },
-        {
-          "rank": 26,
-          "name": "Andrés Madariaga",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb941bea8cdbf331ce03c278e",
-          "genres": [],
-          "uri": "spotify:artist:56bbMkibAiu5iv3ZLfHQ0G",
-          "url": "https://open.spotify.com/artist/56bbMkibAiu5iv3ZLfHQ0G"
-        },
-        {
-          "rank": 27,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -848,7 +832,7 @@
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -856,7 +840,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182",
           "genres": [],
@@ -864,7 +848,7 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "Korn",
           "image": "https://i.scdn.co/image/ab6761610000e5eb29af2ffb6f4ddd6324f878bc",
           "genres": [],
@@ -872,7 +856,7 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -880,7 +864,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
