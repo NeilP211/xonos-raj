@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T21:53:03.772Z",
+  "generated_at": "2026-07-27T06:22:04.384Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -269,6 +269,18 @@
         },
         {
           "rank": 22,
+          "name": "Every Breath You Take",
+          "artists": [
+            "The Police"
+          ],
+          "album": "Synchronicity (Remastered 2003)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
+          "duration_ms": 253920
+        },
+        {
+          "rank": 23,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -280,7 +292,7 @@
           "duration_ms": 132000
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
           "artists": [
             "Eagles"
@@ -292,7 +304,19 @@
           "duration_ms": 287533
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "name": "Rotten Apple",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
+        },
+        {
+          "rank": 26,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -306,7 +330,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -318,7 +342,19 @@
           "duration_ms": 211773
         },
         {
-          "rank": 26,
+          "rank": 28,
+          "name": "Loving Machine",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
+        },
+        {
+          "rank": 29,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -331,7 +367,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 27,
+          "rank": 30,
           "name": "Lake Of Fire - Live",
           "artists": [
             "Nirvana"
@@ -343,7 +379,7 @@
           "duration_ms": 175973
         },
         {
-          "rank": 28,
+          "rank": 31,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -355,7 +391,7 @@
           "duration_ms": 232648
         },
         {
-          "rank": 29,
+          "rank": 32,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -367,19 +403,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 30,
-          "name": "Every Breath You Take",
-          "artists": [
-            "The Police"
-          ],
-          "album": "Synchronicity (Remastered 2003)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
-          "duration_ms": 253920
-        },
-        {
-          "rank": 31,
+          "rank": 33,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -394,19 +418,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 32,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
-        },
-        {
-          "rank": 33,
+          "rank": 34,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -421,7 +433,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Blind",
           "artists": [
             "Korn"
@@ -433,7 +445,7 @@
           "duration_ms": 258266
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -445,7 +457,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -459,7 +471,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -471,7 +483,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "3.5",
           "artists": [
             "ian"
@@ -481,18 +493,6 @@
           "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
           "url": "https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ",
           "duration_ms": 156444
-        },
-        {
-          "rank": 39,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
         },
         {
           "rank": 40,
@@ -681,6 +681,14 @@
         },
         {
           "rank": 7,
+          "name": "Mac DeMarco",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+          "genres": [],
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "rank": 8,
           "name": "Trippie Redd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2db81b3312a1f167fc54096",
           "genres": [],
@@ -688,7 +696,7 @@
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
@@ -696,7 +704,7 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
@@ -704,7 +712,7 @@
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "ian",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
           "genres": [],
@@ -712,7 +720,7 @@
           "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -720,7 +728,7 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "John Coltrane",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4e85f2df0ebc051fcb317def",
           "genres": [],
@@ -728,20 +736,12 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Gunna",
           "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
           "genres": [],
           "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "rank": 14,
-          "name": "Mac DeMarco",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-          "genres": [],
-          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         },
         {
           "rank": 15,
@@ -1290,18 +1290,6 @@
         },
         {
           "rank": 33,
-          "name": "Magic Johnson",
-          "artists": [
-            "ian"
-          ],
-          "album": "Valedictorian [Deluxe]",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-          "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
-          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn",
-          "duration_ms": 137158
-        },
-        {
-          "rank": 34,
           "name": "OUT WEST (feat. Young Thug)",
           "artists": [
             "JACKBOYS",
@@ -1315,19 +1303,19 @@
           "duration_ms": 157712
         },
         {
-          "rank": 35,
-          "name": "GOOBA",
+          "rank": 34,
+          "name": "Magic Johnson",
           "artists": [
-            "6ix9ine"
+            "ian"
           ],
-          "album": "TattleTales",
-          "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
-          "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
-          "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
-          "duration_ms": 132303
+          "album": "Valedictorian [Deluxe]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+          "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
+          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn",
+          "duration_ms": 137158
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -1337,6 +1325,18 @@
           "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
           "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
           "duration_ms": 227000
+        },
+        {
+          "rank": 36,
+          "name": "GOOBA",
+          "artists": [
+            "6ix9ine"
+          ],
+          "album": "TattleTales",
+          "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
+          "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
+          "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
+          "duration_ms": 132303
         },
         {
           "rank": 37,
@@ -1456,6 +1456,18 @@
         },
         {
           "rank": 46,
+          "name": "Catch Me Outside",
+          "artists": [
+            "Ski Mask The Slump God"
+          ],
+          "album": "You Will Regret (Reloaded)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
+          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
+          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
+          "duration_ms": 145760
+        },
+        {
+          "rank": 47,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -1467,7 +1479,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "LOT OF ME",
           "artists": [
             "Lil Tecca"
@@ -1479,7 +1491,7 @@
           "duration_ms": 123870
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -1491,7 +1503,7 @@
           "duration_ms": 210506
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Need It (feat. YoungBoy Never Broke Again)",
           "artists": [
             "Migos",
@@ -1502,18 +1514,6 @@
           "uri": "spotify:track:1cMMVJ4FDqhCci9efd1BU6",
           "url": "https://open.spotify.com/track/1cMMVJ4FDqhCci9efd1BU6",
           "duration_ms": 195680
-        },
-        {
-          "rank": 50,
-          "name": "Catch Me Outside",
-          "artists": [
-            "Ski Mask The Slump God"
-          ],
-          "album": "You Will Regret (Reloaded)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
-          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
-          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
-          "duration_ms": 145760
         }
       ],
       "artists": [

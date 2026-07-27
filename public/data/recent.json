@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T21:53:03.824Z",
+  "updated_at": "2026-07-27T06:22:04.551Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3349,6 +3349,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27379eadb971684b25e4eefa095",
       "uri": "spotify:track:4N9CzZCUwbqGByoudr91SG",
       "duration_ms": 124941
+    },
+    {
+      "played_at": "2026-07-26T19:10:04.133Z",
+      "name": "Faneto",
+      "artists": [
+        "Chief Keef"
+      ],
+      "album": "Back from the Dead 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273589138eb4f42c9abcf848ba0",
+      "uri": "spotify:track:6fL8iaSdwmSTQiUv9K6L4h",
+      "duration_ms": 206654
+    },
+    {
+      "played_at": "2026-07-26T22:33:27.835Z",
+      "name": "Freaking Out the Neighborhood",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d377496c6bc8724b521222d",
+      "uri": "spotify:track:3HlK8txWAdtKMrbsqX40pl",
+      "duration_ms": 173888
+    },
+    {
+      "played_at": "2026-07-26T22:35:21.121Z",
+      "name": "Black Hole Sun",
+      "artists": [
+        "Soundgarden"
+      ],
+      "album": "Superunknown (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
+      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
+      "duration_ms": 318586
+    },
+    {
+      "played_at": "2026-07-26T22:39:34.693Z",
+      "name": "Waiting for Tonight - Radio Edit",
+      "artists": [
+        "Jennifer Lopez",
+        "FISHER"
+      ],
+      "album": "On The 6 (25th Anniversary Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
+      "uri": "spotify:track:5GHVp2CCufZ8MJzYE82W7R",
+      "duration_ms": 198019
+    },
+    {
+      "played_at": "2026-07-27T01:50:20.854Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-07-27T01:54:08.298Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
     }
   ]
 }
