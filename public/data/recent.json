@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T21:57:45.585Z",
+  "updated_at": "2026-07-29T01:58:47.328Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3463,6 +3463,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
       "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
       "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-07-29T00:52:23.722Z",
+      "name": "Blessings",
+      "artists": [
+        "Calvin Harris",
+        "Clementine Douglas"
+      ],
+      "album": "Blessings",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
+      "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z",
+      "duration_ms": 219650
     }
   ]
 }
