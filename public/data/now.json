@@ -1,14 +1,17 @@
 {
-  "updated_at": "2026-07-29T19:03:21.487Z",
-  "is_playing": true,
+  "updated_at": "2026-07-29T21:54:06.284Z",
+  "is_playing": false,
   "track": {
-    "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+    "name": "40 - Dj Ess Mix",
     "artists": [
-      "Eagles"
+      "evilgiane",
+      "xaviersobased",
+      "Nettspend",
+      "DJ Ess"
     ],
-    "album": "Hotel California (40th Anniversary Expanded Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
-    "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS"
+    "album": "40 (Dj Ess Mix)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+    "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz"
   },
-  "played_at": "2026-07-29T19:03:21.487Z"
+  "played_at": "2026-07-29T21:46:04.081Z"
 }

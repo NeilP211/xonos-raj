@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:03:21.171Z",
+  "generated_at": "2026-07-29T21:54:06.085Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -21,18 +21,6 @@
         },
         {
           "rank": 2,
-          "name": "Can't Tell Me Nothing",
-          "artists": [
-            "Kanye West"
-          ],
-          "album": "Graduation",
-          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-          "duration_ms": 271600
-        },
-        {
-          "rank": 3,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -44,6 +32,18 @@
           "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
           "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9",
           "duration_ms": 135861
+        },
+        {
+          "rank": 3,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
         },
         {
           "rank": 4,
@@ -268,6 +268,21 @@
         },
         {
           "rank": 22,
+          "name": "40 - Dj Ess Mix",
+          "artists": [
+            "evilgiane",
+            "xaviersobased",
+            "Nettspend",
+            "DJ Ess"
+          ],
+          "album": "40 (Dj Ess Mix)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
+          "duration_ms": 81658
+        },
+        {
+          "rank": 23,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -279,7 +294,7 @@
           "duration_ms": 132000
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
           "artists": [
             "Eagles"
@@ -291,7 +306,7 @@
           "duration_ms": 287533
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -304,7 +319,7 @@
           "duration_ms": 166400
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -316,7 +331,7 @@
           "duration_ms": 418466
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -330,7 +345,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -342,7 +357,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -354,7 +369,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Lake Of Fire - Live",
           "artists": [
             "Nirvana"
@@ -366,7 +381,7 @@
           "duration_ms": 175973
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -378,7 +393,7 @@
           "duration_ms": 232648
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -390,7 +405,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -405,7 +420,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -416,21 +431,6 @@
           "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
           "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
           "duration_ms": 256161
-        },
-        {
-          "rank": 34,
-          "name": "40 - Dj Ess Mix",
-          "artists": [
-            "evilgiane",
-            "xaviersobased",
-            "Nettspend",
-            "DJ Ess"
-          ],
-          "album": "40 (Dj Ess Mix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
-          "duration_ms": 81658
         },
         {
           "rank": 35,
@@ -472,6 +472,18 @@
         },
         {
           "rank": 38,
+          "name": "Hardcore",
+          "artists": [
+            "Ken Carson"
+          ],
+          "album": "A Great Chaos",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+          "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
+          "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI",
+          "duration_ms": 124567
+        },
+        {
+          "rank": 39,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -483,7 +495,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "3.5",
           "artists": [
             "ian"
@@ -495,7 +507,7 @@
           "duration_ms": 156444
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -509,7 +521,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -521,7 +533,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -533,7 +545,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -546,7 +558,19 @@
           "duration_ms": 209680
         },
         {
-          "rank": 44,
+          "rank": 45,
+          "name": "Magic Johnson",
+          "artists": [
+            "ian"
+          ],
+          "album": "Valedictorian [Deluxe]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+          "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
+          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn",
+          "duration_ms": 137158
+        },
+        {
+          "rank": 46,
           "name": "Giant Steps - 2020 Remaster",
           "artists": [
             "John Coltrane"
@@ -558,7 +582,7 @@
           "duration_ms": 287843
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -570,7 +594,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "No Other Heart",
           "artists": [
             "Mac DeMarco"
@@ -580,30 +604,6 @@
           "uri": "spotify:track:2aaCNg42RA74s0EmHTBqS7",
           "url": "https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7",
           "duration_ms": 173117
-        },
-        {
-          "rank": 47,
-          "name": "Hardcore",
-          "artists": [
-            "Ken Carson"
-          ],
-          "album": "A Great Chaos",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-          "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
-          "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI",
-          "duration_ms": 124567
-        },
-        {
-          "rank": 48,
-          "name": "Magic Johnson",
-          "artists": [
-            "ian"
-          ],
-          "album": "Valedictorian [Deluxe]",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-          "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
-          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn",
-          "duration_ms": 137158
         },
         {
           "rank": 49,
@@ -619,15 +619,15 @@
         },
         {
           "rank": 50,
-          "name": "Armed And Dangerous",
+          "name": "Who Can It Be Now?",
           "artists": [
-            "Juice WRLD"
+            "Men At Work"
           ],
-          "album": "Goodbye & Good Riddance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-          "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
-          "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
-          "duration_ms": 169999
+          "album": "Business As Usual",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a",
+          "uri": "spotify:track:5BCykgPXc7zEBg2oU0klvy",
+          "url": "https://open.spotify.com/track/5BCykgPXc7zEBg2oU0klvy",
+          "duration_ms": 205360
         }
       ],
       "artists": [
@@ -697,6 +697,14 @@
         },
         {
           "rank": 9,
+          "name": "ian",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
+          "genres": [],
+          "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        },
+        {
+          "rank": 10,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
@@ -704,20 +712,12 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
           "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "rank": 11,
-          "name": "ian",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
-          "genres": [],
-          "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
-          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         },
         {
           "rank": 12,
