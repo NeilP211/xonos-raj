@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-29T16:17:01.138Z",
-  "is_playing": false,
+  "updated_at": "2026-07-29T19:03:21.487Z",
+  "is_playing": true,
   "track": {
-    "name": "Blessings",
+    "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
     "artists": [
-      "Calvin Harris",
-      "Clementine Douglas"
+      "Eagles"
     ],
-    "album": "Blessings",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
-    "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z"
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+    "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS"
   },
-  "played_at": "2026-07-29T00:52:23.722Z"
+  "played_at": "2026-07-29T19:03:21.487Z"
 }
