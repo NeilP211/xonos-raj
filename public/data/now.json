@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-07-30T01:50:03.928Z",
-  "is_playing": true,
+  "updated_at": "2026-07-30T05:33:36.826Z",
+  "is_playing": false,
   "track": {
-    "name": "Everything She Wants",
+    "name": "World, Hold On - FISHER Rework",
     "artists": [
-      "Wham!"
+      "Bob Sinclar",
+      "Steve Edwards",
+      "FISHER"
     ],
-    "album": "Make It Big",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46",
-    "uri": "spotify:track:5hXEcqQhEjfZdbIZLO8mf2"
+    "album": "World, Hold On (FISHER Rework)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+    "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1"
   },
-  "played_at": "2026-07-30T01:50:03.928Z"
+  "played_at": "2026-07-30T02:02:39.482Z"
 }
