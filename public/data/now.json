@@ -1,17 +1,14 @@
 {
-  "updated_at": "2026-07-29T21:54:06.284Z",
-  "is_playing": false,
+  "updated_at": "2026-07-30T01:50:03.928Z",
+  "is_playing": true,
   "track": {
-    "name": "40 - Dj Ess Mix",
+    "name": "Everything She Wants",
     "artists": [
-      "evilgiane",
-      "xaviersobased",
-      "Nettspend",
-      "DJ Ess"
+      "Wham!"
     ],
-    "album": "40 (Dj Ess Mix)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-    "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz"
+    "album": "Make It Big",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46",
+    "uri": "spotify:track:5hXEcqQhEjfZdbIZLO8mf2"
   },
-  "played_at": "2026-07-29T21:46:04.081Z"
+  "played_at": "2026-07-30T01:50:03.928Z"
 }

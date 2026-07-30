@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T21:54:06.233Z",
+  "updated_at": "2026-07-30T01:50:03.789Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3635,6 +3635,53 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
       "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
       "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-07-29T22:04:21.621Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-07-29T22:08:54.027Z",
+      "name": "Hoe Shit",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+      "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-07-30T01:45:48.608Z",
+      "name": "Pink Tape Trailer",
+      "artists": [
+        "Lil Uzi Vert"
+      ],
+      "album": "Pink Tape Trailer",
+      "image": "https://i.scdn.co/image/ab6742d3000053b78a415e5683ed67f3f4acc5b7",
+      "uri": "spotify:track:3TETAhgDBhlNJeN9ETNAEj",
+      "duration_ms": 261972
+    },
+    {
+      "played_at": "2026-07-30T01:49:05.635Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
     }
   ]
 }
