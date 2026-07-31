@@ -1,14 +1,18 @@
 {
-  "updated_at": "2026-07-31T02:08:02.593Z",
+  "updated_at": "2026-07-31T05:59:30.283Z",
   "is_playing": false,
   "track": {
-    "name": "Ocean Man",
+    "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
     "artists": [
-      "Ween"
+      "Shoreline Mafia",
+      "Rob Vicious",
+      "Fenix Flexin",
+      "Master Kato",
+      "OHGEESY"
     ],
-    "album": "The Mollusk",
-    "image": "https://i.scdn.co/image/ab67616d0000b27372d99df21eb858e23d6f1ee9",
-    "uri": "spotify:track:6M14BiCN00nOsba4JaYsHW"
+    "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+    "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8"
   },
-  "played_at": "2026-07-30T14:57:49.588Z"
+  "played_at": "2026-07-31T04:38:18.799Z"
 }
