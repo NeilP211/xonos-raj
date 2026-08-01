@@ -1,18 +1,15 @@
 {
-  "updated_at": "2026-08-01T18:59:12.120Z",
+  "updated_at": "2026-08-01T21:47:56.154Z",
   "is_playing": false,
   "track": {
-    "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+    "name": "Cowgirls",
     "artists": [
-      "Shoreline Mafia",
-      "Rob Vicious",
-      "Fenix Flexin",
-      "Master Kato",
-      "OHGEESY"
+      "Morgan Wallen",
+      "ERNEST"
     ],
-    "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-    "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8"
+    "album": "One Thing At A Time",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c37a94d92b0a874ba2419ed7",
+    "uri": "spotify:track:4mtmmBBEgdJLYWnLy5zvWE"
   },
-  "played_at": "2026-08-01T02:42:48.307Z"
+  "played_at": "2026-08-01T21:12:41.405Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T18:59:12.038Z",
+  "updated_at": "2026-08-01T21:47:56.121Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3758,6 +3758,78 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
       "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
       "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-08-01T20:47:58.520Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-08-01T20:57:09.477Z",
+      "name": "Gonna Be",
+      "artists": [
+        "Daniel Wolf"
+      ],
+      "album": "Gonna Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
+      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
+      "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-08-01T21:00:19.411Z",
+      "name": "Beach leak",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+      "duration_ms": 106169
+    },
+    {
+      "played_at": "2026-08-01T21:06:21.623Z",
+      "name": "Springsteen",
+      "artists": [
+        "Eric Church"
+      ],
+      "album": "Chief",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+      "duration_ms": 263386
+    },
+    {
+      "played_at": "2026-08-01T21:09:39.335Z",
+      "name": "Up Down (feat. Florida Georgia Line)",
+      "artists": [
+        "Morgan Wallen",
+        "Florida Georgia Line"
+      ],
+      "album": "If I Know Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
+      "uri": "spotify:track:2RfYofkWwN77WJjR1rpena",
+      "duration_ms": 197253
+    },
+    {
+      "played_at": "2026-08-01T21:12:41.405Z",
+      "name": "Cowgirls",
+      "artists": [
+        "Morgan Wallen",
+        "ERNEST"
+      ],
+      "album": "One Thing At A Time",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c37a94d92b0a874ba2419ed7",
+      "uri": "spotify:track:4mtmmBBEgdJLYWnLy5zvWE",
+      "duration_ms": 181621
     }
   ]
 }
