@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T02:09:35.174Z",
+  "generated_at": "2026-08-01T05:49:03.037Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -73,18 +73,6 @@
         },
         {
           "rank": 6,
-          "name": "fukumean",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "a Gift & a Curse",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
-          "duration_ms": 125040
-        },
-        {
-          "rank": 7,
           "name": "Work",
           "artists": [
             "Rihanna",
@@ -95,6 +83,18 @@
           "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
           "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt",
           "duration_ms": 219320
+        },
+        {
+          "rank": 7,
+          "name": "fukumean",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "a Gift & a Curse",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
+          "duration_ms": 125040
         },
         {
           "rank": 8,
@@ -618,15 +618,16 @@
         },
         {
           "rank": 50,
-          "name": "Armed And Dangerous",
+          "name": "RATHER LIE (with The Weeknd)",
           "artists": [
-            "Juice WRLD"
+            "Playboi Carti",
+            "The Weeknd"
           ],
-          "album": "Goodbye & Good Riddance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-          "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
-          "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
-          "duration_ms": 169999
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+          "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
+          "duration_ms": 209680
         }
       ],
       "artists": [
