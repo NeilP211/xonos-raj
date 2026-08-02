@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T21:47:56.121Z",
+  "updated_at": "2026-08-02T02:06:16.736Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -3830,6 +3830,138 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c37a94d92b0a874ba2419ed7",
       "uri": "spotify:track:4mtmmBBEgdJLYWnLy5zvWE",
       "duration_ms": 181621
+    },
+    {
+      "played_at": "2026-08-01T21:14:51.648Z",
+      "name": "Whiskey Glasses",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "If I Know Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
+      "uri": "spotify:track:57TEkZN3f84tFJFHFrD4pO",
+      "duration_ms": 234346
+    },
+    {
+      "played_at": "2026-08-01T23:11:57.990Z",
+      "name": "Whiskey Glasses",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "If I Know Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
+      "uri": "spotify:track:57TEkZN3f84tFJFHFrD4pO",
+      "duration_ms": 234346
+    },
+    {
+      "played_at": "2026-08-01T23:27:06.002Z",
+      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+      "artists": [
+        "The Adventures Of Stevie V"
+      ],
+      "album": "Dirty Cash (Money Talks)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
+      "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
+      "duration_ms": 243133
+    },
+    {
+      "played_at": "2026-08-01T23:33:15.900Z",
+      "name": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "duration_ms": 183685
+    },
+    {
+      "played_at": "2026-08-01T23:35:52.270Z",
+      "name": "VOY A LLeVARTE PA PR",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
+      "duration_ms": 156364
+    },
+    {
+      "played_at": "2026-08-01T23:44:45.934Z",
+      "name": "BAILE INoLVIDABLE",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
+      "duration_ms": 367725
+    },
+    {
+      "played_at": "2026-08-02T01:15:26.004Z",
+      "name": "Dreams",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "5150",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57",
+      "uri": "spotify:track:2APxH5XbOLDTmW9X5yi6Hw",
+      "duration_ms": 294000
+    },
+    {
+      "played_at": "2026-08-02T01:17:01.666Z",
+      "name": "put math in da cup",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "put math in da cup",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e13569ad3ba87aef2675f469",
+      "uri": "spotify:track:4D9cs5BPL9PSFIa22d3yWq",
+      "duration_ms": 41201
+    },
+    {
+      "played_at": "2026-08-02T01:19:35.154Z",
+      "name": "too deep",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "too deep",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f087350b523744bad75c0335",
+      "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h",
+      "duration_ms": 67745
+    },
+    {
+      "played_at": "2026-08-02T01:20:00.016Z",
+      "name": "too deep",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "too deep",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f087350b523744bad75c0335",
+      "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h",
+      "duration_ms": 67745
+    },
+    {
+      "played_at": "2026-08-02T01:24:32.729Z",
+      "name": "God Church",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "God Church",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
+      "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
+      "duration_ms": 150622
+    },
+    {
+      "played_at": "2026-08-02T01:35:48.749Z",
+      "name": "California Dreamin' - Single Version",
+      "artists": [
+        "The Mamas & The Papas"
+      ],
+      "album": "If You Can Believe Your Eyes & Ears",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
+      "uri": "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ",
+      "duration_ms": 162373
     }
   ]
 }
