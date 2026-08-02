@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T02:06:16.588Z",
+  "generated_at": "2026-08-02T05:49:42.998Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -382,6 +382,18 @@
         },
         {
           "rank": 31,
+          "name": "Tornado Of Souls - 2004 Remix",
+          "artists": [
+            "Megadeth"
+          ],
+          "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+          "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
+          "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd",
+          "duration_ms": 319266
+        },
+        {
+          "rank": 32,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -394,19 +406,19 @@
           "duration_ms": 256161
         },
         {
-          "rank": 32,
-          "name": "Tornado Of Souls - 2004 Remix",
+          "rank": 33,
+          "name": "BAILE INoLVIDABLE",
           "artists": [
-            "Megadeth"
+            "Bad Bunny"
           ],
-          "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-          "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
-          "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd",
-          "duration_ms": 319266
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
+          "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2",
+          "duration_ms": 367725
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Blind",
           "artists": [
             "Korn"
@@ -418,7 +430,7 @@
           "duration_ms": 258266
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -430,7 +442,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -444,7 +456,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Beyond the Sea",
           "artists": [
             "Bobby Darin"
@@ -456,7 +468,7 @@
           "duration_ms": 172480
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -468,7 +480,7 @@
           "duration_ms": 156364
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -480,7 +492,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "3.5",
           "artists": [
             "ian"
@@ -492,7 +504,7 @@
           "duration_ms": 156444
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -506,7 +518,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -518,7 +530,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -533,7 +545,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -543,18 +555,6 @@
           "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
           "url": "https://open.spotify.com/track/10UApFsM18peMOQU3TmvmE",
           "duration_ms": 127477
-        },
-        {
-          "rank": 44,
-          "name": "BAILE INoLVIDABLE",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
-          "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2",
-          "duration_ms": 367725
         },
         {
           "rank": 45,
@@ -648,19 +648,19 @@
         },
         {
           "rank": 3,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 4,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "rank": 4,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 5,
@@ -776,19 +776,19 @@
         },
         {
           "rank": 19,
-          "name": "Morgan Wallen",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
-          "genres": [],
-          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "rank": 20,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
           "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        },
+        {
+          "rank": 20,
+          "name": "Morgan Wallen",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
+          "genres": [],
+          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         },
         {
           "rank": 21,
