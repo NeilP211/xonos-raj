@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T22:01:30.127Z",
+  "updated_at": "2026-08-04T01:53:45.958Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -4405,6 +4405,95 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
       "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
       "duration_ms": 318586
+    },
+    {
+      "played_at": "2026-08-03T15:11:40.273Z",
+      "name": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "duration_ms": 183685
+    },
+    {
+      "played_at": "2026-08-03T23:41:03.043Z",
+      "name": "Gallowdance",
+      "artists": [
+        "Lebanon Hanover"
+      ],
+      "album": "Tomb for Two",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
+      "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo",
+      "duration_ms": 231911
+    },
+    {
+      "played_at": "2026-08-03T23:44:55.414Z",
+      "name": "Gallowdance",
+      "artists": [
+        "Lebanon Hanover"
+      ],
+      "album": "Tomb for Two",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
+      "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo",
+      "duration_ms": 231911
+    },
+    {
+      "played_at": "2026-08-04T00:17:36.292Z",
+      "name": "Moog City",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:3wmvHdag2I7BpHCtWoiV9w",
+      "duration_ms": 160000
+    },
+    {
+      "played_at": "2026-08-04T00:31:35.068Z",
+      "name": "Call Me - Slowed",
+      "artists": [
+        "plenka"
+      ],
+      "album": "Call Me (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af279eb21d4842eae7066f36",
+      "uri": "spotify:track:0TvHrcLqLrQxAmT8ILd21V",
+      "duration_ms": 160500
+    },
+    {
+      "played_at": "2026-08-04T00:33:38.984Z",
+      "name": "Roi - Instrumental Slowed",
+      "artists": [
+        "Mckyyy"
+      ],
+      "album": "Roi",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f178ef6a0e6c23f6330bd982",
+      "uri": "spotify:track:5vCREmODQpdzOmcNOVsN6B",
+      "duration_ms": 92589
+    },
+    {
+      "played_at": "2026-08-04T00:34:53.119Z",
+      "name": "Dreams - 2004 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Rumours (Super Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+      "uri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz",
+      "duration_ms": 257800
+    },
+    {
+      "played_at": "2026-08-04T00:43:48.815Z",
+      "name": "Emilux Pô Exiduss",
+      "artists": [
+        "Polytopia Music",
+        "The Luxidoor Giant"
+      ],
+      "album": "Emilux Pô Exiduss",
+      "image": "https://i.scdn.co/image/ab67616d0000b27346e3ae75da7df4018fd691f9",
+      "uri": "spotify:track:3ypDyqebcQCuImwB3PhYta",
+      "duration_ms": 282264
     }
   ]
 }
