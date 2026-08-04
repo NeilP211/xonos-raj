@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T01:53:45.958Z",
+  "updated_at": "2026-08-04T05:41:57.308Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -4494,6 +4494,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27346e3ae75da7df4018fd691f9",
       "uri": "spotify:track:3ypDyqebcQCuImwB3PhYta",
       "duration_ms": 282264
+    },
+    {
+      "played_at": "2026-08-04T00:59:03.287Z",
+      "name": "Haunt Muskie",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6IciXD3wtLksXAR4CHULJC",
+      "duration_ms": 361677
     }
   ]
 }
