@@ -1,14 +1,18 @@
 {
-  "updated_at": "2026-08-05T19:20:16.093Z",
+  "updated_at": "2026-08-05T22:07:16.127Z",
   "is_playing": false,
   "track": {
-    "name": "Everything In Its Right Place",
+    "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
     "artists": [
-      "Radiohead"
+      "Shoreline Mafia",
+      "Rob Vicious",
+      "Fenix Flexin",
+      "Master Kato",
+      "OHGEESY"
     ],
-    "album": "Kid A",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-    "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8"
+    "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+    "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8"
   },
-  "played_at": "2026-08-05T01:45:50.574Z"
+  "played_at": "2026-08-05T21:05:02.633Z"
 }
