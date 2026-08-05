@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:51:13.235Z",
+  "generated_at": "2026-08-05T16:27:50.834Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1950,18 +1950,6 @@
         },
         {
           "rank": 6,
-          "name": "Armed And Dangerous",
-          "artists": [
-            "Juice WRLD"
-          ],
-          "album": "Goodbye & Good Riddance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-          "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
-          "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
-          "duration_ms": 169999
-        },
-        {
-          "rank": 7,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -1971,6 +1959,18 @@
           "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
           "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
           "duration_ms": 183685
+        },
+        {
+          "rank": 7,
+          "name": "Armed And Dangerous",
+          "artists": [
+            "Juice WRLD"
+          ],
+          "album": "Goodbye & Good Riddance",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+          "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+          "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
+          "duration_ms": 169999
         },
         {
           "rank": 8,
@@ -2272,6 +2272,18 @@
         },
         {
           "rank": 31,
+          "name": "Beach leak",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "BAD ASS F*CKING KID",
+          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
+          "duration_ms": 106169
+        },
+        {
+          "rank": 32,
           "name": "Magic Johnson",
           "artists": [
             "ian"
@@ -2283,7 +2295,7 @@
           "duration_ms": 137158
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Faneto",
           "artists": [
             "Chief Keef"
@@ -2295,7 +2307,7 @@
           "duration_ms": 206654
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "OUT WEST (feat. Young Thug)",
           "artists": [
             "JACKBOYS",
@@ -2309,7 +2321,7 @@
           "duration_ms": 157712
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -2320,18 +2332,6 @@
           "uri": "spotify:track:4YFdnGd92wP6KBcaFa5v64",
           "url": "https://open.spotify.com/track/4YFdnGd92wP6KBcaFa5v64",
           "duration_ms": 166400
-        },
-        {
-          "rank": 35,
-          "name": "Beach leak",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "BAD ASS F*CKING KID",
-          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
-          "duration_ms": 106169
         },
         {
           "rank": 36,
@@ -2701,6 +2701,14 @@
         },
         {
           "rank": 23,
+          "name": "TV Girl",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
+          "genres": [],
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "rank": 24,
           "name": "Stan Getz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e",
           "genres": [],
@@ -2708,20 +2716,12 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Juice WRLD",
           "image": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
           "genres": [],
           "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "rank": 25,
-          "name": "TV Girl",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-          "genres": [],
-          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
           "rank": 26,
