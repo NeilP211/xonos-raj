@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-04T22:06:17.288Z",
-  "is_playing": false,
+  "updated_at": "2026-08-05T01:54:12.296Z",
+  "is_playing": true,
   "track": {
-    "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+    "name": "Springsteen",
     "artists": [
-      "The Adventures Of Stevie V"
+      "Eric Church"
     ],
-    "album": "Dirty Cash (Money Talks)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
-    "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA"
+    "album": "Chief",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+    "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB"
   },
-  "played_at": "2026-08-04T20:14:21.110Z"
+  "played_at": "2026-08-05T01:54:12.296Z"
 }
