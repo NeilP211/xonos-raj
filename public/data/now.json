@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-05T01:54:12.296Z",
-  "is_playing": true,
+  "updated_at": "2026-08-05T05:40:12.185Z",
+  "is_playing": false,
   "track": {
-    "name": "Springsteen",
+    "name": "Everything In Its Right Place",
     "artists": [
-      "Eric Church"
+      "Radiohead"
     ],
-    "album": "Chief",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-    "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB"
+    "album": "Kid A",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+    "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8"
   },
-  "played_at": "2026-08-05T01:54:12.296Z"
+  "played_at": "2026-08-05T01:45:50.574Z"
 }
