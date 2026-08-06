@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T01:56:51.742Z",
+  "updated_at": "2026-08-06T05:41:30.894Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -5106,6 +5106,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
       "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
       "duration_ms": 243133
+    },
+    {
+      "played_at": "2026-08-06T01:35:27.327Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
     }
   ]
 }
