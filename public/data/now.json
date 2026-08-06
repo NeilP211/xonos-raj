@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-08-06T13:48:48.406Z",
+  "updated_at": "2026-08-06T23:52:47.715Z",
   "is_playing": false,
   "track": {
-    "name": "Good Looking",
+    "name": "Work",
     "artists": [
-      "Suki Waterhouse"
+      "Shoreline Mafia",
+      "OHGEESY",
+      "Fenix Flexin"
     ],
-    "album": "Good Looking",
-    "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
-    "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj"
+    "album": "Work",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+    "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9"
   },
-  "played_at": "2026-08-06T01:35:27.327Z"
+  "played_at": "2026-08-06T19:12:38.811Z"
 }

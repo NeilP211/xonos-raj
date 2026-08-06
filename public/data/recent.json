@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T13:48:48.321Z",
+  "updated_at": "2026-08-06T23:52:47.680Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -5117,6 +5117,31 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
       "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
       "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-08-06T17:15:19.621Z",
+      "name": "ghost (with Lil Uzi Vert)",
+      "artists": [
+        "Ken Carson",
+        "Lil Uzi Vert"
+      ],
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "uri": "spotify:track:5l2JiMegRp9HTtnlVDDdJb",
+      "duration_ms": 233335
+    },
+    {
+      "played_at": "2026-08-06T19:12:38.811Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
     }
   ]
 }
