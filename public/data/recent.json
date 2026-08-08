@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T01:06:02.252Z",
+  "updated_at": "2026-08-08T04:06:54.045Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -5142,6 +5142,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
       "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
       "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-08-07T20:00:45.957Z",
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "artists": [
+        "Trippie Redd",
+        "Coi Leray"
+      ],
+      "album": "!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+      "duration_ms": 205701
     }
   ]
 }
