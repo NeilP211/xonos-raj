@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:23:54.367Z",
+  "generated_at": "2026-08-09T18:29:42.447Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -257,18 +257,6 @@
         },
         {
           "rank": 21,
-          "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
-          "artists": [
-            "Eagles"
-          ],
-          "album": "Hotel California (40th Anniversary Expanded Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
-          "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
-          "url": "https://open.spotify.com/track/3vtyxtDrkeiayOBUcKqdhS",
-          "duration_ms": 287533
-        },
-        {
-          "rank": 22,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -281,7 +269,7 @@
           "duration_ms": 166400
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -293,7 +281,7 @@
           "duration_ms": 156364
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Upside Down",
           "artists": [
             "Jack Johnson"
@@ -305,7 +293,7 @@
           "duration_ms": 208653
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -317,7 +305,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Lake Of Fire - Live",
           "artists": [
             "Nirvana"
@@ -329,7 +317,7 @@
           "duration_ms": 175973
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -341,7 +329,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -353,7 +341,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Floods",
           "artists": [
             "Pantera"
@@ -365,7 +353,7 @@
           "duration_ms": 419893
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -375,6 +363,18 @@
           "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
           "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
           "duration_ms": 169999
+        },
+        {
+          "rank": 30,
+          "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+          "artists": [
+            "Eagles"
+          ],
+          "album": "Hotel California (40th Anniversary Expanded Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+          "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
+          "url": "https://open.spotify.com/track/3vtyxtDrkeiayOBUcKqdhS",
+          "duration_ms": 287533
         },
         {
           "rank": 31,
@@ -660,14 +660,6 @@
         },
         {
           "rank": 5,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 6,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -675,7 +667,7 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -683,7 +675,7 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
@@ -691,7 +683,7 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Stan Getz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e",
           "genres": [],
@@ -699,12 +691,20 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
           "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "rank": 10,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 11,
@@ -716,14 +716,6 @@
         },
         {
           "rank": 12,
-          "name": "Gunna",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
-          "genres": [],
-          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "rank": 13,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "genres": [],
@@ -731,15 +723,15 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "rank": 14,
-          "name": "Pantera",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
+          "rank": 13,
+          "name": "Gunna",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
           "genres": [],
-          "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
@@ -747,12 +739,20 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
           "uri": "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD",
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "rank": 16,
+          "name": "Van Halen",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
+          "genres": [],
+          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
           "rank": 17,
@@ -764,14 +764,6 @@
         },
         {
           "rank": 18,
-          "name": "Van Halen",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
-          "genres": [],
-          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        },
-        {
-          "rank": 19,
           "name": "Morgan Wallen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
           "genres": [],
@@ -779,12 +771,20 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
           "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "rank": 20,
+          "name": "Pantera",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
+          "genres": [],
+          "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
           "rank": 21,
