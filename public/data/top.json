@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T01:10:42.214Z",
+  "generated_at": "2026-08-09T04:13:18.382Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2747,6 +2747,14 @@
         },
         {
           "rank": 30,
+          "name": "C418",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
+          "genres": [],
+          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        },
+        {
+          "rank": 31,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
@@ -2754,7 +2762,7 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Dion & The Belmonts",
           "image": "https://i.scdn.co/image/ab67616d0000b2737a609132064a415169a915cc",
           "genres": [],
@@ -2762,7 +2770,7 @@
           "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Bobby Darin",
           "image": "https://i.scdn.co/image/ab6772690000c46c92f83e9f6b9f4b89c56c5811",
           "genres": [],
@@ -2770,20 +2778,12 @@
           "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "NLE Choppa",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2eba181eff5807ccb5873a55",
           "genres": [],
           "uri": "spotify:artist:0ErzCpIMyLcjPiwT4elrtZ",
           "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "rank": 34,
-          "name": "C418",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
-          "genres": [],
-          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
           "rank": 35,

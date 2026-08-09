@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T01:10:42.444Z",
+  "updated_at": "2026-08-09T04:13:18.568Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -5331,6 +5331,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:0jBYLXiEe81YgAs6ZAPXYX",
       "duration_ms": 98000
+    },
+    {
+      "played_at": "2026-08-08T22:24:32.247Z",
+      "name": "Chirp",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:74aWdqJaMg8yNh9uzcPczK",
+      "duration_ms": 186987
+    },
+    {
+      "played_at": "2026-08-08T22:37:34.079Z",
+      "name": "luck",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Someone Help",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339ab031d41bfbce5fe0199fa",
+      "uri": "spotify:track:7JheuVZpxyiwuFMqHvLA1K",
+      "duration_ms": 36048
+    },
+    {
+      "played_at": "2026-08-08T22:37:38.144Z",
+      "name": "Rosa",
+      "artists": [
+        "rommulas"
+      ],
+      "album": "ANIMÁL",
+      "image": "https://i.scdn.co/image/ab67616d0000b273158436f2bda9323c6be396db",
+      "uri": "spotify:track:7eujHPaLZHljQFmfIXrM2S",
+      "duration_ms": 114911
+    },
+    {
+      "played_at": "2026-08-09T03:44:44.582Z",
+      "name": "God Church",
+      "artists": [
+        "Ricegum"
+      ],
+      "album": "God Church",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
+      "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
+      "duration_ms": 150622
     }
   ]
 }
