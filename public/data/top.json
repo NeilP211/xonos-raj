@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T01:12:21.860Z",
+  "generated_at": "2026-08-10T04:25:01.556Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2739,19 +2739,19 @@
         },
         {
           "rank": 29,
-          "name": "Bon Jovi",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
-          "genres": [],
-          "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "rank": 30,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
           "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        },
+        {
+          "rank": 30,
+          "name": "Bon Jovi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
+          "genres": [],
+          "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         },
         {
           "rank": 31,
