@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-11T18:53:03.591Z",
-  "is_playing": false,
+  "updated_at": "2026-08-11T21:38:46.572Z",
+  "is_playing": true,
   "track": {
-    "name": "VOY A LLeVARTE PA PR",
+    "name": "Don't Dream It's Over",
     "artists": [
-      "Bad Bunny"
+      "Crowded House"
     ],
-    "album": "DeBÍ TiRAR MáS FOToS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ"
+    "album": "Crowded House",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+    "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh"
   },
-  "played_at": "2026-08-10T23:32:35.847Z"
+  "played_at": "2026-08-11T21:38:46.572Z"
 }

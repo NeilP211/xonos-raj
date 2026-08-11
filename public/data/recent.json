@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T18:53:03.489Z",
+  "updated_at": "2026-08-11T21:38:46.290Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -5818,6 +5818,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
       "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
       "duration_ms": 156364
+    },
+    {
+      "played_at": "2026-08-11T17:31:59.624Z",
+      "name": "Paint It, Black - (Original Single Mono Version)",
+      "artists": [
+        "The Rolling Stones"
+      ],
+      "album": "Singles 1965-1967",
+      "image": "https://i.scdn.co/image/ab67616d0000b273196ddacc8968e22242285745",
+      "uri": "spotify:track:7lY8aoN3wUR3NY4nUwigPv",
+      "duration_ms": 224133
     }
   ]
 }
