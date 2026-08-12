@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:53:16.137Z",
+  "generated_at": "2026-08-12T21:38:13.691Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -108,20 +108,6 @@
         },
         {
           "rank": 9,
-          "name": "Work",
-          "artists": [
-            "Shoreline Mafia",
-            "OHGEESY",
-            "Fenix Flexin"
-          ],
-          "album": "Work",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
-          "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
-          "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9",
-          "duration_ms": 135861
-        },
-        {
-          "rank": 10,
           "name": "fukumean",
           "artists": [
             "Gunna"
@@ -133,7 +119,7 @@
           "duration_ms": 125040
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -148,7 +134,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -160,7 +146,7 @@
           "duration_ms": 174733
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -170,6 +156,20 @@
           "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
           "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
           "duration_ms": 89535
+        },
+        {
+          "rank": 13,
+          "name": "Work",
+          "artists": [
+            "Shoreline Mafia",
+            "OHGEESY",
+            "Fenix Flexin"
+          ],
+          "album": "Work",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+          "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+          "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9",
+          "duration_ms": 135861
         },
         {
           "rank": 14,
@@ -421,18 +421,6 @@
         },
         {
           "rank": 34,
-          "name": "3.5",
-          "artists": [
-            "ian"
-          ],
-          "album": "Goodbye Horses",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
-          "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
-          "url": "https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ",
-          "duration_ms": 156444
-        },
-        {
-          "rank": 35,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -445,7 +433,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -459,7 +447,7 @@
           "duration_ms": 203428
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -471,7 +459,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -485,7 +473,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -497,7 +485,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "No Other Heart",
           "artists": [
             "Mac DeMarco"
@@ -509,7 +497,7 @@
           "duration_ms": 173117
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Dreams - 2001 Remaster",
           "artists": [
             "Fleetwood Mac"
@@ -521,7 +509,7 @@
           "duration_ms": 258816
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -533,7 +521,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "I Don't Want To Set The World On Fire",
           "artists": [
             "The Ink Spots"
@@ -545,7 +533,7 @@
           "duration_ms": 187120
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -557,7 +545,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -567,6 +555,18 @@
           "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
           "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
           "duration_ms": 169999
+        },
+        {
+          "rank": 45,
+          "name": "3.5",
+          "artists": [
+            "ian"
+          ],
+          "album": "Goodbye Horses",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+          "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+          "url": "https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ",
+          "duration_ms": 156444
         },
         {
           "rank": 46,
@@ -618,15 +618,15 @@
         },
         {
           "rank": 50,
-          "name": "Blind",
+          "name": "Never Stop",
           "artists": [
-            "Korn"
+            "ian"
           ],
-          "album": "Korn",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737153b1cf6ee990c2a9fa46cc",
-          "uri": "spotify:track:1pr9TZGOXeJUggIal1Wq3R",
-          "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R",
-          "duration_ms": 258266
+          "album": "Valedictorian [Deluxe]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+          "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
+          "url": "https://open.spotify.com/track/26RFoBzKs36gTlbJCmtsFa",
+          "duration_ms": 127872
         }
       ],
       "artists": [
@@ -2011,6 +2011,19 @@
         },
         {
           "rank": 12,
+          "name": "Tree On The Hill (Lunch Break Freestyle)",
+          "artists": [
+            "Lyrical Lemonade",
+            "Nino Paid"
+          ],
+          "album": "Tree On The Hill (Lunch Break Freestyle)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27380221f36d766d17b3e507720",
+          "uri": "spotify:track:6FPZlhHqrtCi3C4IBCHAy6",
+          "url": "https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6",
+          "duration_ms": 100871
+        },
+        {
+          "rank": 13,
           "name": "Ran To Atlanta (feat. Future & Molly Santana)",
           "artists": [
             "Drake",
@@ -2022,19 +2035,6 @@
           "uri": "spotify:track:3DK90400cDlV5WUJPraMph",
           "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
           "duration_ms": 247183
-        },
-        {
-          "rank": 13,
-          "name": "Tree On The Hill (Lunch Break Freestyle)",
-          "artists": [
-            "Lyrical Lemonade",
-            "Nino Paid"
-          ],
-          "album": "Tree On The Hill (Lunch Break Freestyle)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27380221f36d766d17b3e507720",
-          "uri": "spotify:track:6FPZlhHqrtCi3C4IBCHAy6",
-          "url": "https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6",
-          "duration_ms": 100871
         },
         {
           "rank": 14,
@@ -2053,20 +2053,6 @@
         },
         {
           "rank": 15,
-          "name": "Perc Popper",
-          "artists": [
-            "Shoreline Mafia",
-            "OHGEESY",
-            "Fenix Flexin"
-          ],
-          "album": "Mafia Bidness",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
-          "uri": "spotify:track:0OPcFAAo9LMO9xvu1L7JGD",
-          "url": "https://open.spotify.com/track/0OPcFAAo9LMO9xvu1L7JGD",
-          "duration_ms": 120857
-        },
-        {
-          "rank": 16,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -2078,6 +2064,20 @@
           "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
           "url": "https://open.spotify.com/track/7oW5YZZVeesParmVY7gx6s",
           "duration_ms": 164400
+        },
+        {
+          "rank": 16,
+          "name": "Perc Popper",
+          "artists": [
+            "Shoreline Mafia",
+            "OHGEESY",
+            "Fenix Flexin"
+          ],
+          "album": "Mafia Bidness",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+          "uri": "spotify:track:0OPcFAAo9LMO9xvu1L7JGD",
+          "url": "https://open.spotify.com/track/0OPcFAAo9LMO9xvu1L7JGD",
+          "duration_ms": 120857
         },
         {
           "rank": 17,
@@ -2207,42 +2207,6 @@
         },
         {
           "rank": 27,
-          "name": "hakuna matata",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "One of Wun",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
-          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
-          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
-          "duration_ms": 127853
-        },
-        {
-          "rank": 28,
-          "name": "Never Stop",
-          "artists": [
-            "ian"
-          ],
-          "album": "Valedictorian [Deluxe]",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-          "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
-          "url": "https://open.spotify.com/track/26RFoBzKs36gTlbJCmtsFa",
-          "duration_ms": 127872
-        },
-        {
-          "rank": 29,
-          "name": "Lemonade",
-          "artists": [
-            "Tay-K"
-          ],
-          "album": "#SantanaWorld (+)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
-          "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
-          "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
-          "duration_ms": 132000
-        },
-        {
-          "rank": 30,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -2256,7 +2220,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 31,
+          "rank": 28,
           "name": "Beach leak",
           "artists": [
             "Nettspend"
@@ -2266,6 +2230,42 @@
           "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
           "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
           "duration_ms": 106169
+        },
+        {
+          "rank": 29,
+          "name": "hakuna matata",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "One of Wun",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
+          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
+          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
+          "duration_ms": 127853
+        },
+        {
+          "rank": 30,
+          "name": "Never Stop",
+          "artists": [
+            "ian"
+          ],
+          "album": "Valedictorian [Deluxe]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+          "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
+          "url": "https://open.spotify.com/track/26RFoBzKs36gTlbJCmtsFa",
+          "duration_ms": 127872
+        },
+        {
+          "rank": 31,
+          "name": "Lemonade",
+          "artists": [
+            "Tay-K"
+          ],
+          "album": "#SantanaWorld (+)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+          "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
+          "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
+          "duration_ms": 132000
         },
         {
           "rank": 32,
@@ -2434,15 +2434,15 @@
         },
         {
           "rank": 45,
-          "name": "Catch Me Outside",
+          "name": "Can't Tell Me Nothing",
           "artists": [
-            "Ski Mask The Slump God"
+            "Kanye West"
           ],
-          "album": "You Will Regret (Reloaded)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
-          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
-          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
-          "duration_ms": 145760
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
         },
         {
           "rank": 46,
@@ -2458,6 +2458,18 @@
         },
         {
           "rank": 47,
+          "name": "Catch Me Outside",
+          "artists": [
+            "Ski Mask The Slump God"
+          ],
+          "album": "You Will Regret (Reloaded)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
+          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
+          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
+          "duration_ms": 145760
+        },
+        {
+          "rank": 48,
           "name": "LOT OF ME",
           "artists": [
             "Lil Tecca"
@@ -2469,7 +2481,7 @@
           "duration_ms": 123870
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -2481,7 +2493,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "NEVEREVER",
           "artists": [
             "Destroy Lonely"
@@ -2491,20 +2503,6 @@
           "uri": "spotify:track:610gzNqwaSz89u6YIpDlyZ",
           "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ",
           "duration_ms": 144000
-        },
-        {
-          "rank": 50,
-          "name": "Fuck It Up (feat. Mike Sherm)",
-          "artists": [
-            "Shoreline Mafia",
-            "Mike Sherm",
-            "Fenix Flexin"
-          ],
-          "album": "Mafia Bidness",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
-          "uri": "spotify:track:6M4L9ta9VvA7noaWHYE1BP",
-          "url": "https://open.spotify.com/track/6M4L9ta9VvA7noaWHYE1BP",
-          "duration_ms": 148285
         }
       ],
       "artists": [
