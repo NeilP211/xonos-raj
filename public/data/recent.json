@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T12:53:17.377Z",
+  "updated_at": "2026-08-12T15:53:33.055Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -5891,6 +5891,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
       "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
       "duration_ms": 190331
+    },
+    {
+      "played_at": "2026-08-12T04:01:16.225Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
     }
   ]
 }
