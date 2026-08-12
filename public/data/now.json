@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-08-11T21:38:46.572Z",
-  "is_playing": true,
+  "updated_at": "2026-08-12T01:19:02.196Z",
+  "is_playing": false,
   "track": {
-    "name": "Don't Dream It's Over",
+    "name": "Rich Nigga Shit (feat. Young Thug)",
     "artists": [
-      "Crowded House"
+      "21 Savage",
+      "Metro Boomin",
+      "Young Thug"
     ],
-    "album": "Crowded House",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-    "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh"
+    "album": "SAVAGE MODE II",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
+    "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq"
   },
-  "played_at": "2026-08-11T21:38:46.572Z"
+  "played_at": "2026-08-11T22:17:59.056Z"
 }
