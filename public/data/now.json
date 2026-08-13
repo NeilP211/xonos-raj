@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-13T18:53:54.250Z",
-  "is_playing": false,
+  "updated_at": "2026-08-13T21:38:09.178Z",
+  "is_playing": true,
   "track": {
-    "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+    "name": "Kung Fu Panda",
     "artists": [
-      "lil ricefield",
-      "seiji oda"
+      "Young Yayo",
+      "We$"
     ],
-    "album": "Eat Rice Dummy",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-    "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2"
+    "album": "Kung Fu Panda",
+    "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+    "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN"
   },
-  "played_at": "2026-08-13T05:07:11.137Z"
+  "played_at": "2026-08-13T21:38:09.178Z"
 }
