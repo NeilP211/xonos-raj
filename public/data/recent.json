@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:46:41.751Z",
+  "updated_at": "2026-08-13T07:16:53.604Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6141,6 +6141,30 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737d1b4387ef61788f72715186",
       "uri": "spotify:track:6wetvpPWooBdmAEOKnDhpo",
       "duration_ms": 223535
+    },
+    {
+      "played_at": "2026-08-13T05:05:22.030Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-08-13T05:07:11.137Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
     }
   ]
 }
