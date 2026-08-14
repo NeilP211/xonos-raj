@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T01:19:44.466Z",
+  "updated_at": "2026-08-14T04:43:50.650Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6236,6 +6236,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
       "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
       "duration_ms": 174160
+    },
+    {
+      "played_at": "2026-08-13T23:22:21.598Z",
+      "name": "Find My Way Home",
+      "artists": [
+        "Sammy Virji"
+      ],
+      "album": "Find My Way Home",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731cc9594eb4e8e4cc6aabe090",
+      "uri": "spotify:track:1yIi7qRdybE4yY1V0YdOKG",
+      "duration_ms": 258858
     }
   ]
 }
