@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:14:05.612Z",
+  "generated_at": "2026-08-16T00:53:57.874Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -84,18 +84,6 @@
         },
         {
           "rank": 7,
-          "name": "Beach leak",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "BAD ASS F*CKING KID",
-          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
-          "duration_ms": 106169
-        },
-        {
-          "rank": 8,
           "name": "Don't Dream It's Over",
           "artists": [
             "Crowded House"
@@ -107,7 +95,7 @@
           "duration_ms": 236933
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -122,19 +110,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 10,
-          "name": "Location",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
-          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
-          "duration_ms": 168783
-        },
-        {
-          "rank": 11,
+          "rank": 9,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -146,7 +122,19 @@
           "duration_ms": 174733
         },
         {
-          "rank": 12,
+          "rank": 10,
+          "name": "Beach leak",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "BAD ASS F*CKING KID",
+          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
+          "duration_ms": 106169
+        },
+        {
+          "rank": 11,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -158,7 +146,7 @@
           "duration_ms": 89535
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -172,19 +160,19 @@
           "duration_ms": 135861
         },
         {
-          "rank": 14,
-          "name": "Champagne Supernova",
+          "rank": 13,
+          "name": "Location",
           "artists": [
-            "Oasis"
+            "Playboi Carti"
           ],
-          "album": "(What's The Story) Morning Glory?",
-          "image": "https://i.scdn.co/image/ab67616d0000b273feea40e4d87f31a313c79ed8",
-          "uri": "spotify:track:5GGTgkmfEzkhAfmG0hxXk9",
-          "url": "https://open.spotify.com/track/5GGTgkmfEzkhAfmG0hxXk9",
-          "duration_ms": 449506
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+          "duration_ms": 168783
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -196,7 +184,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -208,7 +196,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -218,6 +206,18 @@
           "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
           "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
           "duration_ms": 104650
+        },
+        {
+          "rank": 17,
+          "name": "Champagne Supernova",
+          "artists": [
+            "Oasis"
+          ],
+          "album": "(What's The Story) Morning Glory?",
+          "image": "https://i.scdn.co/image/ab67616d0000b273feea40e4d87f31a313c79ed8",
+          "uri": "spotify:track:5GGTgkmfEzkhAfmG0hxXk9",
+          "url": "https://open.spotify.com/track/5GGTgkmfEzkhAfmG0hxXk9",
+          "duration_ms": 449506
         },
         {
           "rank": 18,
@@ -245,6 +245,18 @@
         },
         {
           "rank": 20,
+          "name": "Rotten Apple",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
+        },
+        {
+          "rank": 21,
           "name": "Kung Fu Panda",
           "artists": [
             "Young Yayo",
@@ -257,7 +269,7 @@
           "duration_ms": 111699
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Upside Down",
           "artists": [
             "Jack Johnson"
@@ -267,18 +279,6 @@
           "uri": "spotify:track:6shRGWCtBUOPFLFTTqXZIC",
           "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
           "duration_ms": 208653
-        },
-        {
-          "rank": 22,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
         },
         {
           "rank": 23,
@@ -722,14 +722,6 @@
         },
         {
           "rank": 12,
-          "name": "Pantera",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
-          "genres": [],
-          "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        },
-        {
-          "rank": 13,
           "name": "Gunna",
           "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
           "genres": [],
@@ -737,7 +729,7 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "genres": [],
@@ -745,7 +737,7 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
@@ -753,7 +745,7 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -761,7 +753,7 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -769,12 +761,20 @@
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 18,
+          "name": "Pantera",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
+          "genres": [],
+          "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
           "rank": 19,
