@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:18:31.940Z",
+  "generated_at": "2026-08-17T18:28:49.027Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2111,6 +2111,18 @@
         },
         {
           "rank": 20,
+          "name": "fukumean",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "a Gift & a Curse",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
+          "duration_ms": 125040
+        },
+        {
+          "rank": 21,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -2124,7 +2136,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -2136,7 +2148,7 @@
           "duration_ms": 77005
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -2148,7 +2160,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "R.I.P.",
           "artists": [
             "Playboi Carti"
@@ -2158,18 +2170,6 @@
           "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
           "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv",
           "duration_ms": 192026
-        },
-        {
-          "rank": 24,
-          "name": "fukumean",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "a Gift & a Curse",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
-          "duration_ms": 125040
         },
         {
           "rank": 25,
@@ -2313,18 +2313,6 @@
         },
         {
           "rank": 36,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
-        },
-        {
-          "rank": 37,
           "name": "GOOBA",
           "artists": [
             "6ix9ine"
@@ -2334,6 +2322,18 @@
           "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
           "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
           "duration_ms": 132303
+        },
+        {
+          "rank": 37,
+          "name": "Loving Machine",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
         },
         {
           "rank": 38,
@@ -2645,6 +2645,14 @@
         },
         {
           "rank": 19,
+          "name": "TV Girl",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
+          "genres": [],
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "rank": 20,
           "name": "Engelbert Humperdinck",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0f3aa6415854de11e7d9c532",
           "genres": [],
@@ -2652,7 +2660,7 @@
           "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -2660,7 +2668,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
@@ -2668,20 +2676,12 @@
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
           "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        },
-        {
-          "rank": 23,
-          "name": "TV Girl",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-          "genres": [],
-          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
           "rank": 24,
@@ -2766,7 +2766,7 @@
         {
           "rank": 34,
           "name": "NLE Choppa",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2eba181eff5807ccb5873a55",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7ea6234dca22b768150e05cb",
           "genres": [],
           "uri": "spotify:artist:0ErzCpIMyLcjPiwT4elrtZ",
           "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
