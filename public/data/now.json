@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-18T00:50:50.726Z",
-  "is_playing": false,
+  "updated_at": "2026-08-18T03:38:26.476Z",
+  "is_playing": true,
   "track": {
-    "name": "Ain't That A Kick In The Head - Remastered 1997",
+    "name": "death bed (coffee for your head)",
     "artists": [
-      "Dean Martin"
+      "Powfu",
+      "beabadoobee"
     ],
-    "album": "At The Movies",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734d3ff72e140b46903b52765c",
-    "uri": "spotify:track:4qQ8sToR3GNossXlwSlyKz"
+    "album": "death bed (coffee for your head)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167",
+    "uri": "spotify:track:7eJMfftS33KTjuF7lTsMCx"
   },
-  "played_at": "2026-08-18T00:46:41.921Z"
+  "played_at": "2026-08-18T03:38:26.476Z"
 }

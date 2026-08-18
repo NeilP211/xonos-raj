@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T00:50:50.694Z",
+  "updated_at": "2026-08-18T03:38:26.335Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6573,6 +6573,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734d3ff72e140b46903b52765c",
       "uri": "spotify:track:4qQ8sToR3GNossXlwSlyKz",
       "duration_ms": 147293
+    },
+    {
+      "played_at": "2026-08-18T02:45:31.780Z",
+      "name": "Beyond the Sea",
+      "artists": [
+        "Bobby Darin"
+      ],
+      "album": "That's All",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e774643594281699bde1e4ed",
+      "uri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg",
+      "duration_ms": 172480
     }
   ]
 }
