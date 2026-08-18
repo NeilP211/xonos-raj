@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T18:27:41.606Z",
+  "updated_at": "2026-08-18T21:16:52.945Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6644,6 +6644,100 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273318c9027bcae3d352bed7462",
       "uri": "spotify:track:46PXkh7fx2Fgo0049zWLZJ",
       "duration_ms": 137000
+    },
+    {
+      "played_at": "2026-08-18T19:42:01.728Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-08-18T20:27:55.920Z",
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "artists": [
+        "Kenny Loggins"
+      ],
+      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
+      "uri": "spotify:track:3hMHG6lx9QHVcfYSUr5PoM",
+      "duration_ms": 216133
+    },
+    {
+      "played_at": "2026-08-18T20:32:00.337Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-08-18T20:33:45.037Z",
+      "name": "40 - Dj Ess Mix",
+      "artists": [
+        "evilgiane",
+        "xaviersobased",
+        "Nettspend",
+        "DJ Ess"
+      ],
+      "album": "40 (Dj Ess Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-08-18T20:45:24.603Z",
+      "name": "Magnolia",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:1e1JKLEDKP7hEQzJfNAgPl",
+      "duration_ms": 181812
+    },
+    {
+      "played_at": "2026-08-18T20:49:20.476Z",
+      "name": "Special",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+      "duration_ms": 104650
+    },
+    {
+      "played_at": "2026-08-18T20:51:07.100Z",
+      "name": "Beach leak",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+      "duration_ms": 106169
+    },
+    {
+      "played_at": "2026-08-18T20:53:29.068Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
     }
   ]
 }
