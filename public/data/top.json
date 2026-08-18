@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:25:10.828Z",
+  "generated_at": "2026-08-18T12:31:17.844Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1766,6 +1766,14 @@
         },
         {
           "rank": 40,
+          "name": "Dean Martin",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd570667643682f6c1e99167e",
+          "genres": [],
+          "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "rank": 41,
           "name": "Jake Antonio",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf1f91f7f999a109eb10d7d12",
           "genres": [],
@@ -1773,7 +1781,7 @@
           "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Paul Desmond",
           "image": "https://i.scdn.co/image/87db29f66c8b57d93f06887967bbe325e40f7e49",
           "genres": [],
@@ -1781,7 +1789,7 @@
           "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Korn",
           "image": "https://i.scdn.co/image/ab6761610000e5eb29af2ffb6f4ddd6324f878bc",
           "genres": [],
@@ -1789,7 +1797,7 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Yung Gravy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc18b22a42bedf609f13f7470",
           "genres": [],
@@ -1797,7 +1805,7 @@
           "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Michael Jackson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
           "genres": [],
@@ -1805,7 +1813,7 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Sepultura",
           "image": "https://i.scdn.co/image/ab6761610000e5eb42b136165ba6ce25d2c1ebdc",
           "genres": [],
@@ -1813,7 +1821,7 @@
           "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -1821,7 +1829,7 @@
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Morgan Wallen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
           "genres": [],
@@ -1829,7 +1837,7 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
@@ -1837,20 +1845,12 @@
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
           "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "rank": 50,
-          "name": "Metro Boomin",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb28f1e72b31e756ea3f3a51e7",
-          "genres": [],
-          "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ]
     },
