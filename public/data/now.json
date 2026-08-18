@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-18T03:38:26.476Z",
-  "is_playing": true,
+  "updated_at": "2026-08-18T06:30:50.699Z",
+  "is_playing": false,
   "track": {
-    "name": "death bed (coffee for your head)",
+    "name": "I'm Through With Love",
     "artists": [
-      "Powfu",
-      "beabadoobee"
+      "Dion & The Belmonts"
     ],
-    "album": "death bed (coffee for your head)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167",
-    "uri": "spotify:track:7eJMfftS33KTjuF7lTsMCx"
+    "album": "Wish Upon A Star",
+    "image": "https://i.scdn.co/image/ab67616d0000b273318c9027bcae3d352bed7462",
+    "uri": "spotify:track:46PXkh7fx2Fgo0049zWLZJ"
   },
-  "played_at": "2026-08-18T03:38:26.476Z"
+  "played_at": "2026-08-18T05:18:03.666Z"
 }
