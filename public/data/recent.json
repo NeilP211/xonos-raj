@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:23:53.718Z",
+  "updated_at": "2026-08-19T18:23:38.906Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6808,6 +6808,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
       "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
       "duration_ms": 125040
+    },
+    {
+      "played_at": "2026-08-19T17:37:55.877Z",
+      "name": "fukumean",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "a Gift & a Curse",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+      "duration_ms": 125040
+    },
+    {
+      "played_at": "2026-08-19T17:43:41.409Z",
+      "name": "Gonna Be",
+      "artists": [
+        "Daniel Wolf"
+      ],
+      "album": "Gonna Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
+      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
+      "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-08-19T17:56:35.440Z",
+      "name": "Get To Me Once - Radio Edit",
+      "artists": [
+        "Matt Early",
+        "Ray Hurley",
+        "Abi Flynn"
+      ],
+      "album": "Get To Me Once",
+      "image": "https://i.scdn.co/image/ab67616d0000b273566ecdefc83d165dab1c741d",
+      "uri": "spotify:track:4Ip1jKkFI4TqoymQbqya3a",
+      "duration_ms": 209536
     }
   ]
 }
