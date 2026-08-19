@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T18:23:38.906Z",
+  "updated_at": "2026-08-19T21:19:07.166Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6843,6 +6843,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273566ecdefc83d165dab1c741d",
       "uri": "spotify:track:4Ip1jKkFI4TqoymQbqya3a",
       "duration_ms": 209536
+    },
+    {
+      "played_at": "2026-08-19T17:59:10.453Z",
+      "name": "Sweet Nothing (feat. Florence Welch)",
+      "artists": [
+        "Calvin Harris",
+        "Florence Welch"
+      ],
+      "album": "18 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+      "uri": "spotify:track:24LS4lQShWyixJ0ZrJXfJ5",
+      "duration_ms": 212560
+    },
+    {
+      "played_at": "2026-08-19T21:07:21.476Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
     }
   ]
 }

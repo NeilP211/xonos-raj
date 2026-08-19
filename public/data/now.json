@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-08-19T18:23:38.938Z",
-  "is_playing": false,
+  "updated_at": "2026-08-19T21:19:07.262Z",
+  "is_playing": true,
   "track": {
-    "name": "Get To Me Once - Radio Edit",
+    "name": "1979",
     "artists": [
-      "Matt Early",
-      "Ray Hurley",
-      "Abi Flynn"
+      "The Smashing Pumpkins"
     ],
-    "album": "Get To Me Once",
-    "image": "https://i.scdn.co/image/ab67616d0000b273566ecdefc83d165dab1c741d",
-    "uri": "spotify:track:4Ip1jKkFI4TqoymQbqya3a"
+    "album": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c48f42fdafcffcedbdbce025",
+    "uri": "spotify:track:3h5zik31hTTat9jmpCZZNC"
   },
-  "played_at": "2026-08-19T17:56:35.440Z"
+  "played_at": "2026-08-19T21:19:07.262Z"
 }
