@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:16:52.945Z",
+  "updated_at": "2026-08-19T00:51:40.746Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6738,6 +6738,65 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
       "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
       "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-08-18T20:54:46.100Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-08-18T22:42:02.920Z",
+      "name": "Gonna Be",
+      "artists": [
+        "Daniel Wolf"
+      ],
+      "album": "Gonna Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
+      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
+      "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-08-18T22:44:42.667Z",
+      "name": "Just The Way You Are",
+      "artists": [
+        "Milky",
+        "Mall Grab"
+      ],
+      "album": "Just The Way You Are",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+      "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
+      "duration_ms": 159500
+    },
+    {
+      "played_at": "2026-08-18T22:47:41.451Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-08-18T23:49:45.112Z",
+      "name": "Blessings",
+      "artists": [
+        "Calvin Harris",
+        "Clementine Douglas"
+      ],
+      "album": "Blessings",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
+      "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z",
+      "duration_ms": 219650
     }
   ]
 }

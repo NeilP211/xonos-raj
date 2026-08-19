@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:16:52.781Z",
+  "generated_at": "2026-08-19T00:51:40.637Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1967,20 +1967,6 @@
         },
         {
           "rank": 10,
-          "name": "Touch Down",
-          "artists": [
-            "Shoreline Mafia",
-            "OHGEESY",
-            "Fenix Flexin"
-          ],
-          "album": "Back In Bidness",
-          "image": "https://i.scdn.co/image/ab67616d0000b27397d2079a834443fc82547f3c",
-          "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
-          "url": "https://open.spotify.com/track/4K4GL5CVZrkQFj1xb22gRP",
-          "duration_ms": 203428
-        },
-        {
-          "rank": 11,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -1992,6 +1978,20 @@
           "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
           "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z",
           "duration_ms": 228759
+        },
+        {
+          "rank": 11,
+          "name": "Touch Down",
+          "artists": [
+            "Shoreline Mafia",
+            "OHGEESY",
+            "Fenix Flexin"
+          ],
+          "album": "Back In Bidness",
+          "image": "https://i.scdn.co/image/ab67616d0000b27397d2079a834443fc82547f3c",
+          "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
+          "url": "https://open.spotify.com/track/4K4GL5CVZrkQFj1xb22gRP",
+          "duration_ms": 203428
         },
         {
           "rank": 12,
@@ -2008,20 +2008,6 @@
         },
         {
           "rank": 13,
-          "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-          "artists": [
-            "Drake",
-            "Future",
-            "Molly Santana"
-          ],
-          "album": "ICEMAN",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-          "uri": "spotify:track:3DK90400cDlV5WUJPraMph",
-          "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
-          "duration_ms": 247183
-        },
-        {
-          "rank": 14,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -2034,6 +2020,20 @@
           "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
           "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
           "duration_ms": 81658
+        },
+        {
+          "rank": 14,
+          "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+          "artists": [
+            "Drake",
+            "Future",
+            "Molly Santana"
+          ],
+          "album": "ICEMAN",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+          "uri": "spotify:track:3DK90400cDlV5WUJPraMph",
+          "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
+          "duration_ms": 247183
         },
         {
           "rank": 15,
@@ -2205,18 +2205,6 @@
         },
         {
           "rank": 28,
-          "name": "Beach leak",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "BAD ASS F*CKING KID",
-          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
-          "duration_ms": 106169
-        },
-        {
-          "rank": 29,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -2226,6 +2214,18 @@
           "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
           "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
           "duration_ms": 127853
+        },
+        {
+          "rank": 29,
+          "name": "Beach leak",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "BAD ASS F*CKING KID",
+          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
+          "duration_ms": 106169
         },
         {
           "rank": 30,
@@ -2340,6 +2340,18 @@
         },
         {
           "rank": 39,
+          "name": "Special",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "Keep it goin xav",
+          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
+          "duration_ms": 104650
+        },
+        {
+          "rank": 40,
           "name": "Musty",
           "artists": [
             "Shoreline Mafia"
@@ -2351,7 +2363,7 @@
           "duration_ms": 161557
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -2365,7 +2377,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "ROCKIN",
           "artists": [
             "Shoreline Mafia",
@@ -2379,32 +2391,7 @@
           "duration_ms": 129722
         },
         {
-          "rank": 42,
-          "name": "Special",
-          "artists": [
-            "xaviersobased"
-          ],
-          "album": "Keep it goin xav",
-          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
-          "duration_ms": 104650
-        },
-        {
           "rank": 43,
-          "name": "Mimosa 2000",
-          "artists": [
-            "Furacão 2000",
-            "Nyasia"
-          ],
-          "album": "27 Anos Nacional",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737275b2e3cca08496355ed8e7",
-          "uri": "spotify:track:79bWkyd08EFDO0ZZuu7IRT",
-          "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT",
-          "duration_ms": 140560
-        },
-        {
-          "rank": 44,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -2415,6 +2402,19 @@
           "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
           "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
           "duration_ms": 256161
+        },
+        {
+          "rank": 44,
+          "name": "Mimosa 2000",
+          "artists": [
+            "Furacão 2000",
+            "Nyasia"
+          ],
+          "album": "27 Anos Nacional",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737275b2e3cca08496355ed8e7",
+          "uri": "spotify:track:79bWkyd08EFDO0ZZuu7IRT",
+          "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT",
+          "duration_ms": 140560
         },
         {
           "rank": 45,
@@ -2708,6 +2708,14 @@
         },
         {
           "rank": 28,
+          "name": "Dion & The Belmonts",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737a609132064a415169a915cc",
+          "genres": [],
+          "uri": "spotify:artist:2loYllWFfoWpoxC5YrJKc4",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        },
+        {
+          "rank": 29,
           "name": "Kenny Loggins",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe5ade0d346536449c7a75b48",
           "genres": [],
@@ -2715,7 +2723,7 @@
           "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -2723,7 +2731,7 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Bon Jovi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
           "genres": [],
@@ -2731,20 +2739,12 @@
           "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
           "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "rank": 32,
-          "name": "Dion & The Belmonts",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737a609132064a415169a915cc",
-          "genres": [],
-          "uri": "spotify:artist:2loYllWFfoWpoxC5YrJKc4",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
         },
         {
           "rank": 33,

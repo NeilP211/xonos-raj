@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-18T21:16:53.095Z",
+  "updated_at": "2026-08-19T00:51:40.864Z",
   "is_playing": false,
   "track": {
-    "name": "Coffin",
+    "name": "Blessings",
     "artists": [
-      "Lil Yachty"
+      "Calvin Harris",
+      "Clementine Douglas"
     ],
-    "album": "Lil Boat 3.5",
-    "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-    "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ"
+    "album": "Blessings",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
+    "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z"
   },
-  "played_at": "2026-08-18T20:53:29.068Z"
+  "played_at": "2026-08-18T23:49:45.112Z"
 }
