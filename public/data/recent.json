@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:40:01.344Z",
+  "updated_at": "2026-08-19T06:31:42.915Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6797,6 +6797,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
       "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z",
       "duration_ms": 219650
+    },
+    {
+      "played_at": "2026-08-18T23:50:29.015Z",
+      "name": "fukumean",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "a Gift & a Curse",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+      "duration_ms": 125040
     }
   ]
 }
