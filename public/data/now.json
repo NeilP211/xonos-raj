@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-19T21:19:07.262Z",
-  "is_playing": true,
+  "updated_at": "2026-08-20T00:51:15.760Z",
+  "is_playing": false,
   "track": {
-    "name": "1979",
+    "name": "Sultans of Swing",
     "artists": [
-      "The Smashing Pumpkins"
+      "Dire Straits"
     ],
-    "album": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c48f42fdafcffcedbdbce025",
-    "uri": "spotify:track:3h5zik31hTTat9jmpCZZNC"
+    "album": "Dire Straits",
+    "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+    "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ"
   },
-  "played_at": "2026-08-19T21:19:07.262Z"
+  "played_at": "2026-08-19T21:07:21.476Z"
 }
