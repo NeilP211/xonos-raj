@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:26:35.061Z",
+  "updated_at": "2026-08-20T18:29:01.724Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -7011,6 +7011,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
       "uri": "spotify:track:7EAMXbLcL0qXmciM5SwMh2",
       "duration_ms": 211140
+    },
+    {
+      "played_at": "2026-08-20T04:49:46.975Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
     }
   ]
 }
