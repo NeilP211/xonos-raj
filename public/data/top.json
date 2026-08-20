@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:29:01.543Z",
+  "generated_at": "2026-08-20T21:21:08.861Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -111,19 +111,6 @@
         },
         {
           "rank": 9,
-          "name": "Work",
-          "artists": [
-            "Rihanna",
-            "Drake"
-          ],
-          "album": "ANTI (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
-          "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
-          "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt",
-          "duration_ms": 219320
-        },
-        {
-          "rank": 10,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -137,7 +124,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
           "artists": [
             "The Adventures Of Stevie V"
@@ -147,6 +134,19 @@
           "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
           "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA",
           "duration_ms": 243133
+        },
+        {
+          "rank": 11,
+          "name": "Work",
+          "artists": [
+            "Rihanna",
+            "Drake"
+          ],
+          "album": "ANTI (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+          "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
+          "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt",
+          "duration_ms": 219320
         },
         {
           "rank": 12,
@@ -606,18 +606,6 @@
         },
         {
           "rank": 49,
-          "name": "Champagne Supernova",
-          "artists": [
-            "Oasis"
-          ],
-          "album": "(What's The Story) Morning Glory?",
-          "image": "https://i.scdn.co/image/ab67616d0000b273feea40e4d87f31a313c79ed8",
-          "uri": "spotify:track:5GGTgkmfEzkhAfmG0hxXk9",
-          "url": "https://open.spotify.com/track/5GGTgkmfEzkhAfmG0hxXk9",
-          "duration_ms": 449506
-        },
-        {
-          "rank": 50,
           "name": "My Friend of Misery - Remastered 2021",
           "artists": [
             "Metallica"
@@ -627,6 +615,18 @@
           "uri": "spotify:track:1EcFqCwlaXfg5E5uhrrlZy",
           "url": "https://open.spotify.com/track/1EcFqCwlaXfg5E5uhrrlZy",
           "duration_ms": 409666
+        },
+        {
+          "rank": 50,
+          "name": "Hardcore",
+          "artists": [
+            "Ken Carson"
+          ],
+          "album": "A Great Chaos",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+          "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
+          "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI",
+          "duration_ms": 124567
         }
       ],
       "artists": [
