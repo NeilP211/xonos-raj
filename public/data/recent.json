@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:40:06.966Z",
+  "updated_at": "2026-08-20T06:33:59.526Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -6866,6 +6866,151 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
       "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
       "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-08-19T21:20:58.471Z",
+      "name": "1979",
+      "artists": [
+        "The Smashing Pumpkins"
+      ],
+      "album": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c48f42fdafcffcedbdbce025",
+      "uri": "spotify:track:3h5zik31hTTat9jmpCZZNC",
+      "duration_ms": 263573
+    },
+    {
+      "played_at": "2026-08-20T04:12:35.062Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-08-20T04:14:22.191Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-08-20T04:17:09.819Z",
+      "name": "Sugar, Sugar",
+      "artists": [
+        "The Archies"
+      ],
+      "album": "The Very Best Of \"The Archies\"",
+      "image": "https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f",
+      "uri": "spotify:track:3iSws76HjaU7k49EqJVTfF",
+      "duration_ms": 167186
+    },
+    {
+      "played_at": "2026-08-20T04:19:28.687Z",
+      "name": "Blackbird - Remastered 2009",
+      "artists": [
+        "The Beatles"
+      ],
+      "album": "The Beatles (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+      "uri": "spotify:track:5jgFfDIR6FR0gvlA56Nakr",
+      "duration_ms": 138386
+    },
+    {
+      "played_at": "2026-08-20T04:22:37.267Z",
+      "name": "We Do What We Want - Edit",
+      "artists": [
+        "Alan Fitzpatrick"
+      ],
+      "album": "We Do What We Want (Edit)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
+      "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
+      "duration_ms": 188095
+    },
+    {
+      "played_at": "2026-08-20T04:26:29.408Z",
+      "name": "Chamber Of Reflection",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Salad Days",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
+      "uri": "spotify:track:1Snko28yJOihcRVXs9dAo9",
+      "duration_ms": 231723
+    },
+    {
+      "played_at": "2026-08-20T04:28:43.079Z",
+      "name": "It Had to Be You",
+      "artists": [
+        "Bobby Darin"
+      ],
+      "album": "Love Swings",
+      "image": "https://i.scdn.co/image/ab67616d0000b273502f491dc17f4ded04c7ee4b",
+      "uri": "spotify:track:3qTYzMkbzxqRtA2hlSz4Ba",
+      "duration_ms": 133213
+    },
+    {
+      "played_at": "2026-08-20T04:30:48.576Z",
+      "name": "Sunset",
+      "artists": [
+        "LUCKI"
+      ],
+      "album": "Sunset",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738afe05439fd7b3d4a6b79bb9",
+      "uri": "spotify:track:0zXnqruuTKhV7dTmbaO52L",
+      "duration_ms": 125021
+    },
+    {
+      "played_at": "2026-08-20T04:34:24.006Z",
+      "name": "R.I.P.",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
+      "duration_ms": 192026
+    },
+    {
+      "played_at": "2026-08-20T04:37:23.230Z",
+      "name": "Sugar, Sugar",
+      "artists": [
+        "The Archies"
+      ],
+      "album": "The Very Best Of \"The Archies\"",
+      "image": "https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f",
+      "uri": "spotify:track:3iSws76HjaU7k49EqJVTfF",
+      "duration_ms": 167186
+    },
+    {
+      "played_at": "2026-08-20T04:40:19.391Z",
+      "name": "Lean Wit Me",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:3oDkdAySo1VQQG0ptV7uwa",
+      "duration_ms": 175755
+    },
+    {
+      "played_at": "2026-08-20T04:45:14.617Z",
+      "name": "Heart To Heart",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Here Comes The Cowboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
+      "uri": "spotify:track:7EAMXbLcL0qXmciM5SwMh2",
+      "duration_ms": 211140
     }
   ]
 }
