@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:34:11.309Z",
+  "generated_at": "2026-08-21T09:29:21.073Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -210,6 +210,18 @@
         },
         {
           "rank": 17,
+          "name": "Rotten Apple",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
+        },
+        {
+          "rank": 18,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -223,7 +235,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -235,7 +247,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -247,7 +259,7 @@
           "duration_ms": 156364
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Sugar Sugar",
           "artists": [
             "The Archies"
@@ -259,7 +271,7 @@
           "duration_ms": 167213
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -272,7 +284,7 @@
           "duration_ms": 106666
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -287,7 +299,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "I Don't Want To Set The World On Fire",
           "artists": [
             "The Ink Spots"
@@ -299,7 +311,7 @@
           "duration_ms": 187120
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -311,7 +323,7 @@
           "duration_ms": 132000
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -323,7 +335,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -335,7 +347,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -348,7 +360,7 @@
           "duration_ms": 166400
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -358,18 +370,6 @@
           "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
           "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
           "duration_ms": 259200
-        },
-        {
-          "rank": 29,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
         },
         {
           "rank": 30,

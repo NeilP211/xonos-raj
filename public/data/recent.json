@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:34:11.491Z",
+  "updated_at": "2026-08-21T09:29:21.172Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -7271,6 +7271,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
       "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
       "duration_ms": 134400
+    },
+    {
+      "played_at": "2026-08-21T08:16:34.607Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-08-21T08:37:06.954Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
     }
   ]
 }
