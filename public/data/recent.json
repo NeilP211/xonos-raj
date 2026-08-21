@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:21:08.984Z",
+  "updated_at": "2026-08-21T00:54:47.914Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -7090,6 +7090,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734a92eb0e4fcbe2fb6e1208e5",
       "uri": "spotify:track:6klLvorLoo1sxvZcjJIY8I",
       "duration_ms": 148629
+    },
+    {
+      "played_at": "2026-08-20T22:41:01.962Z",
+      "name": "The Grinch",
+      "artists": [
+        "Trippie Redd"
+      ],
+      "album": "A Love Letter To You 4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
+      "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
+      "duration_ms": 91288
     }
   ]
 }
