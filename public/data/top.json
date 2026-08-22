@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:13:41.410Z",
+  "generated_at": "2026-08-22T18:18:53.598Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -60,18 +60,6 @@
         },
         {
           "rank": 5,
-          "name": "Can't Tell Me Nothing",
-          "artists": [
-            "Kanye West"
-          ],
-          "album": "Graduation",
-          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-          "duration_ms": 271600
-        },
-        {
-          "rank": 6,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -86,7 +74,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -96,6 +84,18 @@
           "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
           "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
           "duration_ms": 183685
+        },
+        {
+          "rank": 7,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
         },
         {
           "rank": 8,
@@ -258,18 +258,6 @@
         },
         {
           "rank": 21,
-          "name": "Sugar Sugar",
-          "artists": [
-            "The Archies"
-          ],
-          "album": "Everything's Archie",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fbc98da6995bb0a504ed363d",
-          "uri": "spotify:track:6MTd61g9zq6CB1FnJydjEb",
-          "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb",
-          "duration_ms": 167213
-        },
-        {
-          "rank": 22,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -280,6 +268,18 @@
           "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
           "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
           "duration_ms": 106666
+        },
+        {
+          "rank": 22,
+          "name": "Sugar Sugar",
+          "artists": [
+            "The Archies"
+          ],
+          "album": "The Archies At Their Best",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c769942ef5c2e45e30ea5454",
+          "uri": "spotify:track:2OT3Oi60V2M8xUJJ6ZwtWx",
+          "url": "https://open.spotify.com/track/2OT3Oi60V2M8xUJJ6ZwtWx",
+          "duration_ms": 163669
         },
         {
           "rank": 23,
@@ -347,6 +347,18 @@
         },
         {
           "rank": 28,
+          "name": "Falling Behind",
+          "artists": [
+            "Laufey"
+          ],
+          "album": "Everything I Know About Love",
+          "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+          "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+          "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj",
+          "duration_ms": 173640
+        },
+        {
+          "rank": 29,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -358,7 +370,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -370,7 +382,7 @@
           "duration_ms": 89535
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -382,7 +394,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -397,7 +409,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -409,7 +421,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "BAILE INoLVIDABLE",
           "artists": [
             "Bad Bunny"
@@ -421,7 +433,7 @@
           "duration_ms": 367725
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Lean Wit Me",
           "artists": [
             "Juice WRLD"
@@ -433,7 +445,7 @@
           "duration_ms": 175755
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -445,7 +457,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -459,7 +471,7 @@
           "duration_ms": 203428
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Down Under",
           "artists": [
             "Men At Work"
@@ -471,7 +483,7 @@
           "duration_ms": 225706
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Lake Of Fire - Live",
           "artists": [
             "Nirvana"
@@ -483,7 +495,7 @@
           "duration_ms": 175973
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Who Can It Be Now?",
           "artists": [
             "Men At Work"
@@ -495,7 +507,19 @@
           "duration_ms": 205360
         },
         {
-          "rank": 40,
+          "rank": 41,
+          "name": "Springsteen",
+          "artists": [
+            "Eric Church"
+          ],
+          "album": "Chief",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+          "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+          "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
+          "duration_ms": 263386
+        },
+        {
+          "rank": 42,
           "name": "My Friend of Misery - Remastered 2021",
           "artists": [
             "Metallica"
@@ -507,7 +531,7 @@
           "duration_ms": 409666
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -520,7 +544,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -532,7 +556,7 @@
           "duration_ms": 122647
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Hardcore",
           "artists": [
             "Ken Carson"
@@ -544,7 +568,7 @@
           "duration_ms": 124567
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -556,7 +580,7 @@
           "duration_ms": 169999
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Who You Foolin",
           "artists": [
             "Gunna"
@@ -568,7 +592,7 @@
           "duration_ms": 151539
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -582,19 +606,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 47,
-          "name": "Springsteen",
-          "artists": [
-            "Eric Church"
-          ],
-          "album": "Chief",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-          "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
-          "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
-          "duration_ms": 263386
-        },
-        {
-          "rank": 48,
+          "rank": 49,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -606,7 +618,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Dreams - 2001 Remaster",
           "artists": [
             "Fleetwood Mac"
@@ -616,18 +628,6 @@
           "uri": "spotify:track:53qkszfgztIvkFyF31GfdQ",
           "url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ",
           "duration_ms": 258816
-        },
-        {
-          "rank": 50,
-          "name": "For the First Time",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "This Old Dog",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-          "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
-          "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
-          "duration_ms": 182306
         }
       ],
       "artists": [
