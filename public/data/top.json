@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:36:20.339Z",
+  "generated_at": "2026-08-22T06:28:02.058Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2175,6 +2175,18 @@
         },
         {
           "rank": 27,
+          "name": "Beach leak",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "BAD ASS F*CKING KID",
+          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
+          "duration_ms": 106169
+        },
+        {
+          "rank": 28,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -2188,7 +2200,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -2198,18 +2210,6 @@
           "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
           "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
           "duration_ms": 127853
-        },
-        {
-          "rank": 29,
-          "name": "Beach leak",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "BAD ASS F*CKING KID",
-          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
-          "duration_ms": 106169
         },
         {
           "rank": 30,
@@ -2288,6 +2288,18 @@
         },
         {
           "rank": 36,
+          "name": "Dark Thoughts",
+          "artists": [
+            "Lil Tecca"
+          ],
+          "album": "DOPAMINE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+          "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
+          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
+          "duration_ms": 136991
+        },
+        {
+          "rank": 37,
           "name": "GOOBA",
           "artists": [
             "6ix9ine"
@@ -2299,7 +2311,7 @@
           "duration_ms": 132303
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -2309,18 +2321,6 @@
           "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
           "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
           "duration_ms": 227000
-        },
-        {
-          "rank": 38,
-          "name": "Dark Thoughts",
-          "artists": [
-            "Lil Tecca"
-          ],
-          "album": "DOPAMINE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-          "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
-          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
-          "duration_ms": 136991
         },
         {
           "rank": 39,
@@ -2462,15 +2462,15 @@
         },
         {
           "rank": 50,
-          "name": "NEVEREVER",
+          "name": "7 Summers",
           "artists": [
-            "Destroy Lonely"
+            "Morgan Wallen"
           ],
-          "album": "NS+ (ULTRA)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734f210060708ed55d2d5e79b4",
-          "uri": "spotify:track:610gzNqwaSz89u6YIpDlyZ",
-          "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ",
-          "duration_ms": 144000
+          "album": "Dangerous: The Double Album",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
+          "duration_ms": 210506
         }
       ],
       "artists": [
@@ -2612,6 +2612,14 @@
         },
         {
           "rank": 18,
+          "name": "Van Halen",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
+          "genres": [],
+          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        },
+        {
+          "rank": 19,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
@@ -2619,7 +2627,7 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
@@ -2627,7 +2635,7 @@
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Engelbert Humperdinck",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0f3aa6415854de11e7d9c532",
           "genres": [],
@@ -2635,7 +2643,7 @@
           "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -2643,20 +2651,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
           "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        },
-        {
-          "rank": 23,
-          "name": "Van Halen",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
-          "genres": [],
-          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
           "rank": 24,
