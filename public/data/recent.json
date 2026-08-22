@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T18:18:53.791Z",
+  "updated_at": "2026-08-22T21:14:59.518Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -7461,6 +7461,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
       "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
       "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-08-22T17:36:59.297Z",
+      "name": "Nun Major",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+      "duration_ms": 151836
     }
   ]
 }
