@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T12:25:04.491Z",
+  "updated_at": "2026-08-23T15:15:13.628Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -7472,6 +7472,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
       "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
       "duration_ms": 151836
+    },
+    {
+      "played_at": "2026-08-23T14:14:14.541Z",
+      "name": "Texas Flood - Live at the El Mocambo",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Texas Flood (Live at the El Mocambo)",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7788cf1ab33fd6e76506f95ee",
+      "uri": "spotify:track:6xIYSmuDqb8ilmpFb7ATD4",
+      "duration_ms": 570581
     }
   ]
 }
