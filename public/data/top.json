@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:15:13.273Z",
+  "generated_at": "2026-08-23T18:18:49.605Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -34,6 +34,18 @@
         },
         {
           "rank": 3,
+          "name": "Don't Dream It's Over",
+          "artists": [
+            "Crowded House"
+          ],
+          "album": "Crowded House",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
+          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
+          "duration_ms": 236933
+        },
+        {
+          "rank": 4,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -45,18 +57,6 @@
           "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
           "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9",
           "duration_ms": 135861
-        },
-        {
-          "rank": 4,
-          "name": "Don't Dream It's Over",
-          "artists": [
-            "Crowded House"
-          ],
-          "album": "Crowded House",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
-          "duration_ms": 236933
         },
         {
           "rank": 5,
@@ -309,15 +309,15 @@
         },
         {
           "rank": 25,
-          "name": "OLYMPIAN",
+          "name": "Texas Flood",
           "artists": [
-            "Playboi Carti"
+            "Stevie Ray Vaughan"
           ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
-          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
-          "duration_ms": 174733
+          "album": "Texas Flood (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+          "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
+          "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP",
+          "duration_ms": 320906
         },
         {
           "rank": 26,
@@ -345,6 +345,18 @@
         },
         {
           "rank": 28,
+          "name": "Voodoo Child (Slight Return)",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:1kY6OOTBmRNzhYmu9xSH3a",
+          "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a",
+          "duration_ms": 478746
+        },
+        {
+          "rank": 29,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -358,7 +370,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -370,7 +382,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -382,7 +394,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -394,7 +406,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -409,7 +421,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Freaking Out the Neighborhood",
           "artists": [
             "Mac DeMarco"
@@ -421,7 +433,7 @@
           "duration_ms": 173888
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "BAILE INoLVIDABLE",
           "artists": [
             "Bad Bunny"
@@ -433,7 +445,7 @@
           "duration_ms": 367725
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Lean Wit Me",
           "artists": [
             "Juice WRLD"
@@ -445,7 +457,7 @@
           "duration_ms": 175755
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -457,7 +469,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -471,7 +483,19 @@
           "duration_ms": 203428
         },
         {
-          "rank": 38,
+          "rank": 39,
+          "name": "OLYMPIAN",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
+          "duration_ms": 174733
+        },
+        {
+          "rank": 40,
           "name": "Down Under",
           "artists": [
             "Men At Work"
@@ -483,7 +507,7 @@
           "duration_ms": 225706
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Who Can It Be Now?",
           "artists": [
             "Men At Work"
@@ -495,7 +519,7 @@
           "duration_ms": 205360
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Springsteen",
           "artists": [
             "Eric Church"
@@ -507,7 +531,7 @@
           "duration_ms": 263386
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -520,7 +544,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -532,19 +556,7 @@
           "duration_ms": 122647
         },
         {
-          "rank": 43,
-          "name": "Hardcore",
-          "artists": [
-            "Ken Carson"
-          ],
-          "album": "A Great Chaos",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-          "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
-          "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI",
-          "duration_ms": 124567
-        },
-        {
-          "rank": 44,
+          "rank": 45,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -556,7 +568,7 @@
           "duration_ms": 169999
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Who You Foolin",
           "artists": [
             "Gunna"
@@ -568,7 +580,7 @@
           "duration_ms": 151539
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -582,7 +594,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -594,7 +606,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Dreams - 2001 Remaster",
           "artists": [
             "Fleetwood Mac"
@@ -606,7 +618,7 @@
           "duration_ms": 258816
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "For the First Time",
           "artists": [
             "Mac DeMarco"
@@ -616,18 +628,6 @@
           "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
           "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
           "duration_ms": 182306
-        },
-        {
-          "rank": 50,
-          "name": "A Man Without Love",
-          "artists": [
-            "Engelbert Humperdinck"
-          ],
-          "album": "A Man Without Love",
-          "image": "https://i.scdn.co/image/ab67616d0000b27313f61b73b155d49c9ad671b9",
-          "uri": "spotify:track:0oUBuOO4g9P4lREqfqR5nq",
-          "url": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq",
-          "duration_ms": 203133
         }
       ],
       "artists": [
@@ -649,6 +649,14 @@
         },
         {
           "rank": 3,
+          "name": "Stevie Ray Vaughan",
+          "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
+          "genres": [],
+          "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "rank": 4,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
@@ -656,7 +664,7 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Gunna",
           "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
           "genres": [],
@@ -664,7 +672,7 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Playboi Carti",
           "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
           "genres": [],
@@ -672,20 +680,12 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "rank": 7,
-          "name": "Stevie Ray Vaughan",
-          "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
-          "genres": [],
-          "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         },
         {
           "rank": 8,
