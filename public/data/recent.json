@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:18:49.722Z",
+  "updated_at": "2026-08-23T21:14:28.764Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -7549,6 +7549,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
       "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
       "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-08-23T19:51:58.398Z",
+      "name": "Riviera Paradise - Live From Austin, TX",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Riviera Paradise (Live From Austin, TX)",
+      "image": "https://i.scdn.co/image/ab6742d3000053b77e6c798df1a3dca20306d88b",
+      "uri": "spotify:track:3KMm3oo7i471JyonV93QNX",
+      "duration_ms": 553173
     }
   ]
 }
