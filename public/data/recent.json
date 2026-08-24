@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T00:53:38.072Z",
+  "updated_at": "2026-08-24T03:47:51.799Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -7560,6 +7560,17 @@
       "image": "https://i.scdn.co/image/ab6742d3000053b77e6c798df1a3dca20306d88b",
       "uri": "spotify:track:3KMm3oo7i471JyonV93QNX",
       "duration_ms": 553173
+    },
+    {
+      "played_at": "2026-08-23T19:53:06.217Z",
+      "name": "Little Wing",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Couldn't Stand The Weather (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+      "uri": "spotify:track:5XNpdKmlLJPUbwKQceX2tW",
+      "duration_ms": 408480
     }
   ]
 }
