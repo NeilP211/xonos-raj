@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T03:47:51.799Z",
+  "updated_at": "2026-08-24T06:42:02.112Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -7571,6 +7571,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
       "uri": "spotify:track:5XNpdKmlLJPUbwKQceX2tW",
       "duration_ms": 408480
+    },
+    {
+      "played_at": "2026-08-24T02:50:11.835Z",
+      "name": "WESPN",
+      "artists": [
+        "Sheck Wes"
+      ],
+      "album": "MUDBOY",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
+      "uri": "spotify:track:07AQbb8xIEj3bF082KEwJp",
+      "duration_ms": 273746
     }
   ]
 }
