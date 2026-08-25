@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-08-25T15:35:46.606Z",
-  "is_playing": false,
+  "updated_at": "2026-08-25T18:29:39.937Z",
+  "is_playing": true,
   "track": {
-    "name": "hakuna matata",
+    "name": "ZEZE (feat. Travis Scott & Offset)",
     "artists": [
-      "Gunna"
+      "Kodak Black",
+      "Offset",
+      "Travis Scott"
     ],
-    "album": "One of Wun",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
-    "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ"
+    "album": "Dying to Live",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+    "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z"
   },
-  "played_at": "2026-08-25T15:26:18.946Z"
+  "played_at": "2026-08-25T18:29:39.937Z"
 }

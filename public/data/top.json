@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:35:46.333Z",
+  "generated_at": "2026-08-25T18:29:39.567Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -99,6 +99,18 @@
         },
         {
           "rank": 8,
+          "name": "Voodoo Child (Slight Return)",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:1kY6OOTBmRNzhYmu9xSH3a",
+          "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a",
+          "duration_ms": 478746
+        },
+        {
+          "rank": 9,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -110,7 +122,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
           "artists": [
             "The Adventures Of Stevie V"
@@ -120,18 +132,6 @@
           "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
           "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA",
           "duration_ms": 243133
-        },
-        {
-          "rank": 10,
-          "name": "Voodoo Child (Slight Return)",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Couldn't Stand The Weather (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-          "uri": "spotify:track:1kY6OOTBmRNzhYmu9xSH3a",
-          "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a",
-          "duration_ms": 478746
         },
         {
           "rank": 11,
@@ -231,6 +231,18 @@
         },
         {
           "rank": 19,
+          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
+          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
+          "duration_ms": 551786
+        },
+        {
+          "rank": 20,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -242,7 +254,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -255,7 +267,7 @@
           "duration_ms": 106666
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Work",
           "artists": [
             "Rihanna",
@@ -268,7 +280,7 @@
           "duration_ms": 219320
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -280,7 +292,7 @@
           "duration_ms": 418466
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Sugar Sugar",
           "artists": [
             "The Archies"
@@ -292,7 +304,7 @@
           "duration_ms": 167213
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -306,7 +318,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "I Don't Want To Set The World On Fire",
           "artists": [
             "The Ink Spots"
@@ -318,7 +330,7 @@
           "duration_ms": 187120
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -332,7 +344,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Texas Flood",
           "artists": [
             "Stevie Ray Vaughan"
@@ -344,7 +356,7 @@
           "duration_ms": 320906
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -356,7 +368,19 @@
           "duration_ms": 253920
         },
         {
-          "rank": 29,
+          "rank": 30,
+          "name": "Crossfire",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "In Step",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e6ef433b9f18de5288ab3cb8",
+          "uri": "spotify:track:0jlLHrrb4aR9evd3ZwNs5I",
+          "url": "https://open.spotify.com/track/0jlLHrrb4aR9evd3ZwNs5I",
+          "duration_ms": 250856
+        },
+        {
+          "rank": 31,
           "name": "Chamber Of Reflection",
           "artists": [
             "Mac DeMarco"
@@ -368,7 +392,7 @@
           "duration_ms": 231723
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -380,7 +404,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -394,7 +418,19 @@
           "duration_ms": 199920
         },
         {
-          "rank": 32,
+          "rank": 34,
+          "name": "hakuna matata",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "One of Wun",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
+          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
+          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
+          "duration_ms": 127853
+        },
+        {
+          "rank": 35,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -406,7 +442,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 33,
+          "rank": 36,
           "name": "Little Wing",
           "artists": [
             "Stevie Ray Vaughan"
@@ -418,19 +454,7 @@
           "duration_ms": 408480
         },
         {
-          "rank": 34,
-          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Couldn't Stand The Weather (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
-          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
-          "duration_ms": 551786
-        },
-        {
-          "rank": 35,
+          "rank": 37,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -442,7 +466,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -454,7 +478,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -466,7 +490,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -481,7 +505,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -494,7 +518,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "BAILE INoLVIDABLE",
           "artists": [
             "Bad Bunny"
@@ -506,7 +530,7 @@
           "duration_ms": 367725
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Lean Wit Me",
           "artists": [
             "Juice WRLD"
@@ -518,7 +542,7 @@
           "duration_ms": 175755
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -530,7 +554,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -544,7 +568,7 @@
           "duration_ms": 203428
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Down Under",
           "artists": [
             "Men At Work"
@@ -556,7 +580,7 @@
           "duration_ms": 225706
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -568,7 +592,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Springsteen",
           "artists": [
             "Eric Church"
@@ -580,19 +604,7 @@
           "duration_ms": 263386
         },
         {
-          "rank": 47,
-          "name": "Crossfire",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "In Step",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e6ef433b9f18de5288ab3cb8",
-          "uri": "spotify:track:0jlLHrrb4aR9evd3ZwNs5I",
-          "url": "https://open.spotify.com/track/0jlLHrrb4aR9evd3ZwNs5I",
-          "duration_ms": 250856
-        },
-        {
-          "rank": 48,
+          "rank": 49,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -604,47 +616,34 @@
           "duration_ms": 122647
         },
         {
-          "rank": 49,
-          "name": "Armed And Dangerous",
-          "artists": [
-            "Juice WRLD"
-          ],
-          "album": "Goodbye & Good Riddance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-          "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
-          "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
-          "duration_ms": 169999
-        },
-        {
           "rank": 50,
-          "name": "RATHER LIE (with The Weeknd)",
+          "name": "Cold Shot",
           "artists": [
-            "Playboi Carti",
-            "The Weeknd"
+            "Stevie Ray Vaughan"
           ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
-          "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
-          "duration_ms": 209680
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:3QwDN08fGnGfRrsn5wLTej",
+          "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej",
+          "duration_ms": 240986
         }
       ],
       "artists": [
         {
           "rank": 1,
-          "name": "Shoreline Mafia",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0e61917e00b5ca7882477c1c",
-          "genres": [],
-          "uri": "spotify:artist:4tYSBptyGeVyZsk8JC4JHZ",
-          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
-        },
-        {
-          "rank": 2,
           "name": "Stevie Ray Vaughan",
           "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
           "genres": [],
           "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "rank": 2,
+          "name": "Shoreline Mafia",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0e61917e00b5ca7882477c1c",
+          "genres": [],
+          "uri": "spotify:artist:4tYSBptyGeVyZsk8JC4JHZ",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
         },
         {
           "rank": 3,
@@ -664,19 +663,19 @@
         },
         {
           "rank": 5,
-          "name": "Bad Bunny",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
-          "genres": [],
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "rank": 6,
           "name": "Gunna",
           "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
           "genres": [],
           "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "rank": 6,
+          "name": "Bad Bunny",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+          "genres": [],
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
           "rank": 7,
