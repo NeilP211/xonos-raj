@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:29:39.738Z",
+  "updated_at": "2026-08-25T21:20:48.713Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -8391,6 +8391,19 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
       "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
       "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-08-25T21:13:34.268Z",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "artists": [
+        "Kodak Black",
+        "Offset",
+        "Travis Scott"
+      ],
+      "album": "Dying to Live",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+      "duration_ms": 228759
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:29:39.567Z",
+  "generated_at": "2026-08-25T21:20:48.561Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -87,6 +87,18 @@
         },
         {
           "rank": 7,
+          "name": "fukumean",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "a Gift & a Curse",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
+          "duration_ms": 125040
+        },
+        {
+          "rank": 8,
           "name": "Beach leak",
           "artists": [
             "Nettspend"
@@ -98,7 +110,7 @@
           "duration_ms": 106169
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Voodoo Child (Slight Return)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -110,7 +122,7 @@
           "duration_ms": 478746
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -122,7 +134,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
           "artists": [
             "The Adventures Of Stevie V"
@@ -134,7 +146,7 @@
           "duration_ms": 243133
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -146,7 +158,7 @@
           "duration_ms": 174733
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Upside Down",
           "artists": [
             "Jack Johnson"
@@ -158,7 +170,7 @@
           "duration_ms": 208653
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -168,18 +180,6 @@
           "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
           "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ",
           "duration_ms": 156364
-        },
-        {
-          "rank": 14,
-          "name": "fukumean",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "a Gift & a Curse",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
-          "duration_ms": 125040
         },
         {
           "rank": 15,
@@ -593,6 +593,19 @@
         },
         {
           "rank": 48,
+          "name": "RATHER LIE (with The Weeknd)",
+          "artists": [
+            "Playboi Carti",
+            "The Weeknd"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+          "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
+          "duration_ms": 209680
+        },
+        {
+          "rank": 49,
           "name": "Springsteen",
           "artists": [
             "Eric Church"
@@ -604,7 +617,7 @@
           "duration_ms": 263386
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -614,18 +627,6 @@
           "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
           "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
           "duration_ms": 122647
-        },
-        {
-          "rank": 50,
-          "name": "Cold Shot",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Couldn't Stand The Weather (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-          "uri": "spotify:track:3QwDN08fGnGfRrsn5wLTej",
-          "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej",
-          "duration_ms": 240986
         }
       ],
       "artists": [
