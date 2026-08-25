@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:34:16.931Z",
+  "generated_at": "2026-08-25T15:35:46.333Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -183,6 +183,18 @@
         },
         {
           "rank": 15,
+          "name": "Coffin",
+          "artists": [
+            "Lil Yachty"
+          ],
+          "album": "Lil Boat 3.5",
+          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
+          "duration_ms": 89535
+        },
+        {
+          "rank": 16,
           "name": "Gallowdance",
           "artists": [
             "Lebanon Hanover"
@@ -194,7 +206,7 @@
           "duration_ms": 231911
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -206,7 +218,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -218,7 +230,19 @@
           "duration_ms": 104650
         },
         {
-          "rank": 18,
+          "rank": 19,
+          "name": "Recover Artist",
+          "artists": [
+            "devLfg"
+          ],
+          "album": "Recover Artist",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732a2c245bb79432df0f130fc4",
+          "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
+          "url": "https://open.spotify.com/track/10UApFsM18peMOQU3TmvmE",
+          "duration_ms": 127477
+        },
+        {
+          "rank": 20,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -231,7 +255,7 @@
           "duration_ms": 106666
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "Work",
           "artists": [
             "Rihanna",
@@ -244,7 +268,7 @@
           "duration_ms": 219320
         },
         {
-          "rank": 20,
+          "rank": 22,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -256,19 +280,7 @@
           "duration_ms": 418466
         },
         {
-          "rank": 21,
-          "name": "Coffin",
-          "artists": [
-            "Lil Yachty"
-          ],
-          "album": "Lil Boat 3.5",
-          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
-          "duration_ms": 89535
-        },
-        {
-          "rank": 22,
+          "rank": 23,
           "name": "Sugar Sugar",
           "artists": [
             "The Archies"
@@ -280,7 +292,7 @@
           "duration_ms": 167213
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -294,7 +306,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "I Don't Want To Set The World On Fire",
           "artists": [
             "The Ink Spots"
@@ -306,7 +318,7 @@
           "duration_ms": 187120
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -320,7 +332,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Texas Flood",
           "artists": [
             "Stevie Ray Vaughan"
@@ -332,7 +344,7 @@
           "duration_ms": 320906
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -344,7 +356,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Chamber Of Reflection",
           "artists": [
             "Mac DeMarco"
@@ -356,7 +368,7 @@
           "duration_ms": 231723
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -368,7 +380,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -382,7 +394,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -394,7 +406,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Little Wing",
           "artists": [
             "Stevie Ray Vaughan"
@@ -406,7 +418,7 @@
           "duration_ms": 408480
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Tin Pan Alley (AKA Roughest Place in Town)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -418,7 +430,7 @@
           "duration_ms": 551786
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -430,7 +442,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -442,7 +454,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -454,7 +466,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -467,18 +479,6 @@
           "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
           "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB",
           "duration_ms": 134400
-        },
-        {
-          "rank": 38,
-          "name": "Recover Artist",
-          "artists": [
-            "devLfg"
-          ],
-          "album": "Recover Artist",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732a2c245bb79432df0f130fc4",
-          "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
-          "url": "https://open.spotify.com/track/10UApFsM18peMOQU3TmvmE",
-          "duration_ms": 127477
         },
         {
           "rank": 39,
@@ -2361,6 +2361,19 @@
         },
         {
           "rank": 42,
+          "name": "Dark Knight Dummo (feat. Travis Scott)",
+          "artists": [
+            "Trippie Redd",
+            "Travis Scott"
+          ],
+          "album": "LIFE'S A TRIP",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
+          "duration_ms": 256161
+        },
+        {
+          "rank": 43,
           "name": "ROCKIN",
           "artists": [
             "Shoreline Mafia",
@@ -2372,19 +2385,6 @@
           "uri": "spotify:track:6m5cyVx8qLqu69MFiBVnMI",
           "url": "https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI",
           "duration_ms": 129722
-        },
-        {
-          "rank": 43,
-          "name": "Dark Knight Dummo (feat. Travis Scott)",
-          "artists": [
-            "Trippie Redd",
-            "Travis Scott"
-          ],
-          "album": "LIFE'S A TRIP",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
-          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
-          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
-          "duration_ms": 256161
         },
         {
           "rank": 44,
@@ -2425,6 +2425,19 @@
         },
         {
           "rank": 47,
+          "name": "RATHER LIE (with The Weeknd)",
+          "artists": [
+            "Playboi Carti",
+            "The Weeknd"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+          "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
+          "duration_ms": 209680
+        },
+        {
+          "rank": 48,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -2436,7 +2449,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Catch Me Outside",
           "artists": [
             "Ski Mask The Slump God"
@@ -2448,7 +2461,7 @@
           "duration_ms": 145760
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "LOT OF ME",
           "artists": [
             "Lil Tecca"
@@ -2458,18 +2471,6 @@
           "uri": "spotify:track:2ZXxRC6V6AXzMdbLQZMHSB",
           "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB",
           "duration_ms": 123870
-        },
-        {
-          "rank": 50,
-          "name": "7 Summers",
-          "artists": [
-            "Morgan Wallen"
-          ],
-          "album": "Dangerous: The Double Album",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
-          "duration_ms": 210506
         }
       ],
       "artists": [
@@ -2739,6 +2740,14 @@
         },
         {
           "rank": 34,
+          "name": "Nettspend",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
+          "genres": [],
+          "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "rank": 35,
           "name": "Bobby Darin",
           "image": "https://i.scdn.co/image/ab6772690000c46c92f83e9f6b9f4b89c56c5811",
           "genres": [],
@@ -2746,20 +2755,12 @@
           "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "NLE Choppa",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ea6234dca22b768150e05cb",
           "genres": [],
           "uri": "spotify:artist:0ErzCpIMyLcjPiwT4elrtZ",
           "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "rank": 36,
-          "name": "Nettspend",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
-          "genres": [],
-          "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
           "rank": 37,
