@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:12:21.943Z",
+  "updated_at": "2026-08-26T19:41:42.659Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -8471,6 +8471,64 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c1ce808155be3a39c3b1e4cd",
       "uri": "spotify:track:0Vige5jUDF3YDLMuvdbjAo",
       "duration_ms": 121690
+    },
+    {
+      "played_at": "2026-08-26T14:43:41.635Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-08-26T16:52:08.238Z",
+      "name": "army of two",
+      "artists": [
+        "ksuuvi",
+        "xaviersobased"
+      ],
+      "album": "army of two",
+      "image": "https://i.scdn.co/image/ab67616d0000b27346b17cfa09a2eba47b2ec699",
+      "uri": "spotify:track:69VQAr0u9W5DcQAjZHJ3C5",
+      "duration_ms": 129567
+    },
+    {
+      "played_at": "2026-08-26T16:54:19.299Z",
+      "name": "classist",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "install",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+      "uri": "spotify:track:5uAb1fWoUHtc7O47vlkE6Q",
+      "duration_ms": 106004
+    },
+    {
+      "played_at": "2026-08-26T18:19:51.536Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-08-26T18:21:53.730Z",
+      "name": "yellow rose",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Someone Help",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339ab031d41bfbce5fe0199fa",
+      "uri": "spotify:track:0xyosUy7Wcjx1V1NKXkAN5",
+      "duration_ms": 72071
     }
   ]
 }
