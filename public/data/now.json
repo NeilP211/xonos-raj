@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-08-26T09:33:44.802Z",
+  "updated_at": "2026-08-26T12:37:48.294Z",
   "is_playing": false,
   "track": {
-    "name": "ZEZE (feat. Travis Scott & Offset)",
+    "name": "Sextape",
     "artists": [
-      "Kodak Black",
-      "Offset",
-      "Travis Scott"
+      "Deftones"
     ],
-    "album": "Dying to Live",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
-    "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z"
+    "album": "Diamond Eyes",
+    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+    "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE"
   },
-  "played_at": "2026-08-25T21:13:34.268Z"
+  "played_at": "2026-08-26T11:09:40.396Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:33:44.647Z",
+  "generated_at": "2026-08-26T12:37:47.996Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -21,18 +21,6 @@
         },
         {
           "rank": 2,
-          "name": "Don't Dream It's Over",
-          "artists": [
-            "Crowded House"
-          ],
-          "album": "Crowded House",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
-          "duration_ms": 236933
-        },
-        {
-          "rank": 3,
           "name": "Kung Fu Panda",
           "artists": [
             "Young Yayo",
@@ -43,6 +31,18 @@
           "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
           "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
           "duration_ms": 111699
+        },
+        {
+          "rank": 3,
+          "name": "Don't Dream It's Over",
+          "artists": [
+            "Crowded House"
+          ],
+          "album": "Crowded House",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
+          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
+          "duration_ms": 236933
         },
         {
           "rank": 4,
@@ -135,54 +135,18 @@
         },
         {
           "rank": 11,
-          "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
           "artists": [
-            "The Adventures Of Stevie V"
+            "Stevie Ray Vaughan"
           ],
-          "album": "Dirty Cash (Money Talks)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
-          "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
-          "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA",
-          "duration_ms": 243133
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
+          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
+          "duration_ms": 551786
         },
         {
           "rank": 12,
-          "name": "OLYMPIAN",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
-          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
-          "duration_ms": 174733
-        },
-        {
-          "rank": 13,
-          "name": "Upside Down",
-          "artists": [
-            "Jack Johnson"
-          ],
-          "album": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
-          "uri": "spotify:track:6shRGWCtBUOPFLFTTqXZIC",
-          "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
-          "duration_ms": 208653
-        },
-        {
-          "rank": 14,
-          "name": "VOY A LLeVARTE PA PR",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-          "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ",
-          "duration_ms": 156364
-        },
-        {
-          "rank": 15,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -194,7 +158,55 @@
           "duration_ms": 89535
         },
         {
+          "rank": 13,
+          "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+          "artists": [
+            "The Adventures Of Stevie V"
+          ],
+          "album": "Dirty Cash (Money Talks)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
+          "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
+          "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA",
+          "duration_ms": 243133
+        },
+        {
+          "rank": 14,
+          "name": "OLYMPIAN",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
+          "duration_ms": 174733
+        },
+        {
+          "rank": 15,
+          "name": "Upside Down",
+          "artists": [
+            "Jack Johnson"
+          ],
+          "album": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
+          "uri": "spotify:track:6shRGWCtBUOPFLFTTqXZIC",
+          "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
+          "duration_ms": 208653
+        },
+        {
           "rank": 16,
+          "name": "VOY A LLeVARTE PA PR",
+          "artists": [
+            "Bad Bunny"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
+          "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ",
+          "duration_ms": 156364
+        },
+        {
+          "rank": 17,
           "name": "Gallowdance",
           "artists": [
             "Lebanon Hanover"
@@ -206,7 +218,7 @@
           "duration_ms": 231911
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -218,7 +230,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -228,18 +240,6 @@
           "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
           "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
           "duration_ms": 104650
-        },
-        {
-          "rank": 19,
-          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Couldn't Stand The Weather (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
-          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
-          "duration_ms": 551786
         },
         {
           "rank": 20,
@@ -581,18 +581,6 @@
         },
         {
           "rank": 47,
-          "name": "Nutshell",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
-          "duration_ms": 259200
-        },
-        {
-          "rank": 48,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -605,7 +593,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Springsteen",
           "artists": [
             "Eric Church"
@@ -617,7 +605,7 @@
           "duration_ms": 263386
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -627,6 +615,18 @@
           "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
           "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
           "duration_ms": 122647
+        },
+        {
+          "rank": 50,
+          "name": "Cold Shot",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:3QwDN08fGnGfRrsn5wLTej",
+          "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej",
+          "duration_ms": 240986
         }
       ],
       "artists": [
@@ -680,19 +680,19 @@
         },
         {
           "rank": 7,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-          "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "rank": 8,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "rank": 8,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 9,
@@ -752,19 +752,19 @@
         },
         {
           "rank": 16,
-          "name": "Morgan Wallen",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
-          "genres": [],
-          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "rank": 17,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 17,
+          "name": "Morgan Wallen",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
+          "genres": [],
+          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         },
         {
           "rank": 18,
