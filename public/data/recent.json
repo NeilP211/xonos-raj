@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T00:22:32.354Z",
+  "updated_at": "2026-08-27T13:28:04.063Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -8659,6 +8659,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
       "uri": "spotify:track:55bio2ZtgCnUWsbANOEETT",
       "duration_ms": 256573
+    },
+    {
+      "played_at": "2026-08-27T00:49:34.724Z",
+      "name": "Creeping Death (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b09e5084136821bf64d327f4",
+      "uri": "spotify:track:3qXEqKdzI3MSGB1FlGMBz5",
+      "duration_ms": 395706
+    },
+    {
+      "played_at": "2026-08-27T00:54:37.001Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-08-27T00:54:55.050Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-08-27T01:03:21.179Z",
+      "name": "No More Tears",
+      "artists": [
+        "Ozzy Osbourne"
+      ],
+      "album": "No More Tears (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273509342e69eb341df70e5c2e3",
+      "uri": "spotify:track:7w6PJe5KBPyvuRYxFkPssC",
+      "duration_ms": 444983
+    },
+    {
+      "played_at": "2026-08-27T01:06:29.403Z",
+      "name": "T.N.T.",
+      "artists": [
+        "AC/DC"
+      ],
+      "album": "High Voltage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c7f355d649e0a3cfcf6fc39",
+      "uri": "spotify:track:7LRMbd3LEoV5wZJvXT1Lwb",
+      "duration_ms": 215096
+    },
+    {
+      "played_at": "2026-08-27T02:15:34.194Z",
+      "name": "Falling Behind",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Everything I Know About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+      "duration_ms": 173640
+    },
+    {
+      "played_at": "2026-08-27T10:57:13.719Z",
+      "name": "rises the moon",
+      "artists": [
+        "Liana Flores"
+      ],
+      "album": "recently",
+      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
+      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
+      "duration_ms": 161929
+    },
+    {
+      "played_at": "2026-08-27T11:04:25.843Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
     }
   ]
 }
