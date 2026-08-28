@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T13:28:04.063Z",
+  "updated_at": "2026-08-28T00:11:11.704Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -8747,6 +8747,172 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
       "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
       "duration_ms": 418466
+    },
+    {
+      "played_at": "2026-08-27T14:42:46.619Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-08-27T16:50:12.204Z",
+      "name": "luck",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Someone Help",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339ab031d41bfbce5fe0199fa",
+      "uri": "spotify:track:7JheuVZpxyiwuFMqHvLA1K",
+      "duration_ms": 36048
+    },
+    {
+      "played_at": "2026-08-27T16:51:21.204Z",
+      "name": "satanic",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "install",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+      "uri": "spotify:track:5UkaaXK9Peo7WBZ3ckq1sk",
+      "duration_ms": 68623
+    },
+    {
+      "played_at": "2026-08-27T16:54:27.726Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-08-27T16:56:43.754Z",
+      "name": "Yung Nigga Shit",
+      "artists": [
+        "Glokk40Spaz",
+        "2wo2imes"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
+      "duration_ms": 135510
+    },
+    {
+      "played_at": "2026-08-27T16:58:36.965Z",
+      "name": "jaded",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+      "duration_ms": 112733
+    },
+    {
+      "played_at": "2026-08-27T18:20:33.899Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-08-27T18:23:09.341Z",
+      "name": "Hardcore",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
+      "duration_ms": 124567
+    },
+    {
+      "played_at": "2026-08-27T19:23:36.681Z",
+      "name": "patchmade",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "install",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+      "uri": "spotify:track:2RH68g2fChiOIhIxT0HfYP",
+      "duration_ms": 112848
+    },
+    {
+      "played_at": "2026-08-27T19:25:23.482Z",
+      "name": "satanic",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "install",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+      "uri": "spotify:track:5UkaaXK9Peo7WBZ3ckq1sk",
+      "duration_ms": 68623
+    },
+    {
+      "played_at": "2026-08-27T19:26:53.591Z",
+      "name": "Ref",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "Jump Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
+      "uri": "spotify:track:1Rza5aDdB05TcKpfz8oKtQ",
+      "duration_ms": 89637
+    },
+    {
+      "played_at": "2026-08-27T19:28:40.243Z",
+      "name": "Beach leak",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+      "duration_ms": 106169
+    },
+    {
+      "played_at": "2026-08-27T19:29:59.950Z",
+      "name": "sidia",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "install",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+      "uri": "spotify:track:1f5Q4a871MYSEc614ybqrZ",
+      "duration_ms": 79124
+    },
+    {
+      "played_at": "2026-08-27T19:32:01.042Z",
+      "name": "jaded",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+      "duration_ms": 112733
+    },
+    {
+      "played_at": "2026-08-27T19:34:01.531Z",
+      "name": "cts-v",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "cts-v",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304e302d64094bab26c5bee3e",
+      "uri": "spotify:track:2LyWlN2el7N7Vd5zfYFyey",
+      "duration_ms": 120032
     }
   ]
 }
