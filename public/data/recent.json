@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T00:11:11.704Z",
+  "updated_at": "2026-08-28T14:46:55.151Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -8913,6 +8913,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27304e302d64094bab26c5bee3e",
       "uri": "spotify:track:2LyWlN2el7N7Vd5zfYFyey",
       "duration_ms": 120032
+    },
+    {
+      "played_at": "2026-08-28T06:37:50.477Z",
+      "name": "hating???",
+      "artists": [
+        "ss3bby",
+        "xaviersobased"
+      ],
+      "album": "hating???",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305c5ef649601a27443b0ece5",
+      "uri": "spotify:track:6ds42I9PtVteXErAG8BMyz",
+      "duration_ms": 135879
+    },
+    {
+      "played_at": "2026-08-28T10:55:08.212Z",
+      "name": "Black Hole Sun",
+      "artists": [
+        "Soundgarden"
+      ],
+      "album": "Superunknown (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
+      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
+      "duration_ms": 318586
+    },
+    {
+      "played_at": "2026-08-28T11:00:20.083Z",
+      "name": "Everlong",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "The Colour And The Shape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
+      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
+      "duration_ms": 250546
+    },
+    {
+      "played_at": "2026-08-28T11:04:39.818Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-08-28T12:55:33.424Z",
+      "name": "Need Me",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:5XFmxkOvTMkv46UV2eMLbx",
+      "duration_ms": 99588
     }
   ]
 }
