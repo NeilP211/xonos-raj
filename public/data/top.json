@@ -1,35 +1,10 @@
 {
-  "generated_at": "2026-08-28T14:46:55.060Z",
+  "generated_at": "2026-08-28T23:48:17.825Z",
   "ranges": {
     "short_term": {
       "tracks": [
         {
           "rank": 1,
-          "name": "Kung Fu Panda",
-          "artists": [
-            "Young Yayo",
-            "We$"
-          ],
-          "album": "Kung Fu Panda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
-          "duration_ms": 111699
-        },
-        {
-          "rank": 2,
-          "name": "Don't Dream It's Over",
-          "artists": [
-            "Crowded House"
-          ],
-          "album": "Crowded House",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
-          "duration_ms": 236933
-        },
-        {
-          "rank": 3,
           "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
           "artists": [
             "Shoreline Mafia",
@@ -43,6 +18,31 @@
           "uri": "spotify:track:1n8wr8tRHs5jmBxNWXedcn",
           "url": "https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn",
           "duration_ms": 174335
+        },
+        {
+          "rank": 2,
+          "name": "Kung Fu Panda",
+          "artists": [
+            "Young Yayo",
+            "We$"
+          ],
+          "album": "Kung Fu Panda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
+          "duration_ms": 111699
+        },
+        {
+          "rank": 3,
+          "name": "Don't Dream It's Over",
+          "artists": [
+            "Crowded House"
+          ],
+          "album": "Crowded House",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
+          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
+          "duration_ms": 236933
         },
         {
           "rank": 4,
@@ -72,6 +72,18 @@
         },
         {
           "rank": 6,
+          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
+          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
+          "duration_ms": 551786
+        },
+        {
+          "rank": 7,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -83,7 +95,7 @@
           "duration_ms": 156364
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "fukumean",
           "artists": [
             "Gunna"
@@ -95,7 +107,7 @@
           "duration_ms": 125040
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -110,7 +122,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Voodoo Child (Slight Return)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -122,7 +134,7 @@
           "duration_ms": 478746
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -132,18 +144,6 @@
           "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
           "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
           "duration_ms": 183685
-        },
-        {
-          "rank": 11,
-          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Couldn't Stand The Weather (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
-          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
-          "duration_ms": 551786
         },
         {
           "rank": 12,
@@ -313,11 +313,11 @@
           "artists": [
             "The Archies"
           ],
-          "album": "Everything's Archie",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fbc98da6995bb0a504ed363d",
-          "uri": "spotify:track:6MTd61g9zq6CB1FnJydjEb",
-          "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb",
-          "duration_ms": 167213
+          "album": "The Archies At Their Best",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c769942ef5c2e45e30ea5454",
+          "uri": "spotify:track:2OT3Oi60V2M8xUJJ6ZwtWx",
+          "url": "https://open.spotify.com/track/2OT3Oi60V2M8xUJJ6ZwtWx",
+          "duration_ms": 163669
         },
         {
           "rank": 26,
@@ -1349,6 +1349,18 @@
         },
         {
           "rank": 44,
+          "name": "Catch Me Outside",
+          "artists": [
+            "Ski Mask The Slump God"
+          ],
+          "album": "You Will Regret (Reloaded)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
+          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
+          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
+          "duration_ms": 145760
+        },
+        {
+          "rank": 45,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -1360,7 +1372,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -1373,7 +1385,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -1383,18 +1395,6 @@
           "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
           "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
           "duration_ms": 271600
-        },
-        {
-          "rank": 47,
-          "name": "Catch Me Outside",
-          "artists": [
-            "Ski Mask The Slump God"
-          ],
-          "album": "You Will Regret (Reloaded)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
-          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
-          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
-          "duration_ms": 145760
         },
         {
           "rank": 48,
@@ -1644,19 +1644,19 @@
         },
         {
           "rank": 27,
-          "name": "Young Nudy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03775f1dcd383778c1e8832d",
-          "genres": [],
-          "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "rank": 28,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
           "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "rank": 28,
+          "name": "Young Nudy",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03775f1dcd383778c1e8832d",
+          "genres": [],
+          "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         },
         {
           "rank": 29,
@@ -1700,6 +1700,14 @@
         },
         {
           "rank": 34,
+          "name": "phreshboyswag",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
+          "genres": [],
+          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
+          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
+        },
+        {
+          "rank": 35,
           "name": "Eagles",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb",
           "genres": [],
@@ -1707,7 +1715,7 @@
           "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Ski Mask The Slump God",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd9531e79636e5bfa61817e43",
           "genres": [],
@@ -1715,20 +1723,12 @@
           "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Blamian",
           "image": "https://i.scdn.co/image/ab6761610000e5ebad6d7aa7d47d3067645bfd2e",
           "genres": [],
           "uri": "spotify:artist:5K51nL83VzuH6IsBX9tARG",
           "url": "https://open.spotify.com/artist/5K51nL83VzuH6IsBX9tARG"
-        },
-        {
-          "rank": 37,
-          "name": "phreshboyswag",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
-          "genres": [],
-          "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
-          "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
           "rank": 38,
