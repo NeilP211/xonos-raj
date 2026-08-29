@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:05:20.473Z",
+  "updated_at": "2026-08-29T18:06:12.896Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -9041,6 +9041,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
       "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
       "duration_ms": 551786
+    },
+    {
+      "played_at": "2026-08-29T17:25:26.154Z",
+      "name": "Black Hole Sun",
+      "artists": [
+        "Soundgarden"
+      ],
+      "album": "Superunknown (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
+      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
+      "duration_ms": 318586
     }
   ]
 }
