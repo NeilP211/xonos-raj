@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T18:06:12.896Z",
+  "updated_at": "2026-08-29T22:56:54.966Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -9052,6 +9052,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
       "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
       "duration_ms": 318586
+    },
+    {
+      "played_at": "2026-08-29T18:15:00.400Z",
+      "name": "Pride and Joy",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Texas Flood (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+      "uri": "spotify:track:1a2iF9XymafjRk56q7oCxo",
+      "duration_ms": 219586
+    },
+    {
+      "played_at": "2026-08-29T18:20:17.320Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-08-29T22:03:57.177Z",
+      "name": "Kiss of Life",
+      "artists": [
+        "Sade"
+      ],
+      "album": "The Best of Sade",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+      "uri": "spotify:track:65krtHkaYLPr0mEbjL61UP",
+      "duration_ms": 251333
+    },
+    {
+      "played_at": "2026-08-29T22:07:28.108Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-08-29T22:11:31.132Z",
+      "name": "Down Under",
+      "artists": [
+        "Men At Work"
+      ],
+      "album": "Business As Usual",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
+      "uri": "spotify:track:3ZZq9396zv8pcn5GYVhxUi",
+      "duration_ms": 222320
     }
   ]
 }
