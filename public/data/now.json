@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-30T02:57:07.396Z",
+  "updated_at": "2026-08-30T08:55:14.331Z",
   "is_playing": false,
   "track": {
-    "name": "Springsteen",
+    "name": "Dream On",
     "artists": [
-      "Eric Church"
+      "Aerosmith"
     ],
-    "album": "Chief",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-    "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB"
+    "album": "Aerosmith",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e0c7891bd7c7ea49d69512e2",
+    "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC"
   },
-  "played_at": "2026-08-29T22:19:51.077Z"
+  "played_at": "2026-08-30T02:09:14.960Z"
 }
