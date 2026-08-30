@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-29T22:56:55.003Z",
+  "updated_at": "2026-08-30T02:57:07.396Z",
   "is_playing": false,
   "track": {
-    "name": "Down Under",
+    "name": "Springsteen",
     "artists": [
-      "Men At Work"
+      "Eric Church"
     ],
-    "album": "Business As Usual",
-    "image": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
-    "uri": "spotify:track:3ZZq9396zv8pcn5GYVhxUi"
+    "album": "Chief",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+    "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB"
   },
-  "played_at": "2026-08-29T22:11:31.132Z"
+  "played_at": "2026-08-29T22:19:51.077Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:56:54.858Z",
+  "generated_at": "2026-08-30T02:57:07.172Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -84,18 +84,6 @@
         },
         {
           "rank": 7,
-          "name": "VOY A LLeVARTE PA PR",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-          "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ",
-          "duration_ms": 156364
-        },
-        {
-          "rank": 8,
           "name": "fukumean",
           "artists": [
             "Gunna"
@@ -107,7 +95,7 @@
           "duration_ms": 125040
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -122,19 +110,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 10,
-          "name": "NUEVAYoL",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
-          "duration_ms": 183685
-        },
-        {
-          "rank": 11,
+          "rank": 9,
           "name": "Voodoo Child (Slight Return)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -146,19 +122,19 @@
           "duration_ms": 478746
         },
         {
-          "rank": 12,
-          "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+          "rank": 10,
+          "name": "VOY A LLeVARTE PA PR",
           "artists": [
-            "The Adventures Of Stevie V"
+            "Bad Bunny"
           ],
-          "album": "Dirty Cash (Money Talks)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
-          "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
-          "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA",
-          "duration_ms": 243133
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
+          "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ",
+          "duration_ms": 156364
         },
         {
-          "rank": 13,
+          "rank": 11,
           "name": "Upside Down",
           "artists": [
             "Jack Johnson"
@@ -170,19 +146,7 @@
           "duration_ms": 208653
         },
         {
-          "rank": 14,
-          "name": "Beach leak",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "BAD ASS F*CKING KID",
-          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
-          "duration_ms": 106169
-        },
-        {
-          "rank": 15,
+          "rank": 12,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -194,7 +158,7 @@
           "duration_ms": 418466
         },
         {
-          "rank": 16,
+          "rank": 13,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -209,7 +173,19 @@
           "duration_ms": 134400
         },
         {
-          "rank": 17,
+          "rank": 14,
+          "name": "NUEVAYoL",
+          "artists": [
+            "Bad Bunny"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
+          "duration_ms": 183685
+        },
+        {
+          "rank": 15,
           "name": "Gallowdance",
           "artists": [
             "Lebanon Hanover"
@@ -221,7 +197,7 @@
           "duration_ms": 231911
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -233,7 +209,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -245,7 +221,7 @@
           "duration_ms": 89535
         },
         {
-          "rank": 20,
+          "rank": 18,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -257,7 +233,7 @@
           "duration_ms": 174733
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -269,7 +245,19 @@
           "duration_ms": 104650
         },
         {
-          "rank": 22,
+          "rank": 20,
+          "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+          "artists": [
+            "The Adventures Of Stevie V"
+          ],
+          "album": "Dirty Cash (Money Talks)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
+          "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
+          "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA",
+          "duration_ms": 243133
+        },
+        {
+          "rank": 21,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -283,7 +271,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -295,7 +283,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -306,6 +294,18 @@
           "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
           "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
           "duration_ms": 106666
+        },
+        {
+          "rank": 24,
+          "name": "Beach leak",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "BAD ASS F*CKING KID",
+          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
+          "duration_ms": 106169
         },
         {
           "rank": 25,
@@ -507,18 +507,6 @@
         },
         {
           "rank": 41,
-          "name": "BAILE INoLVIDABLE",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
-          "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2",
-          "duration_ms": 367725
-        },
-        {
-          "rank": 42,
           "name": "Lean Wit Me",
           "artists": [
             "Juice WRLD"
@@ -530,7 +518,7 @@
           "duration_ms": 175755
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -542,7 +530,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -554,6 +542,18 @@
           "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
           "url": "https://open.spotify.com/track/4K4GL5CVZrkQFj1xb22gRP",
           "duration_ms": 203428
+        },
+        {
+          "rank": 44,
+          "name": "Kiss of Life",
+          "artists": [
+            "Sade"
+          ],
+          "album": "The Best of Sade",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+          "uri": "spotify:track:65krtHkaYLPr0mEbjL61UP",
+          "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
+          "duration_ms": 251333
         },
         {
           "rank": 45,
@@ -618,15 +618,15 @@
         },
         {
           "rank": 50,
-          "name": "Springsteen",
+          "name": "Catch Me Outside",
           "artists": [
-            "Eric Church"
+            "Ski Mask The Slump God"
           ],
-          "album": "Chief",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-          "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
-          "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
-          "duration_ms": 263386
+          "album": "You Will Regret (Reloaded)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
+          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
+          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
+          "duration_ms": 145760
         }
       ],
       "artists": [
@@ -672,19 +672,19 @@
         },
         {
           "rank": 6,
-          "name": "Bad Bunny",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
-          "genres": [],
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "rank": 7,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
           "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "rank": 7,
+          "name": "Bad Bunny",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+          "genres": [],
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
           "rank": 8,
@@ -768,14 +768,6 @@
         },
         {
           "rank": 18,
-          "name": "Morgan Wallen",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
-          "genres": [],
-          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "rank": 19,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
           "genres": [],
@@ -783,7 +775,7 @@
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T22:56:54.966Z",
+  "updated_at": "2026-08-30T02:57:07.308Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -9107,6 +9107,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
       "uri": "spotify:track:3ZZq9396zv8pcn5GYVhxUi",
       "duration_ms": 222320
+    },
+    {
+      "played_at": "2026-08-29T22:19:51.077Z",
+      "name": "Springsteen",
+      "artists": [
+        "Eric Church"
+      ],
+      "album": "Chief",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+      "duration_ms": 263386
     }
   ]
 }
