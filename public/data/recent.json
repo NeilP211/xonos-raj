@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T18:20:36.440Z",
+  "updated_at": "2026-08-30T23:02:46.480Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -9129,6 +9129,127 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e0c7891bd7c7ea49d69512e2",
       "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC",
       "duration_ms": 267600
+    },
+    {
+      "played_at": "2026-08-30T18:51:33.523Z",
+      "name": "About A Girl",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Bleach (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342b32e43479b6aa2cdf93c92",
+      "uri": "spotify:track:0nH4OFO4PasjNGvQv1Z36s",
+      "duration_ms": 168428
+    },
+    {
+      "played_at": "2026-08-30T20:32:28.971Z",
+      "name": "Texas Flood",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Texas Flood (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+      "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
+      "duration_ms": 320906
+    },
+    {
+      "played_at": "2026-08-30T20:33:13.815Z",
+      "name": "Texas Flood",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Texas Flood (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+      "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
+      "duration_ms": 320906
+    },
+    {
+      "played_at": "2026-08-30T20:54:05.676Z",
+      "name": "Rooster (2022 Remaster)",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Dirt (2022 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+      "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2",
+      "duration_ms": 374333
+    },
+    {
+      "played_at": "2026-08-30T21:05:09.233Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-08-30T21:12:45.023Z",
+      "name": "Sappy - Smart Sessions",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739882599a8bed4658b11b9f1a",
+      "uri": "spotify:track:1nuBHt1jsgWRNaGEi1tl7e",
+      "duration_ms": 214893
+    },
+    {
+      "played_at": "2026-08-30T21:43:27.795Z",
+      "name": "Black Hole Sun",
+      "artists": [
+        "Soundgarden"
+      ],
+      "album": "Superunknown (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
+      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
+      "duration_ms": 318586
+    },
+    {
+      "played_at": "2026-08-30T21:52:39.215Z",
+      "name": "Battery (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Master of Puppets (Remastered Deluxe Box Set)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa",
+      "uri": "spotify:track:7wz8LNfmGZ3C0PwKW9LdDg",
+      "duration_ms": 312360
+    },
+    {
+      "played_at": "2026-08-30T22:44:06.070Z",
+      "name": "Jump - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "1984 (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
+      "uri": "spotify:track:7N3PAbqfTjSEU1edb2tY8j",
+      "duration_ms": 241599
+    },
+    {
+      "played_at": "2026-08-30T22:50:49.114Z",
+      "name": "Holy Wars...The Punishment Due - 2004 Remix",
+      "artists": [
+        "Megadeth"
+      ],
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "uri": "spotify:track:5LyRtsQLhcXmy50VXhQXXS",
+      "duration_ms": 392600
+    },
+    {
+      "played_at": "2026-08-30T22:58:46.958Z",
+      "name": "Tornado Of Souls - 2004 Remix",
+      "artists": [
+        "Megadeth"
+      ],
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
+      "duration_ms": 319266
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-30T18:20:36.473Z",
-  "is_playing": false,
+  "updated_at": "2026-08-30T23:02:46.648Z",
+  "is_playing": true,
   "track": {
-    "name": "Dream On",
+    "name": "One (Remastered)",
     "artists": [
-      "Aerosmith"
+      "Metallica"
     ],
-    "album": "Aerosmith",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e0c7891bd7c7ea49d69512e2",
-    "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC"
+    "album": "...And Justice for All (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
+    "uri": "spotify:track:3sRZqCxbnwiKKPe57WoT6S"
   },
-  "played_at": "2026-08-30T02:09:14.960Z"
+  "played_at": "2026-08-30T23:02:46.648Z"
 }

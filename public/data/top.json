@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:20:36.395Z",
+  "generated_at": "2026-08-30T23:02:46.302Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -174,18 +174,6 @@
         },
         {
           "rank": 14,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
-        },
-        {
-          "rank": 15,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -197,7 +185,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -207,6 +195,18 @@
           "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
           "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
           "duration_ms": 89535
+        },
+        {
+          "rank": 16,
+          "name": "Rotten Apple",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
         },
         {
           "rank": 17,
@@ -309,6 +309,18 @@
         },
         {
           "rank": 25,
+          "name": "Texas Flood",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Texas Flood (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+          "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
+          "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP",
+          "duration_ms": 320906
+        },
+        {
+          "rank": 26,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -320,7 +332,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "I Don't Want To Set The World On Fire",
           "artists": [
             "The Ink Spots"
@@ -332,7 +344,7 @@
           "duration_ms": 187120
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -346,7 +358,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -356,18 +368,6 @@
           "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
           "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj",
           "duration_ms": 173640
-        },
-        {
-          "rank": 29,
-          "name": "Texas Flood",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Texas Flood (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
-          "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
-          "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP",
-          "duration_ms": 320906
         },
         {
           "rank": 30,
@@ -542,6 +542,18 @@
         },
         {
           "rank": 44,
+          "name": "Nutshell",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
+          "duration_ms": 259200
+        },
+        {
+          "rank": 45,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -553,7 +565,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Dreams - 2001 Remaster",
           "artists": [
             "Fleetwood Mac"
@@ -565,7 +577,7 @@
           "duration_ms": 258816
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -578,7 +590,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Catch Me Outside",
           "artists": [
             "Ski Mask The Slump God"
@@ -590,7 +602,7 @@
           "duration_ms": 145760
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -600,18 +612,6 @@
           "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
           "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
           "duration_ms": 122647
-        },
-        {
-          "rank": 49,
-          "name": "Nutshell",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
-          "duration_ms": 259200
         },
         {
           "rank": 50,
@@ -693,11 +693,11 @@
         },
         {
           "rank": 9,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "name": "Pantera",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
           "rank": 10,
@@ -709,6 +709,14 @@
         },
         {
           "rank": 11,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 12,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -716,7 +724,15 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 12,
+          "rank": 13,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 14,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
@@ -724,15 +740,7 @@
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
-          "rank": 13,
-          "name": "Pantera",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
-          "genres": [],
-          "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        },
-        {
-          "rank": 14,
+          "rank": 15,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
@@ -740,7 +748,7 @@
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -748,7 +756,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
           "genres": [],
@@ -756,7 +764,15 @@
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
         },
         {
-          "rank": 17,
+          "rank": 18,
+          "name": "Megadeth",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
+          "genres": [],
+          "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        },
+        {
+          "rank": 19,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -764,20 +780,12 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
           "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        },
-        {
-          "rank": 19,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ]
     },
