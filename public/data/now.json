@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-30T23:02:46.648Z",
-  "is_playing": true,
+  "updated_at": "2026-08-31T02:51:15.477Z",
+  "is_playing": false,
   "track": {
-    "name": "One (Remastered)",
+    "name": "My Friend of Misery (Remastered)",
     "artists": [
       "Metallica"
     ],
-    "album": "...And Justice for All (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
-    "uri": "spotify:track:3sRZqCxbnwiKKPe57WoT6S"
+    "album": "Metallica (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+    "uri": "spotify:track:6e9oTF6tSrSReHI6IcHZef"
   },
-  "played_at": "2026-08-30T23:02:46.648Z"
+  "played_at": "2026-08-31T02:11:01.504Z"
 }
