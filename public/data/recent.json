@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T02:51:15.385Z",
+  "updated_at": "2026-08-31T09:11:02.872Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -9338,6 +9338,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
       "uri": "spotify:track:6e9oTF6tSrSReHI6IcHZef",
       "duration_ms": 409666
+    },
+    {
+      "played_at": "2026-08-31T02:54:59.325Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-08-31T03:37:34.716Z",
+      "name": "Enter Sandman (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:3VqHuw0wFlIHcIPWkhIbdQ",
+      "duration_ms": 331560
     }
   ]
 }
