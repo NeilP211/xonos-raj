@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-01T00:17:22.896Z",
-  "is_playing": true,
+  "updated_at": "2026-09-01T08:11:14.797Z",
+  "is_playing": false,
   "track": {
-    "name": "The Blister Exists",
+    "name": "Bonnie's Lullaby - Reverbed",
     "artists": [
-      "Slipknot"
+      "Levon Echalbe"
     ],
-    "album": "Vol. 3: The Subliminal Verses (Special Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
-    "uri": "spotify:track:3q7GKmKaiktt57PVIxKOm8"
+    "album": "Bonnie's Lullaby",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734332bd03a3ff79864ea62c81",
+    "uri": "spotify:track:1kAtvuthy66guTt2eFgLRM"
   },
-  "played_at": "2026-09-01T00:17:22.896Z"
+  "played_at": "2026-09-01T03:40:40.377Z"
 }
