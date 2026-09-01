@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:05:27.664Z",
+  "updated_at": "2026-09-01T22:55:26.033Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -10503,6 +10503,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734332bd03a3ff79864ea62c81",
       "uri": "spotify:track:1kAtvuthy66guTt2eFgLRM",
       "duration_ms": 62057
+    },
+    {
+      "played_at": "2026-09-01T20:29:45.288Z",
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Couldn't Stand The Weather (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+      "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
+      "duration_ms": 551786
+    },
+    {
+      "played_at": "2026-09-01T20:34:12.107Z",
+      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
+      "uri": "spotify:track:6fybp4N6eW3bsFAvARxyVe",
+      "duration_ms": 227800
+    },
+    {
+      "played_at": "2026-09-01T20:40:57.321Z",
+      "name": "Man in the Box",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Facelift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733cf83c82a8e976d7b51e2d00",
+      "uri": "spotify:track:6gZVQvQZOFpzIy3HblJ20F",
+      "duration_ms": 285200
+    },
+    {
+      "played_at": "2026-09-01T20:53:18.441Z",
+      "name": "Bad Boy",
+      "artists": [
+        "Dawg Fight"
+      ],
+      "album": "In The Dawg Haus",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb710f101e90ff706b16148d",
+      "uri": "spotify:track:5y3XbWxKhLi7WekI3A4bUq",
+      "duration_ms": 155051
+    },
+    {
+      "played_at": "2026-09-01T21:00:26.422Z",
+      "name": "Enter Sandman (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:3VqHuw0wFlIHcIPWkhIbdQ",
+      "duration_ms": 331560
+    },
+    {
+      "played_at": "2026-09-01T21:26:39.624Z",
+      "name": "No More Tears",
+      "artists": [
+        "Ozzy Osbourne"
+      ],
+      "album": "No More Tears (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273509342e69eb341df70e5c2e3",
+      "uri": "spotify:track:7w6PJe5KBPyvuRYxFkPssC",
+      "duration_ms": 444983
+    },
+    {
+      "played_at": "2026-09-01T22:33:02.160Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
     }
   ]
 }
