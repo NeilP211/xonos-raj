@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:20:33.849Z",
+  "generated_at": "2026-09-02T07:29:58.961Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -223,18 +223,6 @@
         },
         {
           "rank": 18,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
-        },
-        {
-          "rank": 19,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -246,7 +234,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -260,7 +248,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -273,19 +261,19 @@
           "duration_ms": 106666
         },
         {
-          "rank": 22,
-          "name": "Moonlight on the River",
+          "rank": 21,
+          "name": "Rotten Apple",
           "artists": [
-            "Mac DeMarco"
+            "Alice In Chains"
           ],
-          "album": "This Old Dog",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
-          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
-          "duration_ms": 422613
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -297,7 +285,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Sugar Sugar",
           "artists": [
             "The Archies"
@@ -309,7 +297,7 @@
           "duration_ms": 163669
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -321,7 +309,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Holier Than Thou - Remastered 2021",
           "artists": [
             "Metallica"
@@ -333,7 +321,7 @@
           "duration_ms": 227573
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Texas Flood",
           "artists": [
             "Stevie Ray Vaughan"
@@ -345,19 +333,19 @@
           "duration_ms": 320906
         },
         {
-          "rank": 28,
-          "name": "Every Breath You Take",
+          "rank": 27,
+          "name": "Moonlight on the River",
           "artists": [
-            "The Police"
+            "Mac DeMarco"
           ],
-          "album": "Synchronicity (Remastered 2003)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
-          "duration_ms": 253920
+          "album": "This Old Dog",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
+          "duration_ms": 422613
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
           "artists": [
             "The Adventures Of Stevie V"
@@ -369,7 +357,7 @@
           "duration_ms": 243133
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Crossfire",
           "artists": [
             "Stevie Ray Vaughan"
@@ -381,19 +369,7 @@
           "duration_ms": 250856
         },
         {
-          "rank": 31,
-          "name": "Chamber Of Reflection",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "Salad Days",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
-          "uri": "spotify:track:1Snko28yJOihcRVXs9dAo9",
-          "url": "https://open.spotify.com/track/1Snko28yJOihcRVXs9dAo9",
-          "duration_ms": 231723
-        },
-        {
-          "rank": 32,
+          "rank": 30,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -405,7 +381,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -417,7 +393,7 @@
           "duration_ms": 127853
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "Little Wing",
           "artists": [
             "Stevie Ray Vaughan"
@@ -429,7 +405,7 @@
           "duration_ms": 408480
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -441,19 +417,7 @@
           "duration_ms": 232648
         },
         {
-          "rank": 36,
-          "name": "Enter Sandman - Remastered 2021",
-          "artists": [
-            "Metallica"
-          ],
-          "album": "Metallica (Remastered Deluxe Box Set)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34",
-          "uri": "spotify:track:3DwQ7AH3xGD9h65ezslm6q",
-          "url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q",
-          "duration_ms": 331560
-        },
-        {
-          "rank": 37,
+          "rank": 34,
           "name": "Down Under",
           "artists": [
             "Men At Work"
@@ -465,7 +429,7 @@
           "duration_ms": 225706
         },
         {
-          "rank": 38,
+          "rank": 35,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -477,7 +441,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 39,
+          "rank": 36,
           "name": "Master Of Puppets",
           "artists": [
             "Metallica"
@@ -489,31 +453,7 @@
           "duration_ms": 515386
         },
         {
-          "rank": 40,
-          "name": "Everything In Its Right Place",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "Kid A",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-          "duration_ms": 251426
-        },
-        {
-          "rank": 41,
-          "name": "Blue Hair",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Death of a Party Girl",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
-          "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
-          "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t",
-          "duration_ms": 217000
-        },
-        {
-          "rank": 42,
+          "rank": 37,
           "name": "Lean Wit Me",
           "artists": [
             "Juice WRLD"
@@ -525,7 +465,7 @@
           "duration_ms": 175755
         },
         {
-          "rank": 43,
+          "rank": 38,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -537,7 +477,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 44,
+          "rank": 39,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -549,7 +489,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 45,
+          "rank": 40,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -563,7 +503,7 @@
           "duration_ms": 203428
         },
         {
-          "rank": 46,
+          "rank": 41,
           "name": "Kiss of Life",
           "artists": [
             "Sade"
@@ -575,31 +515,19 @@
           "duration_ms": 251333
         },
         {
-          "rank": 47,
-          "name": "Springsteen",
+          "rank": 42,
+          "name": "Chamber Of Reflection",
           "artists": [
-            "Eric Church"
+            "Mac DeMarco"
           ],
-          "album": "Chief",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-          "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
-          "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
-          "duration_ms": 263386
+          "album": "Salad Days",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
+          "uri": "spotify:track:1Snko28yJOihcRVXs9dAo9",
+          "url": "https://open.spotify.com/track/1Snko28yJOihcRVXs9dAo9",
+          "duration_ms": 231723
         },
         {
-          "rank": 48,
-          "name": "I Don't Want To Set The World On Fire",
-          "artists": [
-            "The Ink Spots"
-          ],
-          "album": "Street Of Dreams (Expanded Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d49b91db9b7d30a17bcd19d6",
-          "uri": "spotify:track:1MEjcagNOXLDB6DUnsE3ZL",
-          "url": "https://open.spotify.com/track/1MEjcagNOXLDB6DUnsE3ZL",
-          "duration_ms": 187120
-        },
-        {
-          "rank": 49,
+          "rank": 43,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -611,7 +539,7 @@
           "duration_ms": 122647
         },
         {
-          "rank": 50,
+          "rank": 44,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -621,24 +549,96 @@
           "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
           "url": "https://open.spotify.com/track/26RFoBzKs36gTlbJCmtsFa",
           "duration_ms": 127872
+        },
+        {
+          "rank": 45,
+          "name": "Cold Shot",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:3QwDN08fGnGfRrsn5wLTej",
+          "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej",
+          "duration_ms": 240986
+        },
+        {
+          "rank": 46,
+          "name": "Holy Wars...The Punishment Due - 2004 Remix",
+          "artists": [
+            "Megadeth"
+          ],
+          "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+          "uri": "spotify:track:5LyRtsQLhcXmy50VXhQXXS",
+          "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS",
+          "duration_ms": 392600
+        },
+        {
+          "rank": 47,
+          "name": "Symphony Of Destruction - Remastered 2012",
+          "artists": [
+            "Megadeth"
+          ],
+          "album": "Countdown To Extinction (Deluxe Edition - Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
+          "uri": "spotify:track:5mR858YsHYG761aUqZoGkD",
+          "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
+          "duration_ms": 241906
+        },
+        {
+          "rank": 48,
+          "name": "Here To Stay",
+          "artists": [
+            "Korn"
+          ],
+          "album": "Untouchables",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b9b950561aa1d3606865a2ee",
+          "uri": "spotify:track:66LT15XEqCaWiMG44NGQRE",
+          "url": "https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE",
+          "duration_ms": 270960
+        },
+        {
+          "rank": 49,
+          "name": "Harvester of Sorrow",
+          "artists": [
+            "Metallica"
+          ],
+          "album": "…And Justice for All (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fe896727e3db1027ed72d885",
+          "uri": "spotify:track:6qgYe6noMKsElSoPg9yS91",
+          "url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91",
+          "duration_ms": 345283
+        },
+        {
+          "rank": 50,
+          "name": "Dark Thoughts",
+          "artists": [
+            "Lil Tecca"
+          ],
+          "album": "DOPAMINE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+          "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
+          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
+          "duration_ms": 136991
         }
       ],
       "artists": [
         {
           "rank": 1,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 2,
           "name": "Stevie Ray Vaughan",
           "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
           "genres": [],
           "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "rank": 2,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 3,
@@ -658,14 +658,6 @@
         },
         {
           "rank": 5,
-          "name": "Mac DeMarco",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-          "genres": [],
-          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "rank": 6,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
@@ -673,12 +665,20 @@
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Gunna",
           "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
           "genres": [],
           "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "rank": 7,
+          "name": "Mac DeMarco",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+          "genres": [],
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         },
         {
           "rank": 8,
@@ -698,14 +698,6 @@
         },
         {
           "rank": 10,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "rank": 11,
           "name": "Megadeth",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
           "genres": [],
@@ -713,7 +705,7 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182",
           "genres": [],
@@ -721,7 +713,7 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -729,12 +721,20 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
           "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        },
+        {
+          "rank": 14,
+          "name": "Alice In Chains",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+          "genres": [],
+          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
           "rank": 15,
@@ -1478,19 +1478,19 @@
         },
         {
           "rank": 5,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 6,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 6,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 7,
@@ -1830,19 +1830,19 @@
         },
         {
           "rank": 49,
+          "name": "Staind",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba43eff361de1d811e2d17adb",
+          "genres": [],
+          "uri": "spotify:artist:5KDIH2gF0VpelTqyQS7udb",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        },
+        {
+          "rank": 50,
           "name": "Sepultura",
           "image": "https://i.scdn.co/image/ab6761610000e5eb42b136165ba6ce25d2c1ebdc",
           "genres": [],
           "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4",
           "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        },
-        {
-          "rank": 50,
-          "name": "Morgan Wallen",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
-          "genres": [],
-          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ]
     },

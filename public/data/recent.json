@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T02:20:33.949Z",
+  "updated_at": "2026-09-02T07:29:59.055Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -10580,6 +10580,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
       "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
       "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-09-02T02:53:56.744Z",
+      "name": "Warm Safe Place",
+      "artists": [
+        "Staind"
+      ],
+      "album": "Break the Cycle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+      "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk",
+      "duration_ms": 275560
     }
   ]
 }
