@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T13:08:17.557Z",
+  "updated_at": "2026-09-02T18:19:22.699Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -10679,6 +10679,230 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732b17bd205f4d7fbebc9be09d",
       "uri": "spotify:track:0cGjUnkLjOBqFCF8YYuoUA",
       "duration_ms": 89000
+    },
+    {
+      "played_at": "2026-09-02T13:24:10.038Z",
+      "name": "Softer",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:2LvKYIrXLCIRN3s5wKj5lA",
+      "duration_ms": 103396
+    },
+    {
+      "played_at": "2026-09-02T13:26:02.629Z",
+      "name": "40 - DJ Ess Mix",
+      "artists": [
+        "DJ Ess",
+        "xaviersobased",
+        "Nettspend"
+      ],
+      "album": "#HEAVENSGATE VOL. 1 (DJ Ess Mixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731155023ae163f8e2e810f93c",
+      "uri": "spotify:track:1z98RNpZuuWqzuHI8Xccuu",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-09-02T13:28:08.916Z",
+      "name": "Shut Up",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:7iZGpuboJPQQGH07EprPnR",
+      "duration_ms": 125799
+    },
+    {
+      "played_at": "2026-09-02T13:31:01.560Z",
+      "name": "Ref",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "Jump Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
+      "uri": "spotify:track:1Rza5aDdB05TcKpfz8oKtQ",
+      "duration_ms": 89637
+    },
+    {
+      "played_at": "2026-09-02T13:33:12.966Z",
+      "name": "classist",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "install",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
+      "uri": "spotify:track:5uAb1fWoUHtc7O47vlkE6Q",
+      "duration_ms": 106004
+    },
+    {
+      "played_at": "2026-09-02T13:35:08.345Z",
+      "name": "take my life",
+      "artists": [
+        "boolymon"
+      ],
+      "album": "take my life",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec7e47c631821ca918079b22",
+      "uri": "spotify:track:2CH1CARkfPKU7D5livyPsA",
+      "duration_ms": 85194
+    },
+    {
+      "played_at": "2026-09-02T13:37:11.106Z",
+      "name": "22 #BASEDGOTH (feat. xaviersobased)",
+      "artists": [
+        "ZAYGUAPKID",
+        "xaviersobased"
+      ],
+      "album": "22 #BASEDGOTH (feat. xaviersobased)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f081e8c1e1f504c4f0bd43b",
+      "uri": "spotify:track:4uUKg3UgQ0wlItag3S5q0n",
+      "duration_ms": 122305
+    },
+    {
+      "played_at": "2026-09-02T13:39:06.179Z",
+      "name": "Feeling Like",
+      "artists": [
+        "rommulas"
+      ],
+      "album": "ANIMÁL",
+      "image": "https://i.scdn.co/image/ab67616d0000b273158436f2bda9323c6be396db",
+      "uri": "spotify:track:2Oijm4Jz7Bv3GuZ2x0eoaC",
+      "duration_ms": 114591
+    },
+    {
+      "played_at": "2026-09-02T13:42:11.011Z",
+      "name": "ss",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b494c1b464d41ef641de442",
+      "uri": "spotify:track:26QJuQfM8PVAWkIm1JRyqq",
+      "duration_ms": 184375
+    },
+    {
+      "played_at": "2026-09-02T13:44:42.963Z",
+      "name": "codeine tears",
+      "artists": [
+        "bleood"
+      ],
+      "album": "PROTAGONIST",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
+      "uri": "spotify:track:7zZrTT2U48hah5Xwmg64t3",
+      "duration_ms": 151475
+    },
+    {
+      "played_at": "2026-09-02T13:46:48.981Z",
+      "name": "Fool",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "Jump Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
+      "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
+      "duration_ms": 125562
+    },
+    {
+      "played_at": "2026-09-02T13:48:35.972Z",
+      "name": "Yale",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "Teen X",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e34f259b461e589917140e65",
+      "uri": "spotify:track:66yPalPs9DrhbGb9gR3vD9",
+      "duration_ms": 106533
+    },
+    {
+      "played_at": "2026-09-02T13:50:16.017Z",
+      "name": "Need Me",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:5XFmxkOvTMkv46UV2eMLbx",
+      "duration_ms": 99588
+    },
+    {
+      "played_at": "2026-09-02T13:52:26.061Z",
+      "name": "army of two",
+      "artists": [
+        "ksuuvi",
+        "xaviersobased"
+      ],
+      "album": "army of two",
+      "image": "https://i.scdn.co/image/ab67616d0000b27346b17cfa09a2eba47b2ec699",
+      "uri": "spotify:track:69VQAr0u9W5DcQAjZHJ3C5",
+      "duration_ms": 129567
+    },
+    {
+      "played_at": "2026-09-02T13:55:05.459Z",
+      "name": "Blonde",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "Flex Musix",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1ce808155be3a39c3b1e4cd",
+      "uri": "spotify:track:4N7HxVSOdRKlPbSWzghIyN",
+      "duration_ms": 144601
+    },
+    {
+      "played_at": "2026-09-02T14:08:00.041Z",
+      "name": "FAKENGGAS",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "NO STYLIST",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316253391849ee562db8da541",
+      "uri": "spotify:track:6BlfsdUgeFwkFC30cD4EFO",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-09-02T14:10:01.097Z",
+      "name": "Promoting Violence",
+      "artists": [
+        "Che"
+      ],
+      "album": "Million Dollar Mansion / Promoting Violence",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edf330dcfafbabb228352539",
+      "uri": "spotify:track:4fu1YDHr7UMDzZUbhEpaji",
+      "duration_ms": 120598
+    },
+    {
+      "played_at": "2026-09-02T15:29:55.427Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-09-02T16:53:09.031Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-09-02T16:56:24.072Z",
+      "name": "Thug's In My House",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Thug's In My House",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c6bc473c79f85c2dfb5914f7",
+      "uri": "spotify:track:0nViXgBAlIggGekvSgiDsX",
+      "duration_ms": 151578
     }
   ]
 }

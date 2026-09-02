@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-02T13:08:17.596Z",
-  "is_playing": false,
+  "updated_at": "2026-09-02T18:19:22.926Z",
+  "is_playing": true,
   "track": {
-    "name": "Take You Out",
+    "name": "love hate",
     "artists": [
-      "Nettspend"
+      "xaviersobased"
     ],
-    "album": "Take You Out",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732b17bd205f4d7fbebc9be09d",
-    "uri": "spotify:track:0cGjUnkLjOBqFCF8YYuoUA"
+    "album": "with 2 (hosted by d9lton)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273af96bc2a3cd92b79d921f5ab",
+    "uri": "spotify:track:0BWhRDZajVPoO3qaLbeCDJ"
   },
-  "played_at": "2026-09-02T13:03:37.043Z"
+  "played_at": "2026-09-02T18:19:22.926Z"
 }
