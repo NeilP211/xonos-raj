@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T18:19:22.699Z",
+  "updated_at": "2026-09-02T22:55:53.181Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -10903,6 +10903,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c6bc473c79f85c2dfb5914f7",
       "uri": "spotify:track:0nViXgBAlIggGekvSgiDsX",
       "duration_ms": 151578
+    },
+    {
+      "played_at": "2026-09-02T18:19:44.184Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-09-02T18:22:18.665Z",
+      "name": "Ginseng Strip 2002",
+      "artists": [
+        "Yung Lean"
+      ],
+      "album": "Lavender",
+      "image": "https://i.scdn.co/image/ab67616d0000b273581915272a4ffd12551c0202",
+      "uri": "spotify:track:7v3rmoy5jcn4h5UqwQyCM3",
+      "duration_ms": 153999
+    },
+    {
+      "played_at": "2026-09-02T18:28:57.063Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-09-02T18:40:33.782Z",
+      "name": "OLYMPIAN",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+      "duration_ms": 174733
+    },
+    {
+      "played_at": "2026-09-02T22:25:36.825Z",
+      "name": "OLYMPIAN",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+      "duration_ms": 174733
     }
   ]
 }
