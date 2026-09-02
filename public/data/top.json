@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:29:58.961Z",
+  "generated_at": "2026-09-02T13:08:17.448Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -612,15 +612,15 @@
         },
         {
           "rank": 50,
-          "name": "Dark Thoughts",
+          "name": "Warm Safe Place",
           "artists": [
-            "Lil Tecca"
+            "Staind"
           ],
-          "album": "DOPAMINE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-          "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
-          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
-          "duration_ms": 136991
+          "album": "Break the Cycle",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+          "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk",
+          "url": "https://open.spotify.com/track/7hLNrNAh3TsLW31yJ81bPk",
+          "duration_ms": 275560
         }
       ],
       "artists": [
@@ -706,19 +706,19 @@
         },
         {
           "rank": 11,
-          "name": "Slipknot",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182",
-          "genres": [],
-          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        },
-        {
-          "rank": 12,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 12,
+          "name": "Slipknot",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182",
+          "genres": [],
+          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
           "rank": 13,

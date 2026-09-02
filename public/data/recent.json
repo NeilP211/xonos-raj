@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T07:29:59.055Z",
+  "updated_at": "2026-09-02T13:08:17.557Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -10591,6 +10591,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
       "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk",
       "duration_ms": 275560
+    },
+    {
+      "played_at": "2026-09-02T11:02:46.783Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
+    },
+    {
+      "played_at": "2026-09-02T11:09:06.754Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-09-02T11:13:47.326Z",
+      "name": "Plateau - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:2smax1OWAxOo63p14G8KZx",
+      "duration_ms": 218133
+    },
+    {
+      "played_at": "2026-09-02T11:16:17.953Z",
+      "name": "No More Tears",
+      "artists": [
+        "Ozzy Osbourne"
+      ],
+      "album": "No More Tears (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273509342e69eb341df70e5c2e3",
+      "uri": "spotify:track:7w6PJe5KBPyvuRYxFkPssC",
+      "duration_ms": 444983
+    },
+    {
+      "played_at": "2026-09-02T12:51:36.923Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-09-02T12:55:59.165Z",
+      "name": "mud",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "Forever, ILY.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
+      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
+      "duration_ms": 107951
+    },
+    {
+      "played_at": "2026-09-02T12:57:23.994Z",
+      "name": "what zit tooya",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:0XU0CyDnYsKe5RNQcpOoCC",
+      "duration_ms": 84373
+    },
+    {
+      "played_at": "2026-09-02T13:03:37.043Z",
+      "name": "Take You Out",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Take You Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732b17bd205f4d7fbebc9be09d",
+      "uri": "spotify:track:0cGjUnkLjOBqFCF8YYuoUA",
+      "duration_ms": 89000
     }
   ]
 }
