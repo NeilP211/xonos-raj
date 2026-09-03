@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:36:24.944Z",
+  "generated_at": "2026-09-03T13:10:09.656Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1056,6 +1056,18 @@
         },
         {
           "rank": 18,
+          "name": "OLYMPIAN",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
+          "duration_ms": 174733
+        },
+        {
+          "rank": 19,
           "name": "fukumean",
           "artists": [
             "Gunna"
@@ -1067,7 +1079,7 @@
           "duration_ms": 125040
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Drip or Drown",
           "artists": [
             "Gunna"
@@ -1079,7 +1091,7 @@
           "duration_ms": 126168
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -1092,7 +1104,7 @@
           "duration_ms": 205701
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Location",
           "artists": [
             "Playboi Carti"
@@ -1102,18 +1114,6 @@
           "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
           "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
           "duration_ms": 168783
-        },
-        {
-          "rank": 22,
-          "name": "OLYMPIAN",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
-          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
-          "duration_ms": 174733
         },
         {
           "rank": 23,
@@ -1168,6 +1168,18 @@
         },
         {
           "rank": 27,
+          "name": "hakuna matata",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "One of Wun",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
+          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
+          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
+          "duration_ms": 127853
+        },
+        {
+          "rank": 28,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -1179,18 +1191,6 @@
           "uri": "spotify:track:4HyBDkCeRJWN1eOT2GELcL",
           "url": "https://open.spotify.com/track/4HyBDkCeRJWN1eOT2GELcL",
           "duration_ms": 137142
-        },
-        {
-          "rank": 28,
-          "name": "hakuna matata",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "One of Wun",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
-          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
-          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
-          "duration_ms": 127853
         },
         {
           "rank": 29,
@@ -1502,19 +1502,19 @@
         },
         {
           "rank": 5,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 6,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 6,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 7,
@@ -1678,14 +1678,6 @@
         },
         {
           "rank": 27,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "rank": 28,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
@@ -1693,7 +1685,7 @@
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -1701,12 +1693,20 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Young Nudy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03775f1dcd383778c1e8832d",
           "genres": [],
           "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1",
           "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "rank": 30,
+          "name": "Alice In Chains",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+          "genres": [],
+          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
           "rank": 31,
