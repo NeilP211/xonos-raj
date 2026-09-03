@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:55:53.181Z",
+  "updated_at": "2026-09-03T02:27:42.454Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -10959,6 +10959,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
       "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
       "duration_ms": 174733
+    },
+    {
+      "played_at": "2026-09-02T23:29:32.023Z",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "artists": [
+        "Kodak Black",
+        "Offset",
+        "Travis Scott"
+      ],
+      "album": "Dying to Live",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+      "duration_ms": 228759
+    },
+    {
+      "played_at": "2026-09-02T23:56:38.692Z",
+      "name": "Mary Had a Little Lamb",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Texas Flood (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+      "uri": "spotify:track:0nFZ2HQRnIxiwraCm2X6Uq",
+      "duration_ms": 166960
+    },
+    {
+      "played_at": "2026-09-02T23:59:49.609Z",
+      "name": "hakuna matata",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "One of Wun",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
+      "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
+      "duration_ms": 127853
     }
   ]
 }

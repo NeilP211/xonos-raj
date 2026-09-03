@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:55:53.022Z",
+  "generated_at": "2026-09-03T02:27:42.321Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -30,18 +30,6 @@
         },
         {
           "rank": 3,
-          "name": "Don't Dream It's Over",
-          "artists": [
-            "Crowded House"
-          ],
-          "album": "Crowded House",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
-          "duration_ms": 236933
-        },
-        {
-          "rank": 4,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -55,7 +43,43 @@
           "duration_ms": 135861
         },
         {
+          "rank": 4,
+          "name": "Don't Dream It's Over",
+          "artists": [
+            "Crowded House"
+          ],
+          "album": "Crowded House",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
+          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
+          "duration_ms": 236933
+        },
+        {
           "rank": 5,
+          "name": "Make You Whole (Radio Edit)",
+          "artists": [
+            "Andronicus"
+          ],
+          "album": "Make You Whole",
+          "image": "https://i.scdn.co/image/ab67616d0000b273167ea53d2c9906d0907ef994",
+          "uri": "spotify:track:2WpRJJJzf2WM6IP0zr5aaB",
+          "url": "https://open.spotify.com/track/2WpRJJJzf2WM6IP0zr5aaB",
+          "duration_ms": 212168
+        },
+        {
+          "rank": 6,
+          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
+          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
+          "duration_ms": 551786
+        },
+        {
+          "rank": 7,
           "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
           "artists": [
             "Shoreline Mafia",
@@ -71,30 +95,6 @@
           "duration_ms": 174335
         },
         {
-          "rank": 6,
-          "name": "Make You Whole (Radio Edit)",
-          "artists": [
-            "Andronicus"
-          ],
-          "album": "Make You Whole",
-          "image": "https://i.scdn.co/image/ab67616d0000b273167ea53d2c9906d0907ef994",
-          "uri": "spotify:track:2WpRJJJzf2WM6IP0zr5aaB",
-          "url": "https://open.spotify.com/track/2WpRJJJzf2WM6IP0zr5aaB",
-          "duration_ms": 212168
-        },
-        {
-          "rank": 7,
-          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Couldn't Stand The Weather (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
-          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
-          "duration_ms": 551786
-        },
-        {
           "rank": 8,
           "name": "fukumean",
           "artists": [
@@ -108,18 +108,30 @@
         },
         {
           "rank": 9,
-          "name": "The Blister Exists",
+          "name": "OLYMPIAN",
           "artists": [
-            "Slipknot"
+            "Playboi Carti"
           ],
-          "album": "Vol. 3: The Subliminal Verses (Special Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
-          "uri": "spotify:track:3q7GKmKaiktt57PVIxKOm8",
-          "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8",
-          "duration_ms": 319426
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
+          "duration_ms": 174733
         },
         {
           "rank": 10,
+          "name": "Sulfur",
+          "artists": [
+            "Slipknot"
+          ],
+          "album": "All Hope Is Gone (10th Anniversary)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
+          "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
+          "url": "https://open.spotify.com/track/1ckta9xwbEcxLaGClreVRf",
+          "duration_ms": 277800
+        },
+        {
+          "rank": 11,
           "name": "Voodoo Child (Slight Return)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -131,7 +143,19 @@
           "duration_ms": 478746
         },
         {
-          "rank": 11,
+          "rank": 12,
+          "name": "The Blister Exists",
+          "artists": [
+            "Slipknot"
+          ],
+          "album": "Vol. 3: The Subliminal Verses (Special Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
+          "uri": "spotify:track:3q7GKmKaiktt57PVIxKOm8",
+          "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8",
+          "duration_ms": 319426
+        },
+        {
+          "rank": 13,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -142,33 +166,6 @@
           "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
           "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
           "duration_ms": 106666
-        },
-        {
-          "rank": 12,
-          "name": "40 - Dj Ess Mix",
-          "artists": [
-            "evilgiane",
-            "xaviersobased",
-            "Nettspend",
-            "DJ Ess"
-          ],
-          "album": "40 (Dj Ess Mix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
-          "duration_ms": 81658
-        },
-        {
-          "rank": 13,
-          "name": "Sulfur",
-          "artists": [
-            "Slipknot"
-          ],
-          "album": "All Hope Is Gone (10th Anniversary)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
-          "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
-          "url": "https://open.spotify.com/track/1ckta9xwbEcxLaGClreVRf",
-          "duration_ms": 277800
         },
         {
           "rank": 14,
@@ -224,27 +221,27 @@
         },
         {
           "rank": 18,
-          "name": "OLYMPIAN",
+          "name": "hakuna matata",
           "artists": [
-            "Playboi Carti"
+            "Gunna"
           ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
-          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
-          "duration_ms": 174733
+          "album": "One of Wun",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
+          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
+          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
+          "duration_ms": 127853
         },
         {
           "rank": 19,
-          "name": "Special",
+          "name": "Warm Safe Place",
           "artists": [
-            "xaviersobased"
+            "Staind"
           ],
-          "album": "Keep it goin xav",
-          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
-          "duration_ms": 104650
+          "album": "Break the Cycle",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+          "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk",
+          "url": "https://open.spotify.com/track/7hLNrNAh3TsLW31yJ81bPk",
+          "duration_ms": 275560
         },
         {
           "rank": 20,
@@ -286,15 +283,18 @@
         },
         {
           "rank": 23,
-          "name": "Can't Tell Me Nothing",
+          "name": "40 - Dj Ess Mix",
           "artists": [
-            "Kanye West"
+            "evilgiane",
+            "xaviersobased",
+            "Nettspend",
+            "DJ Ess"
           ],
-          "album": "Graduation",
-          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-          "duration_ms": 271600
+          "album": "40 (Dj Ess Mix)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
+          "duration_ms": 81658
         },
         {
           "rank": 24,
@@ -334,18 +334,6 @@
         },
         {
           "rank": 27,
-          "name": "Warm Safe Place",
-          "artists": [
-            "Staind"
-          ],
-          "album": "Break the Cycle",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
-          "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk",
-          "url": "https://open.spotify.com/track/7hLNrNAh3TsLW31yJ81bPk",
-          "duration_ms": 275560
-        },
-        {
-          "rank": 28,
           "name": "Texas Flood",
           "artists": [
             "Stevie Ray Vaughan"
@@ -357,7 +345,7 @@
           "duration_ms": 320906
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -369,7 +357,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
           "artists": [
             "The Adventures Of Stevie V"
@@ -381,7 +369,7 @@
           "duration_ms": 243133
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Crossfire",
           "artists": [
             "Stevie Ray Vaughan"
@@ -393,7 +381,7 @@
           "duration_ms": 250856
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -405,19 +393,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 33,
-          "name": "hakuna matata",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "One of Wun",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
-          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
-          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
-          "duration_ms": 127853
-        },
-        {
-          "rank": 34,
+          "rank": 32,
           "name": "Little Wing",
           "artists": [
             "Stevie Ray Vaughan"
@@ -429,7 +405,7 @@
           "duration_ms": 408480
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -441,7 +417,19 @@
           "duration_ms": 232648
         },
         {
-          "rank": 36,
+          "rank": 34,
+          "name": "Special",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "Keep it goin xav",
+          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
+          "duration_ms": 104650
+        },
+        {
+          "rank": 35,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -453,7 +441,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Master Of Puppets",
           "artists": [
             "Metallica"
@@ -465,7 +453,7 @@
           "duration_ms": 515386
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Lean Wit Me",
           "artists": [
             "Juice WRLD"
@@ -477,7 +465,7 @@
           "duration_ms": 175755
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -489,7 +477,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -501,7 +489,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -515,7 +503,7 @@
           "duration_ms": 203428
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Kiss of Life",
           "artists": [
             "Sade"
@@ -525,6 +513,18 @@
           "uri": "spotify:track:65krtHkaYLPr0mEbjL61UP",
           "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
           "duration_ms": 251333
+        },
+        {
+          "rank": 42,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
         },
         {
           "rank": 43,
@@ -540,6 +540,18 @@
         },
         {
           "rank": 44,
+          "name": "One",
+          "artists": [
+            "Metallica"
+          ],
+          "album": "…And Justice for All (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fe896727e3db1027ed72d885",
+          "uri": "spotify:track:02xhLoVqpGmOqvolgrwM8w",
+          "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
+          "duration_ms": 446145
+        },
+        {
+          "rank": 45,
           "name": "Chamber Of Reflection",
           "artists": [
             "Mac DeMarco"
@@ -551,7 +563,7 @@
           "duration_ms": 231723
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -563,7 +575,7 @@
           "duration_ms": 122647
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -575,7 +587,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Cold Shot",
           "artists": [
             "Stevie Ray Vaughan"
@@ -587,7 +599,7 @@
           "duration_ms": 240986
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Holy Wars...The Punishment Due - 2004 Remix",
           "artists": [
             "Megadeth"
@@ -599,7 +611,7 @@
           "duration_ms": 392600
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Symphony Of Destruction - Remastered 2012",
           "artists": [
             "Megadeth"
@@ -609,18 +621,6 @@
           "uri": "spotify:track:5mR858YsHYG761aUqZoGkD",
           "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
           "duration_ms": 241906
-        },
-        {
-          "rank": 50,
-          "name": "Here To Stay",
-          "artists": [
-            "Korn"
-          ],
-          "album": "Untouchables",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b9b950561aa1d3606865a2ee",
-          "uri": "spotify:track:66LT15XEqCaWiMG44NGQRE",
-          "url": "https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE",
-          "duration_ms": 270960
         }
       ],
       "artists": [
