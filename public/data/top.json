@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T02:27:42.321Z",
+  "generated_at": "2026-09-03T07:36:24.944Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -208,6 +208,18 @@
         },
         {
           "rank": 17,
+          "name": "Moonlight on the River",
+          "artists": [
+            "Mac DeMarco"
+          ],
+          "album": "This Old Dog",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
+          "duration_ms": 422613
+        },
+        {
+          "rank": 18,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -220,7 +232,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -232,7 +244,7 @@
           "duration_ms": 127853
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Warm Safe Place",
           "artists": [
             "Staind"
@@ -244,7 +256,7 @@
           "duration_ms": 275560
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -258,7 +270,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Down Under",
           "artists": [
             "Men At Work"
@@ -270,7 +282,7 @@
           "duration_ms": 225706
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -282,7 +294,7 @@
           "duration_ms": 418466
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -297,7 +309,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Sugar Sugar",
           "artists": [
             "The Archies"
@@ -309,7 +321,7 @@
           "duration_ms": 163669
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -321,7 +333,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Holier Than Thou - Remastered 2021",
           "artists": [
             "Metallica"
@@ -333,7 +345,7 @@
           "duration_ms": 227573
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Texas Flood",
           "artists": [
             "Stevie Ray Vaughan"
@@ -345,31 +357,7 @@
           "duration_ms": 320906
         },
         {
-          "rank": 28,
-          "name": "Moonlight on the River",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "This Old Dog",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
-          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
-          "duration_ms": 422613
-        },
-        {
           "rank": 29,
-          "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
-          "artists": [
-            "The Adventures Of Stevie V"
-          ],
-          "album": "Dirty Cash (Money Talks)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
-          "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
-          "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA",
-          "duration_ms": 243133
-        },
-        {
-          "rank": 30,
           "name": "Crossfire",
           "artists": [
             "Stevie Ray Vaughan"
@@ -381,7 +369,7 @@
           "duration_ms": 250856
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -393,7 +381,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Little Wing",
           "artists": [
             "Stevie Ray Vaughan"
@@ -405,7 +393,7 @@
           "duration_ms": 408480
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -417,7 +405,7 @@
           "duration_ms": 232648
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -429,7 +417,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -441,7 +429,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Master Of Puppets",
           "artists": [
             "Metallica"
@@ -453,7 +441,7 @@
           "duration_ms": 515386
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Lean Wit Me",
           "artists": [
             "Juice WRLD"
@@ -465,7 +453,7 @@
           "duration_ms": 175755
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -477,7 +465,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -489,7 +477,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -503,7 +491,7 @@
           "duration_ms": 203428
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Kiss of Life",
           "artists": [
             "Sade"
@@ -515,7 +503,7 @@
           "duration_ms": 251333
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -527,7 +515,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -539,7 +527,7 @@
           "duration_ms": 210506
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "One",
           "artists": [
             "Metallica"
@@ -551,7 +539,7 @@
           "duration_ms": 446145
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Chamber Of Reflection",
           "artists": [
             "Mac DeMarco"
@@ -563,7 +551,7 @@
           "duration_ms": 231723
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -575,7 +563,7 @@
           "duration_ms": 122647
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -587,7 +575,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Cold Shot",
           "artists": [
             "Stevie Ray Vaughan"
@@ -599,7 +587,7 @@
           "duration_ms": 240986
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Holy Wars...The Punishment Due - 2004 Remix",
           "artists": [
             "Megadeth"
@@ -611,7 +599,7 @@
           "duration_ms": 392600
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Symphony Of Destruction - Remastered 2012",
           "artists": [
             "Megadeth"
@@ -621,6 +609,18 @@
           "uri": "spotify:track:5mR858YsHYG761aUqZoGkD",
           "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
           "duration_ms": 241906
+        },
+        {
+          "rank": 50,
+          "name": "Here To Stay",
+          "artists": [
+            "Korn"
+          ],
+          "album": "Untouchables",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b9b950561aa1d3606865a2ee",
+          "uri": "spotify:track:66LT15XEqCaWiMG44NGQRE",
+          "url": "https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE",
+          "duration_ms": 270960
         }
       ],
       "artists": [
