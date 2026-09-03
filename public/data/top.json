@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:16:34.515Z",
+  "generated_at": "2026-09-03T22:58:09.780Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2102,6 +2102,18 @@
         },
         {
           "rank": 18,
+          "name": "OLYMPIAN",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
+          "duration_ms": 174733
+        },
+        {
+          "rank": 19,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -2114,7 +2126,7 @@
           "duration_ms": 205701
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "fukumean",
           "artists": [
             "Gunna"
@@ -2126,7 +2138,7 @@
           "duration_ms": 125040
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Drip or Drown",
           "artists": [
             "Gunna"
@@ -2138,7 +2150,7 @@
           "duration_ms": 126168
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Location",
           "artists": [
             "Playboi Carti"
@@ -2148,18 +2160,6 @@
           "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
           "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
           "duration_ms": 168783
-        },
-        {
-          "rank": 22,
-          "name": "OLYMPIAN",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
-          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
-          "duration_ms": 174733
         },
         {
           "rank": 23,
@@ -2638,19 +2638,19 @@
         },
         {
           "rank": 16,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "rank": 17,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 17,
+          "name": "Alice In Chains",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+          "genres": [],
+          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
           "rank": 18,
@@ -2782,14 +2782,6 @@
         },
         {
           "rank": 34,
-          "name": "Kenny Loggins",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe5ade0d346536449c7a75b48",
-          "genres": [],
-          "uri": "spotify:artist:3Y3xIwWyq5wnNHPp5gPjOW",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "rank": 35,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
@@ -2797,12 +2789,20 @@
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
           "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
+        },
+        {
+          "rank": 36,
+          "name": "Kenny Loggins",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe5ade0d346536449c7a75b48",
+          "genres": [],
+          "uri": "spotify:artist:3Y3xIwWyq5wnNHPp5gPjOW",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         },
         {
           "rank": 37,
