@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-04T02:30:12.721Z",
-  "is_playing": true,
+  "updated_at": "2026-09-04T07:37:42.893Z",
+  "is_playing": false,
   "track": {
-    "name": "Moonlight on the River",
+    "name": "Something In The Way",
     "artists": [
-      "Mac DeMarco"
+      "Nirvana"
     ],
-    "album": "This Old Dog",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739f1b21f21b13ff2d3e891f6b",
-    "uri": "spotify:track:2fhOljbX79loRcdl47SFye"
+    "album": "Nevermind (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+    "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s"
   },
-  "played_at": "2026-09-04T02:30:12.721Z"
+  "played_at": "2026-09-04T03:54:39.561Z"
 }
