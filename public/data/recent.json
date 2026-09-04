@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T22:58:09.871Z",
+  "updated_at": "2026-09-04T02:30:12.549Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -11005,6 +11005,237 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
       "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
       "duration_ms": 422613
+    },
+    {
+      "played_at": "2026-09-03T23:28:45.414Z",
+      "name": "Man in the Box",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Facelift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733cf83c82a8e976d7b51e2d00",
+      "uri": "spotify:track:6gZVQvQZOFpzIy3HblJ20F",
+      "duration_ms": 285200
+    },
+    {
+      "played_at": "2026-09-03T23:36:38.546Z",
+      "name": "Harvester of Sorrow (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "...And Justice for All (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
+      "uri": "spotify:track:3IolN0Ae207i0Fr9IHuNbu",
+      "duration_ms": 345283
+    },
+    {
+      "played_at": "2026-09-04T00:27:58.541Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-09-04T01:13:07.404Z",
+      "name": "Warm Safe Place",
+      "artists": [
+        "Staind"
+      ],
+      "album": "Break the Cycle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+      "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk",
+      "duration_ms": 275560
+    },
+    {
+      "played_at": "2026-09-04T01:25:35.431Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-09-04T01:27:54.005Z",
+      "name": "Blackbird - Remastered 2009",
+      "artists": [
+        "The Beatles"
+      ],
+      "album": "The Beatles (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+      "uri": "spotify:track:5jgFfDIR6FR0gvlA56Nakr",
+      "duration_ms": 138386
+    },
+    {
+      "played_at": "2026-09-04T01:32:24.132Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-09-04T01:35:50.498Z",
+      "name": "Oh Me - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
+      "duration_ms": 206160
+    },
+    {
+      "played_at": "2026-09-04T01:46:50.684Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
+    },
+    {
+      "played_at": "2026-09-04T01:49:25.682Z",
+      "name": "Safe In Your Skin",
+      "artists": [
+        "Title Fight"
+      ],
+      "album": "Shed",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
+      "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
+      "duration_ms": 154800
+    },
+    {
+      "played_at": "2026-09-04T01:53:27.475Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-09-04T01:57:14.634Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-09-04T02:00:49.136Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-09-04T02:04:23.705Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-09-04T02:08:00.935Z",
+      "name": "Blue Hair",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-09-04T02:12:12.557Z",
+      "name": "Everything In Its Right Place",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "Kid A",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+      "duration_ms": 251426
+    },
+    {
+      "played_at": "2026-09-04T02:16:39.616Z",
+      "name": "Falling Behind",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Everything I Know About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+      "duration_ms": 173640
+    },
+    {
+      "played_at": "2026-09-04T02:19:21.778Z",
+      "name": "rises the moon",
+      "artists": [
+        "Liana Flores"
+      ],
+      "album": "recently",
+      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
+      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
+      "duration_ms": 161929
+    },
+    {
+      "played_at": "2026-09-04T02:22:52.034Z",
+      "name": "On The Square",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Here Comes The Cowboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
+      "uri": "spotify:track:1WyEXbMQLt9szrhDos1uz8",
+      "duration_ms": 209393
+    },
+    {
+      "played_at": "2026-09-04T02:25:59.948Z",
+      "name": "For the First Time",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
+      "duration_ms": 182306
+    },
+    {
+      "played_at": "2026-09-04T02:29:51.846Z",
+      "name": "Chamber Of Reflection",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Salad Days",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
+      "uri": "spotify:track:1Snko28yJOihcRVXs9dAo9",
+      "duration_ms": 231723
     }
   ]
 }
