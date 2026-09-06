@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-06T12:31:17.738Z",
-  "is_playing": false,
+  "updated_at": "2026-09-06T17:26:45.058Z",
+  "is_playing": true,
   "track": {
-    "name": "Miserlou",
+    "name": "Neoperreo",
     "artists": [
-      "Dick Dale & His Del-Tones"
+      "Secret Society",
+      "ALIC3E"
     ],
-    "album": "Surfer's Choice",
-    "image": "https://i.scdn.co/image/ab67616d0000b273189c10c705d2967fc0f503f7",
-    "uri": "spotify:track:587i4g5fwUDAdl5xTP7UtW"
+    "album": "Neoperreo",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735909b2e743edb9f2f064999b",
+    "uri": "spotify:track:28DBPgLD7pUjGA561yzd8X"
   },
-  "played_at": "2026-09-06T02:53:13.573Z"
+  "played_at": "2026-09-06T17:26:45.058Z"
 }
