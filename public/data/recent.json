@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T02:20:10.493Z",
+  "updated_at": "2026-09-06T07:29:29.750Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -11499,6 +11499,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
       "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
       "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-09-06T01:48:43.363Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
+    },
+    {
+      "played_at": "2026-09-06T02:22:53.687Z",
+      "name": "Who You Foolin",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "Drip or Drown 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
+      "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
+      "duration_ms": 151539
+    },
+    {
+      "played_at": "2026-09-06T02:23:25.354Z",
+      "name": "Who You Foolin",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "Drip or Drown 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
+      "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
+      "duration_ms": 151539
+    },
+    {
+      "played_at": "2026-09-06T02:50:09.278Z",
+      "name": "Outstanding",
+      "artists": [
+        "The Gap Band"
+      ],
+      "album": "The Gap Band IV",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731eeaabd6f72ff29707f0476f",
+      "uri": "spotify:track:2yd0XI7g0BhAgY9GkpPClU",
+      "duration_ms": 198800
+    },
+    {
+      "played_at": "2026-09-06T02:53:13.573Z",
+      "name": "Miserlou",
+      "artists": [
+        "Dick Dale & His Del-Tones"
+      ],
+      "album": "Surfer's Choice",
+      "image": "https://i.scdn.co/image/ab67616d0000b273189c10c705d2967fc0f503f7",
+      "uri": "spotify:track:587i4g5fwUDAdl5xTP7UtW",
+      "duration_ms": 137426
     }
   ]
 }
