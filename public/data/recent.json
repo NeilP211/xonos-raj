@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T17:26:44.929Z",
+  "updated_at": "2026-09-06T19:50:59.374Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -11565,6 +11565,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f13d49b28f0c25838acc136b",
       "uri": "spotify:track:555oowE8kujtS6bR2GOOPD",
       "duration_ms": 127578
+    },
+    {
+      "played_at": "2026-09-06T18:46:02.006Z",
+      "name": "bake shop",
+      "artists": [
+        "kuala"
+      ],
+      "album": "bake shop",
+      "image": "https://i.scdn.co/image/ab67616d0000b273540c6a5c78bd857c85bb256d",
+      "uri": "spotify:track:2KU7CB4GA26r0VQ47Lvf9i",
+      "duration_ms": 212307
     }
   ]
 }

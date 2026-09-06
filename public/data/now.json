@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-06T17:26:45.058Z",
-  "is_playing": true,
+  "updated_at": "2026-09-06T19:50:59.437Z",
+  "is_playing": false,
   "track": {
-    "name": "Neoperreo",
+    "name": "bake shop",
     "artists": [
-      "Secret Society",
-      "ALIC3E"
+      "kuala"
     ],
-    "album": "Neoperreo",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735909b2e743edb9f2f064999b",
-    "uri": "spotify:track:28DBPgLD7pUjGA561yzd8X"
+    "album": "bake shop",
+    "image": "https://i.scdn.co/image/ab67616d0000b273540c6a5c78bd857c85bb256d",
+    "uri": "spotify:track:2KU7CB4GA26r0VQ47Lvf9i"
   },
-  "played_at": "2026-09-06T17:26:45.058Z"
+  "played_at": "2026-09-06T18:46:02.006Z"
 }
