@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:37:28.679Z",
+  "updated_at": "2026-09-07T02:17:23.982Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -11791,6 +11791,85 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273780766f32cfa6359c93ae2dc",
       "uri": "spotify:track:5E9qBEUja2yAjUPhQO8Gx7",
       "duration_ms": 203294
+    },
+    {
+      "played_at": "2026-09-06T22:21:32.159Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-09-06T22:23:19.334Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-09-06T22:26:41.932Z",
+      "name": "Today",
+      "artists": [
+        "The Smashing Pumpkins"
+      ],
+      "album": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c48f42fdafcffcedbdbce025",
+      "uri": "spotify:track:1XPta4VLT78HQnVFd1hlsK",
+      "duration_ms": 202133
+    },
+    {
+      "played_at": "2026-09-06T22:31:06.021Z",
+      "name": "1979",
+      "artists": [
+        "The Smashing Pumpkins"
+      ],
+      "album": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c48f42fdafcffcedbdbce025",
+      "uri": "spotify:track:3h5zik31hTTat9jmpCZZNC",
+      "duration_ms": 263573
+    },
+    {
+      "played_at": "2026-09-06T22:32:12.762Z",
+      "name": "Springsteen",
+      "artists": [
+        "Eric Church"
+      ],
+      "album": "Chief",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+      "duration_ms": 263386
+    },
+    {
+      "played_at": "2026-09-06T23:10:38.876Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-09-07T01:00:48.839Z",
+      "name": "Flight's Booked",
+      "artists": [
+        "Drake"
+      ],
+      "album": "Honestly, Nevermind",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+      "uri": "spotify:track:6Yj7Zhxt73uvwFFvzQXdxO",
+      "duration_ms": 254407
     }
   ]
 }

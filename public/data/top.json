@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:37:28.421Z",
+  "generated_at": "2026-09-07T02:17:23.849Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -132,6 +132,19 @@
         },
         {
           "rank": 11,
+          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+          "artists": [
+            "lil ricefield",
+            "seiji oda"
+          ],
+          "album": "Eat Rice Dummy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
+          "duration_ms": 106666
+        },
+        {
+          "rank": 12,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -143,7 +156,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -155,7 +168,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Warm Safe Place",
           "artists": [
             "Staind"
@@ -167,7 +180,7 @@
           "duration_ms": 275560
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Voodoo Child (Slight Return)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -177,19 +190,6 @@
           "uri": "spotify:track:1kY6OOTBmRNzhYmu9xSH3a",
           "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a",
           "duration_ms": 478746
-        },
-        {
-          "rank": 15,
-          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-          "artists": [
-            "lil ricefield",
-            "seiji oda"
-          ],
-          "album": "Eat Rice Dummy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
-          "duration_ms": 106666
         },
         {
           "rank": 16,
@@ -730,19 +730,19 @@
         },
         {
           "rank": 14,
-          "name": "ian",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
-          "genres": [],
-          "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
-          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
-        },
-        {
-          "rank": 15,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 15,
+          "name": "ian",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
+          "genres": [],
+          "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         },
         {
           "rank": 16,
@@ -834,6 +834,14 @@
         },
         {
           "rank": 27,
+          "name": "The Smashing Pumpkins",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2897dd777bbd8e3f23e49c99",
+          "genres": [],
+          "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        },
+        {
+          "rank": 28,
           "name": "rommulas",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1eb829798a363e977e39fea1",
           "genres": [],
