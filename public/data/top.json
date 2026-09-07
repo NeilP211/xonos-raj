@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:45:57.650Z",
+  "generated_at": "2026-09-07T14:40:13.511Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1392,6 +1392,18 @@
         },
         {
           "rank": 43,
+          "name": "7 Summers",
+          "artists": [
+            "Morgan Wallen"
+          ],
+          "album": "Dangerous: The Double Album",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
+          "duration_ms": 210506
+        },
+        {
+          "rank": 44,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -1404,7 +1416,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -1416,7 +1428,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Mimosa 2000",
           "artists": [
             "Furacão 2000",
@@ -1429,7 +1441,7 @@
           "duration_ms": 140560
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Catch Me Outside",
           "artists": [
             "Ski Mask The Slump God"
@@ -1441,7 +1453,7 @@
           "duration_ms": 145760
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "ROCKIN",
           "artists": [
             "Shoreline Mafia",
@@ -1453,18 +1465,6 @@
           "uri": "spotify:track:3MRnsf4r8lwep9MqPQ7Gwz",
           "url": "https://open.spotify.com/track/3MRnsf4r8lwep9MqPQ7Gwz",
           "duration_ms": 129722
-        },
-        {
-          "rank": 48,
-          "name": "7 Summers",
-          "artists": [
-            "Morgan Wallen"
-          ],
-          "album": "Dangerous: The Double Album",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
-          "duration_ms": 210506
         },
         {
           "rank": 49,
