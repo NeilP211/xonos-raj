@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T02:29:49.638Z",
+  "updated_at": "2026-09-08T07:40:11.178Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -12040,6 +12040,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
       "uri": "spotify:track:6fujklziTHa8uoM5OQSfIo",
       "duration_ms": 291893
+    },
+    {
+      "played_at": "2026-09-08T03:03:37.698Z",
+      "name": "Big Energy",
+      "artists": [
+        "Latto"
+      ],
+      "album": "Big Energy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abf934534eacd57586244f46",
+      "uri": "spotify:track:6Zu3aw7FfjAF9WA0fA81Oq",
+      "duration_ms": 173182
     }
   ]
 }
