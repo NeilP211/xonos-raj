@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T23:14:02.630Z",
+  "updated_at": "2026-09-08T02:29:49.638Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -12028,6 +12028,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
       "uri": "spotify:track:2TXzXJWWzESQq5glbDtZc9",
       "duration_ms": 198373
+    },
+    {
+      "played_at": "2026-09-07T18:02:38.603Z",
+      "name": "Black Beatles",
+      "artists": [
+        "Rae Sremmurd",
+        "Gucci Mane"
+      ],
+      "album": "SremmLife 2 (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
+      "uri": "spotify:track:6fujklziTHa8uoM5OQSfIo",
+      "duration_ms": 291893
     }
   ]
 }

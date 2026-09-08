@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-07T23:14:02.711Z",
+  "updated_at": "2026-09-08T02:29:49.707Z",
   "is_playing": false,
   "track": {
-    "name": "Ice Cream Man - 2015 Remaster",
+    "name": "Black Beatles",
     "artists": [
-      "Van Halen"
+      "Rae Sremmurd",
+      "Gucci Mane"
     ],
-    "album": "Van Halen (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
-    "uri": "spotify:track:2TXzXJWWzESQq5glbDtZc9"
+    "album": "SremmLife 2 (Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
+    "uri": "spotify:track:6fujklziTHa8uoM5OQSfIo"
   },
-  "played_at": "2026-09-07T17:55:12.888Z"
+  "played_at": "2026-09-07T18:02:38.603Z"
 }
