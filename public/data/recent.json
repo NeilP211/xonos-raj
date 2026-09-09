@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T02:31:34.279Z",
+  "updated_at": "2026-09-09T07:44:34.757Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -12051,6 +12051,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273abf934534eacd57586244f46",
       "uri": "spotify:track:6Zu3aw7FfjAF9WA0fA81Oq",
       "duration_ms": 173182
+    },
+    {
+      "played_at": "2026-09-08T14:31:17.430Z",
+      "name": "TATI (feat. DJ Spinking)",
+      "artists": [
+        "6ix9ine",
+        "DJ SpinKing"
+      ],
+      "album": "DUMMY BOY (Revised)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730a4da3f1a72e4ecaabb76370",
+      "uri": "spotify:track:0CFJoopJPNMEC7Itmp64Yb",
+      "duration_ms": 154565
+    },
+    {
+      "played_at": "2026-09-08T21:05:25.704Z",
+      "name": "GUMMO",
+      "artists": [
+        "6ix9ine"
+      ],
+      "album": "GUMMO",
+      "image": "https://i.scdn.co/image/ab6742d3000053b756020f7acf0bc5927324f32a",
+      "uri": "spotify:track:1FcLKjTSfXEDoZwRDubT73",
+      "duration_ms": 158037
+    },
+    {
+      "played_at": "2026-09-08T21:05:43.657Z",
+      "name": "DAWG FIGHT",
+      "artists": [
+        "Dawg Fight",
+        "Doomsday"
+      ],
+      "album": "For My Dawgs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731a0b89d22392a33161163c6d",
+      "uri": "spotify:track:4foHbEX7hLjtRZCdwzxkYb",
+      "duration_ms": 204543
+    },
+    {
+      "played_at": "2026-09-09T05:54:30.193Z",
+      "name": "Domination",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "Cowboys from Hell",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
+      "uri": "spotify:track:769cLRTw2y6KRdkFWFkxtu",
+      "duration_ms": 305293
     }
   ]
 }
