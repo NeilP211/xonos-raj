@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:15:30.050Z",
+  "updated_at": "2026-09-10T17:59:01.601Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -12208,6 +12208,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
       "uri": "spotify:track:7EAMXbLcL0qXmciM5SwMh2",
       "duration_ms": 211140
+    },
+    {
+      "played_at": "2026-09-10T14:49:40.989Z",
+      "name": "Far From Any Road - Main Title Theme from \"True Detective\"",
+      "artists": [
+        "The Handsome Family"
+      ],
+      "album": "Far From Any Road (Main Title Theme from \"True Detective\")",
+      "image": "https://i.scdn.co/image/ab67616d0000b27392adfa6a80a2d70deebe83f0",
+      "uri": "spotify:track:1PmWRQ2TPB5FCOvinqx7ql",
+      "duration_ms": 166493
+    },
+    {
+      "played_at": "2026-09-10T15:59:59.444Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-09-10T16:10:49.834Z",
+      "name": "Special",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+      "duration_ms": 104650
+    },
+    {
+      "played_at": "2026-09-10T16:13:20.353Z",
+      "name": "mud",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "Forever, ILY.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
+      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
+      "duration_ms": 107951
     }
   ]
 }
