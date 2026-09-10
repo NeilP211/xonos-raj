@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T02:32:09.756Z",
+  "generated_at": "2026-09-10T07:44:39.665Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -42,6 +42,18 @@
         },
         {
           "rank": 4,
+          "name": "Moonlight on the River",
+          "artists": [
+            "Mac DeMarco"
+          ],
+          "album": "This Old Dog",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
+          "duration_ms": 422613
+        },
+        {
+          "rank": 5,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -55,7 +67,7 @@
           "duration_ms": 135861
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Make You Whole (Radio Edit)",
           "artists": [
             "Andronicus"
@@ -67,7 +79,7 @@
           "duration_ms": 212168
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Sulfur",
           "artists": [
             "Slipknot"
@@ -77,18 +89,6 @@
           "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
           "url": "https://open.spotify.com/track/1ckta9xwbEcxLaGClreVRf",
           "duration_ms": 277800
-        },
-        {
-          "rank": 7,
-          "name": "Moonlight on the River",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "This Old Dog",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
-          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
-          "duration_ms": 422613
         },
         {
           "rank": 8,
@@ -104,19 +104,6 @@
         },
         {
           "rank": 9,
-          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-          "artists": [
-            "lil ricefield",
-            "seiji oda"
-          ],
-          "album": "Eat Rice Dummy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
-          "duration_ms": 106666
-        },
-        {
-          "rank": 10,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -128,19 +115,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 11,
-          "name": "fukumean",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "a Gift & a Curse",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
-          "duration_ms": 125040
-        },
-        {
-          "rank": 12,
+          "rank": 10,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -152,19 +127,19 @@
           "duration_ms": 174733
         },
         {
-          "rank": 13,
-          "name": "Don't Dream It's Over",
+          "rank": 11,
+          "name": "rises the moon",
           "artists": [
-            "Crowded House"
+            "Liana Flores"
           ],
-          "album": "Crowded House",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
-          "duration_ms": 236933
+          "album": "recently",
+          "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
+          "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
+          "url": "https://open.spotify.com/track/2k47MKPoBLFbKwqP796ZAA",
+          "duration_ms": 161929
         },
         {
-          "rank": 14,
+          "rank": 12,
           "name": "Voodoo Child (Slight Return)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -176,7 +151,7 @@
           "duration_ms": 478746
         },
         {
-          "rank": 15,
+          "rank": 13,
           "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
           "artists": [
             "Shoreline Mafia",
@@ -192,7 +167,7 @@
           "duration_ms": 174335
         },
         {
-          "rank": 16,
+          "rank": 14,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -204,31 +179,19 @@
           "duration_ms": 418466
         },
         {
-          "rank": 17,
-          "name": "The Blister Exists",
+          "rank": 15,
+          "name": "fukumean",
           "artists": [
-            "Slipknot"
+            "Gunna"
           ],
-          "album": "Vol. 3: The Subliminal Verses (Special Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
-          "uri": "spotify:track:3q7GKmKaiktt57PVIxKOm8",
-          "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8",
-          "duration_ms": 319426
+          "album": "a Gift & a Curse",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
+          "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
+          "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
+          "duration_ms": 125040
         },
         {
-          "rank": 18,
-          "name": "rises the moon",
-          "artists": [
-            "Liana Flores"
-          ],
-          "album": "recently",
-          "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
-          "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
-          "url": "https://open.spotify.com/track/2k47MKPoBLFbKwqP796ZAA",
-          "duration_ms": 161929
-        },
-        {
-          "rank": 19,
+          "rank": 16,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -240,7 +203,19 @@
           "duration_ms": 127853
         },
         {
-          "rank": 20,
+          "rank": 17,
+          "name": "Nutshell",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
+          "duration_ms": 259200
+        },
+        {
+          "rank": 18,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -252,7 +227,7 @@
           "duration_ms": 89535
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -265,7 +240,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 22,
+          "rank": 20,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -277,7 +252,19 @@
           "duration_ms": 251426
         },
         {
-          "rank": 23,
+          "rank": 21,
+          "name": "The Blister Exists",
+          "artists": [
+            "Slipknot"
+          ],
+          "album": "Vol. 3: The Subliminal Verses (Special Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
+          "uri": "spotify:track:3q7GKmKaiktt57PVIxKOm8",
+          "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8",
+          "duration_ms": 319426
+        },
+        {
+          "rank": 22,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -287,6 +274,19 @@
           "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
           "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
           "duration_ms": 210506
+        },
+        {
+          "rank": 23,
+          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+          "artists": [
+            "lil ricefield",
+            "seiji oda"
+          ],
+          "album": "Eat Rice Dummy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
+          "duration_ms": 106666
         },
         {
           "rank": 24,
@@ -302,6 +302,18 @@
         },
         {
           "rank": 25,
+          "name": "Every Breath You Take",
+          "artists": [
+            "The Police"
+          ],
+          "album": "Synchronicity (Remastered 2003)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
+          "duration_ms": 253920
+        },
+        {
+          "rank": 26,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -316,7 +328,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Sugar Sugar",
           "artists": [
             "The Archies"
@@ -328,7 +340,7 @@
           "duration_ms": 163669
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -340,7 +352,7 @@
           "duration_ms": 156364
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -355,7 +367,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Holier Than Thou - Remastered 2021",
           "artists": [
             "Metallica"
@@ -367,7 +379,7 @@
           "duration_ms": 227573
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Springsteen",
           "artists": [
             "Eric Church"
@@ -377,18 +389,6 @@
           "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
           "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
           "duration_ms": 263386
-        },
-        {
-          "rank": 31,
-          "name": "Every Breath You Take",
-          "artists": [
-            "The Police"
-          ],
-          "album": "Synchronicity (Remastered 2003)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
-          "duration_ms": 253920
         },
         {
           "rank": 32,
@@ -404,6 +404,18 @@
         },
         {
           "rank": 33,
+          "name": "Don't Dream It's Over",
+          "artists": [
+            "Crowded House"
+          ],
+          "album": "Crowded House",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+          "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
+          "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
+          "duration_ms": 236933
+        },
+        {
+          "rank": 34,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -415,7 +427,7 @@
           "duration_ms": 232648
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Crossfire",
           "artists": [
             "Stevie Ray Vaughan"
@@ -427,7 +439,7 @@
           "duration_ms": 250856
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Chamber Of Reflection",
           "artists": [
             "Mac DeMarco"
@@ -439,7 +451,7 @@
           "duration_ms": 231723
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
@@ -451,7 +463,7 @@
           "duration_ms": 232203
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -463,7 +475,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Little Wing",
           "artists": [
             "Stevie Ray Vaughan"
@@ -475,7 +487,7 @@
           "duration_ms": 408480
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Enter Sandman - Remastered 2021",
           "artists": [
             "Metallica"
@@ -487,7 +499,19 @@
           "duration_ms": 331560
         },
         {
-          "rank": 40,
+          "rank": 41,
+          "name": "Oh Me - Live",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "MTV Unplugged In New York",
+          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+          "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
+          "url": "https://open.spotify.com/track/2vfCSwToh0Am0O4zgHXfn7",
+          "duration_ms": 206160
+        },
+        {
+          "rank": 42,
           "name": "Down Under",
           "artists": [
             "Men At Work"
@@ -499,7 +523,7 @@
           "duration_ms": 225706
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -511,7 +535,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -523,7 +547,7 @@
           "duration_ms": 122647
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -535,7 +559,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Holy Wars...The Punishment Due - 2004 Remix",
           "artists": [
             "Megadeth"
@@ -547,7 +571,7 @@
           "duration_ms": 392600
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Blackbird - Remastered 2009",
           "artists": [
             "The Beatles"
@@ -559,7 +583,7 @@
           "duration_ms": 138386
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -571,7 +595,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Harvester of Sorrow",
           "artists": [
             "Metallica"
@@ -583,7 +607,7 @@
           "duration_ms": 345283
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -593,30 +617,6 @@
           "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
           "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t",
           "duration_ms": 217000
-        },
-        {
-          "rank": 49,
-          "name": "Symphony Of Destruction - Remastered 2012",
-          "artists": [
-            "Megadeth"
-          ],
-          "album": "Countdown To Extinction (Deluxe Edition - Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
-          "uri": "spotify:track:5mR858YsHYG761aUqZoGkD",
-          "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
-          "duration_ms": 241906
-        },
-        {
-          "rank": 50,
-          "name": "Kiss of Life",
-          "artists": [
-            "Sade"
-          ],
-          "album": "The Best of Sade",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-          "uri": "spotify:track:65krtHkaYLPr0mEbjL61UP",
-          "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
-          "duration_ms": 251333
         }
       ],
       "artists": [
@@ -678,6 +678,14 @@
         },
         {
           "rank": 8,
+          "name": "Gunna",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
+          "genres": [],
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "rank": 9,
           "name": "Megadeth",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
           "genres": [],
@@ -685,7 +693,7 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
@@ -693,20 +701,12 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
           "genres": [],
           "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        },
-        {
-          "rank": 11,
-          "name": "Gunna",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
-          "genres": [],
-          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
           "rank": 12,
@@ -726,22 +726,6 @@
         },
         {
           "rank": 14,
-          "name": "Van Halen",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
-          "genres": [],
-          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        },
-        {
-          "rank": 15,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-          "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "rank": 16,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -749,7 +733,15 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
-          "rank": 17,
+          "rank": 15,
+          "name": "Van Halen",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
+          "genres": [],
+          "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        },
+        {
+          "rank": 16,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
@@ -757,7 +749,7 @@
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
@@ -765,12 +757,20 @@
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
           "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
+        },
+        {
+          "rank": 19,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 20,

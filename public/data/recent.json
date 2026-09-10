@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T02:32:09.880Z",
+  "updated_at": "2026-09-10T07:44:39.811Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -12097,6 +12097,117 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
       "uri": "spotify:track:769cLRTw2y6KRdkFWFkxtu",
       "duration_ms": 305293
+    },
+    {
+      "played_at": "2026-09-09T17:46:57.965Z",
+      "name": "Moosy - viral",
+      "artists": [
+        "ilyhiryu"
+      ],
+      "album": "Moosy (viral)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
+      "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
+      "duration_ms": 140197
+    },
+    {
+      "played_at": "2026-09-09T18:48:23.271Z",
+      "name": "mud",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "Forever, ILY.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
+      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
+      "duration_ms": 107951
+    },
+    {
+      "played_at": "2026-09-09T18:49:43.481Z",
+      "name": "mud",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "Forever, ILY.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
+      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
+      "duration_ms": 107951
+    },
+    {
+      "played_at": "2026-09-09T23:32:37.568Z",
+      "name": "Hours In Silence",
+      "artists": [
+        "Drake",
+        "21 Savage"
+      ],
+      "album": "Her Loss",
+      "image": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+      "uri": "spotify:track:0sSRLXxknVTQDStgU1NqpY",
+      "duration_ms": 399153
+    },
+    {
+      "played_at": "2026-09-10T02:11:22.422Z",
+      "name": "Sulfur",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
+      "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
+      "duration_ms": 277800
+    },
+    {
+      "played_at": "2026-09-10T04:39:42.109Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-09-10T04:43:08.722Z",
+      "name": "Oh Me - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
+      "duration_ms": 206160
+    },
+    {
+      "played_at": "2026-09-10T04:48:03.658Z",
+      "name": "rises the moon",
+      "artists": [
+        "Liana Flores"
+      ],
+      "album": "recently",
+      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
+      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
+      "duration_ms": 161929
+    },
+    {
+      "played_at": "2026-09-10T04:50:09.090Z",
+      "name": "And I Love Her",
+      "artists": [
+        "Kurt Cobain"
+      ],
+      "album": "Montage Of Heck: The Home Recordings",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a4c50ce025b39993dea03d71",
+      "uri": "spotify:track:7x4b0UccXSKBWxWmjcrG2T",
+      "duration_ms": 124933
+    },
+    {
+      "played_at": "2026-09-10T04:52:01.037Z",
+      "name": "Heart To Heart",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Here Comes The Cowboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
+      "uri": "spotify:track:7EAMXbLcL0qXmciM5SwMh2",
+      "duration_ms": 211140
     }
   ]
 }
