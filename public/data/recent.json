@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T20:36:17.259Z",
+  "updated_at": "2026-09-10T22:52:49.415Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -12299,6 +12299,140 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27392adfa6a80a2d70deebe83f0",
       "uri": "spotify:track:1PmWRQ2TPB5FCOvinqx7ql",
       "duration_ms": 166493
+    },
+    {
+      "played_at": "2026-09-10T20:59:34.986Z",
+      "name": "Flashing Lights",
+      "artists": [
+        "Kanye West",
+        "Dwele"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:5TRPicyLGbAF2LGBFbHGvO",
+      "duration_ms": 237506
+    },
+    {
+      "played_at": "2026-09-10T21:07:16.146Z",
+      "name": "40 - Dj Ess Mix",
+      "artists": [
+        "evilgiane",
+        "xaviersobased",
+        "Nettspend",
+        "DJ Ess"
+      ],
+      "album": "40 (Dj Ess Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-09-10T21:11:53.650Z",
+      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin",
+        "OHGEESY"
+      ],
+      "album": "OTXmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
+      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
+      "duration_ms": 164400
+    },
+    {
+      "played_at": "2026-09-10T21:13:27.355Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-09-10T21:17:37.060Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-09-10T21:32:58.673Z",
+      "name": "mud",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "Forever, ILY.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
+      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
+      "duration_ms": 107951
+    },
+    {
+      "played_at": "2026-09-10T21:36:53.822Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-09-10T21:40:21.189Z",
+      "name": "In The Air",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "In The Air",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a36ff1ccb437954a2e7554b0",
+      "uri": "spotify:track:3y67OmsYWyCevujkT4N6q1",
+      "duration_ms": 206878
+    },
+    {
+      "played_at": "2026-09-10T21:42:25.567Z",
+      "name": "LOT OF ME",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "We Love You Tecca 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f156ced88fa6920e86ddf11f",
+      "uri": "spotify:track:2ZXxRC6V6AXzMdbLQZMHSB",
+      "duration_ms": 123870
+    },
+    {
+      "played_at": "2026-09-10T21:45:01.417Z",
+      "name": "Gangstas & Sippas (feat. Q Da Fool)",
+      "artists": [
+        "Shoreline Mafia",
+        "Q Da Fool"
+      ],
+      "album": "Gangstas & Sippas (feat. Q Da Fool)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fadfb282847d8d7830cd06dc",
+      "uri": "spotify:track:6dRK7lr3WCpQjfSFSA0oI1",
+      "duration_ms": 155346
+    },
+    {
+      "played_at": "2026-09-10T21:46:52.746Z",
+      "name": "Who's Dat",
+      "artists": [
+        "ABG Neal"
+      ],
+      "album": "Who's Dat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5aea629e18c12f931d111a3",
+      "uri": "spotify:track:1kg3sjif9p9Qvq4zWDGpcK",
+      "duration_ms": 110837
     }
   ]
 }
