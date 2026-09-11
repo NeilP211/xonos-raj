@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T02:26:40.645Z",
+  "updated_at": "2026-09-11T07:39:44.927Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -12628,6 +12628,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
       "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
       "duration_ms": 91288
+    },
+    {
+      "played_at": "2026-09-11T02:33:11.836Z",
+      "name": "Can't Tell Me Nothing",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600
+    },
+    {
+      "played_at": "2026-09-11T02:38:02.753Z",
+      "name": "hyperjerk",
+      "artists": [
+        "thesoupiscold"
+      ],
+      "album": "hyperjerk",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379eadb971684b25e4eefa095",
+      "uri": "spotify:track:4N9CzZCUwbqGByoudr91SG",
+      "duration_ms": 124941
+    },
+    {
+      "played_at": "2026-09-11T02:40:41.063Z",
+      "name": "Gët Busy",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f18c4658caa4a3d47f2d978",
+      "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
+      "duration_ms": 157779
+    },
+    {
+      "played_at": "2026-09-11T02:47:48.059Z",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "artists": [
+        "Kodak Black",
+        "Offset",
+        "Travis Scott"
+      ],
+      "album": "Dying to Live",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+      "duration_ms": 228759
+    },
+    {
+      "played_at": "2026-09-11T03:44:04.341Z",
+      "name": "GUMMO",
+      "artists": [
+        "6ix9ine"
+      ],
+      "album": "Day69: Graduation Day",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
+      "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt",
+      "duration_ms": 157643
     }
   ]
 }

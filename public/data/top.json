@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:26:40.493Z",
+  "generated_at": "2026-09-11T07:39:44.683Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -270,6 +270,18 @@
         },
         {
           "rank": 22,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
+        },
+        {
+          "rank": 23,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -281,7 +293,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -293,7 +305,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -306,7 +318,7 @@
           "duration_ms": 106666
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "The Blister Exists",
           "artists": [
             "Slipknot"
@@ -318,7 +330,7 @@
           "duration_ms": 319426
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -330,7 +342,7 @@
           "duration_ms": 210506
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Master Of Puppets",
           "artists": [
             "Metallica"
@@ -342,7 +354,7 @@
           "duration_ms": 515386
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Outstanding",
           "artists": [
             "The Gap Band"
@@ -354,7 +366,7 @@
           "duration_ms": 198800
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -366,7 +378,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Sugar Sugar",
           "artists": [
             "The Archies"
@@ -378,7 +390,7 @@
           "duration_ms": 163669
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -390,7 +402,7 @@
           "duration_ms": 156364
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -405,7 +417,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Sunset",
           "artists": [
             "LUCKI"
@@ -417,7 +429,7 @@
           "duration_ms": 125021
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -429,7 +441,20 @@
           "duration_ms": 127477
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "name": "Jimmy Cooks (feat. 21 Savage)",
+          "artists": [
+            "Drake",
+            "21 Savage"
+          ],
+          "album": "Honestly, Nevermind",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+          "uri": "spotify:track:3F5CgOj3wFlRv51JsHbxhe",
+          "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe",
+          "duration_ms": 218364
+        },
+        {
+          "rank": 37,
           "name": "Holier Than Thou - Remastered 2021",
           "artists": [
             "Metallica"
@@ -441,7 +466,7 @@
           "duration_ms": 227573
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Springsteen",
           "artists": [
             "Eric Church"
@@ -453,7 +478,7 @@
           "duration_ms": 263386
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Texas Flood",
           "artists": [
             "Stevie Ray Vaughan"
@@ -465,7 +490,7 @@
           "duration_ms": 320906
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Don't Dream It's Over",
           "artists": [
             "Crowded House"
@@ -477,7 +502,7 @@
           "duration_ms": 236933
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "The Struggle Within - Remastered 2021",
           "artists": [
             "Metallica"
@@ -489,7 +514,21 @@
           "duration_ms": 232648
         },
         {
-          "rank": 40,
+          "rank": 42,
+          "name": "ZEZE (feat. Travis Scott & Offset)",
+          "artists": [
+            "Kodak Black",
+            "Offset",
+            "Travis Scott"
+          ],
+          "album": "Dying to Live",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+          "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+          "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z",
+          "duration_ms": 228759
+        },
+        {
+          "rank": 43,
           "name": "Crossfire",
           "artists": [
             "Stevie Ray Vaughan"
@@ -501,7 +540,7 @@
           "duration_ms": 250856
         },
         {
-          "rank": 41,
+          "rank": 44,
           "name": "Chamber Of Reflection",
           "artists": [
             "Mac DeMarco"
@@ -513,7 +552,7 @@
           "duration_ms": 231723
         },
         {
-          "rank": 42,
+          "rank": 45,
           "name": "Soul Train",
           "artists": [
             "YBN Nahmir"
@@ -525,7 +564,19 @@
           "duration_ms": 135688
         },
         {
-          "rank": 43,
+          "rank": 46,
+          "name": "GUMMO",
+          "artists": [
+            "6ix9ine"
+          ],
+          "album": "Day69: Graduation Day",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
+          "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt",
+          "url": "https://open.spotify.com/track/2HBtd9MYDd2xDVu8Zc6pwt",
+          "duration_ms": 157643
+        },
+        {
+          "rank": 47,
           "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
@@ -537,7 +588,7 @@
           "duration_ms": 232203
         },
         {
-          "rank": 44,
+          "rank": 48,
           "name": "Coffee",
           "artists": [
             "beabadoobee"
@@ -549,7 +600,7 @@
           "duration_ms": 126824
         },
         {
-          "rank": 45,
+          "rank": 49,
           "name": "Little Wing",
           "artists": [
             "Stevie Ray Vaughan"
@@ -561,7 +612,7 @@
           "duration_ms": 408480
         },
         {
-          "rank": 46,
+          "rank": 50,
           "name": "Warmth",
           "artists": [
             "C418"
@@ -571,54 +622,6 @@
           "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
           "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
           "duration_ms": 239379
-        },
-        {
-          "rank": 47,
-          "name": "Enter Sandman - Remastered 2021",
-          "artists": [
-            "Metallica"
-          ],
-          "album": "Metallica (Remastered Deluxe Box Set)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34",
-          "uri": "spotify:track:3DwQ7AH3xGD9h65ezslm6q",
-          "url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q",
-          "duration_ms": 331560
-        },
-        {
-          "rank": 48,
-          "name": "Oh Me - Live",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "MTV Unplugged In New York",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-          "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
-          "url": "https://open.spotify.com/track/2vfCSwToh0Am0O4zgHXfn7",
-          "duration_ms": 206160
-        },
-        {
-          "rank": 49,
-          "name": "Down Under",
-          "artists": [
-            "Men At Work"
-          ],
-          "album": "Business As Usual",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a",
-          "uri": "spotify:track:5pSvjjfsh34sLrkYSNGCl4",
-          "url": "https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4",
-          "duration_ms": 225706
-        },
-        {
-          "rank": 50,
-          "name": "Touchable",
-          "artists": [
-            "Remble"
-          ],
-          "album": "IT’S REMBLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
-          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
-          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
-          "duration_ms": 122647
         }
       ],
       "artists": [
@@ -2026,6 +2029,18 @@
         },
         {
           "rank": 9,
+          "name": "GUMMO",
+          "artists": [
+            "6ix9ine"
+          ],
+          "album": "Day69: Graduation Day",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
+          "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt",
+          "url": "https://open.spotify.com/track/2HBtd9MYDd2xDVu8Zc6pwt",
+          "duration_ms": 157643
+        },
+        {
+          "rank": 10,
           "name": "Bonnie's Lullaby - Reverbed",
           "artists": [
             "Levon Echalbe"
@@ -2037,7 +2052,7 @@
           "duration_ms": 62057
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -2049,18 +2064,6 @@
           "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
           "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z",
           "duration_ms": 228759
-        },
-        {
-          "rank": 11,
-          "name": "GUMMO",
-          "artists": [
-            "6ix9ine"
-          ],
-          "album": "Day69: Graduation Day",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
-          "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt",
-          "url": "https://open.spotify.com/track/2HBtd9MYDd2xDVu8Zc6pwt",
-          "duration_ms": 157643
         },
         {
           "rank": 12,
@@ -2236,6 +2239,18 @@
         },
         {
           "rank": 25,
+          "name": "Whuss the Deal",
+          "artists": [
+            "Shoreline Mafia"
+          ],
+          "album": "ShorelineDoThatShit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+          "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
+          "url": "https://open.spotify.com/track/64FxpKdU055iIaMDY441Qc",
+          "duration_ms": 195636
+        },
+        {
+          "rank": 26,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -2249,7 +2264,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -2259,18 +2274,6 @@
           "uri": "spotify:track:5CBekqMfv1B1FF8Fp6RIOW",
           "url": "https://open.spotify.com/track/5CBekqMfv1B1FF8Fp6RIOW",
           "duration_ms": 77005
-        },
-        {
-          "rank": 27,
-          "name": "Whuss the Deal",
-          "artists": [
-            "Shoreline Mafia"
-          ],
-          "album": "ShorelineDoThatShit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
-          "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
-          "url": "https://open.spotify.com/track/64FxpKdU055iIaMDY441Qc",
-          "duration_ms": 195636
         },
         {
           "rank": 28,
@@ -2286,6 +2289,18 @@
         },
         {
           "rank": 29,
+          "name": "Lemonade",
+          "artists": [
+            "Tay-K"
+          ],
+          "album": "#SantanaWorld (+)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+          "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
+          "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
+          "duration_ms": 132000
+        },
+        {
+          "rank": 30,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -2297,7 +2312,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Beach leak",
           "artists": [
             "Nettspend"
@@ -2309,7 +2324,7 @@
           "duration_ms": 106169
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -2321,18 +2336,6 @@
           "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
           "url": "https://open.spotify.com/track/6XUnPaGAI0W4NCzCKH0ACA",
           "duration_ms": 137142
-        },
-        {
-          "rank": 32,
-          "name": "Lemonade",
-          "artists": [
-            "Tay-K"
-          ],
-          "album": "#SantanaWorld (+)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
-          "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
-          "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
-          "duration_ms": 132000
         },
         {
           "rank": 33,
@@ -2349,30 +2352,18 @@
         },
         {
           "rank": 34,
-          "name": "Magic Johnson",
+          "name": "GOOBA",
           "artists": [
-            "ian"
+            "6ix9ine"
           ],
-          "album": "Valedictorian [Deluxe]",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-          "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
-          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn",
-          "duration_ms": 137158
+          "album": "TattleTales",
+          "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
+          "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
+          "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
+          "duration_ms": 132303
         },
         {
           "rank": 35,
-          "name": "Faneto",
-          "artists": [
-            "Chief Keef"
-          ],
-          "album": "Back from the Dead 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b273589138eb4f42c9abcf848ba0",
-          "uri": "spotify:track:6fL8iaSdwmSTQiUv9K6L4h",
-          "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h",
-          "duration_ms": 206654
-        },
-        {
-          "rank": 36,
           "name": "OUT WEST (feat. Young Thug)",
           "artists": [
             "JACKBOYS",
@@ -2386,7 +2377,7 @@
           "duration_ms": 157712
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Dark Thoughts",
           "artists": [
             "Lil Tecca"
@@ -2398,7 +2389,31 @@
           "duration_ms": 136991
         },
         {
+          "rank": 37,
+          "name": "Magic Johnson",
+          "artists": [
+            "ian"
+          ],
+          "album": "Valedictorian [Deluxe]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+          "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
+          "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn",
+          "duration_ms": 137158
+        },
+        {
           "rank": 38,
+          "name": "Faneto",
+          "artists": [
+            "Chief Keef"
+          ],
+          "album": "Back from the Dead 2",
+          "image": "https://i.scdn.co/image/ab67616d0000b273589138eb4f42c9abcf848ba0",
+          "uri": "spotify:track:6fL8iaSdwmSTQiUv9K6L4h",
+          "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h",
+          "duration_ms": 206654
+        },
+        {
+          "rank": 39,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -2410,19 +2425,19 @@
           "duration_ms": 227000
         },
         {
-          "rank": 39,
-          "name": "GOOBA",
+          "rank": 40,
+          "name": "Can't Tell Me Nothing",
           "artists": [
-            "6ix9ine"
+            "Kanye West"
           ],
-          "album": "TattleTales",
-          "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
-          "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
-          "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
-          "duration_ms": 132303
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -2432,18 +2447,6 @@
           "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
           "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
           "duration_ms": 104650
-        },
-        {
-          "rank": 41,
-          "name": "7 Summers",
-          "artists": [
-            "Morgan Wallen"
-          ],
-          "album": "Dangerous: The Double Album",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
-          "duration_ms": 210506
         },
         {
           "rank": 42,
@@ -2460,6 +2463,31 @@
         },
         {
           "rank": 43,
+          "name": "Dark Knight Dummo (feat. Travis Scott)",
+          "artists": [
+            "Trippie Redd",
+            "Travis Scott"
+          ],
+          "album": "LIFE'S A TRIP",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
+          "duration_ms": 256161
+        },
+        {
+          "rank": 44,
+          "name": "7 Summers",
+          "artists": [
+            "Morgan Wallen"
+          ],
+          "album": "Dangerous: The Double Album",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
+          "duration_ms": 210506
+        },
+        {
+          "rank": 45,
           "name": "Musty",
           "artists": [
             "Shoreline Mafia"
@@ -2471,7 +2499,7 @@
           "duration_ms": 161557
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -2485,20 +2513,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 45,
-          "name": "Dark Knight Dummo (feat. Travis Scott)",
-          "artists": [
-            "Trippie Redd",
-            "Travis Scott"
-          ],
-          "album": "LIFE'S A TRIP",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
-          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
-          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
-          "duration_ms": 256161
-        },
-        {
-          "rank": 46,
+          "rank": 47,
           "name": "ROCKIN",
           "artists": [
             "Shoreline Mafia",
@@ -2510,18 +2525,6 @@
           "uri": "spotify:track:6m5cyVx8qLqu69MFiBVnMI",
           "url": "https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI",
           "duration_ms": 129722
-        },
-        {
-          "rank": 47,
-          "name": "Can't Tell Me Nothing",
-          "artists": [
-            "Kanye West"
-          ],
-          "album": "Graduation",
-          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-          "duration_ms": 271600
         },
         {
           "rank": 48,
@@ -2652,14 +2655,6 @@
         },
         {
           "rank": 12,
-          "name": "Lil Tecca",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
-          "genres": [],
-          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "rank": 13,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
@@ -2667,7 +2662,23 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
+          "rank": 13,
+          "name": "Lil Tecca",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
+          "genres": [],
+          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
           "rank": 14,
+          "name": "Drake",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+          "genres": [],
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "rank": 15,
           "name": "6ix9ine",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2ce0f1899ab2bf14a4eb286",
           "genres": [],
@@ -2675,7 +2686,7 @@
           "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Stevie Ray Vaughan",
           "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
           "genres": [],
@@ -2683,7 +2694,7 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -2691,7 +2702,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -2699,7 +2710,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -2707,7 +2718,7 @@
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Robin Gan",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00ad41c30f8aa8eebadcf448",
           "genres": [],
@@ -2715,7 +2726,7 @@
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
@@ -2723,7 +2734,7 @@
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
@@ -2731,7 +2742,7 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
@@ -2739,20 +2750,12 @@
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Engelbert Humperdinck",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0f3aa6415854de11e7d9c532",
           "genres": [],
           "uri": "spotify:artist:17XXKfRBMCWvLrqGoNkJXm",
           "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
-        },
-        {
-          "rank": 24,
-          "name": "Drake",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-          "genres": [],
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "rank": 25,
@@ -2804,6 +2807,14 @@
         },
         {
           "rank": 31,
+          "name": "Kenny Loggins",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe5ade0d346536449c7a75b48",
+          "genres": [],
+          "uri": "spotify:artist:3Y3xIwWyq5wnNHPp5gPjOW",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "rank": 32,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -2811,7 +2822,7 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Bon Jovi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
           "genres": [],
@@ -2819,7 +2830,7 @@
           "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
@@ -2827,20 +2838,12 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
           "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        },
-        {
-          "rank": 35,
-          "name": "Kenny Loggins",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe5ade0d346536449c7a75b48",
-          "genres": [],
-          "uri": "spotify:artist:3Y3xIwWyq5wnNHPp5gPjOW",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         },
         {
           "rank": 36,

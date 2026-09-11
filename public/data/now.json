@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-11T02:26:40.849Z",
-  "is_playing": true,
+  "updated_at": "2026-09-11T07:39:45.003Z",
+  "is_playing": false,
   "track": {
-    "name": "Jimmy Cooks (feat. 21 Savage)",
+    "name": "GUMMO",
     "artists": [
-      "Drake",
-      "21 Savage"
+      "6ix9ine"
     ],
-    "album": "Honestly, Nevermind",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
-    "uri": "spotify:track:3F5CgOj3wFlRv51JsHbxhe"
+    "album": "Day69: Graduation Day",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
+    "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt"
   },
-  "played_at": "2026-09-11T02:26:40.849Z"
+  "played_at": "2026-09-11T03:44:04.341Z"
 }
