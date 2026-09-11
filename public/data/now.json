@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-10T22:52:49.497Z",
-  "is_playing": false,
+  "updated_at": "2026-09-11T02:26:40.849Z",
+  "is_playing": true,
   "track": {
-    "name": "Who's Dat",
+    "name": "Jimmy Cooks (feat. 21 Savage)",
     "artists": [
-      "ABG Neal"
+      "Drake",
+      "21 Savage"
     ],
-    "album": "Who's Dat",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c5aea629e18c12f931d111a3",
-    "uri": "spotify:track:1kg3sjif9p9Qvq4zWDGpcK"
+    "album": "Honestly, Nevermind",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+    "uri": "spotify:track:3F5CgOj3wFlRv51JsHbxhe"
   },
-  "played_at": "2026-09-10T21:46:52.746Z"
+  "played_at": "2026-09-11T02:26:40.849Z"
 }
