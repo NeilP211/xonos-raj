@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:59:52.370Z",
+  "updated_at": "2026-09-12T22:44:49.951Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -12809,6 +12809,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273523f61387484bf36bb861c36",
       "uri": "spotify:track:1RGAg43GgHVh5hEK5fI7hp",
       "duration_ms": 387000
+    },
+    {
+      "played_at": "2026-09-12T00:53:59.322Z",
+      "name": "Everybody Wants To Rule The World",
+      "artists": [
+        "Tears For Fears"
+      ],
+      "album": "Songs From The Big Chair (Super Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235",
+      "uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE",
+      "duration_ms": 251488
+    },
+    {
+      "played_at": "2026-09-12T22:32:53.584Z",
+      "name": "Everlong",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "The Colour And The Shape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
+      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
+      "duration_ms": 250546
+    },
+    {
+      "played_at": "2026-09-12T22:38:24.063Z",
+      "name": "Swerve City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:2OUR8g12h5qsGDs1v5lqvp",
+      "duration_ms": 164986
     }
   ]
 }
