@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-09-13T20:06:07.041Z",
+  "updated_at": "2026-09-13T22:45:29.889Z",
   "is_playing": false,
   "track": {
-    "name": "mud",
+    "name": "Rich Nigga Shit (feat. Young Thug)",
     "artists": [
-      "Destroy Lonely"
+      "21 Savage",
+      "Metro Boomin",
+      "Young Thug"
     ],
-    "album": "Forever, ILY.",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
-    "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5"
+    "album": "SAVAGE MODE II",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
+    "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq"
   },
-  "played_at": "2026-09-13T19:22:51.491Z"
+  "played_at": "2026-09-13T20:35:02.933Z"
 }
