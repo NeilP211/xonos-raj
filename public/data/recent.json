@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T08:25:56.885Z",
+  "updated_at": "2026-09-14T15:32:48.566Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -13019,6 +13019,64 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
       "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
       "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-14T01:20:11.057Z",
+      "name": "Beautiful Boy (Darling Boy) - Ultimate Mix",
+      "artists": [
+        "John Lennon"
+      ],
+      "album": "GIMME SOME TRUTH. (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba32dba27854f0f7457f445",
+      "uri": "spotify:track:5Sonv4VmN362mdHGCY4wyZ",
+      "duration_ms": 241653
+    },
+    {
+      "played_at": "2026-09-14T10:51:59.602Z",
+      "name": "Beautiful Boy (Darling Boy) - Ultimate Mix",
+      "artists": [
+        "John Lennon"
+      ],
+      "album": "GIMME SOME TRUTH. (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba32dba27854f0f7457f445",
+      "uri": "spotify:track:5Sonv4VmN362mdHGCY4wyZ",
+      "duration_ms": 241653
+    },
+    {
+      "played_at": "2026-09-14T11:04:27.832Z",
+      "name": "Quickest Routes",
+      "artists": [
+        "Shoreline Mafia",
+        "Disco Lines",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Disco Mafia Pack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
+      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
+      "duration_ms": 134400
+    },
+    {
+      "played_at": "2026-09-14T12:50:21.029Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-09-14T14:31:15.127Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
     }
   ]
 }
