@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-14T15:32:48.688Z",
-  "is_playing": false,
+  "updated_at": "2026-09-14T21:16:34.475Z",
+  "is_playing": true,
   "track": {
-    "name": "love hate",
+    "name": "Blessings",
     "artists": [
-      "xaviersobased"
+      "Calvin Harris",
+      "Clementine Douglas"
     ],
-    "album": "with 2 (hosted by d9lton)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-    "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj"
+    "album": "Blessings",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
+    "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z"
   },
-  "played_at": "2026-09-14T14:31:15.127Z"
+  "played_at": "2026-09-14T21:16:34.475Z"
 }
