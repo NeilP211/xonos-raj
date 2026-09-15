@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T21:16:34.297Z",
+  "updated_at": "2026-09-15T02:51:53.449Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -13113,6 +13113,297 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
       "uri": "spotify:track:1e1JKLEDKP7hEQzJfNAgPl",
       "duration_ms": 181812
+    },
+    {
+      "played_at": "2026-09-14T21:28:18.517Z",
+      "name": "rises the moon",
+      "artists": [
+        "Liana Flores"
+      ],
+      "album": "recently",
+      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
+      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
+      "duration_ms": 161929
+    },
+    {
+      "played_at": "2026-09-14T21:32:32.157Z",
+      "name": "Falling Behind",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Everything I Know About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+      "duration_ms": 173640
+    },
+    {
+      "played_at": "2026-09-14T21:39:31.109Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
+    },
+    {
+      "played_at": "2026-09-14T21:43:23.296Z",
+      "name": "Chamber Of Reflection",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Salad Days",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
+      "uri": "spotify:track:1Snko28yJOihcRVXs9dAo9",
+      "duration_ms": 231723
+    },
+    {
+      "played_at": "2026-09-14T21:47:48.145Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-09-14T22:01:37.885Z",
+      "name": "rises the moon",
+      "artists": [
+        "Liana Flores"
+      ],
+      "album": "recently",
+      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
+      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
+      "duration_ms": 161929
+    },
+    {
+      "played_at": "2026-09-14T22:33:07.072Z",
+      "name": "Blackbird - Remastered 2009",
+      "artists": [
+        "The Beatles"
+      ],
+      "album": "The Beatles (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+      "uri": "spotify:track:5jgFfDIR6FR0gvlA56Nakr",
+      "duration_ms": 138386
+    },
+    {
+      "played_at": "2026-09-14T22:38:44.818Z",
+      "name": "For the First Time",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
+      "duration_ms": 182306
+    },
+    {
+      "played_at": "2026-09-14T22:41:41.263Z",
+      "name": "Lake Of Fire - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:4UJmPSJsBsIR1U0N79BU1g",
+      "duration_ms": 175973
+    },
+    {
+      "played_at": "2026-09-14T22:45:18.738Z",
+      "name": "Blue Hair",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-09-14T22:48:32.787Z",
+      "name": "rises the moon",
+      "artists": [
+        "Liana Flores"
+      ],
+      "album": "recently",
+      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
+      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
+      "duration_ms": 161929
+    },
+    {
+      "played_at": "2026-09-14T22:52:18.091Z",
+      "name": "Answer My Prayers",
+      "artists": [
+        "Lil Tony Official"
+      ],
+      "album": "Tkey vs. Tony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+      "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+      "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-14T22:56:16.070Z",
+      "name": "Flashing Lights",
+      "artists": [
+        "Kanye West",
+        "Dwele"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:5TRPicyLGbAF2LGBFbHGvO",
+      "duration_ms": 237506
+    },
+    {
+      "played_at": "2026-09-14T22:57:45.028Z",
+      "name": "Pet",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Pet",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733a2f4f20bc988ec4d130beb4",
+      "uri": "spotify:track:2SGWuJ7lQGhLCsTdK7Ur2I",
+      "duration_ms": 66618
+    },
+    {
+      "played_at": "2026-09-14T22:59:47.393Z",
+      "name": "Falling Behind",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Everything I Know About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+      "duration_ms": 173640
+    },
+    {
+      "played_at": "2026-09-14T23:28:14.322Z",
+      "name": "Answer My Prayers",
+      "artists": [
+        "Lil Tony Official"
+      ],
+      "album": "Tkey vs. Tony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+      "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+      "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-14T23:33:13.758Z",
+      "name": "Passionfruit",
+      "artists": [
+        "Drake"
+      ],
+      "album": "More Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+      "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+      "duration_ms": 298940
+    },
+    {
+      "played_at": "2026-09-14T23:35:47.956Z",
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Couldn't Stand The Weather (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+      "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
+      "duration_ms": 551786
+    },
+    {
+      "played_at": "2026-09-15T00:45:06.073Z",
+      "name": "Answer My Prayers",
+      "artists": [
+        "Lil Tony Official"
+      ],
+      "album": "Tkey vs. Tony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+      "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+      "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-15T00:51:25.888Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-09-15T00:54:08.733Z",
+      "name": "California Dreamin' - Single Version",
+      "artists": [
+        "The Mamas & The Papas"
+      ],
+      "album": "If You Can Believe Your Eyes & Ears",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
+      "uri": "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ",
+      "duration_ms": 162373
+    },
+    {
+      "played_at": "2026-09-15T01:10:46.874Z",
+      "name": "Walk 'Em Down",
+      "artists": [
+        "Dawg Fight",
+        "Elton Jimenez"
+      ],
+      "album": "In The Dawg Haus",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb710f101e90ff706b16148d",
+      "uri": "spotify:track:2Qo1JqXHrWTxer8z7BRvwv",
+      "duration_ms": 137275
+    },
+    {
+      "played_at": "2026-09-15T01:25:41.303Z",
+      "name": "Psychosocial",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
+      "uri": "spotify:track:3RAFcUBrCNaboRXoP3S5t1",
+      "duration_ms": 284120
+    },
+    {
+      "played_at": "2026-09-15T01:31:36.025Z",
+      "name": "Lake Of Fire - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:4UJmPSJsBsIR1U0N79BU1g",
+      "duration_ms": 175973
+    },
+    {
+      "played_at": "2026-09-15T01:38:55.394Z",
+      "name": "Walk 'Em Down",
+      "artists": [
+        "Dawg Fight",
+        "Elton Jimenez"
+      ],
+      "album": "In The Dawg Haus",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb710f101e90ff706b16148d",
+      "uri": "spotify:track:2Qo1JqXHrWTxer8z7BRvwv",
+      "duration_ms": 137275
+    },
+    {
+      "played_at": "2026-09-15T01:46:13.721Z",
+      "name": "Holy Wars...The Punishment Due - 2004 Remix",
+      "artists": [
+        "Megadeth"
+      ],
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "uri": "spotify:track:5LyRtsQLhcXmy50VXhQXXS",
+      "duration_ms": 392600
     }
   ]
 }

@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-14T21:16:34.475Z",
-  "is_playing": true,
+  "updated_at": "2026-09-15T02:51:53.573Z",
+  "is_playing": false,
   "track": {
-    "name": "Blessings",
+    "name": "Holy Wars...The Punishment Due - 2004 Remix",
     "artists": [
-      "Calvin Harris",
-      "Clementine Douglas"
+      "Megadeth"
     ],
-    "album": "Blessings",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
-    "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z"
+    "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+    "uri": "spotify:track:5LyRtsQLhcXmy50VXhQXXS"
   },
-  "played_at": "2026-09-14T21:16:34.475Z"
+  "played_at": "2026-09-15T01:46:13.721Z"
 }
