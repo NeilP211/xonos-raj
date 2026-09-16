@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T13:57:41.196Z",
+  "updated_at": "2026-09-16T15:59:10.653Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -14024,6 +14024,32 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
       "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
       "duration_ms": 168783
+    },
+    {
+      "played_at": "2026-09-16T14:23:10.304Z",
+      "name": "HEAT STICK",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:15Lphc77TFtqRTGyYRYeNA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-09-16T14:26:34.336Z",
+      "name": "Perc Popper",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Perc Popper",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321d7d4bf60cb60c4f7abcb0e",
+      "uri": "spotify:track:6EeMWRDPBFpboU5DjA7Jrl",
+      "duration_ms": 120857
     }
   ]
 }
