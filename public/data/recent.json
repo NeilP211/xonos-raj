@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T16:02:50.479Z",
+  "updated_at": "2026-09-16T18:35:40.036Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -14050,6 +14050,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27321d7d4bf60cb60c4f7abcb0e",
       "uri": "spotify:track:6EeMWRDPBFpboU5DjA7Jrl",
       "duration_ms": 120857
+    },
+    {
+      "played_at": "2026-09-16T16:53:20.226Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-09-16T16:55:26.732Z",
+      "name": "Music and Me",
+      "artists": [
+        "fakemink"
+      ],
+      "album": "Music and Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735352455888ba3b9073215d37",
+      "uri": "spotify:track:23c1TrkpPPYOcJT6DYRRPH",
+      "duration_ms": 126037
+    },
+    {
+      "played_at": "2026-09-16T18:23:47.440Z",
+      "name": "Hoe Shit",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+      "duration_ms": 168000
     }
   ]
 }
