@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T02:51:05.982Z",
+  "generated_at": "2026-09-17T08:17:30.653Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1137,18 +1137,6 @@
         },
         {
           "rank": 17,
-          "name": "Location",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
-          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
-          "duration_ms": 168783
-        },
-        {
-          "rank": 18,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -1158,6 +1146,18 @@
           "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
           "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
           "duration_ms": 174733
+        },
+        {
+          "rank": 18,
+          "name": "Location",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+          "duration_ms": 168783
         },
         {
           "rank": 19,
@@ -1535,6 +1535,18 @@
         },
         {
           "rank": 49,
+          "name": "Moonlight on the River",
+          "artists": [
+            "Mac DeMarco"
+          ],
+          "album": "This Old Dog",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
+          "duration_ms": 422613
+        },
+        {
+          "rank": 50,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -1544,18 +1556,6 @@
           "uri": "spotify:track:1e1JKLEDKP7hEQzJfNAgPl",
           "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl",
           "duration_ms": 181812
-        },
-        {
-          "rank": 50,
-          "name": "LOT OF ME",
-          "artists": [
-            "Lil Tecca"
-          ],
-          "album": "We Love You Tecca 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f156ced88fa6920e86ddf11f",
-          "uri": "spotify:track:2ZXxRC6V6AXzMdbLQZMHSB",
-          "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB",
-          "duration_ms": 123870
         }
       ],
       "artists": [
