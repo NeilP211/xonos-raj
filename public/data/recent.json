@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T08:17:30.753Z",
+  "updated_at": "2026-09-17T14:01:11.164Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -14095,6 +14095,133 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
       "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
       "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-17T10:50:27.017Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
+    },
+    {
+      "played_at": "2026-09-17T10:57:53.038Z",
+      "name": "Moonlight on the River",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+      "duration_ms": 422613
+    },
+    {
+      "played_at": "2026-09-17T11:01:45.659Z",
+      "name": "Something In The Way",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
+      "duration_ms": 232146
+    },
+    {
+      "played_at": "2026-09-17T11:06:17.790Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-09-17T11:15:15.612Z",
+      "name": "Touchable",
+      "artists": [
+        "Remble"
+      ],
+      "album": "IT’S REMBLE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
+      "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
+      "duration_ms": 122647
+    },
+    {
+      "played_at": "2026-09-17T11:20:25.660Z",
+      "name": "Massive X Touch Me",
+      "artists": [
+        "NovaX",
+        "Sevven"
+      ],
+      "album": "Massive X Touch Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
+      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
+      "duration_ms": 174160
+    },
+    {
+      "played_at": "2026-09-17T11:23:16.005Z",
+      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin",
+        "OHGEESY"
+      ],
+      "album": "OTXmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
+      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
+      "duration_ms": 164400
+    },
+    {
+      "played_at": "2026-09-17T12:53:32.832Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-09-17T12:55:29.397Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-09-17T12:58:01.268Z",
+      "name": "Fuck It Up (feat. Mike Sherm)",
+      "artists": [
+        "Shoreline Mafia",
+        "Mike Sherm",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:6M4L9ta9VvA7noaWHYE1BP",
+      "duration_ms": 148285
+    },
+    {
+      "played_at": "2026-09-17T13:00:41.196Z",
+      "name": "Demon Time",
+      "artists": [
+        "Trippie Redd",
+        "Ski Mask The Slump God"
+      ],
+      "album": "Trip At Knight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4",
+      "uri": "spotify:track:5kyiTQjYaQVDhapExFQdwA",
+      "duration_ms": 159452
     }
   ]
 }
