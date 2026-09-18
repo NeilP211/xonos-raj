@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-18T13:18:06.923Z",
+  "updated_at": "2026-09-18T18:00:04.745Z",
   "is_playing": false,
   "track": {
-    "name": "love hate",
+    "name": "Black Beatles",
     "artists": [
-      "xaviersobased"
+      "Rae Sremmurd",
+      "Gucci Mane"
     ],
-    "album": "with 2 (hosted by d9lton)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-    "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj"
+    "album": "SremmLife 2 (Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
+    "uri": "spotify:track:6fujklziTHa8uoM5OQSfIo"
   },
-  "played_at": "2026-09-18T11:19:36.244Z"
+  "played_at": "2026-09-18T16:57:05.069Z"
 }
