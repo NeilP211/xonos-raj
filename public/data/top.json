@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:37:46.511Z",
+  "generated_at": "2026-09-18T07:50:44.744Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -31,6 +31,18 @@
         },
         {
           "rank": 3,
+          "name": "Rotten Apple",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
+        },
+        {
+          "rank": 4,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -42,7 +54,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Tin Pan Alley (AKA Roughest Place in Town)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -54,7 +66,7 @@
           "duration_ms": 551786
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "rises the moon",
           "artists": [
             "Liana Flores"
@@ -64,18 +76,6 @@
           "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
           "url": "https://open.spotify.com/track/2k47MKPoBLFbKwqP796ZAA",
           "duration_ms": 161929
-        },
-        {
-          "rank": 6,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
         },
         {
           "rank": 7,
@@ -1579,6 +1579,14 @@
         },
         {
           "rank": 3,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 4,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
@@ -1586,20 +1594,12 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 5,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 6,
