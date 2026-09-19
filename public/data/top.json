@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:48:42.051Z",
+  "generated_at": "2026-09-19T17:39:17.733Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -95,18 +95,6 @@
         },
         {
           "rank": 8,
-          "name": "Falling Behind",
-          "artists": [
-            "Laufey"
-          ],
-          "album": "Everything I Know About Love",
-          "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
-          "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
-          "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj",
-          "duration_ms": 173640
-        },
-        {
-          "rank": 9,
           "name": "mud",
           "artists": [
             "Destroy Lonely"
@@ -118,7 +106,31 @@
           "duration_ms": 107951
         },
         {
+          "rank": 9,
+          "name": "Answer My Prayers",
+          "artists": [
+            "Lil Tony Official"
+          ],
+          "album": "Tkey vs. Tony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
+          "duration_ms": 117736
+        },
+        {
           "rank": 10,
+          "name": "Falling Behind",
+          "artists": [
+            "Laufey"
+          ],
+          "album": "Everything I Know About Love",
+          "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+          "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+          "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj",
+          "duration_ms": 173640
+        },
+        {
+          "rank": 11,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -132,31 +144,7 @@
           "duration_ms": 135861
         },
         {
-          "rank": 11,
-          "name": "Every Breath You Take",
-          "artists": [
-            "The Police"
-          ],
-          "album": "Synchronicity (Remastered 2003)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
-          "duration_ms": 253920
-        },
-        {
           "rank": 12,
-          "name": "Answer My Prayers",
-          "artists": [
-            "Lil Tony Official"
-          ],
-          "album": "Tkey vs. Tony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
-          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
-          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
-          "duration_ms": 117736
-        },
-        {
-          "rank": 13,
           "name": "Warm Safe Place",
           "artists": [
             "Staind"
@@ -168,7 +156,7 @@
           "duration_ms": 275560
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Sulfur",
           "artists": [
             "Slipknot"
@@ -180,7 +168,7 @@
           "duration_ms": 277800
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Make You Whole (Radio Edit)",
           "artists": [
             "Andronicus"
@@ -192,7 +180,7 @@
           "duration_ms": 212168
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -204,19 +192,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 17,
-          "name": "Coffin",
-          "artists": [
-            "Lil Yachty"
-          ],
-          "album": "Lil Boat 3.5",
-          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
-          "duration_ms": 89535
-        },
-        {
-          "rank": 18,
+          "rank": 16,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -228,7 +204,19 @@
           "duration_ms": 122647
         },
         {
-          "rank": 19,
+          "rank": 17,
+          "name": "Every Breath You Take",
+          "artists": [
+            "The Police"
+          ],
+          "album": "Synchronicity (Remastered 2003)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
+          "duration_ms": 253920
+        },
+        {
+          "rank": 18,
           "name": "Jimmy Cooks (feat. 21 Savage)",
           "artists": [
             "Drake",
@@ -239,6 +227,18 @@
           "uri": "spotify:track:3F5CgOj3wFlRv51JsHbxhe",
           "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe",
           "duration_ms": 218364
+        },
+        {
+          "rank": 19,
+          "name": "Coffin",
+          "artists": [
+            "Lil Yachty"
+          ],
+          "album": "Lil Boat 3.5",
+          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
+          "duration_ms": 89535
         },
         {
           "rank": 20,
@@ -436,18 +436,6 @@
         },
         {
           "rank": 35,
-          "name": "Nun Major",
-          "artists": [
-            "Shoreline Mafia"
-          ],
-          "album": "ShorelineDoThatShit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
-          "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
-          "url": "https://open.spotify.com/track/18pwD0HrweX8oCgIkayRb4",
-          "duration_ms": 151836
-        },
-        {
-          "rank": 36,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -460,7 +448,7 @@
           "duration_ms": 168000
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Location",
           "artists": [
             "Playboi Carti"
@@ -472,7 +460,7 @@
           "duration_ms": 168783
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "fukumean",
           "artists": [
             "Gunna"
@@ -484,7 +472,7 @@
           "duration_ms": 125040
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -496,7 +484,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -508,7 +496,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "The Blister Exists",
           "artists": [
             "Slipknot"
@@ -520,7 +508,7 @@
           "duration_ms": 319426
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Flashing Lights",
           "artists": [
             "Kanye West",
@@ -533,7 +521,7 @@
           "duration_ms": 237506
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Master Of Puppets",
           "artists": [
             "Metallica"
@@ -545,7 +533,7 @@
           "duration_ms": 515386
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
@@ -557,7 +545,7 @@
           "duration_ms": 232203
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Outstanding",
           "artists": [
             "The Gap Band"
@@ -569,7 +557,7 @@
           "duration_ms": 198800
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Who You Foolin",
           "artists": [
             "Gunna"
@@ -579,6 +567,18 @@
           "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
           "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj",
           "duration_ms": 151539
+        },
+        {
+          "rank": 46,
+          "name": "Nun Major",
+          "artists": [
+            "Shoreline Mafia"
+          ],
+          "album": "ShorelineDoThatShit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+          "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+          "url": "https://open.spotify.com/track/18pwD0HrweX8oCgIkayRb4",
+          "duration_ms": 151836
         },
         {
           "rank": 47,
@@ -607,18 +607,6 @@
         },
         {
           "rank": 49,
-          "name": "VOY A LLeVARTE PA PR",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-          "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ",
-          "duration_ms": 156364
-        },
-        {
-          "rank": 50,
           "name": "Black Beatles",
           "artists": [
             "Rae Sremmurd",
@@ -629,6 +617,18 @@
           "uri": "spotify:track:6fujklziTHa8uoM5OQSfIo",
           "url": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo",
           "duration_ms": 291893
+        },
+        {
+          "rank": 50,
+          "name": "Texas Flood",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Texas Flood (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+          "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
+          "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP",
+          "duration_ms": 320906
         }
       ],
       "artists": [
@@ -818,14 +818,6 @@
         },
         {
           "rank": 24,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 25,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
@@ -833,7 +825,7 @@
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
           "genres": [],
@@ -841,7 +833,7 @@
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -849,7 +841,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
           "genres": [],
@@ -857,12 +849,20 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
           "genres": [],
           "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
+        },
+        {
+          "rank": 29,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 30,
@@ -3002,7 +3002,7 @@
         {
           "rank": 50,
           "name": "Rio Da Yung Og",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6b89e039842fe04e98bff054",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdf2b521edc4a3d96802add08",
           "genres": [],
           "uri": "spotify:artist:6O1vRHWVGKJTnWuJmItnsx",
           "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
