@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:39:17.733Z",
+  "generated_at": "2026-09-19T19:52:32.856Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -157,15 +157,15 @@
         },
         {
           "rank": 13,
-          "name": "Sulfur",
+          "name": "Touchable",
           "artists": [
-            "Slipknot"
+            "Remble"
           ],
-          "album": "All Hope Is Gone (10th Anniversary)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
-          "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
-          "url": "https://open.spotify.com/track/1ckta9xwbEcxLaGClreVRf",
-          "duration_ms": 277800
+          "album": "IT’S REMBLE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
+          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
+          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
+          "duration_ms": 122647
         },
         {
           "rank": 14,
@@ -193,15 +193,15 @@
         },
         {
           "rank": 16,
-          "name": "Touchable",
+          "name": "Sulfur",
           "artists": [
-            "Remble"
+            "Slipknot"
           ],
-          "album": "IT’S REMBLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
-          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
-          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
-          "duration_ms": 122647
+          "album": "All Hope Is Gone (10th Anniversary)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
+          "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
+          "url": "https://open.spotify.com/track/1ckta9xwbEcxLaGClreVRf",
+          "duration_ms": 277800
         },
         {
           "rank": 17,
@@ -497,18 +497,6 @@
         },
         {
           "rank": 40,
-          "name": "The Blister Exists",
-          "artists": [
-            "Slipknot"
-          ],
-          "album": "Vol. 3: The Subliminal Verses (Special Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
-          "uri": "spotify:track:3q7GKmKaiktt57PVIxKOm8",
-          "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8",
-          "duration_ms": 319426
-        },
-        {
-          "rank": 41,
           "name": "Flashing Lights",
           "artists": [
             "Kanye West",
@@ -519,6 +507,18 @@
           "uri": "spotify:track:5TRPicyLGbAF2LGBFbHGvO",
           "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
           "duration_ms": 237506
+        },
+        {
+          "rank": 41,
+          "name": "The Blister Exists",
+          "artists": [
+            "Slipknot"
+          ],
+          "album": "Vol. 3: The Subliminal Verses (Special Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
+          "uri": "spotify:track:3q7GKmKaiktt57PVIxKOm8",
+          "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8",
+          "duration_ms": 319426
         },
         {
           "rank": 42,
@@ -558,6 +558,30 @@
         },
         {
           "rank": 45,
+          "name": "Centerfield",
+          "artists": [
+            "John Fogerty"
+          ],
+          "album": "Centerfield (25th Anniversary)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f2aaa0b785e5a7644ba31e08",
+          "uri": "spotify:track:5f7KV4oOHZylrpa5XKFu6G",
+          "url": "https://open.spotify.com/track/5f7KV4oOHZylrpa5XKFu6G",
+          "duration_ms": 231306
+        },
+        {
+          "rank": 46,
+          "name": "Bobby James",
+          "artists": [
+            "N.E.R.D"
+          ],
+          "album": "In Search Of...",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fdab242b02783baa895a5a70",
+          "uri": "spotify:track:6XYJ6RL7GkuDtLxXnsAPkd",
+          "url": "https://open.spotify.com/track/6XYJ6RL7GkuDtLxXnsAPkd",
+          "duration_ms": 371000
+        },
+        {
+          "rank": 47,
           "name": "Who You Foolin",
           "artists": [
             "Gunna"
@@ -569,7 +593,7 @@
           "duration_ms": 151539
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Nun Major",
           "artists": [
             "Shoreline Mafia"
@@ -581,7 +605,7 @@
           "duration_ms": 151836
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -594,19 +618,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 48,
-          "name": "Flight's Booked",
-          "artists": [
-            "Drake"
-          ],
-          "album": "Honestly, Nevermind",
-          "image": "https://i.scdn.co/image/ab67616d0000b27322dfcfcc0742f339986d20cb",
-          "uri": "spotify:track:23Z3bbYcl1PdcPJemLa4zc",
-          "url": "https://open.spotify.com/track/23Z3bbYcl1PdcPJemLa4zc",
-          "duration_ms": 254407
-        },
-        {
-          "rank": 49,
+          "rank": 50,
           "name": "Black Beatles",
           "artists": [
             "Rae Sremmurd",
@@ -617,18 +629,6 @@
           "uri": "spotify:track:6fujklziTHa8uoM5OQSfIo",
           "url": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo",
           "duration_ms": 291893
-        },
-        {
-          "rank": 50,
-          "name": "Texas Flood",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Texas Flood (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
-          "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
-          "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP",
-          "duration_ms": 320906
         }
       ],
       "artists": [
@@ -698,19 +698,19 @@
         },
         {
           "rank": 9,
-          "name": "Gunna",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
-          "genres": [],
-          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "rank": 10,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
           "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 10,
+          "name": "Gunna",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
+          "genres": [],
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
           "rank": 11,

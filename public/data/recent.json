@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:39:18.011Z",
+  "updated_at": "2026-09-19T19:52:33.179Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -14925,6 +14925,136 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
       "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
       "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-19T16:45:45.699Z",
+      "name": "Springsteen",
+      "artists": [
+        "Eric Church"
+      ],
+      "album": "Chief",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+      "duration_ms": 263386
+    },
+    {
+      "played_at": "2026-09-19T18:08:43.199Z",
+      "name": "Springsteen",
+      "artists": [
+        "Eric Church"
+      ],
+      "album": "Chief",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+      "duration_ms": 263386
+    },
+    {
+      "played_at": "2026-09-19T18:14:06.783Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-09-19T18:20:14.825Z",
+      "name": "Special",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+      "duration_ms": 104650
+    },
+    {
+      "played_at": "2026-09-19T18:23:31.360Z",
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "artists": [
+        "21 Savage",
+        "Metro Boomin",
+        "Young Thug"
+      ],
+      "album": "SAVAGE MODE II",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
+      "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
+      "duration_ms": 190331
+    },
+    {
+      "played_at": "2026-09-19T18:27:48.824Z",
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artists": [
+        "Drake",
+        "Future",
+        "Molly Santana"
+      ],
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "uri": "spotify:track:3DK90400cDlV5WUJPraMph",
+      "duration_ms": 247183
+    },
+    {
+      "played_at": "2026-09-19T18:42:45.134Z",
+      "name": "Flashing Lights",
+      "artists": [
+        "Kanye West",
+        "Dwele"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:5TRPicyLGbAF2LGBFbHGvO",
+      "duration_ms": 237506
+    },
+    {
+      "played_at": "2026-09-19T18:47:03.696Z",
+      "name": "The Art of Shredding",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "Cowboys from Hell",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
+      "uri": "spotify:track:17sbfQLWxyC0ciBXi9g54f",
+      "duration_ms": 258093
+    },
+    {
+      "played_at": "2026-09-19T19:04:22.391Z",
+      "name": "Before I Forget",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "Vol. 3: The Subliminal Verses (Special Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
+      "uri": "spotify:track:6wqJeItl3Vc3az4ZicSQAB",
+      "duration_ms": 278600
+    },
+    {
+      "played_at": "2026-09-19T19:21:34.248Z",
+      "name": "Answer My Prayers",
+      "artists": [
+        "Lil Tony Official"
+      ],
+      "album": "Tkey vs. Tony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+      "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+      "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-19T19:24:07.047Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
     }
   ]
 }
