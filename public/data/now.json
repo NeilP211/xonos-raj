@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-09-19T22:36:20.442Z",
+  "updated_at": "2026-09-20T02:49:05.920Z",
   "is_playing": false,
   "track": {
-    "name": "Ski",
+    "name": "Everything In Its Right Place",
     "artists": [
-      "Young Stoner Life",
-      "Young Thug",
-      "Gunna"
+      "Radiohead"
     ],
-    "album": "Slime Language 2",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
-    "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1"
+    "album": "Kid A",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+    "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8"
   },
-  "played_at": "2026-09-19T19:24:07.047Z"
+  "played_at": "2026-09-20T02:20:23.589Z"
 }

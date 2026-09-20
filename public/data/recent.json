@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:36:20.334Z",
+  "updated_at": "2026-09-20T02:49:05.811Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -15055,6 +15055,216 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
       "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
       "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-09-19T19:43:55.993Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-09-20T00:51:32.667Z",
+      "name": "Flight's Booked",
+      "artists": [
+        "Drake"
+      ],
+      "album": "Honestly, Nevermind",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+      "uri": "spotify:track:6Yj7Zhxt73uvwFFvzQXdxO",
+      "duration_ms": 254407
+    },
+    {
+      "played_at": "2026-09-20T00:53:30.320Z",
+      "name": "Beach leak",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+      "duration_ms": 106169
+    },
+    {
+      "played_at": "2026-09-20T01:26:27.480Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-09-20T01:28:58.983Z",
+      "name": "Blackbird - Remastered 2009",
+      "artists": [
+        "The Beatles"
+      ],
+      "album": "The Beatles (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+      "uri": "spotify:track:5jgFfDIR6FR0gvlA56Nakr",
+      "duration_ms": 138386
+    },
+    {
+      "played_at": "2026-09-20T01:31:34.258Z",
+      "name": "Safe In Your Skin",
+      "artists": [
+        "Title Fight"
+      ],
+      "album": "Shed",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
+      "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
+      "duration_ms": 154800
+    },
+    {
+      "played_at": "2026-09-20T01:35:36.270Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-09-20T01:41:08.707Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-09-20T01:44:46.183Z",
+      "name": "Blue Hair",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-09-20T01:47:48.969Z",
+      "name": "For the First Time",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
+      "duration_ms": 182306
+    },
+    {
+      "played_at": "2026-09-20T01:50:43.086Z",
+      "name": "Falling Behind",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Everything I Know About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+      "duration_ms": 173640
+    },
+    {
+      "played_at": "2026-09-20T01:54:54.983Z",
+      "name": "Everything In Its Right Place",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "Kid A",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+      "duration_ms": 251426
+    },
+    {
+      "played_at": "2026-09-20T01:58:30.250Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-09-20T02:02:49.920Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-09-20T02:05:01.134Z",
+      "name": "Coffee",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Coffee",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad2c1e1bcbc8d7415636691b",
+      "uri": "spotify:track:429NtPmr12aypzFH3FkN9l",
+      "duration_ms": 126824
+    },
+    {
+      "played_at": "2026-09-20T02:07:43.527Z",
+      "name": "rises the moon",
+      "artists": [
+        "Liana Flores"
+      ],
+      "album": "recently",
+      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
+      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
+      "duration_ms": 161929
+    },
+    {
+      "played_at": "2026-09-20T02:11:31.002Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-09-20T02:14:24.594Z",
+      "name": "No Other Heart",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Another One",
+      "image": "https://i.scdn.co/image/ab67616d0000b27363bb237154c47c65da7f63c2",
+      "uri": "spotify:track:3J31Ng3dKKJ6sEHDtV9hSp",
+      "duration_ms": 173117
+    },
+    {
+      "played_at": "2026-09-20T02:20:23.589Z",
+      "name": "Everything In Its Right Place",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "Kid A",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+      "duration_ms": 251426
     }
   ]
 }
