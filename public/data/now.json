@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-09-20T20:07:05.994Z",
+  "updated_at": "2026-09-20T22:51:45.425Z",
   "is_playing": false,
   "track": {
-    "name": "Answer My Prayers",
+    "name": "World, Hold On - FISHER Rework",
     "artists": [
-      "Lil Tony Official"
+      "Bob Sinclar",
+      "Steve Edwards",
+      "FISHER"
     ],
-    "album": "Tkey vs. Tony",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
-    "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P"
+    "album": "World, Hold On (FISHER Rework)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+    "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1"
   },
-  "played_at": "2026-09-20T18:59:56.663Z"
+  "played_at": "2026-09-20T22:45:17.643Z"
 }

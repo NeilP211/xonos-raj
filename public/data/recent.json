@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:07:05.877Z",
+  "updated_at": "2026-09-20T22:51:45.383Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -15287,6 +15287,133 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
       "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
       "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-20T19:06:39.062Z",
+      "name": "Texas Flood",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Texas Flood (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+      "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
+      "duration_ms": 320906
+    },
+    {
+      "played_at": "2026-09-20T21:20:57.125Z",
+      "name": "Texas Flood",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Texas Flood (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+      "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
+      "duration_ms": 320906
+    },
+    {
+      "played_at": "2026-09-20T21:26:37.494Z",
+      "name": "Leper Messiah (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Master of Puppets (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732127e0afac383fb73d533a7d",
+      "uri": "spotify:track:6yyionnLDzrrSET4pGoFSX",
+      "duration_ms": 339880
+    },
+    {
+      "played_at": "2026-09-20T21:44:07.513Z",
+      "name": "Sulfur",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
+      "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
+      "duration_ms": 277800
+    },
+    {
+      "played_at": "2026-09-20T21:48:16.877Z",
+      "name": "One Last Breath",
+      "artists": [
+        "Creed"
+      ],
+      "album": "Weathered",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a32f2ae4dade83e0d7a294f4",
+      "uri": "spotify:track:42T2QQv3xgBlpQxaSP7lnK",
+      "duration_ms": 238240
+    },
+    {
+      "played_at": "2026-09-20T22:17:45.212Z",
+      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
+      "uri": "spotify:track:6fybp4N6eW3bsFAvARxyVe",
+      "duration_ms": 227800
+    },
+    {
+      "played_at": "2026-09-20T22:21:10.507Z",
+      "name": "Fade - Grant Nelson Big Room Remix",
+      "artists": [
+        "Solu Music",
+        "KimBlee"
+      ],
+      "album": "Fade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
+      "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
+      "duration_ms": 175840
+    },
+    {
+      "played_at": "2026-09-20T22:27:32.167Z",
+      "name": "Waiting for Tonight - Radio Edit",
+      "artists": [
+        "Jennifer Lopez",
+        "FISHER"
+      ],
+      "album": "On The 6 (25th Anniversary Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
+      "uri": "spotify:track:5GHVp2CCufZ8MJzYE82W7R",
+      "duration_ms": 198019
+    },
+    {
+      "played_at": "2026-09-20T22:37:49.696Z",
+      "name": "Free Your Mind",
+      "artists": [
+        "Prospa",
+        "Cloonee",
+        "Sybil"
+      ],
+      "album": "Free Your Mind",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338974737cba5770d9dba1cd6",
+      "uri": "spotify:track:6TWbY1dq8eYtFiMiGdBlOa",
+      "duration_ms": 201700
+    },
+    {
+      "played_at": "2026-09-20T22:40:24.059Z",
+      "name": "Too Much For Me",
+      "artists": [
+        "SELKER"
+      ],
+      "album": "Too Much For Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+      "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+      "duration_ms": 153869
+    },
+    {
+      "played_at": "2026-09-20T22:45:17.643Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
     }
   ]
 }
