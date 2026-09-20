@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T02:49:05.668Z",
+  "generated_at": "2026-09-20T08:10:53.491Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -434,6 +434,18 @@
         },
         {
           "rank": 35,
+          "name": "Safe In Your Skin",
+          "artists": [
+            "Title Fight"
+          ],
+          "album": "Shed",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
+          "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
+          "url": "https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso",
+          "duration_ms": 154800
+        },
+        {
+          "rank": 36,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -445,7 +457,7 @@
           "duration_ms": 127853
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -460,7 +472,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -472,7 +484,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -485,7 +497,7 @@
           "duration_ms": 168000
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Location",
           "artists": [
             "Playboi Carti"
@@ -497,7 +509,7 @@
           "duration_ms": 168783
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "fukumean",
           "artists": [
             "Gunna"
@@ -509,7 +521,7 @@
           "duration_ms": 125040
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -521,7 +533,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Flashing Lights",
           "artists": [
             "Kanye West",
@@ -534,7 +546,7 @@
           "duration_ms": 237506
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "For the First Time",
           "artists": [
             "Mac DeMarco"
@@ -544,18 +556,6 @@
           "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
           "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
           "duration_ms": 182306
-        },
-        {
-          "rank": 44,
-          "name": "Safe In Your Skin",
-          "artists": [
-            "Title Fight"
-          ],
-          "album": "Shed",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
-          "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
-          "url": "https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso",
-          "duration_ms": 154800
         },
         {
           "rank": 45,
