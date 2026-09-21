@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:46:10.942Z",
+  "generated_at": "2026-09-21T08:27:30.671Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -119,6 +119,18 @@
         },
         {
           "rank": 10,
+          "name": "Touchable",
+          "artists": [
+            "Remble"
+          ],
+          "album": "IT’S REMBLE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
+          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
+          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
+          "duration_ms": 122647
+        },
+        {
+          "rank": 11,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -130,7 +142,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "mud",
           "artists": [
             "Destroy Lonely"
@@ -142,7 +154,7 @@
           "duration_ms": 107951
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -154,18 +166,6 @@
           "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
           "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9",
           "duration_ms": 135861
-        },
-        {
-          "rank": 13,
-          "name": "Touchable",
-          "artists": [
-            "Remble"
-          ],
-          "album": "IT’S REMBLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
-          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
-          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
-          "duration_ms": 122647
         },
         {
           "rank": 14,
@@ -308,6 +308,18 @@
         },
         {
           "rank": 25,
+          "name": "Location",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+          "duration_ms": 168783
+        },
+        {
+          "rank": 26,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -319,7 +331,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -332,7 +344,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -346,7 +358,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Kung Fu Panda",
           "artists": [
             "Young Yayo",
@@ -359,7 +371,7 @@
           "duration_ms": 111699
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Flight's Booked",
           "artists": [
             "Drake"
@@ -371,7 +383,7 @@
           "duration_ms": 254407
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -383,7 +395,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -395,7 +407,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -409,7 +421,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -421,7 +433,7 @@
           "duration_ms": 157779
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -433,7 +445,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -445,7 +457,7 @@
           "duration_ms": 127853
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -460,7 +472,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Recover Artist",
           "artists": [
             "devLfg"
@@ -472,7 +484,7 @@
           "duration_ms": 127477
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -483,18 +495,6 @@
           "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
           "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
           "duration_ms": 168000
-        },
-        {
-          "rank": 39,
-          "name": "Location",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
-          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
-          "duration_ms": 168783
         },
         {
           "rank": 40,
@@ -1579,6 +1579,14 @@
         },
         {
           "rank": 3,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 4,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
@@ -1586,20 +1594,12 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 5,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 6,
@@ -1675,19 +1675,19 @@
         },
         {
           "rank": 15,
-          "name": "6ix9ine",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf2ce0f1899ab2bf14a4eb286",
-          "genres": [],
-          "uri": "spotify:artist:7gZfnEnfiaHzxARJ2LeXrf",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "rank": 16,
           "name": "Stevie Ray Vaughan",
           "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
           "genres": [],
           "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "rank": 16,
+          "name": "6ix9ine",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf2ce0f1899ab2bf14a4eb286",
+          "genres": [],
+          "uri": "spotify:artist:7gZfnEnfiaHzxARJ2LeXrf",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         },
         {
           "rank": 17,
@@ -1715,19 +1715,19 @@
         },
         {
           "rank": 20,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 21,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
           "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        },
+        {
+          "rank": 21,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 22,
@@ -1843,14 +1843,6 @@
         },
         {
           "rank": 36,
-          "name": "Eagles",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb",
-          "genres": [],
-          "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        },
-        {
-          "rank": 37,
           "name": "Charles Mingus",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe43b629d257d42a86c71323d",
           "genres": [],
@@ -1858,7 +1850,7 @@
           "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
@@ -1866,12 +1858,20 @@
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "The Dave Brubeck Quartet",
           "image": "https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e",
           "genres": [],
           "uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7",
           "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        },
+        {
+          "rank": 39,
+          "name": "Eagles",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb",
+          "genres": [],
+          "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         },
         {
           "rank": 40,
