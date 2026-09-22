@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T02:47:04.023Z",
+  "generated_at": "2026-09-22T08:08:18.154Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -31,18 +31,6 @@
         },
         {
           "rank": 3,
-          "name": "Moonlight on the River",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "This Old Dog",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
-          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
-          "duration_ms": 422613
-        },
-        {
-          "rank": 4,
           "name": "Answer My Prayers",
           "artists": [
             "Lil Tony Official"
@@ -52,6 +40,18 @@
           "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
           "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
           "duration_ms": 117736
+        },
+        {
+          "rank": 4,
+          "name": "Moonlight on the River",
+          "artists": [
+            "Mac DeMarco"
+          ],
+          "album": "This Old Dog",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
+          "duration_ms": 422613
         },
         {
           "rank": 5,
