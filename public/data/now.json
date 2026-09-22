@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-22T18:26:48.644Z",
-  "is_playing": true,
+  "updated_at": "2026-09-22T23:24:28.673Z",
+  "is_playing": false,
   "track": {
-    "name": "Warm Safe Place",
+    "name": "Fade - Grant Nelson Big Room Remix",
     "artists": [
-      "Staind"
+      "Solu Music",
+      "KimBlee"
     ],
-    "album": "Break the Cycle",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
-    "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk"
+    "album": "Fade",
+    "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
+    "uri": "spotify:track:58XZDglLRsZClpg19mmqjz"
   },
-  "played_at": "2026-09-22T18:26:48.644Z"
+  "played_at": "2026-09-22T19:15:02.844Z"
 }
