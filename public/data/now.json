@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T13:49:06.823Z",
-  "is_playing": false,
+  "updated_at": "2026-09-22T18:26:48.644Z",
+  "is_playing": true,
   "track": {
-    "name": "ball hard",
+    "name": "Warm Safe Place",
     "artists": [
-      "ksuuvi"
+      "Staind"
     ],
-    "album": "ball hard",
-    "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
-    "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt"
+    "album": "Break the Cycle",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+    "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk"
   },
-  "played_at": "2026-09-22T12:57:05.522Z"
+  "played_at": "2026-09-22T18:26:48.644Z"
 }
