@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-23T14:00:28.031Z",
+  "updated_at": "2026-09-23T18:45:49.326Z",
   "is_playing": false,
   "track": {
-    "name": "Location",
+    "name": "Who do u?",
     "artists": [
-      "Playboi Carti"
+      "JACK MARLOW",
+      "Phantom Records"
     ],
-    "album": "Playboi Carti",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-    "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf"
+    "album": "Who do u?",
+    "image": "https://i.scdn.co/image/ab67616d0000b27350278aeaacd4286cf4c6cdcb",
+    "uri": "spotify:track:5oWfXmdrVX0AMwEdJ8iSBf"
   },
-  "played_at": "2026-09-23T12:55:37.711Z"
+  "played_at": "2026-09-23T17:45:26.159Z"
 }
