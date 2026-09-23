@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:10:40.135Z",
+  "generated_at": "2026-09-23T14:00:27.801Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -79,30 +79,6 @@
         },
         {
           "rank": 7,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
-        },
-        {
-          "rank": 8,
-          "name": "Touchable",
-          "artists": [
-            "Remble"
-          ],
-          "album": "IT’S REMBLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
-          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
-          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
-          "duration_ms": 122647
-        },
-        {
-          "rank": 9,
           "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
           "artists": [
             "Shoreline Mafia",
@@ -118,19 +94,7 @@
           "duration_ms": 174335
         },
         {
-          "rank": 10,
-          "name": "Everything In Its Right Place",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "Kid A",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-          "duration_ms": 251426
-        },
-        {
-          "rank": 11,
+          "rank": 8,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -142,7 +106,55 @@
           "duration_ms": 173640
         },
         {
+          "rank": 9,
+          "name": "Rotten Apple",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
+        },
+        {
+          "rank": 10,
+          "name": "Touchable",
+          "artists": [
+            "Remble"
+          ],
+          "album": "IT’S REMBLE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
+          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
+          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
+          "duration_ms": 122647
+        },
+        {
+          "rank": 11,
+          "name": "Everything In Its Right Place",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "Kid A",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+          "duration_ms": 251426
+        },
+        {
           "rank": 12,
+          "name": "Location",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+          "duration_ms": 168783
+        },
+        {
+          "rank": 13,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -154,7 +166,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Sulfur",
           "artists": [
             "Slipknot"
@@ -166,7 +178,7 @@
           "duration_ms": 277800
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Warm Safe Place",
           "artists": [
             "Staind"
@@ -176,18 +188,6 @@
           "uri": "spotify:track:7hLNrNAh3TsLW31yJ81bPk",
           "url": "https://open.spotify.com/track/7hLNrNAh3TsLW31yJ81bPk",
           "duration_ms": 275560
-        },
-        {
-          "rank": 15,
-          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-          "artists": [
-            "Stevie Ray Vaughan"
-          ],
-          "album": "Couldn't Stand The Weather (Legacy Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
-          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
-          "duration_ms": 551786
         },
         {
           "rank": 16,
@@ -245,30 +245,6 @@
         },
         {
           "rank": 20,
-          "name": "Location",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
-          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
-          "duration_ms": 168783
-        },
-        {
-          "rank": 21,
-          "name": "Coffin",
-          "artists": [
-            "Lil Yachty"
-          ],
-          "album": "Lil Boat 3.5",
-          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
-          "duration_ms": 89535
-        },
-        {
-          "rank": 22,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -280,7 +256,7 @@
           "duration_ms": 132000
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -292,7 +268,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 24,
+          "rank": 22,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -304,6 +280,30 @@
           "uri": "spotify:track:4HyBDkCeRJWN1eOT2GELcL",
           "url": "https://open.spotify.com/track/4HyBDkCeRJWN1eOT2GELcL",
           "duration_ms": 137142
+        },
+        {
+          "rank": 23,
+          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand The Weather (Legacy Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+          "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
+          "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
+          "duration_ms": 551786
+        },
+        {
+          "rank": 24,
+          "name": "Nutshell",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
+          "duration_ms": 259200
         },
         {
           "rank": 25,
@@ -347,18 +347,6 @@
         },
         {
           "rank": 28,
-          "name": "Nutshell",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-          "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
-          "duration_ms": 259200
-        },
-        {
-          "rank": 29,
           "name": "Flight's Booked",
           "artists": [
             "Drake"
@@ -370,7 +358,7 @@
           "duration_ms": 254407
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -382,20 +370,19 @@
           "duration_ms": 157779
         },
         {
-          "rank": 31,
-          "name": "Kung Fu Panda",
+          "rank": 30,
+          "name": "Coffin",
           "artists": [
-            "Young Yayo",
-            "We$"
+            "Lil Yachty"
           ],
-          "album": "Kung Fu Panda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
-          "duration_ms": 111699
+          "album": "Lil Boat 3.5",
+          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
+          "duration_ms": 89535
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -407,7 +394,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Passionfruit",
           "artists": [
             "Drake"
@@ -419,7 +406,7 @@
           "duration_ms": 298940
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -434,7 +421,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -446,7 +433,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -458,7 +445,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -472,19 +459,19 @@
           "duration_ms": 137142
         },
         {
-          "rank": 38,
-          "name": "Safe In Your Skin",
+          "rank": 37,
+          "name": "For the First Time",
           "artists": [
-            "Title Fight"
+            "Mac DeMarco"
           ],
-          "album": "Shed",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
-          "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
-          "url": "https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso",
-          "duration_ms": 154800
+          "album": "This Old Dog",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+          "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
+          "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
+          "duration_ms": 182306
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -496,7 +483,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -508,7 +495,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Who You Foolin",
           "artists": [
             "Gunna"
@@ -518,6 +505,18 @@
           "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
           "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj",
           "duration_ms": 151539
+        },
+        {
+          "rank": 41,
+          "name": "Safe In Your Skin",
+          "artists": [
+            "Title Fight"
+          ],
+          "album": "Shed",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
+          "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
+          "url": "https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso",
+          "duration_ms": 154800
         },
         {
           "rank": 42,
@@ -558,18 +557,6 @@
         },
         {
           "rank": 45,
-          "name": "For the First Time",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "This Old Dog",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-          "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
-          "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
-          "duration_ms": 182306
-        },
-        {
-          "rank": 46,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -582,7 +569,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Master Of Puppets",
           "artists": [
             "Metallica"
@@ -594,7 +581,7 @@
           "duration_ms": 515386
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
@@ -606,7 +593,7 @@
           "duration_ms": 232203
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Outstanding",
           "artists": [
             "The Gap Band"
@@ -618,7 +605,7 @@
           "duration_ms": 198800
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "No Other Heart",
           "artists": [
             "Mac DeMarco"
@@ -628,6 +615,18 @@
           "uri": "spotify:track:3J31Ng3dKKJ6sEHDtV9hSp",
           "url": "https://open.spotify.com/track/3J31Ng3dKKJ6sEHDtV9hSp",
           "duration_ms": 173117
+        },
+        {
+          "rank": 50,
+          "name": "Centerfield",
+          "artists": [
+            "John Fogerty"
+          ],
+          "album": "Centerfield (25th Anniversary)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f2aaa0b785e5a7644ba31e08",
+          "uri": "spotify:track:5f7KV4oOHZylrpa5XKFu6G",
+          "url": "https://open.spotify.com/track/5f7KV4oOHZylrpa5XKFu6G",
+          "duration_ms": 231306
         }
       ],
       "artists": [
@@ -825,14 +824,6 @@
         },
         {
           "rank": 25,
-          "name": "OsamaSon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
-          "genres": [],
-          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 26,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -840,12 +831,20 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Glokk40Spaz",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a9e99eb3d0dd4c6a5b7209b",
           "genres": [],
           "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W",
           "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "rank": 27,
+          "name": "OsamaSon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
+          "genres": [],
+          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
           "rank": 28,
@@ -1366,6 +1365,18 @@
         },
         {
           "rank": 36,
+          "name": "Moonlight on the River",
+          "artists": [
+            "Mac DeMarco"
+          ],
+          "album": "This Old Dog",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
+          "duration_ms": 422613
+        },
+        {
+          "rank": 37,
           "name": "OUT WEST (feat. Young Thug)",
           "artists": [
             "JACKBOYS",
@@ -1379,7 +1390,7 @@
           "duration_ms": 157712
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Faneto",
           "artists": [
             "Chief Keef"
@@ -1389,18 +1400,6 @@
           "uri": "spotify:track:6fL8iaSdwmSTQiUv9K6L4h",
           "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h",
           "duration_ms": 206654
-        },
-        {
-          "rank": 38,
-          "name": "Moonlight on the River",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "album": "This Old Dog",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-          "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
-          "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
-          "duration_ms": 422613
         },
         {
           "rank": 39,
