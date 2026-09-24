@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T02:37:05.074Z",
+  "updated_at": "2026-09-24T08:01:22.016Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -16669,6 +16669,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
       "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
       "duration_ms": 175840
+    },
+    {
+      "played_at": "2026-09-24T00:40:29.219Z",
+      "name": "Who do u?",
+      "artists": [
+        "JACK MARLOW",
+        "Phantom Records"
+      ],
+      "album": "Who do u?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350278aeaacd4286cf4c6cdcb",
+      "uri": "spotify:track:5oWfXmdrVX0AMwEdJ8iSBf",
+      "duration_ms": 196874
     }
   ]
 }
