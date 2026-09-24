@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-09-24T13:57:07.897Z",
+  "updated_at": "2026-09-24T18:46:38.436Z",
   "is_playing": false,
   "track": {
-    "name": "Passionfruit",
+    "name": "Ski",
     "artists": [
-      "Drake"
+      "Young Stoner Life",
+      "Young Thug",
+      "Gunna"
     ],
-    "album": "More Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
-    "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz"
+    "album": "Slime Language 2",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+    "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1"
   },
-  "played_at": "2026-09-24T13:23:34.900Z"
+  "played_at": "2026-09-24T18:22:09.097Z"
 }
