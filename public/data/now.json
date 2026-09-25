@@ -1,18 +1,17 @@
 {
-  "updated_at": "2026-09-25T14:21:18.860Z",
-  "is_playing": true,
+  "updated_at": "2026-09-25T19:04:07.680Z",
+  "is_playing": false,
   "track": {
-    "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+    "name": "Quickest Routes",
     "artists": [
       "Shoreline Mafia",
-      "Rob Vicious",
-      "Fenix Flexin",
-      "Master Kato",
-      "OHGEESY"
+      "Disco Lines",
+      "OHGEESY",
+      "Fenix Flexin"
     ],
-    "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-    "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8"
+    "album": "Disco Mafia Pack",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
+    "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB"
   },
-  "played_at": "2026-09-25T14:21:18.860Z"
+  "played_at": "2026-09-25T18:21:19.820Z"
 }
