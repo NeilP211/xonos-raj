@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:04:07.524Z",
+  "updated_at": "2026-09-25T23:44:39.410Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -17549,6 +17549,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
       "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
       "duration_ms": 134400
+    },
+    {
+      "played_at": "2026-09-25T18:29:17.567Z",
+      "name": "Dark Knight Dummo (feat. Travis Scott)",
+      "artists": [
+        "Trippie Redd",
+        "Travis Scott"
+      ],
+      "album": "LIFE'S A TRIP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+      "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+      "duration_ms": 256161
+    },
+    {
+      "played_at": "2026-09-25T21:20:55.250Z",
+      "name": "ball hard",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "ball hard",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
+      "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
+      "duration_ms": 160731
+    },
+    {
+      "played_at": "2026-09-25T21:22:16.291Z",
+      "name": "popped a pill",
+      "artists": [
+        "Deproved",
+        "Darkky Cave"
+      ],
+      "album": "Star",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357f75bd8679cd776b23fd58e",
+      "uri": "spotify:track:1m6dPon4YlGeNzi1LhgHM7",
+      "duration_ms": 80784
     }
   ]
 }
