@@ -1,14 +1,18 @@
 {
-  "updated_at": "2026-09-25T08:26:22.340Z",
-  "is_playing": false,
+  "updated_at": "2026-09-25T14:21:18.860Z",
+  "is_playing": true,
   "track": {
-    "name": "In the Air Tonight - 2015 Remaster",
+    "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
     "artists": [
-      "Phil Collins"
+      "Shoreline Mafia",
+      "Rob Vicious",
+      "Fenix Flexin",
+      "Master Kato",
+      "OHGEESY"
     ],
-    "album": "Face Value (Deluxe Editon)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738a1d7cf42a84b10bd1ff8e56",
-    "uri": "spotify:track:18AXbzPzBS8Y3AkgSxzJPb"
+    "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+    "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8"
   },
-  "played_at": "2026-09-25T03:09:13.748Z"
+  "played_at": "2026-09-25T14:21:18.860Z"
 }
