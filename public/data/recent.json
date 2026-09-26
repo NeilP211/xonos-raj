@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T23:44:39.410Z",
+  "updated_at": "2026-09-26T02:57:30.412Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -17584,6 +17584,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27357f75bd8679cd776b23fd58e",
       "uri": "spotify:track:1m6dPon4YlGeNzi1LhgHM7",
       "duration_ms": 80784
+    },
+    {
+      "played_at": "2026-09-26T00:35:38.558Z",
+      "name": "Easy Lover",
+      "artists": [
+        "Philip Bailey",
+        "Phil Collins"
+      ],
+      "album": "Chinese Wall (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c61fd7cba6914924fea49ea9",
+      "uri": "spotify:track:5LYJ631w9ps5h9tdvac7yP",
+      "duration_ms": 305866
+    },
+    {
+      "played_at": "2026-09-26T00:39:20.922Z",
+      "name": "Answer My Prayers",
+      "artists": [
+        "Lil Tony Official"
+      ],
+      "album": "Tkey vs. Tony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+      "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+      "duration_ms": 117736
     }
   ]
 }
