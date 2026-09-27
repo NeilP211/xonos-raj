@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T03:00:51.947Z",
+  "generated_at": "2026-09-27T11:09:47.407Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1441,6 +1441,18 @@
         },
         {
           "rank": 43,
+          "name": "Answer My Prayers",
+          "artists": [
+            "Lil Tony Official"
+          ],
+          "album": "Tkey vs. Tony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
+          "duration_ms": 117736
+        },
+        {
+          "rank": 44,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -1452,7 +1464,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -1465,7 +1477,7 @@
           "duration_ms": 205701
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -1475,18 +1487,6 @@
           "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
           "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR",
           "duration_ms": 157779
-        },
-        {
-          "rank": 46,
-          "name": "Answer My Prayers",
-          "artists": [
-            "Lil Tony Official"
-          ],
-          "album": "Tkey vs. Tony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
-          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
-          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
-          "duration_ms": 117736
         },
         {
           "rank": 47,
@@ -1574,19 +1574,19 @@
         },
         {
           "rank": 5,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-          "genres": [],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "rank": 6,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 6,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 7,
@@ -1894,6 +1894,14 @@
         },
         {
           "rank": 45,
+          "name": "Staind",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba43eff361de1d811e2d17adb",
+          "genres": [],
+          "uri": "spotify:artist:5KDIH2gF0VpelTqyQS7udb",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        },
+        {
+          "rank": 46,
           "name": "Yung Gravy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8dc00f46b0a4814a02e1dba4",
           "genres": [],
@@ -1901,7 +1909,7 @@
           "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Michael Jackson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
           "genres": [],
@@ -1909,20 +1917,12 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
           "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 48,
-          "name": "Staind",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba43eff361de1d811e2d17adb",
-          "genres": [],
-          "uri": "spotify:artist:5KDIH2gF0VpelTqyQS7udb",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         },
         {
           "rank": 49,
@@ -2511,6 +2511,18 @@
         },
         {
           "rank": 45,
+          "name": "Answer My Prayers",
+          "artists": [
+            "Lil Tony Official"
+          ],
+          "album": "Tkey vs. Tony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
+          "duration_ms": 117736
+        },
+        {
+          "rank": 46,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -2522,7 +2534,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Musty",
           "artists": [
             "Shoreline Mafia"
@@ -2534,7 +2546,7 @@
           "duration_ms": 161557
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -2546,7 +2558,7 @@
           "duration_ms": 157779
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -2558,18 +2570,6 @@
           "uri": "spotify:track:15Lphc77TFtqRTGyYRYeNA",
           "url": "https://open.spotify.com/track/15Lphc77TFtqRTGyYRYeNA",
           "duration_ms": 137142
-        },
-        {
-          "rank": 49,
-          "name": "Answer My Prayers",
-          "artists": [
-            "Lil Tony Official"
-          ],
-          "album": "Tkey vs. Tony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
-          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
-          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
-          "duration_ms": 117736
         },
         {
           "rank": 50,
