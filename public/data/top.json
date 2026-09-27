@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:10:30.340Z",
+  "generated_at": "2026-09-27T20:41:06.070Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -344,6 +344,18 @@
         },
         {
           "rank": 28,
+          "name": "Hypnotize - 2014 Remaster",
+          "artists": [
+            "The Notorious B.I.G."
+          ],
+          "album": "Life After Death (2014 Remastered Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+          "uri": "spotify:track:7KwZNVEaqikRSBSpyhXK2j",
+          "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+          "duration_ms": 229826
+        },
+        {
+          "rank": 29,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -358,7 +370,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -373,7 +385,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -386,7 +398,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -398,7 +410,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Beach leak",
           "artists": [
             "Nettspend"
@@ -410,7 +422,7 @@
           "duration_ms": 106169
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -422,7 +434,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -434,7 +446,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -446,7 +458,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -460,7 +472,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "For the First Time",
           "artists": [
             "Mac DeMarco"
@@ -472,7 +484,7 @@
           "duration_ms": 182306
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -484,7 +496,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -497,7 +509,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Flight's Booked",
           "artists": [
             "Drake"
@@ -509,7 +521,7 @@
           "duration_ms": 254407
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -521,7 +533,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -533,7 +545,7 @@
           "duration_ms": 174733
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -545,7 +557,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "wokeuplikethis*",
           "artists": [
             "Playboi Carti",
@@ -558,7 +570,7 @@
           "duration_ms": 235535
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -570,7 +582,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Who You Foolin",
           "artists": [
             "Gunna"
@@ -582,7 +594,7 @@
           "duration_ms": 151539
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -594,7 +606,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -606,7 +618,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Tin Pan Alley (AKA Roughest Place in Town)",
           "artists": [
             "Stevie Ray Vaughan"
@@ -616,20 +628,6 @@
           "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
           "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X",
           "duration_ms": 551786
-        },
-        {
-          "rank": 50,
-          "name": "Perc Popper",
-          "artists": [
-            "Shoreline Mafia",
-            "OHGEESY",
-            "Fenix Flexin"
-          ],
-          "album": "Mafia Bidness",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
-          "uri": "spotify:track:0OPcFAAo9LMO9xvu1L7JGD",
-          "url": "https://open.spotify.com/track/0OPcFAAo9LMO9xvu1L7JGD",
-          "duration_ms": 120857
         }
       ],
       "artists": [
@@ -667,19 +665,19 @@
         },
         {
           "rank": 5,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 6,
           "name": "Mac DeMarco",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
           "genres": [],
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "rank": 6,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 7,
@@ -827,19 +825,19 @@
         },
         {
           "rank": 25,
-          "name": "OsamaSon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
-          "genres": [],
-          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 26,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 26,
+          "name": "OsamaSon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
+          "genres": [],
+          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
           "rank": 27,
@@ -851,14 +849,6 @@
         },
         {
           "rank": 28,
-          "name": "The Smashing Pumpkins",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2897dd777bbd8e3f23e49c99",
-          "genres": [],
-          "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        },
-        {
-          "rank": 29,
           "name": "Stevie Ray Vaughan",
           "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
           "genres": [],
@@ -866,7 +856,7 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "fakemink",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfea7ad1b3bc4a7f94234bd1c",
           "genres": [],
@@ -874,12 +864,20 @@
           "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Limp Bizkit",
           "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
           "genres": [],
           "uri": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "rank": 31,
+          "name": "rommulas",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1eb829798a363e977e39fea1",
+          "genres": [],
+          "uri": "spotify:artist:4QsDoxai6urbmrML19OYa3",
+          "url": "https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3"
         },
         {
           "rank": 32,

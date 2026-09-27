@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T16:10:30.422Z",
+  "updated_at": "2026-09-27T20:41:06.204Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -17761,6 +17761,106 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
       "uri": "spotify:track:6Tsu3OsuMz4KEGKbOYd6A0",
       "duration_ms": 230000
+    },
+    {
+      "played_at": "2026-09-27T17:36:33.569Z",
+      "name": "Hypnotize - 2007 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
+      "uri": "spotify:track:6Tsu3OsuMz4KEGKbOYd6A0",
+      "duration_ms": 230000
+    },
+    {
+      "played_at": "2026-09-27T17:41:39.882Z",
+      "name": "Easy Lover",
+      "artists": [
+        "Philip Bailey",
+        "Phil Collins"
+      ],
+      "album": "Chinese Wall (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c61fd7cba6914924fea49ea9",
+      "uri": "spotify:track:5LYJ631w9ps5h9tdvac7yP",
+      "duration_ms": 305866
+    },
+    {
+      "played_at": "2026-09-27T17:43:38.142Z",
+      "name": "Answer My Prayers",
+      "artists": [
+        "Lil Tony Official"
+      ],
+      "album": "Tkey vs. Tony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+      "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+      "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-09-27T17:43:38.682Z",
+      "name": "Big Poppa - 2005 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Ready to Die (The Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+      "uri": "spotify:track:2g8HN35AnVGIk7B8yMucww",
+      "duration_ms": 252746
+    },
+    {
+      "played_at": "2026-09-27T19:39:22.478Z",
+      "name": "You Know How We Do It",
+      "artists": [
+        "Ice Cube"
+      ],
+      "album": "Lethal Injection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368820c2a3865d138ab7daba3",
+      "uri": "spotify:track:2Ih217RCGAmyQR68Nn7Cqo",
+      "duration_ms": 232773
+    },
+    {
+      "played_at": "2026-09-27T19:44:06.532Z",
+      "name": "Rock Your Body",
+      "artists": [
+        "Justin Timberlake"
+      ],
+      "album": "Justified",
+      "image": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
+      "uri": "spotify:track:1AWQoqb9bSvzTjaLralEkT",
+      "duration_ms": 267266
+    },
+    {
+      "played_at": "2026-09-27T19:48:14.921Z",
+      "name": "i hear em math",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "ceo of music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4f09a267ce81bc264077fcd",
+      "uri": "spotify:track:5tFWQki2LrEFasAzpBER5v",
+      "duration_ms": 48442
+    },
+    {
+      "played_at": "2026-09-27T19:54:26.734Z",
+      "name": "Fighting My Demons",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:2c7sRekhMGlj7u1WIIzoQu",
+      "duration_ms": 150401
+    },
+    {
+      "played_at": "2026-09-27T20:00:49.528Z",
+      "name": "Freestyle 2",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "X",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa2acda98644476f5086cd02",
+      "uri": "spotify:track:28niVl6iodHnHpE1bCeJiV",
+      "duration_ms": 138319
     }
   ]
 }
