@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T02:59:31.401Z",
+  "generated_at": "2026-09-28T09:33:24.986Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1797,19 +1797,19 @@
         },
         {
           "rank": 33,
-          "name": "Young Nudy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb03775f1dcd383778c1e8832d",
-          "genres": [],
-          "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "rank": 34,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
           "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "rank": 34,
+          "name": "Young Nudy",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb03775f1dcd383778c1e8832d",
+          "genres": [],
+          "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         },
         {
           "rank": 35,
@@ -1917,14 +1917,6 @@
         },
         {
           "rank": 48,
-          "name": "OsamaSon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
-          "genres": [],
-          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 49,
           "name": "Sepultura",
           "image": "https://i.scdn.co/image/ab6761610000e5eb42b136165ba6ce25d2c1ebdc",
           "genres": [],
@@ -1932,12 +1924,20 @@
           "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Morgan Wallen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
           "genres": [],
           "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "rank": 50,
+          "name": "OsamaSon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
+          "genres": [],
+          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         }
       ]
     },
@@ -2249,6 +2249,20 @@
         },
         {
           "rank": 24,
+          "name": "Too Many Nights (feat. Don Toliver & with Future)",
+          "artists": [
+            "Metro Boomin",
+            "Future",
+            "Don Toliver"
+          ],
+          "album": "HEROES & VILLAINS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+          "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+          "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
+          "duration_ms": 199920
+        },
+        {
+          "rank": 25,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -2262,7 +2276,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Drip or Drown",
           "artists": [
             "Gunna"
@@ -2274,7 +2288,7 @@
           "duration_ms": 126168
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "R.I.P.",
           "artists": [
             "Playboi Carti"
@@ -2284,20 +2298,6 @@
           "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
           "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv",
           "duration_ms": 192026
-        },
-        {
-          "rank": 27,
-          "name": "Too Many Nights (feat. Don Toliver & with Future)",
-          "artists": [
-            "Metro Boomin",
-            "Future",
-            "Don Toliver"
-          ],
-          "album": "HEROES & VILLAINS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
-          "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
-          "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
-          "duration_ms": 199920
         },
         {
           "rank": 28,
@@ -2473,6 +2473,18 @@
         },
         {
           "rank": 42,
+          "name": "Answer My Prayers",
+          "artists": [
+            "Lil Tony Official"
+          ],
+          "album": "Tkey vs. Tony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
+          "duration_ms": 117736
+        },
+        {
+          "rank": 43,
           "name": "Faneto",
           "artists": [
             "Chief Keef"
@@ -2484,7 +2496,7 @@
           "duration_ms": 206654
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -2496,7 +2508,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -2507,18 +2519,6 @@
           "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
           "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
           "duration_ms": 209680
-        },
-        {
-          "rank": 45,
-          "name": "Answer My Prayers",
-          "artists": [
-            "Lil Tony Official"
-          ],
-          "album": "Tkey vs. Tony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
-          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
-          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
-          "duration_ms": 117736
         },
         {
           "rank": 46,
@@ -2724,19 +2724,19 @@
         },
         {
           "rank": 18,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 19,
           "name": "Robin Gan",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00ad41c30f8aa8eebadcf448",
           "genres": [],
           "uri": "spotify:artist:7dsKwts1pqLagD1gyHNCjL",
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
+        },
+        {
+          "rank": 19,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 20,
