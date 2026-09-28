@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-09-28T09:33:25.183Z",
+  "updated_at": "2026-09-28T19:04:39.075Z",
   "is_playing": false,
   "track": {
-    "name": "Passionfruit",
+    "name": "Back In Bidness",
     "artists": [
-      "Drake"
+      "Shoreline Mafia",
+      "OHGEESY",
+      "Fenix Flexin"
     ],
-    "album": "More Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
-    "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz"
+    "album": "Back In Bidness",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+    "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA"
   },
-  "played_at": "2026-09-28T00:26:57.139Z"
+  "played_at": "2026-09-28T17:31:13.512Z"
 }
