@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:31:58.742Z",
+  "updated_at": "2026-09-28T02:59:31.541Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -17861,6 +17861,42 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aa2acda98644476f5086cd02",
       "uri": "spotify:track:28niVl6iodHnHpE1bCeJiV",
       "duration_ms": 138319
+    },
+    {
+      "played_at": "2026-09-28T00:04:54.155Z",
+      "name": "if looks could kill",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "If Looks Could Kill",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735887b3f4481d39becbebffbc",
+      "uri": "spotify:track:7cFLFmj3fLV5wxhcFfol7u",
+      "duration_ms": 194213
+    },
+    {
+      "played_at": "2026-09-28T00:21:39.243Z",
+      "name": "Quickest Routes",
+      "artists": [
+        "Shoreline Mafia",
+        "Disco Lines",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Disco Mafia Pack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
+      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
+      "duration_ms": 134400
+    },
+    {
+      "played_at": "2026-09-28T00:26:57.139Z",
+      "name": "Passionfruit",
+      "artists": [
+        "Drake"
+      ],
+      "album": "More Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+      "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+      "duration_ms": 298940
     }
   ]
 }
