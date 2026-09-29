@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-29T17:26:23.172Z",
-  "is_playing": false,
+  "updated_at": "2026-09-29T21:44:29.340Z",
+  "is_playing": true,
   "track": {
-    "name": "Dark Thoughts",
+    "name": "Who do u?",
     "artists": [
-      "Lil Tecca"
+      "JACK MARLOW",
+      "Phantom Records"
     ],
-    "album": "DOPAMINE",
-    "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-    "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N"
+    "album": "Who do u?",
+    "image": "https://i.scdn.co/image/ab67616d0000b27350278aeaacd4286cf4c6cdcb",
+    "uri": "spotify:track:5oWfXmdrVX0AMwEdJ8iSBf"
   },
-  "played_at": "2026-09-29T16:56:32.163Z"
+  "played_at": "2026-09-29T21:44:29.340Z"
 }
