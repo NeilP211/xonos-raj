@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-29T21:44:29.340Z",
-  "is_playing": true,
+  "updated_at": "2026-09-30T03:26:24.248Z",
+  "is_playing": false,
   "track": {
-    "name": "Who do u?",
+    "name": "Bonnie's Lullaby - Reverbed",
     "artists": [
-      "JACK MARLOW",
-      "Phantom Records"
+      "Levon Echalbe"
     ],
-    "album": "Who do u?",
-    "image": "https://i.scdn.co/image/ab67616d0000b27350278aeaacd4286cf4c6cdcb",
-    "uri": "spotify:track:5oWfXmdrVX0AMwEdJ8iSBf"
+    "album": "Bonnie's Lullaby",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734332bd03a3ff79864ea62c81",
+    "uri": "spotify:track:1kAtvuthy66guTt2eFgLRM"
   },
-  "played_at": "2026-09-29T21:44:29.340Z"
+  "played_at": "2026-09-30T00:59:19.918Z"
 }
