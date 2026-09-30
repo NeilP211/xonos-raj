@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:23:46.803Z",
+  "updated_at": "2026-09-30T21:45:00.763Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -19713,6 +19713,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733b494c1b464d41ef641de442",
       "uri": "spotify:track:26QJuQfM8PVAWkIm1JRyqq",
       "duration_ms": 184375
+    },
+    {
+      "played_at": "2026-09-30T18:19:16.652Z",
+      "name": "Fool",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "Jump Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
+      "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
+      "duration_ms": 125562
+    },
+    {
+      "played_at": "2026-09-30T18:23:54.502Z",
+      "name": "Can't Tell Me Nothing",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600
+    },
+    {
+      "played_at": "2026-09-30T21:17:17.655Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-09-30T21:21:17.552Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-09-30T21:25:17.347Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
     }
   ]
 }
