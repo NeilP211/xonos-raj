@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T03:31:58.554Z",
+  "updated_at": "2026-10-01T12:12:35.685Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -19954,6 +19954,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732a2c245bb79432df0f130fc4",
       "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
       "duration_ms": 127477
+    },
+    {
+      "played_at": "2026-10-01T04:34:02.545Z",
+      "name": "wokeuplikethis*",
+      "artists": [
+        "Playboi Carti",
+        "Lil Uzi Vert"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:59J5nzL1KniFHnU120dQzt",
+      "duration_ms": 235535
+    },
+    {
+      "played_at": "2026-10-01T11:20:01.075Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
     }
   ]
 }
