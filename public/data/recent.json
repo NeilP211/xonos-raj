@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T17:13:12.450Z",
+  "updated_at": "2026-10-02T21:40:54.895Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -20415,6 +20415,77 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
       "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
       "duration_ms": 137158
+    },
+    {
+      "played_at": "2026-10-02T18:19:58.500Z",
+      "name": "Megaman",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:6ikgPqC9vhkduTdIpsqYdj",
+      "duration_ms": 133000
+    },
+    {
+      "played_at": "2026-10-02T18:24:11.119Z",
+      "name": "Hoe Shit",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+      "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-10-02T18:30:28.614Z",
+      "name": "A New Kind Of Love - Demo",
+      "artists": [
+        "Frou Frou",
+        "Imogen Heap",
+        "Guy Sigsworth"
+      ],
+      "album": "A New Kind Of Love (Demo)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52",
+      "uri": "spotify:track:3fuyYaLhZ2RoP9eWpvfP1H",
+      "duration_ms": 259071
+    },
+    {
+      "played_at": "2026-10-02T18:33:59.495Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-10-02T18:36:53.816Z",
+      "name": "Freaking Out the Neighborhood",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ecfde7feaa212a1b60a197a1",
+      "uri": "spotify:track:17L0mSvHatVjgTgBxfmyjf",
+      "duration_ms": 173888
+    },
+    {
+      "played_at": "2026-10-02T18:43:07.437Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
     }
   ]
 }

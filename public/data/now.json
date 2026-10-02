@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-10-02T17:13:12.542Z",
+  "updated_at": "2026-10-02T21:40:55.006Z",
   "is_playing": false,
   "track": {
-    "name": "Magic Johnson",
+    "name": "World, Hold On - FISHER Rework",
     "artists": [
-      "ian"
+      "Bob Sinclar",
+      "Steve Edwards",
+      "FISHER"
     ],
-    "album": "Valedictorian [Deluxe]",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-    "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn"
+    "album": "World, Hold On (FISHER Rework)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+    "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1"
   },
-  "played_at": "2026-10-02T17:01:37.469Z"
+  "played_at": "2026-10-02T18:43:07.437Z"
 }
