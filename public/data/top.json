@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:02:40.587Z",
+  "generated_at": "2026-10-02T00:24:27.811Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -31,30 +31,6 @@
         },
         {
           "rank": 3,
-          "name": "mud",
-          "artists": [
-            "Destroy Lonely"
-          ],
-          "album": "Forever, ILY.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
-          "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
-          "url": "https://open.spotify.com/track/2X3ApPn9I0MpPdKCjDtwH5",
-          "duration_ms": 107951
-        },
-        {
-          "rank": 4,
-          "name": "ball hard",
-          "artists": [
-            "ksuuvi"
-          ],
-          "album": "ball hard",
-          "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
-          "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
-          "url": "https://open.spotify.com/track/5ESbmwh8jzSNVukQhd58Qt",
-          "duration_ms": 160731
-        },
-        {
-          "rank": 5,
           "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
           "artists": [
             "Shoreline Mafia",
@@ -68,6 +44,30 @@
           "uri": "spotify:track:1n8wr8tRHs5jmBxNWXedcn",
           "url": "https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn",
           "duration_ms": 174335
+        },
+        {
+          "rank": 4,
+          "name": "mud",
+          "artists": [
+            "Destroy Lonely"
+          ],
+          "album": "Forever, ILY.",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
+          "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
+          "url": "https://open.spotify.com/track/2X3ApPn9I0MpPdKCjDtwH5",
+          "duration_ms": 107951
+        },
+        {
+          "rank": 5,
+          "name": "ball hard",
+          "artists": [
+            "ksuuvi"
+          ],
+          "album": "ball hard",
+          "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
+          "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
+          "url": "https://open.spotify.com/track/5ESbmwh8jzSNVukQhd58Qt",
+          "duration_ms": 160731
         },
         {
           "rank": 6,
@@ -247,18 +247,6 @@
         },
         {
           "rank": 20,
-          "name": "Lemonade",
-          "artists": [
-            "Tay-K"
-          ],
-          "album": "#SantanaWorld (+)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
-          "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
-          "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
-          "duration_ms": 132000
-        },
-        {
-          "rank": 21,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -269,6 +257,18 @@
           "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
           "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
           "duration_ms": 168000
+        },
+        {
+          "rank": 21,
+          "name": "Lemonade",
+          "artists": [
+            "Tay-K"
+          ],
+          "album": "#SantanaWorld (+)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+          "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
+          "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
+          "duration_ms": 132000
         },
         {
           "rank": 22,
@@ -460,6 +460,18 @@
         },
         {
           "rank": 37,
+          "name": "ss",
+          "artists": [
+            "Ken Carson"
+          ],
+          "album": "A Great Chaos (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733b494c1b464d41ef641de442",
+          "uri": "spotify:track:26QJuQfM8PVAWkIm1JRyqq",
+          "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq",
+          "duration_ms": 184375
+        },
+        {
+          "rank": 38,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -471,7 +483,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "wokeuplikethis*",
           "artists": [
             "Playboi Carti",
@@ -484,7 +496,7 @@
           "duration_ms": 235535
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Fool",
           "artists": [
             "OsamaSon"
@@ -496,7 +508,7 @@
           "duration_ms": 125562
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -509,7 +521,7 @@
           "duration_ms": 106666
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Hypnotize - 2014 Remaster",
           "artists": [
             "The Notorious B.I.G."
@@ -521,7 +533,7 @@
           "duration_ms": 229826
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -535,7 +547,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -547,7 +559,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -559,7 +571,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Flight's Booked",
           "artists": [
             "Drake"
@@ -571,7 +583,7 @@
           "duration_ms": 254407
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -583,7 +595,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -596,7 +608,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "For the First Time",
           "artists": [
             "Mac DeMarco"
@@ -608,7 +620,7 @@
           "duration_ms": 182306
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Fair Trade (with Travis Scott)",
           "artists": [
             "Drake",
@@ -619,18 +631,6 @@
           "uri": "spotify:track:40iJIUlhi6renaREYGeIDS",
           "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS",
           "duration_ms": 291175
-        },
-        {
-          "rank": 50,
-          "name": "Everybody Loves The Sunshine",
-          "artists": [
-            "Roy Ayers Ubiquity"
-          ],
-          "album": "Everybody Loves The Sunshine (Reissue)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273df636d19d4b1759a55490d43",
-          "uri": "spotify:track:5le4sn0iMcnKU56bdmNzso",
-          "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso",
-          "duration_ms": 239666
         }
       ],
       "artists": [
@@ -1127,6 +1127,19 @@
         },
         {
           "rank": 21,
+          "name": "Dark Knight Dummo (feat. Travis Scott)",
+          "artists": [
+            "Trippie Redd",
+            "Travis Scott"
+          ],
+          "album": "LIFE'S A TRIP",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
+          "duration_ms": 256161
+        },
+        {
+          "rank": 22,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -1138,7 +1151,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "hakuna matata",
           "artists": [
             "Gunna"
@@ -1150,7 +1163,7 @@
           "duration_ms": 127853
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Beach leak",
           "artists": [
             "Nettspend"
@@ -1162,7 +1175,7 @@
           "duration_ms": 106169
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "pull up wit em math",
           "artists": [
             "Robin Gan"
@@ -1172,19 +1185,6 @@
           "uri": "spotify:track:5CBekqMfv1B1FF8Fp6RIOW",
           "url": "https://open.spotify.com/track/5CBekqMfv1B1FF8Fp6RIOW",
           "duration_ms": 77005
-        },
-        {
-          "rank": 25,
-          "name": "Dark Knight Dummo (feat. Travis Scott)",
-          "artists": [
-            "Trippie Redd",
-            "Travis Scott"
-          ],
-          "album": "LIFE'S A TRIP",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
-          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
-          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
-          "duration_ms": 256161
         },
         {
           "rank": 26,
@@ -1248,6 +1248,20 @@
         },
         {
           "rank": 31,
+          "name": "Ski",
+          "artists": [
+            "Young Stoner Life",
+            "Young Thug",
+            "Gunna"
+          ],
+          "album": "Slime Language 2",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+          "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+          "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1",
+          "duration_ms": 152333
+        },
+        {
+          "rank": 32,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -1260,7 +1274,7 @@
           "duration_ms": 166400
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "GOOBA",
           "artists": [
             "6ix9ine"
@@ -1272,7 +1286,7 @@
           "duration_ms": 132303
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Magic Johnson",
           "artists": [
             "ian"
@@ -1282,20 +1296,6 @@
           "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
           "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn",
           "duration_ms": 137158
-        },
-        {
-          "rank": 34,
-          "name": "Ski",
-          "artists": [
-            "Young Stoner Life",
-            "Young Thug",
-            "Gunna"
-          ],
-          "album": "Slime Language 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
-          "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
-          "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1",
-          "duration_ms": 152333
         },
         {
           "rank": 35,
@@ -1325,6 +1325,20 @@
         },
         {
           "rank": 37,
+          "name": "OUT WEST (feat. Young Thug)",
+          "artists": [
+            "JACKBOYS",
+            "Travis Scott",
+            "Young Thug"
+          ],
+          "album": "JACKBOYS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b920fc01c37be38130418a34",
+          "uri": "spotify:track:6gi6y1xwmVszDWkUqab1qw",
+          "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw",
+          "duration_ms": 157712
+        },
+        {
+          "rank": 38,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -1338,7 +1352,7 @@
           "duration_ms": 203428
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -1348,20 +1362,6 @@
           "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
           "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
           "duration_ms": 115347
-        },
-        {
-          "rank": 39,
-          "name": "OUT WEST (feat. Young Thug)",
-          "artists": [
-            "JACKBOYS",
-            "Travis Scott",
-            "Young Thug"
-          ],
-          "album": "JACKBOYS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b920fc01c37be38130418a34",
-          "uri": "spotify:track:6gi6y1xwmVszDWkUqab1qw",
-          "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw",
-          "duration_ms": 157712
         },
         {
           "rank": 40,
@@ -1452,6 +1452,18 @@
         },
         {
           "rank": 47,
+          "name": "7 Summers",
+          "artists": [
+            "Morgan Wallen"
+          ],
+          "album": "Dangerous: The Double Album",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
+          "duration_ms": 210506
+        },
+        {
+          "rank": 48,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -1463,7 +1475,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -1475,7 +1487,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -1486,18 +1498,6 @@
           "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
           "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV",
           "duration_ms": 205701
-        },
-        {
-          "rank": 50,
-          "name": "Catch Me Outside",
-          "artists": [
-            "Ski Mask The Slump God"
-          ],
-          "album": "You Will Regret (Reloaded)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
-          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
-          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
-          "duration_ms": 145760
         }
       ],
       "artists": [
@@ -1519,19 +1519,19 @@
         },
         {
           "rank": 3,
-          "name": "Bad Bunny",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
-          "genres": [],
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "rank": 4,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
           "genres": [],
           "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "rank": 4,
+          "name": "Bad Bunny",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+          "genres": [],
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
           "rank": 5,

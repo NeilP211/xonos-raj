@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:02:40.912Z",
+  "updated_at": "2026-10-02T00:24:27.972Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -20107,6 +20107,127 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
       "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
       "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-10-01T21:20:43.989Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-10-01T21:21:40.260Z",
+      "name": "RATHER LIE (with The Weeknd)",
+      "artists": [
+        "Playboi Carti",
+        "The Weeknd"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-10-01T21:33:40.687Z",
+      "name": "Fade - Grant Nelson Big Room Remix",
+      "artists": [
+        "Solu Music",
+        "KimBlee"
+      ],
+      "album": "Fade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
+      "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
+      "duration_ms": 175840
+    },
+    {
+      "played_at": "2026-10-01T21:36:35.385Z",
+      "name": "Massive X Touch Me",
+      "artists": [
+        "NovaX",
+        "Sevven"
+      ],
+      "album": "Massive X Touch Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
+      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
+      "duration_ms": 174160
+    },
+    {
+      "played_at": "2026-10-01T21:39:53.884Z",
+      "name": "Waiting for Tonight - Radio Edit",
+      "artists": [
+        "Jennifer Lopez",
+        "FISHER"
+      ],
+      "album": "On The 6 (25th Anniversary Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
+      "uri": "spotify:track:5GHVp2CCufZ8MJzYE82W7R",
+      "duration_ms": 198019
+    },
+    {
+      "played_at": "2026-10-01T21:44:13.264Z",
+      "name": "Find My Way Home",
+      "artists": [
+        "Sammy Virji"
+      ],
+      "album": "Find My Way Home",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731cc9594eb4e8e4cc6aabe090",
+      "uri": "spotify:track:1yIi7qRdybE4yY1V0YdOKG",
+      "duration_ms": 258858
+    },
+    {
+      "played_at": "2026-10-01T21:47:30.683Z",
+      "name": "Who do u?",
+      "artists": [
+        "JACK MARLOW",
+        "Phantom Records"
+      ],
+      "album": "Who do u?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350278aeaacd4286cf4c6cdcb",
+      "uri": "spotify:track:5oWfXmdrVX0AMwEdJ8iSBf",
+      "duration_ms": 196874
+    },
+    {
+      "played_at": "2026-10-01T21:51:05.518Z",
+      "name": "Paradise",
+      "artists": [
+        "Lewis Taylor"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311a648ec33d270b3f24f7246",
+      "uri": "spotify:track:1mjJPwJaSnj1wMWazselPS",
+      "duration_ms": 214291
+    },
+    {
+      "played_at": "2026-10-01T21:54:27.215Z",
+      "name": "I'm Not Alone - 2019 Edit",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "album": "96 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738daa8ac6367fc997c1873b9b",
+      "uri": "spotify:track:6zAUCritANdhceCMLVB8xR",
+      "duration_ms": 201313
+    },
+    {
+      "played_at": "2026-10-01T22:09:16.490Z",
+      "name": "Free Your Mind",
+      "artists": [
+        "Prospa",
+        "Cloonee",
+        "Sybil"
+      ],
+      "album": "Free Your Mind",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338974737cba5770d9dba1cd6",
+      "uri": "spotify:track:6TWbY1dq8eYtFiMiGdBlOa",
+      "duration_ms": 201700
     }
   ]
 }
