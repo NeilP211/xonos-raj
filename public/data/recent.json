@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:24:27.972Z",
+  "updated_at": "2026-10-02T09:13:55.763Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -20228,6 +20228,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27338974737cba5770d9dba1cd6",
       "uri": "spotify:track:6TWbY1dq8eYtFiMiGdBlOa",
       "duration_ms": 201700
+    },
+    {
+      "played_at": "2026-10-01T23:42:31.887Z",
+      "name": "Easy Lover",
+      "artists": [
+        "Philip Bailey",
+        "Phil Collins"
+      ],
+      "album": "Chinese Wall (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c61fd7cba6914924fea49ea9",
+      "uri": "spotify:track:5LYJ631w9ps5h9tdvac7yP",
+      "duration_ms": 305866
+    },
+    {
+      "played_at": "2026-10-02T01:20:57.342Z",
+      "name": "ball hard",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "ball hard",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
+      "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
+      "duration_ms": 160731
     }
   ]
 }
