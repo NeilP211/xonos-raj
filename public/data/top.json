@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:26:44.314Z",
+  "generated_at": "2026-10-03T23:27:24.690Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -806,14 +806,6 @@
         },
         {
           "rank": 22,
-          "name": "Megadeth",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
-          "genres": [],
-          "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        },
-        {
-          "rank": 23,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -821,7 +813,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
@@ -829,12 +821,20 @@
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Limp Bizkit",
           "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
           "genres": [],
           "uri": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "rank": 25,
+          "name": "Slipknot",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
+          "genres": [],
+          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
           "rank": 26,
@@ -854,14 +854,6 @@
         },
         {
           "rank": 28,
-          "name": "Slipknot",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
-          "genres": [],
-          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        },
-        {
-          "rank": 29,
           "name": "Calvin Harris",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
           "genres": [],

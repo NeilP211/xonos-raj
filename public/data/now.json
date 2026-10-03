@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-10-03T20:26:44.572Z",
-  "is_playing": true,
+  "updated_at": "2026-10-03T23:27:24.933Z",
+  "is_playing": false,
   "track": {
-    "name": "Fade - Grant Nelson Big Room Remix",
+    "name": "Free Your Mind",
     "artists": [
-      "Solu Music",
-      "KimBlee"
+      "Prospa",
+      "Cloonee",
+      "Sybil"
     ],
-    "album": "Fade",
-    "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
-    "uri": "spotify:track:58XZDglLRsZClpg19mmqjz"
+    "album": "Free Your Mind",
+    "image": "https://i.scdn.co/image/ab67616d0000b27338974737cba5770d9dba1cd6",
+    "uri": "spotify:track:6TWbY1dq8eYtFiMiGdBlOa"
   },
-  "played_at": "2026-10-03T20:26:44.572Z"
+  "played_at": "2026-10-03T21:43:38.648Z"
 }
