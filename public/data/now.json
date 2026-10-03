@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-03T15:32:24.995Z",
-  "is_playing": false,
+  "updated_at": "2026-10-03T20:26:44.572Z",
+  "is_playing": true,
   "track": {
-    "name": "Talk",
+    "name": "Fade - Grant Nelson Big Room Remix",
     "artists": [
-      "Yeat"
+      "Solu Music",
+      "KimBlee"
     ],
-    "album": "Talk",
-    "image": "https://i.scdn.co/image/ab67616d0000b273904651e3012cc098c7d77b6c",
-    "uri": "spotify:track:0ypjMI7vHiDP4sLB1C0Qna"
+    "album": "Fade",
+    "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
+    "uri": "spotify:track:58XZDglLRsZClpg19mmqjz"
   },
-  "played_at": "2026-10-03T05:11:25.599Z"
+  "played_at": "2026-10-03T20:26:44.572Z"
 }
