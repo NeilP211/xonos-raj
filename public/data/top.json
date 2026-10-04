@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:27:24.690Z",
+  "generated_at": "2026-10-04T03:44:19.020Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1023,19 +1023,6 @@
         },
         {
           "rank": 13,
-          "name": "Tree On The Hill (Lunch Break Freestyle)",
-          "artists": [
-            "Lyrical Lemonade",
-            "Nino Paid"
-          ],
-          "album": "Tree On The Hill (Lunch Break Freestyle)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27380221f36d766d17b3e507720",
-          "uri": "spotify:track:6FPZlhHqrtCi3C4IBCHAy6",
-          "url": "https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6",
-          "duration_ms": 100871
-        },
-        {
-          "rank": 14,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -1047,6 +1034,19 @@
           "uri": "spotify:track:0HGItm7Ox9AnHZbx26nkE4",
           "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4",
           "duration_ms": 137142
+        },
+        {
+          "rank": 14,
+          "name": "Tree On The Hill (Lunch Break Freestyle)",
+          "artists": [
+            "Lyrical Lemonade",
+            "Nino Paid"
+          ],
+          "album": "Tree On The Hill (Lunch Break Freestyle)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27380221f36d766d17b3e507720",
+          "uri": "spotify:track:6FPZlhHqrtCi3C4IBCHAy6",
+          "url": "https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6",
+          "duration_ms": 100871
         },
         {
           "rank": 15,
@@ -1315,44 +1315,6 @@
         },
         {
           "rank": 36,
-          "name": "Dark Thoughts",
-          "artists": [
-            "Lil Tecca"
-          ],
-          "album": "DOPAMINE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-          "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
-          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
-          "duration_ms": 136991
-        },
-        {
-          "rank": 37,
-          "name": "Wokeup",
-          "artists": [
-            "Kankan"
-          ],
-          "album": "Wokeup",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
-          "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
-          "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
-          "duration_ms": 115347
-        },
-        {
-          "rank": 38,
-          "name": "OUT WEST (feat. Young Thug)",
-          "artists": [
-            "JACKBOYS",
-            "Travis Scott",
-            "Young Thug"
-          ],
-          "album": "JACKBOYS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b920fc01c37be38130418a34",
-          "uri": "spotify:track:6gi6y1xwmVszDWkUqab1qw",
-          "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw",
-          "duration_ms": 157712
-        },
-        {
-          "rank": 39,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -1364,6 +1326,44 @@
           "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
           "url": "https://open.spotify.com/track/4K4GL5CVZrkQFj1xb22gRP",
           "duration_ms": 203428
+        },
+        {
+          "rank": 37,
+          "name": "Dark Thoughts",
+          "artists": [
+            "Lil Tecca"
+          ],
+          "album": "DOPAMINE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+          "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
+          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
+          "duration_ms": 136991
+        },
+        {
+          "rank": 38,
+          "name": "Wokeup",
+          "artists": [
+            "Kankan"
+          ],
+          "album": "Wokeup",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
+          "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
+          "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
+          "duration_ms": 115347
+        },
+        {
+          "rank": 39,
+          "name": "OUT WEST (feat. Young Thug)",
+          "artists": [
+            "JACKBOYS",
+            "Travis Scott",
+            "Young Thug"
+          ],
+          "album": "JACKBOYS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b920fc01c37be38130418a34",
+          "uri": "spotify:track:6gi6y1xwmVszDWkUqab1qw",
+          "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw",
+          "duration_ms": 157712
         },
         {
           "rank": 40,
@@ -1380,6 +1380,18 @@
         },
         {
           "rank": 41,
+          "name": "Gët Busy",
+          "artists": [
+            "Yeat"
+          ],
+          "album": "Up 2 Më",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+          "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
+          "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR",
+          "duration_ms": 157779
+        },
+        {
+          "rank": 42,
           "name": "Perc Popper",
           "artists": [
             "Shoreline Mafia",
@@ -1393,7 +1405,7 @@
           "duration_ms": 120857
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -1405,7 +1417,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Faneto",
           "artists": [
             "Chief Keef"
@@ -1417,7 +1429,7 @@
           "duration_ms": 206654
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -1427,18 +1439,6 @@
           "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
           "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
           "duration_ms": 271600
-        },
-        {
-          "rank": 45,
-          "name": "Gët Busy",
-          "artists": [
-            "Yeat"
-          ],
-          "album": "Up 2 Më",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
-          "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
-          "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR",
-          "duration_ms": 157779
         },
         {
           "rank": 46,
@@ -1673,6 +1673,14 @@
         },
         {
           "rank": 22,
+          "name": "Yeat",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+          "genres": [],
+          "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "rank": 23,
           "name": "Robin Gan",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00ad41c30f8aa8eebadcf448",
           "genres": [],
@@ -1680,7 +1688,7 @@
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -1688,7 +1696,7 @@
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
           "genres": [],
@@ -1696,7 +1704,7 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Juice WRLD",
           "image": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
           "genres": [],
@@ -1704,20 +1712,12 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Korn",
           "image": "https://i.scdn.co/image/ab6761610000e5eb29af2ffb6f4ddd6324f878bc",
           "genres": [],
           "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "rank": 27,
-          "name": "Yeat",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
-          "genres": [],
-          "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         },
         {
           "rank": 28,
