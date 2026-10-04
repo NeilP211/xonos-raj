@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T20:44:57.912Z",
+  "updated_at": "2026-10-04T23:45:27.296Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -20845,6 +20845,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273df636d19d4b1759a55490d43",
       "uri": "spotify:track:5le4sn0iMcnKU56bdmNzso",
       "duration_ms": 239666
+    },
+    {
+      "played_at": "2026-10-04T23:19:27.368Z",
+      "name": "Swërved It",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:6GukTiiz6sGrXEHPEqsD5Y",
+      "duration_ms": 137299
+    },
+    {
+      "played_at": "2026-10-04T23:27:57.589Z",
+      "name": "Swërved It",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:6GukTiiz6sGrXEHPEqsD5Y",
+      "duration_ms": 137299
+    },
+    {
+      "played_at": "2026-10-04T23:30:52.702Z",
+      "name": "Talk",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Talk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273904651e3012cc098c7d77b6c",
+      "uri": "spotify:track:0ypjMI7vHiDP4sLB1C0Qna",
+      "duration_ms": 174857
+    },
+    {
+      "played_at": "2026-10-04T23:34:52.154Z",
+      "name": "Remember The Rain",
+      "artists": [
+        "21st Century"
+      ],
+      "album": "Ahead of Our Time",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735088c3c1c49d166ca7210e46",
+      "uri": "spotify:track:4yhQV8Ys8ntDG3lqTtp2hl",
+      "duration_ms": 239250
     }
   ]
 }
