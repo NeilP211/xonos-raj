@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T03:44:19.020Z",
+  "generated_at": "2026-10-04T11:37:47.586Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -112,18 +112,6 @@
         },
         {
           "rank": 9,
-          "name": "Touchable",
-          "artists": [
-            "Remble"
-          ],
-          "album": "IT’S REMBLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
-          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
-          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
-          "duration_ms": 122647
-        },
-        {
-          "rank": 10,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -133,6 +121,18 @@
           "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
           "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
           "duration_ms": 422613
+        },
+        {
+          "rank": 10,
+          "name": "Touchable",
+          "artists": [
+            "Remble"
+          ],
+          "album": "IT’S REMBLE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
+          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
+          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
+          "duration_ms": 122647
         },
         {
           "rank": 11,
@@ -260,18 +260,6 @@
         },
         {
           "rank": 21,
-          "name": "Rotten Apple",
-          "artists": [
-            "Alice In Chains"
-          ],
-          "album": "Jar Of Flies",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
-          "duration_ms": 418466
-        },
-        {
-          "rank": 22,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -281,6 +269,18 @@
           "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
           "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
           "duration_ms": 132000
+        },
+        {
+          "rank": 22,
+          "name": "Rotten Apple",
+          "artists": [
+            "Alice In Chains"
+          ],
+          "album": "Jar Of Flies",
+          "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+          "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+          "url": "https://open.spotify.com/track/7Fm3NhbAYHvTQUhboim9FB",
+          "duration_ms": 418466
         },
         {
           "rank": 23,
@@ -397,18 +397,6 @@
         },
         {
           "rank": 32,
-          "name": "Who You Foolin",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "Drip or Drown 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
-          "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
-          "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj",
-          "duration_ms": 151539
-        },
-        {
-          "rank": 33,
           "name": "Beach leak",
           "artists": [
             "Nettspend"
@@ -418,6 +406,18 @@
           "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
           "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
           "duration_ms": 106169
+        },
+        {
+          "rank": 33,
+          "name": "Who You Foolin",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "Drip or Drown 2",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
+          "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
+          "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj",
+          "duration_ms": 151539
         },
         {
           "rank": 34,
@@ -472,6 +472,18 @@
         },
         {
           "rank": 38,
+          "name": "Special",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "Keep it goin xav",
+          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
+          "duration_ms": 104650
+        },
+        {
+          "rank": 39,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -483,7 +495,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -495,7 +507,7 @@
           "duration_ms": 184375
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -507,7 +519,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "wokeuplikethis*",
           "artists": [
             "Playboi Carti",
@@ -520,7 +532,7 @@
           "duration_ms": 235535
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Swërved It",
           "artists": [
             "Yeat"
@@ -532,7 +544,7 @@
           "duration_ms": 137299
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Fool",
           "artists": [
             "OsamaSon"
@@ -544,32 +556,7 @@
           "duration_ms": 125562
         },
         {
-          "rank": 44,
-          "name": "Special",
-          "artists": [
-            "xaviersobased"
-          ],
-          "album": "Keep it goin xav",
-          "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-          "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-          "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
-          "duration_ms": 104650
-        },
-        {
           "rank": 45,
-          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-          "artists": [
-            "lil ricefield",
-            "seiji oda"
-          ],
-          "album": "Eat Rice Dummy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
-          "duration_ms": 106666
-        },
-        {
-          "rank": 46,
           "name": "Hypnotize - 2014 Remaster",
           "artists": [
             "The Notorious B.I.G."
@@ -581,7 +568,7 @@
           "duration_ms": 229826
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -595,7 +582,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Rich Nigga Shit (feat. Young Thug)",
           "artists": [
             "21 Savage",
@@ -609,7 +596,7 @@
           "duration_ms": 190331
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Touch Down",
           "artists": [
             "Shoreline Mafia",
@@ -623,7 +610,7 @@
           "duration_ms": 203428
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Lose It",
           "artists": [
             "Ken Carson"
@@ -633,6 +620,19 @@
           "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
           "url": "https://open.spotify.com/track/5ZY2fIqxuKDr5pdz0ucpRz",
           "duration_ms": 140811
+        },
+        {
+          "rank": 50,
+          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+          "artists": [
+            "lil ricefield",
+            "seiji oda"
+          ],
+          "album": "Eat Rice Dummy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
+          "duration_ms": 106666
         }
       ],
       "artists": [
@@ -726,14 +726,6 @@
         },
         {
           "rank": 12,
-          "name": "xaviersobased",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
-          "genres": [],
-          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        },
-        {
-          "rank": 13,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "genres": [],
@@ -741,12 +733,20 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 14,
+          "name": "xaviersobased",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
+          "genres": [],
+          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
           "rank": 15,
@@ -822,14 +822,6 @@
         },
         {
           "rank": 24,
-          "name": "Limp Bizkit",
-          "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
-          "genres": [],
-          "uri": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        },
-        {
-          "rank": 25,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
           "genres": [],
@@ -837,7 +829,7 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
@@ -845,20 +837,12 @@
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "rank": 28,
-          "name": "Calvin Harris",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
-          "genres": [],
-          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ]
     },
