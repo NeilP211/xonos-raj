@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:16:18.466Z",
+  "generated_at": "2026-10-04T20:44:57.758Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -710,14 +710,6 @@
         },
         {
           "rank": 10,
-          "name": "ian",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8aad49dbc1594fa8d4dee88e",
-          "genres": [],
-          "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
-          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
-        },
-        {
-          "rank": 11,
           "name": "Gunna",
           "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
           "genres": [],
@@ -725,7 +717,7 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "genres": [],
@@ -733,12 +725,20 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 13,
+          "name": "ian",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8aad49dbc1594fa8d4dee88e",
+          "genres": [],
+          "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         },
         {
           "rank": 14,

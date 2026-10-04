@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T16:16:18.566Z",
+  "updated_at": "2026-10-04T20:44:57.912Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -20823,6 +20823,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27338974737cba5770d9dba1cd6",
       "uri": "spotify:track:6TWbY1dq8eYtFiMiGdBlOa",
       "duration_ms": 201700
+    },
+    {
+      "played_at": "2026-10-04T03:52:47.124Z",
+      "name": "Swërved It",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:6GukTiiz6sGrXEHPEqsD5Y",
+      "duration_ms": 137299
+    },
+    {
+      "played_at": "2026-10-04T18:20:12.974Z",
+      "name": "Everybody Loves The Sunshine",
+      "artists": [
+        "Roy Ayers Ubiquity"
+      ],
+      "album": "Everybody Loves The Sunshine (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df636d19d4b1759a55490d43",
+      "uri": "spotify:track:5le4sn0iMcnKU56bdmNzso",
+      "duration_ms": 239666
     }
   ]
 }
