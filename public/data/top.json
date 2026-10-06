@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:15:49.024Z",
+  "generated_at": "2026-10-06T12:33:41.686Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1704,6 +1704,14 @@
         },
         {
           "rank": 28,
+          "name": "C418",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
+          "genres": [],
+          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        },
+        {
+          "rank": 29,
           "name": "Megadeth",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
           "genres": [],
@@ -1711,7 +1719,7 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Chief Keef",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe816aaf5f96c04fdfa8fadc7",
           "genres": [],
@@ -1719,7 +1727,7 @@
           "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Red Hot Chili Peppers",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
           "genres": [],
@@ -1727,20 +1735,12 @@
           "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "John Coltrane",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4e85f2df0ebc051fcb317def",
           "genres": [],
           "uri": "spotify:artist:2hGh5VOeeqimQFxqXvfCUf",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "rank": 32,
-          "name": "C418",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
-          "genres": [],
-          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
           "rank": 33,
@@ -1784,6 +1784,14 @@
         },
         {
           "rank": 38,
+          "name": "Staind",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba43eff361de1d811e2d17adb",
+          "genres": [],
+          "uri": "spotify:artist:5KDIH2gF0VpelTqyQS7udb",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        },
+        {
+          "rank": 39,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -1791,7 +1799,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Nettspend",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
           "genres": [],
@@ -1799,7 +1807,7 @@
           "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Eagles",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb",
           "genres": [],
@@ -1807,7 +1815,7 @@
           "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Dean Martin",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd570667643682f6c1e99167e",
           "genres": [],
@@ -1815,7 +1823,7 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Jake Antonio",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf1f91f7f999a109eb10d7d12",
           "genres": [],
@@ -1823,7 +1831,7 @@
           "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Paul Desmond",
           "image": "https://i.scdn.co/image/87db29f66c8b57d93f06887967bbe325e40f7e49",
           "genres": [],
@@ -1831,7 +1839,7 @@
           "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Crowbar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7431d2e18a5ebbb758f3ee7b",
           "genres": [],
@@ -1839,7 +1847,7 @@
           "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Young Nudy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03775f1dcd383778c1e8832d",
           "genres": [],
@@ -1847,7 +1855,7 @@
           "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Michael Jackson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
           "genres": [],
@@ -1855,20 +1863,12 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Yung Gravy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8dc00f46b0a4814a02e1dba4",
           "genres": [],
           "uri": "spotify:artist:2YOYua8FpudSEiB9s88IgQ",
           "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
-        {
-          "rank": 48,
-          "name": "Staind",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba43eff361de1d811e2d17adb",
-          "genres": [],
-          "uri": "spotify:artist:5KDIH2gF0VpelTqyQS7udb",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         },
         {
           "rank": 49,

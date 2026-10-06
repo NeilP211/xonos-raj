@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-06T04:15:49.181Z",
+  "updated_at": "2026-10-06T12:33:41.905Z",
   "is_playing": false,
   "track": {
-    "name": "we fell in love in october",
+    "name": "Just the Two of Us (feat. Bill Withers) - Edit",
     "artists": [
-      "girl in red"
+      "Grover Washington, Jr.",
+      "Bill Withers"
     ],
-    "album": "we fell in love in october / October Passed Me By",
-    "image": "https://i.scdn.co/image/ab67616d0000b273deade9f354749841f09feca2",
-    "uri": "spotify:track:6IPwKM3fUUzlElbvKw2sKl"
+    "album": "Lean on Me: The Best of Bill Withers",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35",
+    "uri": "spotify:track:2tH28YyKYOldxhuBHoI79M"
   },
-  "played_at": "2026-10-06T03:44:10.050Z"
+  "played_at": "2026-10-06T11:12:40.953Z"
 }

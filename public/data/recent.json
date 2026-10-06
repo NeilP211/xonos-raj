@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T04:15:49.146Z",
+  "updated_at": "2026-10-06T12:33:41.869Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -21400,6 +21400,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273deade9f354749841f09feca2",
       "uri": "spotify:track:6IPwKM3fUUzlElbvKw2sKl",
       "duration_ms": 184153
+    },
+    {
+      "played_at": "2026-10-06T10:57:10.087Z",
+      "name": "Blind Spots",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+      "duration_ms": 332500
+    },
+    {
+      "played_at": "2026-10-06T11:00:14.684Z",
+      "name": "we fell in love in october",
+      "artists": [
+        "girl in red"
+      ],
+      "album": "we fell in love in october / October Passed Me By",
+      "image": "https://i.scdn.co/image/ab67616d0000b273deade9f354749841f09feca2",
+      "uri": "spotify:track:6IPwKM3fUUzlElbvKw2sKl",
+      "duration_ms": 184153
+    },
+    {
+      "played_at": "2026-10-06T11:12:40.953Z",
+      "name": "Just the Two of Us (feat. Bill Withers) - Edit",
+      "artists": [
+        "Grover Washington, Jr.",
+        "Bill Withers"
+      ],
+      "album": "Lean on Me: The Best of Bill Withers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35",
+      "uri": "spotify:track:2tH28YyKYOldxhuBHoI79M",
+      "duration_ms": 237373
     }
   ]
 }
