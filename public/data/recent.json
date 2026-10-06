@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T21:45:43.372Z",
+  "updated_at": "2026-10-06T04:15:49.146Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -21322,6 +21322,84 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
       "uri": "spotify:track:32SckiFOYb8bwYewY51WA7",
       "duration_ms": 231039
+    },
+    {
+      "played_at": "2026-10-05T22:22:29.071Z",
+      "name": "Fight Fire With Fire (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b09e5084136821bf64d327f4",
+      "uri": "spotify:track:3eaOnliKh0QdjuDbPAwCLx",
+      "duration_ms": 284506
+    },
+    {
+      "played_at": "2026-10-05T22:22:56.678Z",
+      "name": "Take It",
+      "artists": [
+        "Staind"
+      ],
+      "album": "Break the Cycle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+      "uri": "spotify:track:38DpmNjN5AK8sJUnB4FPLA",
+      "duration_ms": 215706
+    },
+    {
+      "played_at": "2026-10-06T01:23:01.759Z",
+      "name": "August 10",
+      "artists": [
+        "Julie Doiron"
+      ],
+      "album": "Broken Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d2e66c75f8550ce7de6fa66",
+      "uri": "spotify:track:0yOf4dgkVq8jbB2zxVK8Zj",
+      "duration_ms": 178000
+    },
+    {
+      "played_at": "2026-10-06T01:36:51.001Z",
+      "name": "Blind Spots",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+      "duration_ms": 332500
+    },
+    {
+      "played_at": "2026-10-06T03:39:57.736Z",
+      "name": "Fallen Down - Slowed",
+      "artists": [
+        "dru",
+        "EtxrnalL"
+      ],
+      "album": "Fallen Down (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d406f84646ebe24d2aae7cf8",
+      "uri": "spotify:track:28wXXdoArl2UJmpTesjCBo",
+      "duration_ms": 250125
+    },
+    {
+      "played_at": "2026-10-06T03:43:39.115Z",
+      "name": "Take It",
+      "artists": [
+        "Staind"
+      ],
+      "album": "Break the Cycle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+      "uri": "spotify:track:38DpmNjN5AK8sJUnB4FPLA",
+      "duration_ms": 215706
+    },
+    {
+      "played_at": "2026-10-06T03:44:10.050Z",
+      "name": "we fell in love in october",
+      "artists": [
+        "girl in red"
+      ],
+      "album": "we fell in love in october / October Passed Me By",
+      "image": "https://i.scdn.co/image/ab67616d0000b273deade9f354749841f09feca2",
+      "uri": "spotify:track:6IPwKM3fUUzlElbvKw2sKl",
+      "duration_ms": 184153
     }
   ]
 }
