@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:37:56.079Z",
+  "generated_at": "2026-10-07T18:15:20.167Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -200,18 +200,6 @@
         },
         {
           "rank": 16,
-          "name": "Location",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
-          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
-          "duration_ms": 168783
-        },
-        {
-          "rank": 17,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -223,7 +211,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Swërved It",
           "artists": [
             "Yeat"
@@ -233,6 +221,18 @@
           "uri": "spotify:track:6GukTiiz6sGrXEHPEqsD5Y",
           "url": "https://open.spotify.com/track/6GukTiiz6sGrXEHPEqsD5Y",
           "duration_ms": 137299
+        },
+        {
+          "rank": 18,
+          "name": "Location",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+          "duration_ms": 168783
         },
         {
           "rank": 19,
@@ -260,6 +260,18 @@
         },
         {
           "rank": 21,
+          "name": "we fell in love in october",
+          "artists": [
+            "girl in red"
+          ],
+          "album": "we fell in love in october / October Passed Me By",
+          "image": "https://i.scdn.co/image/ab67616d0000b273deade9f354749841f09feca2",
+          "uri": "spotify:track:6IPwKM3fUUzlElbvKw2sKl",
+          "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl",
+          "duration_ms": 184153
+        },
+        {
+          "rank": 22,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -271,7 +283,7 @@
           "duration_ms": 157779
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -283,7 +295,7 @@
           "duration_ms": 132000
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -295,7 +307,7 @@
           "duration_ms": 418466
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -307,7 +319,7 @@
           "duration_ms": 89535
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -321,7 +333,7 @@
           "duration_ms": 164400
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Flight's Booked",
           "artists": [
             "Drake"
@@ -333,7 +345,19 @@
           "duration_ms": 254407
         },
         {
-          "rank": 27,
+          "rank": 28,
+          "name": "Talk",
+          "artists": [
+            "Yeat"
+          ],
+          "album": "Lyfë",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
+          "uri": "spotify:track:0oO1AbL92F6329z13C2qQH",
+          "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH",
+          "duration_ms": 174857
+        },
+        {
+          "rank": 29,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -345,7 +369,7 @@
           "duration_ms": 253920
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Passionfruit",
           "artists": [
             "Drake"
@@ -357,7 +381,7 @@
           "duration_ms": 298940
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Fool",
           "artists": [
             "OsamaSon"
@@ -369,7 +393,7 @@
           "duration_ms": 125562
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "rises the moon",
           "artists": [
             "Liana Flores"
@@ -381,7 +405,7 @@
           "duration_ms": 161929
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -395,7 +419,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "GUMMO",
           "artists": [
             "6ix9ine"
@@ -407,19 +431,7 @@
           "duration_ms": 157643
         },
         {
-          "rank": 33,
-          "name": "Talk",
-          "artists": [
-            "Yeat"
-          ],
-          "album": "Lyfë",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
-          "uri": "spotify:track:0oO1AbL92F6329z13C2qQH",
-          "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH",
-          "duration_ms": 174857
-        },
-        {
-          "rank": 34,
+          "rank": 35,
           "name": "Jimmy Cooks (feat. 21 Savage)",
           "artists": [
             "Drake",
@@ -432,7 +444,7 @@
           "duration_ms": 218364
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Hypnotize - 2014 Remaster",
           "artists": [
             "The Notorious B.I.G."
@@ -444,7 +456,7 @@
           "duration_ms": 229826
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -456,7 +468,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -468,7 +480,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -480,7 +492,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Who You Foolin",
           "artists": [
             "Gunna"
@@ -492,7 +504,19 @@
           "duration_ms": 151539
         },
         {
-          "rank": 40,
+          "rank": 41,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
+        },
+        {
+          "rank": 42,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -507,7 +531,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Nun Major",
           "artists": [
             "Shoreline Mafia"
@@ -519,7 +543,7 @@
           "duration_ms": 151836
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Rich Nigga Shit (feat. Young Thug)",
           "artists": [
             "21 Savage",
@@ -533,7 +557,7 @@
           "duration_ms": 190331
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Everybody Loves The Sunshine",
           "artists": [
             "Roy Ayers Ubiquity"
@@ -545,7 +569,7 @@
           "duration_ms": 239666
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -557,7 +581,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -569,7 +593,7 @@
           "duration_ms": 184375
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -581,7 +605,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "wokeuplikethis*",
           "artists": [
             "Playboi Carti",
@@ -594,43 +618,17 @@
           "duration_ms": 235535
         },
         {
-          "rank": 48,
-          "name": "we fell in love in october",
-          "artists": [
-            "girl in red"
-          ],
-          "album": "we fell in love in october / October Passed Me By",
-          "image": "https://i.scdn.co/image/ab67616d0000b273deade9f354749841f09feca2",
-          "uri": "spotify:track:6IPwKM3fUUzlElbvKw2sKl",
-          "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl",
-          "duration_ms": 184153
-        },
-        {
-          "rank": 49,
-          "name": "ZEZE (feat. Travis Scott & Offset)",
-          "artists": [
-            "Kodak Black",
-            "Offset",
-            "Travis Scott"
-          ],
-          "album": "Dying to Live",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
-          "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
-          "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z",
-          "duration_ms": 228759
-        },
-        {
           "rank": 50,
-          "name": "Fair Trade (with Travis Scott)",
+          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
-            "Drake",
-            "Travis Scott"
+            "lil ricefield",
+            "seiji oda"
           ],
-          "album": "Certified Lover Boy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
-          "uri": "spotify:track:40iJIUlhi6renaREYGeIDS",
-          "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS",
-          "duration_ms": 291175
+          "album": "Eat Rice Dummy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
+          "duration_ms": 106666
         }
       ],
       "artists": [
@@ -2358,18 +2356,6 @@
         },
         {
           "rank": 37,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
-        },
-        {
-          "rank": 38,
           "name": "OUT WEST (feat. Young Thug)",
           "artists": [
             "JACKBOYS",
@@ -2381,6 +2367,18 @@
           "uri": "spotify:track:6gi6y1xwmVszDWkUqab1qw",
           "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw",
           "duration_ms": 157712
+        },
+        {
+          "rank": 38,
+          "name": "Loving Machine",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
         },
         {
           "rank": 39,
@@ -2433,6 +2431,18 @@
         },
         {
           "rank": 43,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
+        },
+        {
+          "rank": 44,
           "name": "Dark Thoughts",
           "artists": [
             "Lil Tecca"
@@ -2442,19 +2452,6 @@
           "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
           "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
           "duration_ms": 136991
-        },
-        {
-          "rank": 44,
-          "name": "RATHER LIE (with The Weeknd)",
-          "artists": [
-            "Playboi Carti",
-            "The Weeknd"
-          ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
-          "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
-          "duration_ms": 209680
         },
         {
           "rank": 45,
@@ -2482,6 +2479,19 @@
         },
         {
           "rank": 47,
+          "name": "RATHER LIE (with The Weeknd)",
+          "artists": [
+            "Playboi Carti",
+            "The Weeknd"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+          "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
+          "duration_ms": 209680
+        },
+        {
+          "rank": 48,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -2495,7 +2505,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -2507,7 +2517,7 @@
           "duration_ms": 210506
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Every Breath You Take",
           "artists": [
             "The Police"
@@ -2517,18 +2527,6 @@
           "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
           "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
           "duration_ms": 253920
-        },
-        {
-          "rank": 50,
-          "name": "Faneto",
-          "artists": [
-            "Chief Keef"
-          ],
-          "album": "Back from the Dead 2",
-          "image": "https://i.scdn.co/image/ab67616d0000b273589138eb4f42c9abcf848ba0",
-          "uri": "spotify:track:6fL8iaSdwmSTQiUv9K6L4h",
-          "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h",
-          "duration_ms": 206654
         }
       ],
       "artists": [
