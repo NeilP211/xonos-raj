@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T00:17:49.356Z",
+  "updated_at": "2026-10-07T09:37:56.212Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -21760,6 +21760,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737d1b4387ef61788f72715186",
       "uri": "spotify:track:6wetvpPWooBdmAEOKnDhpo",
       "duration_ms": 223535
+    },
+    {
+      "played_at": "2026-10-07T01:20:44.988Z",
+      "name": "Hypnotize - 2007 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
+      "uri": "spotify:track:6Tsu3OsuMz4KEGKbOYd6A0",
+      "duration_ms": 230000
     }
   ]
 }
