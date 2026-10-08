@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T00:39:06.087Z",
+  "updated_at": "2026-10-08T09:48:04.494Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -22057,6 +22057,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
       "uri": "spotify:track:0WSRrGVg1gO33MKIBPgBV2",
       "duration_ms": 284506
+    },
+    {
+      "played_at": "2026-10-07T21:44:39.922Z",
+      "name": "Blind Spots",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+      "duration_ms": 332500
     }
   ]
 }
