@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T18:15:20.351Z",
+  "updated_at": "2026-10-08T00:39:06.087Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -21991,6 +21991,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
       "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
       "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-10-07T18:15:41.826Z",
+      "name": "Summer 91 (Looking Back)",
+      "artists": [
+        "Noizu"
+      ],
+      "album": "Summer 91 (Looking Back)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c0c35544b3c51b9b8896f87",
+      "uri": "spotify:track:4FEcEwbE2vsqhxbTPtiNTL",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-10-07T18:23:56.624Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-07T18:25:23.656Z",
+      "name": "Enter Sandman (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:3VqHuw0wFlIHcIPWkhIbdQ",
+      "duration_ms": 331560
+    },
+    {
+      "played_at": "2026-10-07T21:28:04.948Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-10-07T21:32:30.077Z",
+      "name": "It's Been Awhile",
+      "artists": [
+        "Staind"
+      ],
+      "album": "Break the Cycle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+      "uri": "spotify:track:25CMmGsl22APKhfuj4Tp7j",
+      "duration_ms": 264706
+    },
+    {
+      "played_at": "2026-10-07T21:36:42.503Z",
+      "name": "Fight Fire With Fire (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Deluxe Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
+      "uri": "spotify:track:0WSRrGVg1gO33MKIBPgBV2",
+      "duration_ms": 284506
     }
   ]
 }
