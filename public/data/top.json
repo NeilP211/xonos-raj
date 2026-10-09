@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:52:44.913Z",
+  "generated_at": "2026-10-09T17:49:52.119Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -163,30 +163,6 @@
         },
         {
           "rank": 13,
-          "name": "Warmth",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
-          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
-          "duration_ms": 239379
-        },
-        {
-          "rank": 14,
-          "name": "Falling Behind",
-          "artists": [
-            "Laufey"
-          ],
-          "album": "Everything I Know About Love",
-          "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
-          "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
-          "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj",
-          "duration_ms": 173640
-        },
-        {
-          "rank": 15,
           "name": "Swërved It",
           "artists": [
             "Yeat"
@@ -198,7 +174,43 @@
           "duration_ms": 137299
         },
         {
+          "rank": 14,
+          "name": "Warmth",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
+          "duration_ms": 239379
+        },
+        {
+          "rank": 15,
+          "name": "Falling Behind",
+          "artists": [
+            "Laufey"
+          ],
+          "album": "Everything I Know About Love",
+          "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+          "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+          "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj",
+          "duration_ms": 173640
+        },
+        {
           "rank": 16,
+          "name": "Talk",
+          "artists": [
+            "Yeat"
+          ],
+          "album": "Lyfë",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
+          "uri": "spotify:track:0oO1AbL92F6329z13C2qQH",
+          "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH",
+          "duration_ms": 174857
+        },
+        {
+          "rank": 17,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -210,7 +222,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -223,7 +235,7 @@
           "duration_ms": 168000
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Location",
           "artists": [
             "Playboi Carti"
@@ -235,7 +247,7 @@
           "duration_ms": 168783
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Flight's Booked",
           "artists": [
             "Drake"
@@ -247,28 +259,16 @@
           "duration_ms": 254407
         },
         {
-          "rank": 20,
-          "name": "Talk",
-          "artists": [
-            "Yeat"
-          ],
-          "album": "Lyfë",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
-          "uri": "spotify:track:0oO1AbL92F6329z13C2qQH",
-          "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH",
-          "duration_ms": 174857
-        },
-        {
           "rank": 21,
-          "name": "Everything In Its Right Place",
+          "name": "Fool",
           "artists": [
-            "Radiohead"
+            "OsamaSon"
           ],
-          "album": "Kid A",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-          "duration_ms": 251426
+          "album": "Jump Out",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
+          "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
+          "url": "https://open.spotify.com/track/2zhOFpI6w9Dyt3d5wpFWSE",
+          "duration_ms": 125562
         },
         {
           "rank": 22,
@@ -320,6 +320,18 @@
         },
         {
           "rank": 26,
+          "name": "Everything In Its Right Place",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "Kid A",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+          "duration_ms": 251426
+        },
+        {
+          "rank": 27,
           "name": "Passionfruit",
           "artists": [
             "Drake"
@@ -331,7 +343,7 @@
           "duration_ms": 298940
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -343,18 +355,6 @@
           "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
           "url": "https://open.spotify.com/track/7oW5YZZVeesParmVY7gx6s",
           "duration_ms": 164400
-        },
-        {
-          "rank": 28,
-          "name": "Fool",
-          "artists": [
-            "OsamaSon"
-          ],
-          "album": "Jump Out",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
-          "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
-          "url": "https://open.spotify.com/track/2zhOFpI6w9Dyt3d5wpFWSE",
-          "duration_ms": 125562
         },
         {
           "rank": 29,
@@ -432,6 +432,18 @@
         },
         {
           "rank": 35,
+          "name": "Blind Spots",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+          "url": "https://open.spotify.com/track/6Dc23uTvKTKbyDfZ3WAzEO",
+          "duration_ms": 332500
+        },
+        {
+          "rank": 36,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -443,7 +455,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -455,7 +467,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Everybody Loves The Sunshine",
           "artists": [
             "Roy Ayers Ubiquity"
@@ -467,7 +479,7 @@
           "duration_ms": 239666
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Fighting My Demons",
           "artists": [
             "Ken Carson"
@@ -479,7 +491,7 @@
           "duration_ms": 150401
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "rises the moon",
           "artists": [
             "Liana Flores"
@@ -491,7 +503,7 @@
           "duration_ms": 161929
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -503,7 +515,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -517,7 +529,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -529,7 +541,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "GUMMO",
           "artists": [
             "6ix9ine"
@@ -541,7 +553,7 @@
           "duration_ms": 157643
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Long Time - Intro",
           "artists": [
             "Playboi Carti"
@@ -553,7 +565,7 @@
           "duration_ms": 211773
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -563,18 +575,6 @@
           "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
           "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
           "duration_ms": 210506
-        },
-        {
-          "rank": 46,
-          "name": "Blind Spots",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
-          "url": "https://open.spotify.com/track/6Dc23uTvKTKbyDfZ3WAzEO",
-          "duration_ms": 332500
         },
         {
           "rank": 47,
@@ -670,19 +670,19 @@
         },
         {
           "rank": 6,
-          "name": "Destroy Lonely",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
-          "genres": [],
-          "uri": "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "rank": 7,
           "name": "Mac DeMarco",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
           "genres": [],
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "rank": 7,
+          "name": "Destroy Lonely",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
+          "genres": [],
+          "uri": "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
           "rank": 8,
@@ -2047,21 +2047,6 @@
         },
         {
           "rank": 13,
-          "name": "40 - Dj Ess Mix",
-          "artists": [
-            "evilgiane",
-            "xaviersobased",
-            "Nettspend",
-            "DJ Ess"
-          ],
-          "album": "40 (Dj Ess Mix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
-          "duration_ms": 81658
-        },
-        {
-          "rank": 14,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -2074,6 +2059,21 @@
           "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
           "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB",
           "duration_ms": 134400
+        },
+        {
+          "rank": 14,
+          "name": "40 - Dj Ess Mix",
+          "artists": [
+            "evilgiane",
+            "xaviersobased",
+            "Nettspend",
+            "DJ Ess"
+          ],
+          "album": "40 (Dj Ess Mix)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
+          "duration_ms": 81658
         },
         {
           "rank": 15,
@@ -2269,18 +2269,6 @@
         },
         {
           "rank": 30,
-          "name": "Beach leak",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "BAD ASS F*CKING KID",
-          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
-          "duration_ms": 106169
-        },
-        {
-          "rank": 31,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -2293,31 +2281,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 32,
-          "name": "hakuna matata",
-          "artists": [
-            "Gunna"
-          ],
-          "album": "One of Wun",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
-          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
-          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
-          "duration_ms": 127853
-        },
-        {
-          "rank": 33,
-          "name": "pull up wit em math",
-          "artists": [
-            "Robin Gan"
-          ],
-          "album": "pull up wit em math",
-          "image": "https://i.scdn.co/image/ab67616d0000b273518dd809f410592f1cb827b3",
-          "uri": "spotify:track:5CBekqMfv1B1FF8Fp6RIOW",
-          "url": "https://open.spotify.com/track/5CBekqMfv1B1FF8Fp6RIOW",
-          "duration_ms": 77005
-        },
-        {
-          "rank": 34,
+          "rank": 31,
           "name": "Ski",
           "artists": [
             "Young Stoner Life",
@@ -2329,6 +2293,42 @@
           "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
           "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1",
           "duration_ms": 152333
+        },
+        {
+          "rank": 32,
+          "name": "Beach leak",
+          "artists": [
+            "Nettspend"
+          ],
+          "album": "BAD ASS F*CKING KID",
+          "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+          "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+          "url": "https://open.spotify.com/track/5Yv0sTyP1QCQeUuy0wYbW1",
+          "duration_ms": 106169
+        },
+        {
+          "rank": 33,
+          "name": "hakuna matata",
+          "artists": [
+            "Gunna"
+          ],
+          "album": "One of Wun",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
+          "uri": "spotify:track:32TTewBmtmhUmYxS1ajqaJ",
+          "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ",
+          "duration_ms": 127853
+        },
+        {
+          "rank": 34,
+          "name": "pull up wit em math",
+          "artists": [
+            "Robin Gan"
+          ],
+          "album": "pull up wit em math",
+          "image": "https://i.scdn.co/image/ab67616d0000b273518dd809f410592f1cb827b3",
+          "uri": "spotify:track:5CBekqMfv1B1FF8Fp6RIOW",
+          "url": "https://open.spotify.com/track/5CBekqMfv1B1FF8Fp6RIOW",
+          "duration_ms": 77005
         },
         {
           "rank": 35,
@@ -2479,18 +2479,6 @@
         },
         {
           "rank": 47,
-          "name": "The Grinch",
-          "artists": [
-            "Trippie Redd"
-          ],
-          "album": "A Love Letter To You 4",
-          "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
-          "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
-          "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ",
-          "duration_ms": 91288
-        },
-        {
-          "rank": 48,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -2501,6 +2489,18 @@
           "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
           "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
           "duration_ms": 209680
+        },
+        {
+          "rank": 48,
+          "name": "The Grinch",
+          "artists": [
+            "Trippie Redd"
+          ],
+          "album": "A Love Letter To You 4",
+          "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
+          "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
+          "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ",
+          "duration_ms": 91288
         },
         {
           "rank": 49,

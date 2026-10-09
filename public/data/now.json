@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-09T09:52:45.119Z",
-  "is_playing": false,
+  "updated_at": "2026-10-09T17:49:52.551Z",
+  "is_playing": true,
   "track": {
-    "name": "The Struggle Within (Remastered)",
+    "name": "7 Summers",
     "artists": [
-      "Metallica"
+      "Morgan Wallen"
     ],
-    "album": "Metallica (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
-    "uri": "spotify:track:4r0gODFlBlIZ12NsNf38qf"
+    "album": "Dangerous: The Double Album",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+    "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr"
   },
-  "played_at": "2026-10-09T02:21:43.691Z"
+  "played_at": "2026-10-09T17:49:52.551Z"
 }
