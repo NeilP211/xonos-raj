@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T00:55:02.593Z",
+  "updated_at": "2026-10-09T09:52:45.026Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -22399,6 +22399,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
       "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
       "duration_ms": 287533
+    },
+    {
+      "played_at": "2026-10-09T01:25:35.204Z",
+      "name": "The Struggle Within (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:4r0gODFlBlIZ12NsNf38qf",
+      "duration_ms": 232648
+    },
+    {
+      "played_at": "2026-10-09T02:21:43.691Z",
+      "name": "The Struggle Within (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:4r0gODFlBlIZ12NsNf38qf",
+      "duration_ms": 232648
     }
   ]
 }
