@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T17:49:52.324Z",
+  "updated_at": "2026-10-09T22:05:57.873Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -22539,6 +22539,113 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e6cb19b02e38d18246ac334f",
       "uri": "spotify:track:36idurZmYRjJ56KQ8JD9bN",
       "duration_ms": 170859
+    },
+    {
+      "played_at": "2026-10-09T17:50:06.868Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-10-09T17:53:47.854Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-10-09T17:55:06.289Z",
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "artists": [
+        "Trippie Redd",
+        "Coi Leray"
+      ],
+      "album": "!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+      "duration_ms": 205701
+    },
+    {
+      "played_at": "2026-10-09T18:11:58.646Z",
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "artists": [
+        "Trippie Redd",
+        "Coi Leray"
+      ],
+      "album": "!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+      "duration_ms": 205701
+    },
+    {
+      "played_at": "2026-10-09T18:15:09.441Z",
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "artists": [
+        "21 Savage",
+        "Metro Boomin",
+        "Young Thug"
+      ],
+      "album": "SAVAGE MODE II",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
+      "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
+      "duration_ms": 190331
+    },
+    {
+      "played_at": "2026-10-09T18:19:30.072Z",
+      "name": "Perc Popper",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Perc Popper",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321d7d4bf60cb60c4f7abcb0e",
+      "uri": "spotify:track:6EeMWRDPBFpboU5DjA7Jrl",
+      "duration_ms": 120857
+    },
+    {
+      "played_at": "2026-10-09T18:35:07.416Z",
+      "name": "Don't Dream It's Over",
+      "artists": [
+        "Crowded House"
+      ],
+      "album": "Crowded House",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+      "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
+      "duration_ms": 236933
+    },
+    {
+      "played_at": "2026-10-09T18:40:09.701Z",
+      "name": "A New Kind Of Love - Demo",
+      "artists": [
+        "Frou Frou",
+        "Imogen Heap",
+        "Guy Sigsworth"
+      ],
+      "album": "A New Kind Of Love (Demo)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52",
+      "uri": "spotify:track:3fuyYaLhZ2RoP9eWpvfP1H",
+      "duration_ms": 259071
+    },
+    {
+      "played_at": "2026-10-09T18:44:35.126Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
     }
   ]
 }
