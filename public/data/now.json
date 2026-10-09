@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-10-08T18:16:45.528Z",
-  "is_playing": false,
+  "updated_at": "2026-10-09T00:55:02.764Z",
+  "is_playing": true,
   "track": {
-    "name": "RATHER LIE (with The Weeknd)",
+    "name": "The Struggle Within (Remastered)",
     "artists": [
-      "Playboi Carti",
-      "The Weeknd"
+      "Metallica"
     ],
-    "album": "MUSIC",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-    "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn"
+    "album": "Metallica (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+    "uri": "spotify:track:4r0gODFlBlIZ12NsNf38qf"
   },
-  "played_at": "2026-10-08T18:04:14.058Z"
+  "played_at": "2026-10-09T00:55:02.764Z"
 }

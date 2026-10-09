@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T18:16:45.430Z",
+  "updated_at": "2026-10-09T00:55:02.593Z",
   "plays": [
     {
       "played_at": "2026-07-12T01:11:05.209Z",
@@ -22339,6 +22339,66 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
       "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
       "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-10-08T18:21:02.073Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-10-08T18:24:15.484Z",
+      "name": "Quickest Routes",
+      "artists": [
+        "Shoreline Mafia",
+        "Disco Lines",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Disco Mafia Pack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
+      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
+      "duration_ms": 134400
+    },
+    {
+      "played_at": "2026-10-09T00:03:51.892Z",
+      "name": "I Know",
+      "artists": [
+        "Blamian"
+      ],
+      "album": "I Know",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731cc8a381faba2ef36692a980",
+      "uri": "spotify:track:3nIHklEFYmTfavzIKMJheZ",
+      "duration_ms": 119314
+    },
+    {
+      "played_at": "2026-10-09T00:05:39.672Z",
+      "name": "Take It",
+      "artists": [
+        "Staind"
+      ],
+      "album": "Break the Cycle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+      "uri": "spotify:track:38DpmNjN5AK8sJUnB4FPLA",
+      "duration_ms": 215706
+    },
+    {
+      "played_at": "2026-10-09T00:38:41.556Z",
+      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Hotel California (40th Anniversary Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
+      "duration_ms": 287533
     }
   ]
 }
