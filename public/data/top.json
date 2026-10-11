@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:33:52.333Z",
+  "generated_at": "2026-10-11T17:10:32.624Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2244,6 +2244,18 @@
         },
         {
           "rank": 27,
+          "name": "Never Stop",
+          "artists": [
+            "ian"
+          ],
+          "album": "Valedictorian [Deluxe]",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+          "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
+          "url": "https://open.spotify.com/track/26RFoBzKs36gTlbJCmtsFa",
+          "duration_ms": 127872
+        },
+        {
+          "rank": 28,
           "name": "R.I.P.",
           "artists": [
             "Playboi Carti"
@@ -2255,7 +2267,7 @@
           "duration_ms": 192026
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Lemonade",
           "artists": [
             "Tay-K"
@@ -2265,18 +2277,6 @@
           "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
           "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
           "duration_ms": 132000
-        },
-        {
-          "rank": 29,
-          "name": "Never Stop",
-          "artists": [
-            "ian"
-          ],
-          "album": "Valedictorian [Deluxe]",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-          "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
-          "url": "https://open.spotify.com/track/26RFoBzKs36gTlbJCmtsFa",
-          "duration_ms": 127872
         },
         {
           "rank": 30,
@@ -2367,6 +2367,18 @@
         },
         {
           "rank": 37,
+          "name": "7 Summers",
+          "artists": [
+            "Morgan Wallen"
+          ],
+          "album": "Dangerous: The Double Album",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
+          "duration_ms": 210506
+        },
+        {
+          "rank": 38,
           "name": "OUT WEST (feat. Young Thug)",
           "artists": [
             "JACKBOYS",
@@ -2380,7 +2392,7 @@
           "duration_ms": 157712
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -2392,7 +2404,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -2404,7 +2416,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -2416,7 +2428,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -2428,7 +2440,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -2439,18 +2451,6 @@
           "uri": "spotify:track:4YFdnGd92wP6KBcaFa5v64",
           "url": "https://open.spotify.com/track/4YFdnGd92wP6KBcaFa5v64",
           "duration_ms": 166400
-        },
-        {
-          "rank": 43,
-          "name": "7 Summers",
-          "artists": [
-            "Morgan Wallen"
-          ],
-          "album": "Dangerous: The Double Album",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
-          "duration_ms": 210506
         },
         {
           "rank": 44,
@@ -2631,19 +2631,19 @@
         },
         {
           "rank": 12,
-          "name": "Trippie Redd",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbb2dd30a6c15bdeeb131e525",
-          "genres": [],
-          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "rank": 13,
           "name": "Tay-K",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3d2fd19e0e7a909ab141ceab",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
+        },
+        {
+          "rank": 13,
+          "name": "Trippie Redd",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbb2dd30a6c15bdeeb131e525",
+          "genres": [],
+          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
           "rank": 14,
@@ -2719,19 +2719,19 @@
         },
         {
           "rank": 23,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "rank": 24,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
           "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        },
+        {
+          "rank": 24,
+          "name": "Alice In Chains",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+          "genres": [],
+          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
           "rank": 25,
