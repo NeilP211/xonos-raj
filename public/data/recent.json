@@ -1,128 +1,6 @@
 {
-  "updated_at": "2026-10-11T00:10:03.738Z",
+  "updated_at": "2026-10-11T09:33:52.505Z",
   "plays": [
-    {
-      "played_at": "2026-07-12T01:15:57.576Z",
-      "name": "Demon Time",
-      "artists": [
-        "Trippie Redd",
-        "Ski Mask The Slump God"
-      ],
-      "album": "Trip At Knight",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4",
-      "uri": "spotify:track:5kyiTQjYaQVDhapExFQdwA",
-      "duration_ms": 159452
-    },
-    {
-      "played_at": "2026-07-12T01:18:47.350Z",
-      "name": "Transportin'",
-      "artists": [
-        "Kodak Black"
-      ],
-      "album": "Project Baby 2: All Grown Up",
-      "image": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
-      "uri": "spotify:track:1WIZiOuNO3woKfdlSK2gNn",
-      "duration_ms": 169344
-    },
-    {
-      "played_at": "2026-07-12T01:24:38.981Z",
-      "name": "Never Stop",
-      "artists": [
-        "ian"
-      ],
-      "album": "Valedictorian [Deluxe]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-      "uri": "spotify:track:26RFoBzKs36gTlbJCmtsFa",
-      "duration_ms": 127872
-    },
-    {
-      "played_at": "2026-07-12T01:26:25.840Z",
-      "name": "Beach leak",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "BAD ASS F*CKING KID",
-      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-      "duration_ms": 106169
-    },
-    {
-      "played_at": "2026-07-12T01:28:35.089Z",
-      "name": "Five Nights",
-      "artists": [
-        "Blamian"
-      ],
-      "album": "Five Nights",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b4bcd29d571ac885d40cc880",
-      "uri": "spotify:track:6mDwvYzcukRoRIXkvDG9sM",
-      "duration_ms": 98962
-    },
-    {
-      "played_at": "2026-07-12T13:02:56.303Z",
-      "name": "Five Nights",
-      "artists": [
-        "Blamian"
-      ],
-      "album": "Five Nights",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b4bcd29d571ac885d40cc880",
-      "uri": "spotify:track:6mDwvYzcukRoRIXkvDG9sM",
-      "duration_ms": 98962
-    },
-    {
-      "played_at": "2026-07-12T13:20:58.031Z",
-      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "Hotel California (40th Anniversary Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
-      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
-      "duration_ms": 287533
-    },
-    {
-      "played_at": "2026-07-12T16:18:32.254Z",
-      "name": "Holy Wars...The Punishment Due - 2004 Remix",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "uri": "spotify:track:5LyRtsQLhcXmy50VXhQXXS",
-      "duration_ms": 392600
-    },
-    {
-      "played_at": "2026-07-12T17:30:30.274Z",
-      "name": "Floods",
-      "artists": [
-        "Pantera"
-      ],
-      "album": "The Great Southern Trendkill",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e698b41c758c1a49fecbc1cf",
-      "uri": "spotify:track:1L2ZkXbRX00ZiaUDuMMgf7",
-      "duration_ms": 419893
-    },
-    {
-      "played_at": "2026-07-12T17:38:41.998Z",
-      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "Hotel California (40th Anniversary Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
-      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
-      "duration_ms": 287533
-    },
-    {
-      "played_at": "2026-07-12T17:40:32.363Z",
-      "name": "Southern Nights",
-      "artists": [
-        "Glen Campbell"
-      ],
-      "album": "Southern Nights",
-      "image": "https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097",
-      "uri": "spotify:track:7kv7zBjMtVf0eIJle2VZxn",
-      "duration_ms": 180026
-    },
     {
       "played_at": "2026-07-12T22:00:34.944Z",
       "name": "Work",
@@ -22930,6 +22808,136 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
       "uri": "spotify:track:1WRzux3cJRM9xRNN99QKgR",
       "duration_ms": 112000
+    },
+    {
+      "played_at": "2026-10-11T01:08:09.581Z",
+      "name": "Catch Me Outside",
+      "artists": [
+        "Ski Mask The Slump God"
+      ],
+      "album": "You Will Regret (Reloaded)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
+      "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
+      "duration_ms": 145760
+    },
+    {
+      "played_at": "2026-10-11T01:12:15.328Z",
+      "name": "Succubus",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:2pcv4nUQqaZnJk1kYvCfXV",
+      "duration_ms": 149892
+    },
+    {
+      "played_at": "2026-10-11T01:26:38.920Z",
+      "name": "wokeuplikethis*",
+      "artists": [
+        "Playboi Carti",
+        "Lil Uzi Vert"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:59J5nzL1KniFHnU120dQzt",
+      "duration_ms": 235535
+    },
+    {
+      "played_at": "2026-10-11T01:28:55.206Z",
+      "name": "LNLY",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "NO STYLIST",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316253391849ee562db8da541",
+      "uri": "spotify:track:5FKQlOVekTHG4z7IQI8gp7",
+      "duration_ms": 135732
+    },
+    {
+      "played_at": "2026-10-11T01:35:31.504Z",
+      "name": "Outstanding",
+      "artists": [
+        "The Gap Band"
+      ],
+      "album": "The Gap Band IV",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731eeaabd6f72ff29707f0476f",
+      "uri": "spotify:track:2yd0XI7g0BhAgY9GkpPClU",
+      "duration_ms": 198800
+    },
+    {
+      "played_at": "2026-10-11T01:38:37.707Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-10-11T01:40:10.150Z",
+      "name": "40 - Dj Ess Mix",
+      "artists": [
+        "evilgiane",
+        "xaviersobased",
+        "Nettspend",
+        "DJ Ess"
+      ],
+      "album": "40 (Dj Ess Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-10-11T01:42:25.106Z",
+      "name": "Quickest Routes",
+      "artists": [
+        "Shoreline Mafia",
+        "Disco Lines",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Disco Mafia Pack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
+      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
+      "duration_ms": 134400
+    },
+    {
+      "played_at": "2026-10-11T01:45:39.098Z",
+      "name": "Sky",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Whole Lotta Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
+      "uri": "spotify:track:29TPjc8wxfz4XMn21O7VsZ",
+      "duration_ms": 193234
+    },
+    {
+      "played_at": "2026-10-11T01:48:34.265Z",
+      "name": "Hoe Shit",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+      "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-10-11T01:52:20Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
     }
   ]
 }
