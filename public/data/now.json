@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-12T14:06:17.330Z",
+  "updated_at": "2026-10-12T22:20:41.657Z",
   "is_playing": false,
   "track": {
-    "name": "It's Been Awhile",
+    "name": "RATHER LIE (with The Weeknd)",
     "artists": [
-      "Staind"
+      "Playboi Carti",
+      "The Weeknd"
     ],
-    "album": "Break the Cycle",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
-    "uri": "spotify:track:25CMmGsl22APKhfuj4Tp7j"
+    "album": "MUSIC",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+    "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn"
   },
-  "played_at": "2026-10-11T19:39:31.166Z"
+  "played_at": "2026-10-12T21:45:35.643Z"
 }

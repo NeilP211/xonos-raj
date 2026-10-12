@@ -1,86 +1,6 @@
 {
-  "updated_at": "2026-10-12T14:06:17.219Z",
+  "updated_at": "2026-10-12T22:20:41.547Z",
   "plays": [
-    {
-      "played_at": "2026-07-12T22:07:36.411Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-07-12T22:10:26.772Z",
-      "name": "Nun Major",
-      "artists": [
-        "Shoreline Mafia"
-      ],
-      "album": "ShorelineDoThatShit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
-      "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
-      "duration_ms": 151836
-    },
-    {
-      "played_at": "2026-07-12T22:16:54.693Z",
-      "name": "Armed And Dangerous",
-      "artists": [
-        "Juice WRLD"
-      ],
-      "album": "Goodbye & Good Riddance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
-      "duration_ms": 169999
-    },
-    {
-      "played_at": "2026-07-12T22:19:00.185Z",
-      "name": "fukumean",
-      "artists": [
-        "Gunna"
-      ],
-      "album": "a Gift & a Curse",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-      "duration_ms": 125040
-    },
-    {
-      "played_at": "2026-07-12T22:24:54.341Z",
-      "name": "Sick Love",
-      "artists": [
-        "Red Hot Chili Peppers"
-      ],
-      "album": "The Getaway",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef",
-      "uri": "spotify:track:6GsP3uMCd0Dn5T37C93waZ",
-      "duration_ms": 221440
-    },
-    {
-      "played_at": "2026-07-14T11:51:19.381Z",
-      "name": "Jump - 2015 Remaster",
-      "artists": [
-        "Van Halen"
-      ],
-      "album": "1984 (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
-      "uri": "spotify:track:7N3PAbqfTjSEU1edb2tY8j",
-      "duration_ms": 241599
-    },
-    {
-      "played_at": "2026-07-14T14:59:19.305Z",
-      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "Hotel California (40th Anniversary Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
-      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
-      "duration_ms": 287533
-    },
     {
       "played_at": "2026-07-14T15:06:54.348Z",
       "name": "Your Love",
@@ -22936,6 +22856,88 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
       "uri": "spotify:track:25CMmGsl22APKhfuj4Tp7j",
       "duration_ms": 264706
+    },
+    {
+      "played_at": "2026-10-12T18:52:42.224Z",
+      "name": "Down Under",
+      "artists": [
+        "Men At Work"
+      ],
+      "album": "Business As Usual",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
+      "uri": "spotify:track:3ZZq9396zv8pcn5GYVhxUi",
+      "duration_ms": 222320
+    },
+    {
+      "played_at": "2026-10-12T18:57:39.811Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-10-12T19:07:12.930Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-10-12T19:10:12.726Z",
+      "name": "Special",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+      "duration_ms": 104650
+    },
+    {
+      "played_at": "2026-10-12T19:12:52.023Z",
+      "name": "Nun Major",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+      "duration_ms": 151836
+    },
+    {
+      "played_at": "2026-10-12T19:13:54.818Z",
+      "name": "Gangstas & Sippas (feat. Q Da Fool)",
+      "artists": [
+        "Shoreline Mafia",
+        "Q Da Fool"
+      ],
+      "album": "Gangstas & Sippas (feat. Q Da Fool)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fadfb282847d8d7830cd06dc",
+      "uri": "spotify:track:6dRK7lr3WCpQjfSFSA0oI1",
+      "duration_ms": 155346
+    },
+    {
+      "played_at": "2026-10-12T21:45:35.643Z",
+      "name": "RATHER LIE (with The Weeknd)",
+      "artists": [
+        "Playboi Carti",
+        "The Weeknd"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+      "duration_ms": 209680
     }
   ]
 }
