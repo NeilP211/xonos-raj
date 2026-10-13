@@ -1,86 +1,6 @@
 {
-  "updated_at": "2026-10-13T04:55:52.917Z",
+  "updated_at": "2026-10-13T13:18:50.368Z",
   "plays": [
-    {
-      "played_at": "2026-07-15T18:23:03.964Z",
-      "name": "Work",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Work",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
-      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
-      "duration_ms": 135861
-    },
-    {
-      "played_at": "2026-07-15T18:27:44.379Z",
-      "name": "3.5",
-      "artists": [
-        "ian"
-      ],
-      "album": "Goodbye Horses",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
-      "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
-      "duration_ms": 156444
-    },
-    {
-      "played_at": "2026-07-15T18:29:31.127Z",
-      "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
-      "artists": [
-        "Playboi Carti",
-        "Young Nudy"
-      ],
-      "album": "Die Lit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-      "uri": "spotify:track:45Ln3F9PRPYTXBcMFkZMzS",
-      "duration_ms": 161200
-    },
-    {
-      "played_at": "2026-07-16T00:40:54.915Z",
-      "name": "Blind",
-      "artists": [
-        "Korn"
-      ],
-      "album": "Korn",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737153b1cf6ee990c2a9fa46cc",
-      "uri": "spotify:track:1pr9TZGOXeJUggIal1Wq3R",
-      "duration_ms": 258266
-    },
-    {
-      "played_at": "2026-07-16T00:47:34.442Z",
-      "name": "Aria Math",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "uri": "spotify:track:6VK8OMA2FhX4KoS3QCH7rL",
-      "duration_ms": 310000
-    },
-    {
-      "played_at": "2026-07-16T00:50:30.901Z",
-      "name": "Beginning 2",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "uri": "spotify:track:1dYQgQT34Wm1pSMNeBoT0O",
-      "duration_ms": 176000
-    },
-    {
-      "played_at": "2026-07-16T01:15:01.875Z",
-      "name": "Mall",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "uri": "spotify:track:1quoFqHBiVLrVmE9AOz0Vz",
-      "duration_ms": 198000
-    },
     {
       "played_at": "2026-07-16T01:26:02.712Z",
       "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
@@ -22939,6 +22859,88 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
       "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-13T04:53:34.882Z",
+      "name": "Everything In Its Right Place",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "Kid A",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+      "duration_ms": 251426
+    },
+    {
+      "played_at": "2026-10-13T10:51:20.658Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-13T10:55:17.480Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-10-13T11:01:58.356Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-10-13T11:11:51.524Z",
+      "name": "Answer My Prayers",
+      "artists": [
+        "Lil Tony Official"
+      ],
+      "album": "Tkey vs. Tony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+      "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+      "duration_ms": 117736
+    },
+    {
+      "played_at": "2026-10-13T11:15:11.833Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-10-13T11:17:37.925Z",
+      "name": "Send the Pain Below",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:6dRAAG4sB71NAtVCHJep7s",
+      "duration_ms": 252360
     }
   ]
 }
