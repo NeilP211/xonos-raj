@@ -1,322 +1,6 @@
 {
-  "updated_at": "2026-10-13T13:18:50.368Z",
+  "updated_at": "2026-10-13T20:27:58.529Z",
   "plays": [
-    {
-      "played_at": "2026-07-16T01:26:02.712Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-07-16T15:45:50.543Z",
-      "name": "Stupid Shit - A.T. mixxx",
-      "artists": [
-        "Rio Da Yung Og",
-        "A.T."
-      ],
-      "album": "Stupid Shit (A.T. mixxx)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273edad4d0cffc189e0134a4ecb",
-      "uri": "spotify:track:5Iq5rRcwoWzrR8cZEKcxXk",
-      "duration_ms": 120320
-    },
-    {
-      "played_at": "2026-07-16T17:06:22.231Z",
-      "name": "NUEVAYoL",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-      "duration_ms": 183685
-    },
-    {
-      "played_at": "2026-07-17T06:32:59.861Z",
-      "name": "Champagne Supernova",
-      "artists": [
-        "Oasis"
-      ],
-      "album": "(What's The Story) Morning Glory?",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
-      "uri": "spotify:track:6EMynpZ10GVcwVqiLZj6Ye",
-      "duration_ms": 450506
-    },
-    {
-      "played_at": "2026-07-17T14:01:29.576Z",
-      "name": "Champagne Supernova",
-      "artists": [
-        "Oasis"
-      ],
-      "album": "(What's The Story) Morning Glory?",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
-      "uri": "spotify:track:6EMynpZ10GVcwVqiLZj6Ye",
-      "duration_ms": 450506
-    },
-    {
-      "played_at": "2026-07-17T16:19:03.778Z",
-      "name": "Pennies From Heaven",
-      "artists": [
-        "Stan Getz",
-        "Oscar Peterson Trio"
-      ],
-      "album": "Stan Getz And The Oscar Peterson Trio",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e8bdec8f743b1961cd459b33",
-      "uri": "spotify:track:1cKieOitNWqzxDdOboOzHy",
-      "duration_ms": 311813
-    },
-    {
-      "played_at": "2026-07-17T16:22:06.661Z",
-      "name": "Lamento",
-      "artists": [
-        "Antônio Carlos Jobim"
-      ],
-      "album": "Wave",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c634d4769c1fb60221cdc021",
-      "uri": "spotify:track:4VzL2zgYITGrRwSTFiL9pI",
-      "duration_ms": 166506
-    },
-    {
-      "played_at": "2026-07-17T16:28:24.201Z",
-      "name": "Jelly Roll",
-      "artists": [
-        "Charles Mingus"
-      ],
-      "album": "Mingus Ah Um",
-      "image": "https://i.scdn.co/image/ab67616d0000b27346ae4364de12380a77ebfd20",
-      "uri": "spotify:track:6l2rEIbe62N5aGTwASmzTT",
-      "duration_ms": 377093
-    },
-    {
-      "played_at": "2026-07-17T16:33:19.068Z",
-      "name": "Tour's End",
-      "artists": [
-        "Stan Getz",
-        "Oscar Peterson Trio"
-      ],
-      "album": "Stan Getz And The Oscar Peterson Trio",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e8bdec8f743b1961cd459b33",
-      "uri": "spotify:track:68TpAiXKitmiAwEWKjPFeN",
-      "duration_ms": 294413
-    },
-    {
-      "played_at": "2026-07-17T16:36:40.476Z",
-      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
-      "artists": [
-        "Dean Martin"
-      ],
-      "album": "This Time I'm Swingin'",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737167de1e674916f63defe96c",
-      "uri": "spotify:track:4WUcNkpoNSKoe5MUuyzrfC",
-      "duration_ms": 133933
-    },
-    {
-      "played_at": "2026-07-17T16:43:19.171Z",
-      "name": "Bahia",
-      "artists": [
-        "Stan Getz",
-        "Charlie Byrd"
-      ],
-      "album": "Jazz Samba",
-      "image": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
-      "uri": "spotify:track:7GXdmvaiFc66NzXmZZi2MJ",
-      "duration_ms": 398266
-    },
-    {
-      "played_at": "2026-07-17T16:46:05.981Z",
-      "name": "Liza (All The Clouds'll Roll Away)",
-      "artists": [
-        "Sonny Stitt Quartet"
-      ],
-      "album": "Kaleidoscope",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732699485aba393f27b81bd2f0",
-      "uri": "spotify:track:2TzhQP0MuEQrmMPQTtoZIY",
-      "duration_ms": 166373
-    },
-    {
-      "played_at": "2026-07-17T16:48:27.213Z",
-      "name": "San Salvador",
-      "artists": [
-        "Tamba 4"
-      ],
-      "album": "Samba Blim",
-      "image": "https://i.scdn.co/image/ab67616d0000b27362c738fbd061fb07610cc1d8",
-      "uri": "spotify:track:51qur0i8tgOMLf4b481dw6",
-      "duration_ms": 140773
-    },
-    {
-      "played_at": "2026-07-17T16:52:20.392Z",
-      "name": "O Morro Nao Tem Vez",
-      "artists": [
-        "Stan Getz",
-        "Luiz Bonfá"
-      ],
-      "album": "Jazz Samba Encore!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273977f615be04be8c21a4be906",
-      "uri": "spotify:track:1NF8RxcyP6qWaipOfusQp2",
-      "duration_ms": 413022
-    },
-    {
-      "played_at": "2026-07-17T23:01:42.851Z",
-      "name": "Can't Tell Me Nothing",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-      "duration_ms": 271600
-    },
-    {
-      "played_at": "2026-07-18T21:43:29.335Z",
-      "name": "Dreams - 2004 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Rumours (Super Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-      "uri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz",
-      "duration_ms": 257800
-    },
-    {
-      "played_at": "2026-07-18T22:00:51.900Z",
-      "name": "Beach leak",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "BAD ASS F*CKING KID",
-      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-      "duration_ms": 106169
-    },
-    {
-      "played_at": "2026-07-18T22:03:41.015Z",
-      "name": "Heather",
-      "artists": [
-        "4zz",
-        "GBG shiek",
-        "S9ine",
-        "Kyle Richh"
-      ],
-      "album": "Heather",
-      "image": "https://i.scdn.co/image/ab67616d0000b27349438384ddb1d252e2732b92",
-      "uri": "spotify:track:6MBRAa2JUEQO1DcP6McjGl",
-      "duration_ms": 113963
-    },
-    {
-      "played_at": "2026-07-18T22:17:37.669Z",
-      "name": "The Art of Shredding",
-      "artists": [
-        "Pantera"
-      ],
-      "album": "Cowboys from Hell",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
-      "uri": "spotify:track:17sbfQLWxyC0ciBXi9g54f",
-      "duration_ms": 258093
-    },
-    {
-      "played_at": "2026-07-18T22:24:36.398Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-07-18T22:32:41.732Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-07-18T22:40:38.965Z",
-      "name": "Whuss the Deal",
-      "artists": [
-        "Shoreline Mafia"
-      ],
-      "album": "ShorelineDoThatShit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
-      "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
-      "duration_ms": 195636
-    },
-    {
-      "played_at": "2026-07-18T22:45:13.079Z",
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "artists": [
-        "Kodak Black",
-        "Offset",
-        "Travis Scott"
-      ],
-      "album": "Dying to Live",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
-      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
-      "duration_ms": 228759
-    },
-    {
-      "played_at": "2026-07-18T22:51:38.871Z",
-      "name": "fukumean",
-      "artists": [
-        "Gunna"
-      ],
-      "album": "a Gift & a Curse",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-      "duration_ms": 125040
-    },
-    {
-      "played_at": "2026-07-18T22:53:34.085Z",
-      "name": "Special",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "Keep it goin xav",
-      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-      "duration_ms": 104650
-    },
-    {
-      "played_at": "2026-07-19T17:32:14.080Z",
-      "name": "Work",
-      "artists": [
-        "Rihanna",
-        "Drake"
-      ],
-      "album": "ANTI (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
-      "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
-      "duration_ms": 219320
-    },
-    {
-      "played_at": "2026-07-19T17:35:00.797Z",
-      "name": "fukumean",
-      "artists": [
-        "Gunna"
-      ],
-      "album": "a Gift & a Curse",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-      "duration_ms": 125040
-    },
     {
       "played_at": "2026-07-19T17:36:52.153Z",
       "name": "Coffin",
@@ -22941,6 +22625,324 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
       "uri": "spotify:track:6dRAAG4sB71NAtVCHJep7s",
       "duration_ms": 252360
+    },
+    {
+      "played_at": "2026-10-13T15:12:36.114Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-13T15:19:06.527Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-10-13T15:22:41.261Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-10-13T15:25:17.855Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-10-13T15:27:04.453Z",
+      "name": "Beach leak",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "BAD ASS F*CKING KID",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
+      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
+      "duration_ms": 106169
+    },
+    {
+      "played_at": "2026-10-13T15:29:42.744Z",
+      "name": "GUMMO",
+      "artists": [
+        "6ix9ine"
+      ],
+      "album": "Day69: Graduation Day",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
+      "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt",
+      "duration_ms": 157643
+    },
+    {
+      "played_at": "2026-10-13T15:33:23.969Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-10-13T15:57:17.060Z",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "artists": [
+        "Kodak Black",
+        "Offset",
+        "Travis Scott"
+      ],
+      "album": "Dying to Live",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+      "duration_ms": 228759
+    },
+    {
+      "played_at": "2026-10-13T15:59:22.426Z",
+      "name": "hyperjerk",
+      "artists": [
+        "thesoupiscold"
+      ],
+      "album": "hyperjerk",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379eadb971684b25e4eefa095",
+      "uri": "spotify:track:4N9CzZCUwbqGByoudr91SG",
+      "duration_ms": 124941
+    },
+    {
+      "played_at": "2026-10-13T16:02:03.657Z",
+      "name": "ball hard",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "ball hard",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
+      "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
+      "duration_ms": 160731
+    },
+    {
+      "played_at": "2026-10-13T16:05:13.903Z",
+      "name": "Lose It",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
+      "duration_ms": 140811
+    },
+    {
+      "played_at": "2026-10-13T16:11:43.296Z",
+      "name": "Passionfruit",
+      "artists": [
+        "Drake"
+      ],
+      "album": "More Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+      "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+      "duration_ms": 298940
+    },
+    {
+      "played_at": "2026-10-13T16:14:00.787Z",
+      "name": "Dark Thoughts",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "DOPAMINE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+      "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
+      "duration_ms": 136991
+    },
+    {
+      "played_at": "2026-10-13T16:15:53.292Z",
+      "name": "M.... She Wrote",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:1WRzux3cJRM9xRNN99QKgR",
+      "duration_ms": 112000
+    },
+    {
+      "played_at": "2026-10-13T16:19:19.503Z",
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "artists": [
+        "Trippie Redd",
+        "Coi Leray"
+      ],
+      "album": "!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+      "duration_ms": 205701
+    },
+    {
+      "played_at": "2026-10-13T16:24:52.548Z",
+      "name": "Dark Knight Dummo (feat. Travis Scott)",
+      "artists": [
+        "Trippie Redd",
+        "Travis Scott"
+      ],
+      "album": "LIFE'S A TRIP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+      "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+      "duration_ms": 256161
+    },
+    {
+      "played_at": "2026-10-13T16:27:42.395Z",
+      "name": "Transportin'",
+      "artists": [
+        "Kodak Black"
+      ],
+      "album": "Project Baby 2: All Grown Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
+      "uri": "spotify:track:1WIZiOuNO3woKfdlSK2gNn",
+      "duration_ms": 169344
+    },
+    {
+      "played_at": "2026-10-13T16:30:00.091Z",
+      "name": "Magic Johnson",
+      "artists": [
+        "ian"
+      ],
+      "album": "Valedictorian [Deluxe]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+      "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
+      "duration_ms": 137158
+    },
+    {
+      "played_at": "2026-10-13T16:33:16.226Z",
+      "name": "Need It (feat. YoungBoy Never Broke Again)",
+      "artists": [
+        "Migos",
+        "YoungBoy Never Broke Again"
+      ],
+      "album": "Culture III",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f89d00155b6a066650e5460d",
+      "uri": "spotify:track:1cMMVJ4FDqhCci9efd1BU6",
+      "duration_ms": 195680
+    },
+    {
+      "played_at": "2026-10-13T16:55:35.865Z",
+      "name": "40 - Dj Ess Mix",
+      "artists": [
+        "evilgiane",
+        "xaviersobased",
+        "Nettspend",
+        "DJ Ess"
+      ],
+      "album": "40 (Dj Ess Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-10-13T16:58:50.562Z",
+      "name": "if looks could kill",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "If Looks Could Kill",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735887b3f4481d39becbebffbc",
+      "uri": "spotify:track:7cFLFmj3fLV5wxhcFfol7u",
+      "duration_ms": 194213
+    },
+    {
+      "played_at": "2026-10-13T17:00:58.559Z",
+      "name": "Recover Artist",
+      "artists": [
+        "devLfg"
+      ],
+      "album": "Recover Artist",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c2c637dc7e4daeea8874dfe",
+      "uri": "spotify:track:18QWiiCbP3Y5s4Xn4OB74O",
+      "duration_ms": 127477
+    },
+    {
+      "played_at": "2026-10-13T17:02:44.055Z",
+      "name": "I <3 My Choppa",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:0Dk9lP1YnOqssHH0oCeq9u",
+      "duration_ms": 105000
+    },
+    {
+      "played_at": "2026-10-13T17:05:28.958Z",
+      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin",
+        "OHGEESY"
+      ],
+      "album": "OTXmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
+      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
+      "duration_ms": 164400
+    },
+    {
+      "played_at": "2026-10-13T17:09:52.048Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-10-13T18:22:08.240Z",
+      "name": "I <3 My Choppa",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:0Dk9lP1YnOqssHH0oCeq9u",
+      "duration_ms": 105000
+    },
+    {
+      "played_at": "2026-10-13T18:25:00.376Z",
+      "name": "Nun Major",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+      "duration_ms": 151836
     }
   ]
 }
