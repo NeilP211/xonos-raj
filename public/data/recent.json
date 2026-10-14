@@ -1,76 +1,6 @@
 {
-  "updated_at": "2026-10-14T08:16:57.078Z",
+  "updated_at": "2026-10-14T14:15:01.535Z",
   "plays": [
-    {
-      "played_at": "2026-07-20T20:15:06.613Z",
-      "name": "Back In Bidness",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Back In Bidness",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
-      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
-      "duration_ms": 137142
-    },
-    {
-      "played_at": "2026-07-20T20:17:19.373Z",
-      "name": "GOOBA",
-      "artists": [
-        "6ix9ine"
-      ],
-      "album": "TattleTales",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
-      "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
-      "duration_ms": 132303
-    },
-    {
-      "played_at": "2026-07-20T20:20:51.626Z",
-      "name": "Long Time - Intro",
-      "artists": [
-        "Playboi Carti"
-      ],
-      "album": "Die Lit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-      "uri": "spotify:track:4IO2X2YoXoUMv0M2rwomLC",
-      "duration_ms": 211773
-    },
-    {
-      "played_at": "2026-07-20T20:26:02.267Z",
-      "name": "Too Many Nights (feat. Don Toliver & with Future)",
-      "artists": [
-        "Metro Boomin",
-        "Future",
-        "Don Toliver"
-      ],
-      "album": "HEROES & VILLAINS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
-      "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
-      "duration_ms": 199920
-    },
-    {
-      "played_at": "2026-07-20T20:27:48.887Z",
-      "name": "Lean Wit Me",
-      "artists": [
-        "Juice WRLD"
-      ],
-      "album": "Goodbye & Good Riddance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-      "uri": "spotify:track:3oDkdAySo1VQQG0ptV7uwa",
-      "duration_ms": 175755
-    },
-    {
-      "played_at": "2026-07-21T03:50:34.248Z",
-      "name": "Moosy - viral",
-      "artists": [
-        "ilyhiryu"
-      ],
-      "album": "Moosy (viral)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
-      "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
-      "duration_ms": 140197
-    },
     {
       "played_at": "2026-07-21T05:08:32.615Z",
       "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
@@ -22937,6 +22867,74 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
       "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
       "duration_ms": 174733
+    },
+    {
+      "played_at": "2026-10-14T10:54:14.163Z",
+      "name": "Sky",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Whole Lotta Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
+      "uri": "spotify:track:29TPjc8wxfz4XMn21O7VsZ",
+      "duration_ms": 193234
+    },
+    {
+      "played_at": "2026-10-14T11:06:30.110Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-14T11:10:01.092Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-10-14T11:14:53.313Z",
+      "name": "Work",
+      "artists": [
+        "Rihanna",
+        "Drake"
+      ],
+      "album": "ANTI (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+      "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
+      "duration_ms": 219320
+    },
+    {
+      "played_at": "2026-10-14T11:20:52.880Z",
+      "name": "Banana Pancakes",
+      "artists": [
+        "Jack Johnson"
+      ],
+      "album": "In Between Dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
+      "uri": "spotify:track:451GvHwY99NKV4zdKPRWmv",
+      "duration_ms": 191906
+    },
+    {
+      "played_at": "2026-10-14T12:56:33.243Z",
+      "name": "Hoe Shit",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+      "duration_ms": 168000
     }
   ]
 }

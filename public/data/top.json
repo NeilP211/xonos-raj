@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:16:57.014Z",
+  "generated_at": "2026-10-14T14:15:01.428Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -114,15 +114,16 @@
         },
         {
           "rank": 9,
-          "name": "Touchable",
+          "name": "Hoe Shit",
           "artists": [
-            "Remble"
+            "Shoreline Mafia",
+            "Fenix Flexin"
           ],
-          "album": "IT’S REMBLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
-          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
-          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
-          "duration_ms": 122647
+          "album": "Mafia Bidness",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+          "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+          "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
+          "duration_ms": 168000
         },
         {
           "rank": 10,
@@ -151,19 +152,6 @@
         },
         {
           "rank": 12,
-          "name": "Hoe Shit",
-          "artists": [
-            "Shoreline Mafia",
-            "Fenix Flexin"
-          ],
-          "album": "Mafia Bidness",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
-          "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
-          "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
-          "duration_ms": 168000
-        },
-        {
-          "rank": 13,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -175,7 +163,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Swërved It",
           "artists": [
             "Yeat"
@@ -187,7 +175,7 @@
           "duration_ms": 137299
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Warmth",
           "artists": [
             "C418"
@@ -199,7 +187,7 @@
           "duration_ms": 239379
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Talk",
           "artists": [
             "Yeat"
@@ -211,43 +199,7 @@
           "duration_ms": 174857
         },
         {
-          "rank": 17,
-          "name": "Fool",
-          "artists": [
-            "OsamaSon"
-          ],
-          "album": "Jump Out",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
-          "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
-          "url": "https://open.spotify.com/track/2zhOFpI6w9Dyt3d5wpFWSE",
-          "duration_ms": 125562
-        },
-        {
-          "rank": 18,
-          "name": "Coffin",
-          "artists": [
-            "Lil Yachty"
-          ],
-          "album": "Lil Boat 3.5",
-          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
-          "duration_ms": 89535
-        },
-        {
-          "rank": 19,
-          "name": "Blind Spots",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
-          "url": "https://open.spotify.com/track/6Dc23uTvKTKbyDfZ3WAzEO",
-          "duration_ms": 332500
-        },
-        {
-          "rank": 20,
+          "rank": 16,
           "name": "Pain",
           "artists": [
             "PinkPantheress"
@@ -259,31 +211,67 @@
           "duration_ms": 98544
         },
         {
-          "rank": 21,
-          "name": "Location",
+          "rank": 17,
+          "name": "Touchable",
           "artists": [
-            "Playboi Carti"
+            "Remble"
           ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
-          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
-          "duration_ms": 168783
+          "album": "IT’S REMBLE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
+          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
+          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
+          "duration_ms": 122647
+        },
+        {
+          "rank": 18,
+          "name": "Fool",
+          "artists": [
+            "OsamaSon"
+          ],
+          "album": "Jump Out",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
+          "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
+          "url": "https://open.spotify.com/track/2zhOFpI6w9Dyt3d5wpFWSE",
+          "duration_ms": 125562
+        },
+        {
+          "rank": 19,
+          "name": "Coffin",
+          "artists": [
+            "Lil Yachty"
+          ],
+          "album": "Lil Boat 3.5",
+          "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+          "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+          "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
+          "duration_ms": 89535
+        },
+        {
+          "rank": 20,
+          "name": "Blind Spots",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+          "url": "https://open.spotify.com/track/6Dc23uTvKTKbyDfZ3WAzEO",
+          "duration_ms": 332500
+        },
+        {
+          "rank": 21,
+          "name": "7 Summers",
+          "artists": [
+            "Morgan Wallen"
+          ],
+          "album": "Dangerous: The Double Album",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
+          "duration_ms": 210506
         },
         {
           "rank": 22,
-          "name": "Everything In Its Right Place",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "Kid A",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-          "duration_ms": 251426
-        },
-        {
-          "rank": 23,
           "name": "we fell in love in october",
           "artists": [
             "girl in red"
@@ -295,7 +283,7 @@
           "duration_ms": 184153
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
             "lil ricefield",
@@ -308,19 +296,7 @@
           "duration_ms": 106666
         },
         {
-          "rank": 25,
-          "name": "7 Summers",
-          "artists": [
-            "Morgan Wallen"
-          ],
-          "album": "Dangerous: The Double Album",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-          "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-          "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
-          "duration_ms": 210506
-        },
-        {
-          "rank": 26,
+          "rank": 24,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -332,7 +308,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Flight's Booked",
           "artists": [
             "Drake"
@@ -344,19 +320,31 @@
           "duration_ms": 254407
         },
         {
-          "rank": 28,
-          "name": "Nun Major",
+          "rank": 26,
+          "name": "Everything In Its Right Place",
           "artists": [
-            "Shoreline Mafia"
+            "Radiohead"
           ],
-          "album": "ShorelineDoThatShit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
-          "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
-          "url": "https://open.spotify.com/track/18pwD0HrweX8oCgIkayRb4",
-          "duration_ms": 151836
+          "album": "Kid A",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+          "duration_ms": 251426
         },
         {
-          "rank": 29,
+          "rank": 27,
+          "name": "Location",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+          "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+          "duration_ms": 168783
+        },
+        {
+          "rank": 28,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -368,7 +356,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -380,7 +368,7 @@
           "duration_ms": 157779
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -392,7 +380,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Rich Nigga Shit (feat. Young Thug)",
           "artists": [
             "21 Savage",
@@ -406,7 +394,7 @@
           "duration_ms": 190331
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Everybody Loves The Sunshine",
           "artists": [
             "Roy Ayers Ubiquity"
@@ -418,7 +406,7 @@
           "duration_ms": 239666
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -430,7 +418,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -442,7 +430,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -454,7 +442,7 @@
           "duration_ms": 169999
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Kung Fu Panda",
           "artists": [
             "Young Yayo",
@@ -467,7 +455,7 @@
           "duration_ms": 111699
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Passionfruit",
           "artists": [
             "Drake"
@@ -479,19 +467,7 @@
           "duration_ms": 298940
         },
         {
-          "rank": 39,
-          "name": "Every Breath You Take",
-          "artists": [
-            "The Police"
-          ],
-          "album": "Synchronicity (Remastered 2003)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
-          "duration_ms": 253920
-        },
-        {
-          "rank": 40,
+          "rank": 38,
           "name": "Hypnotize - 2014 Remaster",
           "artists": [
             "The Notorious B.I.G."
@@ -503,7 +479,7 @@
           "duration_ms": 229826
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "I <3 My Choppa",
           "artists": [
             "Tay-K"
@@ -515,7 +491,7 @@
           "duration_ms": 105000
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -527,7 +503,7 @@
           "duration_ms": 184375
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -539,7 +515,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -552,7 +528,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "Fighting My Demons",
           "artists": [
             "Ken Carson"
@@ -564,7 +540,7 @@
           "duration_ms": 150401
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "GUMMO",
           "artists": [
             "6ix9ine"
@@ -576,7 +552,7 @@
           "duration_ms": 157643
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "Boston",
           "artists": [
             "STELLA LEFTY"
@@ -588,7 +564,7 @@
           "duration_ms": 170859
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -600,21 +576,7 @@
           "duration_ms": 174733
         },
         {
-          "rank": 49,
-          "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
-          "artists": [
-            "Shoreline Mafia",
-            "Fenix Flexin",
-            "OHGEESY"
-          ],
-          "album": "OTXmas",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
-          "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
-          "url": "https://open.spotify.com/track/7oW5YZZVeesParmVY7gx6s",
-          "duration_ms": 164400
-        },
-        {
-          "rank": 50,
+          "rank": 47,
           "name": "Take It",
           "artists": [
             "Staind"
@@ -624,6 +586,43 @@
           "uri": "spotify:track:38DpmNjN5AK8sJUnB4FPLA",
           "url": "https://open.spotify.com/track/38DpmNjN5AK8sJUnB4FPLA",
           "duration_ms": 215706
+        },
+        {
+          "rank": 48,
+          "name": "Every Breath You Take",
+          "artists": [
+            "The Police"
+          ],
+          "album": "Synchronicity (Remastered 2003)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+          "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+          "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
+          "duration_ms": 253920
+        },
+        {
+          "rank": 49,
+          "name": "Nun Major",
+          "artists": [
+            "Shoreline Mafia"
+          ],
+          "album": "ShorelineDoThatShit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+          "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+          "url": "https://open.spotify.com/track/18pwD0HrweX8oCgIkayRb4",
+          "duration_ms": 151836
+        },
+        {
+          "rank": 50,
+          "name": "wokeuplikethis*",
+          "artists": [
+            "Playboi Carti",
+            "Lil Uzi Vert"
+          ],
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:59J5nzL1KniFHnU120dQzt",
+          "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt",
+          "duration_ms": 235535
         }
       ],
       "artists": [
