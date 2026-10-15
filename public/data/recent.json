@@ -1,186 +1,6 @@
 {
-  "updated_at": "2026-10-15T13:50:33.426Z",
+  "updated_at": "2026-10-15T18:48:50.935Z",
   "plays": [
-    {
-      "played_at": "2026-07-22T15:17:03.294Z",
-      "name": "NUEVAYoL",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-      "duration_ms": 183685
-    },
-    {
-      "played_at": "2026-07-22T15:19:39.720Z",
-      "name": "VOY A LLeVARTE PA PR",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-      "duration_ms": 156364
-    },
-    {
-      "played_at": "2026-07-22T16:48:34.598Z",
-      "name": "NUEVAYoL",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-      "duration_ms": 183685
-    },
-    {
-      "played_at": "2026-07-22T16:51:10.993Z",
-      "name": "VOY A LLeVARTE PA PR",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-      "duration_ms": 156364
-    },
-    {
-      "played_at": "2026-07-22T16:57:18.869Z",
-      "name": "BAILE INoLVIDABLE",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
-      "duration_ms": 367725
-    },
-    {
-      "played_at": "2026-07-22T17:00:39.457Z",
-      "name": "PERFuMITO NUEVO",
-      "artists": [
-        "Bad Bunny",
-        "RaiNao"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:1Q9Efnm5csdCMFynISxL2x",
-      "duration_ms": 200680
-    },
-    {
-      "played_at": "2026-07-22T17:03:46.851Z",
-      "name": "WELTiTA",
-      "artists": [
-        "Bad Bunny",
-        "Chuwi"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:5WEF0icHWmAZBBMglBd599",
-      "duration_ms": 187507
-    },
-    {
-      "played_at": "2026-07-22T17:07:42.100Z",
-      "name": "VeLDÁ",
-      "artists": [
-        "Bad Bunny",
-        "Omar Courtz",
-        "Dei V"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
-      "duration_ms": 235336
-    },
-    {
-      "played_at": "2026-07-22T17:14:10.089Z",
-      "name": "Can't Tell Me Nothing",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-      "duration_ms": 271600
-    },
-    {
-      "played_at": "2026-07-22T17:18:31.262Z",
-      "name": "OLYMPIAN",
-      "artists": [
-        "Playboi Carti"
-      ],
-      "album": "MUSIC",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-      "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
-      "duration_ms": 174733
-    },
-    {
-      "played_at": "2026-07-22T17:20:16.456Z",
-      "name": "Special",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "Keep it goin xav",
-      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-      "duration_ms": 104650
-    },
-    {
-      "played_at": "2026-07-22T17:22:29.211Z",
-      "name": "GOOBA",
-      "artists": [
-        "6ix9ine"
-      ],
-      "album": "TattleTales",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
-      "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
-      "duration_ms": 132303
-    },
-    {
-      "played_at": "2026-07-22T17:24:48.009Z",
-      "name": "Freestyle 2",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "X",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa2acda98644476f5086cd02",
-      "uri": "spotify:track:28niVl6iodHnHpE1bCeJiV",
-      "duration_ms": 138319
-    },
-    {
-      "played_at": "2026-07-22T17:27:19.999Z",
-      "name": "Who You Foolin",
-      "artists": [
-        "Gunna"
-      ],
-      "album": "Drip or Drown 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
-      "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
-      "duration_ms": 151539
-    },
-    {
-      "played_at": "2026-07-22T17:29:06.636Z",
-      "name": "Beach leak",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "BAD ASS F*CKING KID",
-      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-      "duration_ms": 106169
-    },
-    {
-      "played_at": "2026-07-22T17:31:27.900Z",
-      "name": "Lose It",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
-      "duration_ms": 140811
-    },
     {
       "played_at": "2026-07-22T17:35:17.105Z",
       "name": "ZEZE (feat. Travis Scott & Offset)",
@@ -22919,6 +22739,193 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
       "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-10-15T14:23:16.485Z",
+      "name": "R.I.P.",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
+      "duration_ms": 192026
+    },
+    {
+      "played_at": "2026-10-15T15:23:17.204Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-10-15T15:26:17.774Z",
+      "name": "Summer 91 (Looking Back)",
+      "artists": [
+        "Noizu"
+      ],
+      "album": "Summer 91 (Looking Back)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c0c35544b3c51b9b8896f87",
+      "uri": "spotify:track:4FEcEwbE2vsqhxbTPtiNTL",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-10-15T16:56:38.732Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-10-15T17:00:33.326Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-10-15T17:02:46.221Z",
+      "name": "OWA OWA",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "DOPAMINE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+      "uri": "spotify:track:1lfO0bqThTLimzHsvk3LrN",
+      "duration_ms": 132380
+    },
+    {
+      "played_at": "2026-10-15T17:07:40.729Z",
+      "name": "Dreams",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "5150",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57",
+      "uri": "spotify:track:2APxH5XbOLDTmW9X5yi6Hw",
+      "duration_ms": 294000
+    },
+    {
+      "played_at": "2026-10-15T17:13:55.102Z",
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "artists": [
+        "21 Savage",
+        "Metro Boomin",
+        "Young Thug"
+      ],
+      "album": "SAVAGE MODE II",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
+      "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
+      "duration_ms": 190331
+    },
+    {
+      "played_at": "2026-10-15T17:17:49.650Z",
+      "name": "Hypnotize - 2007 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
+      "uri": "spotify:track:6Tsu3OsuMz4KEGKbOYd6A0",
+      "duration_ms": 230000
+    },
+    {
+      "played_at": "2026-10-15T17:24:34.533Z",
+      "name": "Wherever I May Roam (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:745sNpjWbAxo2MA2zSYbyD",
+      "duration_ms": 404333
+    },
+    {
+      "played_at": "2026-10-15T17:26:30.235Z",
+      "name": "run run run",
+      "artists": [
+        "rebug"
+      ],
+      "album": "run run run",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4fd149d91338f7d70e192ab",
+      "uri": "spotify:track:3jc5lztSxb84byWpQqrHME",
+      "duration_ms": 79464
+    },
+    {
+      "played_at": "2026-10-15T17:29:26.596Z",
+      "name": "Fade - Grant Nelson Big Room Remix",
+      "artists": [
+        "Solu Music",
+        "KimBlee"
+      ],
+      "album": "Fade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
+      "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
+      "duration_ms": 175840
+    },
+    {
+      "played_at": "2026-10-15T17:36:14.741Z",
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artists": [
+        "Drake",
+        "Future",
+        "Molly Santana"
+      ],
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "uri": "spotify:track:3DK90400cDlV5WUJPraMph",
+      "duration_ms": 247183
+    },
+    {
+      "played_at": "2026-10-15T17:39:27.175Z",
+      "name": "Banana Pancakes",
+      "artists": [
+        "Jack Johnson"
+      ],
+      "album": "In Between Dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
+      "uri": "spotify:track:451GvHwY99NKV4zdKPRWmv",
+      "duration_ms": 191906
+    },
+    {
+      "played_at": "2026-10-15T18:20:06.483Z",
+      "name": "Quickest Routes",
+      "artists": [
+        "Shoreline Mafia",
+        "Disco Lines",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Disco Mafia Pack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
+      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
+      "duration_ms": 134400
+    },
+    {
+      "played_at": "2026-10-15T18:23:23.380Z",
+      "name": "Talk",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Talk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273904651e3012cc098c7d77b6c",
+      "uri": "spotify:track:0ypjMI7vHiDP4sLB1C0Qna",
+      "duration_ms": 174857
     }
   ]
 }
