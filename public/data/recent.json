@@ -1,138 +1,6 @@
 {
-  "updated_at": "2026-10-15T18:48:50.935Z",
+  "updated_at": "2026-10-15T23:29:36.409Z",
   "plays": [
-    {
-      "played_at": "2026-07-22T17:35:17.105Z",
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "artists": [
-        "Kodak Black",
-        "Offset",
-        "Travis Scott"
-      ],
-      "album": "Dying to Live",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
-      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
-      "duration_ms": 228759
-    },
-    {
-      "played_at": "2026-07-22T17:41:33.472Z",
-      "name": "Dark Knight Dummo (feat. Travis Scott)",
-      "artists": [
-        "Trippie Redd",
-        "Travis Scott"
-      ],
-      "album": "LIFE'S A TRIP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
-      "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
-      "duration_ms": 256161
-    },
-    {
-      "played_at": "2026-07-22T17:45:29.882Z",
-      "name": "wokeuplikethis*",
-      "artists": [
-        "Playboi Carti",
-        "Lil Uzi Vert"
-      ],
-      "album": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-      "uri": "spotify:track:59J5nzL1KniFHnU120dQzt",
-      "duration_ms": 235535
-    },
-    {
-      "played_at": "2026-07-22T17:48:00.634Z",
-      "name": "Fighting My Demons",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "uri": "spotify:track:2c7sRekhMGlj7u1WIIzoQu",
-      "duration_ms": 150401
-    },
-    {
-      "played_at": "2026-07-22T17:49:22.765Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-07-22T17:57:58.644Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-07-22T18:00:30.680Z",
-      "name": "Singapore (feat. Destroy Lonely)",
-      "artists": [
-        "Ken Carson",
-        "Destroy Lonely"
-      ],
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "uri": "spotify:track:56QNTK715IJeYmJP2grB5f",
-      "duration_ms": 151581
-    },
-    {
-      "played_at": "2026-07-22T18:02:17.669Z",
-      "name": "Yale",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "Teen X",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e34f259b461e589917140e65",
-      "uri": "spotify:track:66yPalPs9DrhbGb9gR3vD9",
-      "duration_ms": 106533
-    },
-    {
-      "played_at": "2026-07-22T18:04:43.885Z",
-      "name": "Catch Me Outside",
-      "artists": [
-        "Ski Mask The Slump God"
-      ],
-      "album": "You Will Regret (Reloaded)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
-      "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
-      "duration_ms": 145760
-    },
-    {
-      "played_at": "2026-07-22T18:07:01.335Z",
-      "name": "Dark Thoughts",
-      "artists": [
-        "Lil Tecca"
-      ],
-      "album": "DOPAMINE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-      "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
-      "duration_ms": 136991
-    },
-    {
-      "played_at": "2026-07-22T20:07:56.813Z",
-      "name": "FAKENGGAS",
-      "artists": [
-        "Destroy Lonely"
-      ],
-      "album": "NO STYLIST",
-      "image": "https://i.scdn.co/image/ab67616d0000b27316253391849ee562db8da541",
-      "uri": "spotify:track:6BlfsdUgeFwkFC30cD4EFO",
-      "duration_ms": 180000
-    },
     {
       "played_at": "2026-07-22T20:21:49.880Z",
       "name": "Work",
@@ -22926,6 +22794,128 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273904651e3012cc098c7d77b6c",
       "uri": "spotify:track:0ypjMI7vHiDP4sLB1C0Qna",
       "duration_ms": 174857
+    },
+    {
+      "played_at": "2026-10-15T22:20:39.191Z",
+      "name": "The Grinch",
+      "artists": [
+        "Trippie Redd"
+      ],
+      "album": "A Love Letter To You 4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
+      "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
+      "duration_ms": 91288
+    },
+    {
+      "played_at": "2026-10-15T22:29:39.013Z",
+      "name": "Scuttle Buttin'",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Couldn't Stand The Weather (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+      "uri": "spotify:track:18PhtDBBYxE0vN4YvsZnMy",
+      "duration_ms": 111920
+    },
+    {
+      "played_at": "2026-10-15T22:37:20.727Z",
+      "name": "Coffee",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Coffee",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad2c1e1bcbc8d7415636691b",
+      "uri": "spotify:track:429NtPmr12aypzFH3FkN9l",
+      "duration_ms": 126824
+    },
+    {
+      "played_at": "2026-10-15T22:40:00.226Z",
+      "name": "Put Your Head On My Shoulder - Remastered",
+      "artists": [
+        "Paul Anka"
+      ],
+      "album": "Paul Anka Sings His Big 15 (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f16eb646e4096177286ebc2",
+      "uri": "spotify:track:6YDDrg8llsRtAgLlIROzZc",
+      "duration_ms": 158906
+    },
+    {
+      "played_at": "2026-10-15T22:48:48.121Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-10-15T22:51:19.266Z",
+      "name": "snowfall (Slowed + Reverb)",
+      "artists": [
+        "Øneheart",
+        "reidenshi"
+      ],
+      "album": "snowfall (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f174c80242142ad9306df3b",
+      "uri": "spotify:track:4VkEkljlOC5cMbRMhREO5E",
+      "duration_ms": 150660
+    },
+    {
+      "played_at": "2026-10-15T22:55:45.918Z",
+      "name": "Heart To Heart",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Relaxing Music 2023",
+      "image": "https://i.scdn.co/image/ab67616d0000b273498461a686ae953fdd47b0d1",
+      "uri": "spotify:track:0R3JnT3sXBC4E9AwNxEQPO",
+      "duration_ms": 211140
+    },
+    {
+      "played_at": "2026-10-15T23:00:23.541Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-10-15T23:11:03.193Z",
+      "name": "August 10",
+      "artists": [
+        "Julie Doiron"
+      ],
+      "album": "Broken Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d2e66c75f8550ce7de6fa66",
+      "uri": "spotify:track:0yOf4dgkVq8jbB2zxVK8Zj",
+      "duration_ms": 178000
+    },
+    {
+      "played_at": "2026-10-15T23:18:06.113Z",
+      "name": "Moonlight on the River",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+      "duration_ms": 422613
+    },
+    {
+      "played_at": "2026-10-15T23:20:56.303Z",
+      "name": "From The Start",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Bewitched",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96",
+      "uri": "spotify:track:43iIQbw5hx986dUEZbr3eN",
+      "duration_ms": 169573
     }
   ]
 }
