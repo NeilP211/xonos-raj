@@ -1,47 +1,6 @@
 {
-  "updated_at": "2026-10-15T23:29:36.409Z",
+  "updated_at": "2026-10-16T02:38:17.075Z",
   "plays": [
-    {
-      "played_at": "2026-07-22T20:21:49.880Z",
-      "name": "Work",
-      "artists": [
-        "Rihanna",
-        "Drake"
-      ],
-      "album": "ANTI (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
-      "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
-      "duration_ms": 219320
-    },
-    {
-      "played_at": "2026-07-22T20:27:46.538Z",
-      "name": "Bent",
-      "artists": [
-        "41",
-        "Kyle Richh",
-        "Jenn Carter",
-        "TaTa"
-      ],
-      "album": "Bent",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737e1d2a4f64b8b472982bf0cf",
-      "uri": "spotify:track:6ulEymrJ2Azx1uo3YHSE5w",
-      "duration_ms": 170267
-    },
-    {
-      "played_at": "2026-07-22T21:03:18.839Z",
-      "name": "Beckham",
-      "artists": [
-        "Dee Billz",
-        "Kyle Richh",
-        "Kai Swervo",
-        "KJ Swervo",
-        "41"
-      ],
-      "album": "Blood, Sweat & Billz",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b8c08515d0bcad101c414ead",
-      "uri": "spotify:track:4UaYeoRZVif641P0FcgkNL",
-      "duration_ms": 124931
-    },
     {
       "played_at": "2026-07-22T21:10:45.027Z",
       "name": "Work",
@@ -22916,6 +22875,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96",
       "uri": "spotify:track:43iIQbw5hx986dUEZbr3eN",
       "duration_ms": 169573
+    },
+    {
+      "played_at": "2026-10-15T23:20:57.044Z",
+      "name": "The Blonde",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
+      "duration_ms": 227760
+    },
+    {
+      "played_at": "2026-10-16T01:58:19.889Z",
+      "name": "Centerfield",
+      "artists": [
+        "John Fogerty"
+      ],
+      "album": "The Long Road Home - The Ultimate John Fogerty / Creedence Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1e8e132c219e1cf70d51a5b",
+      "uri": "spotify:track:3CBKRRO3QiypbyLMJv2udO",
+      "duration_ms": 231306
+    },
+    {
+      "played_at": "2026-10-16T02:02:28.661Z",
+      "name": "Centerfield",
+      "artists": [
+        "John Fogerty"
+      ],
+      "album": "The Long Road Home - The Ultimate John Fogerty / Creedence Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1e8e132c219e1cf70d51a5b",
+      "uri": "spotify:track:3CBKRRO3QiypbyLMJv2udO",
+      "duration_ms": 231306
     }
   ]
 }
