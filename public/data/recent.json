@@ -1,107 +1,6 @@
 {
-  "updated_at": "2026-10-16T18:33:31.633Z",
+  "updated_at": "2026-10-16T23:11:31.891Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T13:10:17.294Z",
-      "name": "Back In Bidness",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Back In Bidness",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
-      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
-      "duration_ms": 137142
-    },
-    {
-      "played_at": "2026-07-23T13:17:50.539Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-07-23T13:28:08.257Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
-    {
-      "played_at": "2026-07-23T13:31:55.693Z",
-      "name": "Loving Machine",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-      "duration_ms": 227000
-    },
-    {
-      "played_at": "2026-07-23T13:35:33.145Z",
-      "name": "Blue Hair",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Death of a Party Girl",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
-      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
-      "duration_ms": 217000
-    },
-    {
-      "played_at": "2026-07-23T13:39:52.798Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-07-23T13:45:59.084Z",
-      "name": "Safe In Your Skin",
-      "artists": [
-        "Title Fight"
-      ],
-      "album": "Shed",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
-      "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
-      "duration_ms": 154800
-    },
-    {
-      "played_at": "2026-07-23T13:50:01.069Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
-    {
-      "played_at": "2026-07-23T14:01:56.407Z",
-      "name": "Loving Machine",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-      "duration_ms": 227000
-    },
     {
       "played_at": "2026-07-23T14:05:30.757Z",
       "name": "Lovers Rock",
@@ -22922,6 +22821,113 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
       "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
       "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-10-16T18:26:39.907Z",
+      "name": "3.5",
+      "artists": [
+        "ian"
+      ],
+      "album": "Goodbye Horses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+      "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+      "duration_ms": 156444
+    },
+    {
+      "played_at": "2026-10-16T19:43:05.218Z",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "artists": [
+        "Kodak Black",
+        "Offset",
+        "Travis Scott"
+      ],
+      "album": "Dying to Live",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+      "duration_ms": 228759
+    },
+    {
+      "played_at": "2026-10-16T19:46:40.941Z",
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "artists": [
+        "Metro Boomin",
+        "Future",
+        "Don Toliver"
+      ],
+      "album": "HEROES & VILLAINS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+      "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+      "duration_ms": 199920
+    },
+    {
+      "played_at": "2026-10-16T19:54:24.129Z",
+      "name": "I'm Not Alone - 2019 Edit",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "album": "96 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738daa8ac6367fc997c1873b9b",
+      "uri": "spotify:track:6zAUCritANdhceCMLVB8xR",
+      "duration_ms": 201313
+    },
+    {
+      "played_at": "2026-10-16T19:57:46.426Z",
+      "name": "Free Your Mind",
+      "artists": [
+        "Prospa",
+        "Cloonee",
+        "Sybil"
+      ],
+      "album": "Free Your Mind",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338974737cba5770d9dba1cd6",
+      "uri": "spotify:track:6TWbY1dq8eYtFiMiGdBlOa",
+      "duration_ms": 201700
+    },
+    {
+      "played_at": "2026-10-16T20:00:29.522Z",
+      "name": "Too Much For Me",
+      "artists": [
+        "SELKER"
+      ],
+      "album": "Too Much For Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+      "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+      "duration_ms": 153869
+    },
+    {
+      "played_at": "2026-10-16T20:44:41.551Z",
+      "name": "KEEP IT COOL",
+      "artists": [
+        "Internet Money",
+        "Rich Amiri"
+      ],
+      "album": "KEEP IT COOL",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7f793a295dd472567d228f0f5",
+      "uri": "spotify:track:7JZcqktPO8pFPf7qtuKg7C",
+      "duration_ms": 131882
+    },
+    {
+      "played_at": "2026-10-16T20:44:41.557Z",
+      "name": "Down, Up!",
+      "artists": [
+        "BabyTron"
+      ],
+      "album": "Down, Up!",
+      "image": "https://i.scdn.co/image/ab6742d3000053b75a2136b421a49b54cbbf9b47",
+      "uri": "spotify:track:1ztRr11Wnnnh0VFk4Ztc36",
+      "duration_ms": 132138
+    },
+    {
+      "played_at": "2026-10-16T20:44:41.558Z",
+      "name": "So Many Times",
+      "artists": [
+        "Gadjo",
+        "Alexandra Prince"
+      ],
+      "album": "So Many Times",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad7fd844fa43442abfa6fbec",
+      "uri": "spotify:track:5pBcAiIOgK12dxBSpKjulg",
+      "duration_ms": 241928
     }
   ]
 }
