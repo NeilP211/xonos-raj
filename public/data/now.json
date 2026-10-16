@@ -1,14 +1,18 @@
 {
-  "updated_at": "2026-10-16T07:46:44.220Z",
+  "updated_at": "2026-10-16T13:40:52.098Z",
   "is_playing": false,
   "track": {
-    "name": "Centerfield",
+    "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
     "artists": [
-      "John Fogerty"
+      "Shoreline Mafia",
+      "Rob Vicious",
+      "Fenix Flexin",
+      "Master Kato",
+      "OHGEESY"
     ],
-    "album": "The Long Road Home - The Ultimate John Fogerty / Creedence Collection",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d1e8e132c219e1cf70d51a5b",
-    "uri": "spotify:track:3CBKRRO3QiypbyLMJv2udO"
+    "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+    "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8"
   },
-  "played_at": "2026-10-16T02:02:28.661Z"
+  "played_at": "2026-10-16T12:57:35.903Z"
 }
