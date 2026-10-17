@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-17T19:56:22.200Z",
+  "updated_at": "2026-10-17T22:48:34.340Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T15:47:20.942Z",
-      "name": "Safe In Your Skin",
-      "artists": [
-        "Title Fight"
-      ],
-      "album": "Shed",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
-      "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
-      "duration_ms": 154800
-    },
-    {
-      "played_at": "2026-07-23T15:51:22.776Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
-    {
-      "played_at": "2026-07-23T15:55:20.428Z",
-      "name": "Loving Machine",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-      "duration_ms": 227000
-    },
     {
       "played_at": "2026-07-23T15:58:54.772Z",
       "name": "Lovers Rock",
@@ -22938,6 +22905,42 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d406f84646ebe24d2aae7cf8",
       "uri": "spotify:track:28wXXdoArl2UJmpTesjCBo",
       "duration_ms": 250125
+    },
+    {
+      "played_at": "2026-10-17T20:01:56.634Z",
+      "name": "Demon Time",
+      "artists": [
+        "Trippie Redd",
+        "Ski Mask The Slump God"
+      ],
+      "album": "Trip At Knight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4",
+      "uri": "spotify:track:5kyiTQjYaQVDhapExFQdwA",
+      "duration_ms": 159452
+    },
+    {
+      "played_at": "2026-10-17T20:24:54.303Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-17T20:27:27.601Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:56:21.979Z",
+  "generated_at": "2026-10-17T22:48:34.195Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -21,18 +21,6 @@
         },
         {
           "rank": 2,
-          "name": "Answer My Prayers",
-          "artists": [
-            "Lil Tony Official"
-          ],
-          "album": "Tkey vs. Tony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
-          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
-          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
-          "duration_ms": 117736
-        },
-        {
-          "rank": 3,
           "name": "ball hard",
           "artists": [
             "ksuuvi"
@@ -42,6 +30,18 @@
           "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
           "url": "https://open.spotify.com/track/5ESbmwh8jzSNVukQhd58Qt",
           "duration_ms": 160731
+        },
+        {
+          "rank": 3,
+          "name": "Answer My Prayers",
+          "artists": [
+            "Lil Tony Official"
+          ],
+          "album": "Tkey vs. Tony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
+          "duration_ms": 117736
         },
         {
           "rank": 4,
@@ -137,19 +137,6 @@
         },
         {
           "rank": 11,
-          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-          "artists": [
-            "lil ricefield",
-            "seiji oda"
-          ],
-          "album": "Eat Rice Dummy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
-          "duration_ms": 106666
-        },
-        {
-          "rank": 12,
           "name": "Swërved It",
           "artists": [
             "Yeat"
@@ -161,7 +148,7 @@
           "duration_ms": 137299
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Warmth",
           "artists": [
             "C418"
@@ -173,7 +160,7 @@
           "duration_ms": 239379
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -185,7 +172,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Talk",
           "artists": [
             "Yeat"
@@ -197,7 +184,7 @@
           "duration_ms": 174857
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -210,7 +197,7 @@
           "duration_ms": 168000
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -222,6 +209,19 @@
           "uri": "spotify:track:4HyBDkCeRJWN1eOT2GELcL",
           "url": "https://open.spotify.com/track/4HyBDkCeRJWN1eOT2GELcL",
           "duration_ms": 137142
+        },
+        {
+          "rank": 17,
+          "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+          "artists": [
+            "BabyTron",
+            "DJ Ess"
+          ],
+          "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+          "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+          "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO",
+          "duration_ms": 122012
         },
         {
           "rank": 18,
@@ -273,6 +273,19 @@
         },
         {
           "rank": 22,
+          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+          "artists": [
+            "lil ricefield",
+            "seiji oda"
+          ],
+          "album": "Eat Rice Dummy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
+          "duration_ms": 106666
+        },
+        {
+          "rank": 23,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -284,7 +297,7 @@
           "duration_ms": 169999
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Kung Fu Panda",
           "artists": [
             "Young Yayo",
@@ -297,7 +310,19 @@
           "duration_ms": 111699
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "name": "Everything In Its Right Place",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "Kid A",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+          "duration_ms": 251426
+        },
+        {
+          "rank": 26,
           "name": "we fell in love in october",
           "artists": [
             "girl in red"
@@ -309,7 +334,7 @@
           "duration_ms": 184153
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -321,7 +346,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "Location",
           "artists": [
             "Playboi Carti"
@@ -333,7 +358,7 @@
           "duration_ms": 168783
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -345,7 +370,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "I <3 My Choppa",
           "artists": [
             "Tay-K"
@@ -357,7 +382,7 @@
           "duration_ms": 105000
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -369,7 +394,7 @@
           "duration_ms": 157779
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -381,7 +406,7 @@
           "duration_ms": 184375
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Everybody Loves The Sunshine",
           "artists": [
             "Roy Ayers Ubiquity"
@@ -393,7 +418,7 @@
           "duration_ms": 239666
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -406,7 +431,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Yung Nigga Shit",
           "artists": [
             "2wo2imes",
@@ -419,19 +444,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 34,
-          "name": "Everything In Its Right Place",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "Kid A",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-          "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-          "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-          "duration_ms": 251426
-        },
-        {
-          "rank": 35,
+          "rank": 36,
           "name": "Hypnotize - 2014 Remaster",
           "artists": [
             "The Notorious B.I.G."
@@ -443,7 +456,7 @@
           "duration_ms": 229826
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -455,7 +468,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Take It",
           "artists": [
             "Staind"
@@ -467,7 +480,7 @@
           "duration_ms": 215706
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Passionfruit",
           "artists": [
             "Drake"
@@ -479,19 +492,19 @@
           "duration_ms": 298940
         },
         {
-          "rank": 39,
-          "name": "Flight's Booked",
+          "rank": 40,
+          "name": "M.... She Wrote",
           "artists": [
-            "Drake"
+            "Tay-K"
           ],
-          "album": "Honestly, Nevermind",
-          "image": "https://i.scdn.co/image/ab67616d0000b27322dfcfcc0742f339986d20cb",
-          "uri": "spotify:track:23Z3bbYcl1PdcPJemLa4zc",
-          "url": "https://open.spotify.com/track/23Z3bbYcl1PdcPJemLa4zc",
-          "duration_ms": 254407
+          "album": "#SantanaWorld (+)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+          "uri": "spotify:track:1WRzux3cJRM9xRNN99QKgR",
+          "url": "https://open.spotify.com/track/1WRzux3cJRM9xRNN99QKgR",
+          "duration_ms": 112000
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Nun Major",
           "artists": [
             "Shoreline Mafia"
@@ -503,7 +516,7 @@
           "duration_ms": 151836
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "GUMMO",
           "artists": [
             "6ix9ine"
@@ -515,7 +528,7 @@
           "duration_ms": 157643
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Boston",
           "artists": [
             "STELLA LEFTY"
@@ -527,7 +540,7 @@
           "duration_ms": 170859
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Megaman",
           "artists": [
             "Tay-K"
@@ -539,7 +552,19 @@
           "duration_ms": 133000
         },
         {
-          "rank": 44,
+          "rank": 45,
+          "name": "Flight's Booked",
+          "artists": [
+            "Drake"
+          ],
+          "album": "Honestly, Nevermind",
+          "image": "https://i.scdn.co/image/ab67616d0000b27322dfcfcc0742f339986d20cb",
+          "uri": "spotify:track:23Z3bbYcl1PdcPJemLa4zc",
+          "url": "https://open.spotify.com/track/23Z3bbYcl1PdcPJemLa4zc",
+          "duration_ms": 254407
+        },
+        {
+          "rank": 46,
           "name": "Falling Behind",
           "artists": [
             "Laufey"
@@ -551,7 +576,7 @@
           "duration_ms": 173640
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Touchable",
           "artists": [
             "Remble"
@@ -563,7 +588,7 @@
           "duration_ms": 122647
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -575,7 +600,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Rich Nigga Shit (feat. Young Thug)",
           "artists": [
             "21 Savage",
@@ -589,7 +614,7 @@
           "duration_ms": 190331
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -600,32 +625,6 @@
           "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
           "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV",
           "duration_ms": 205701
-        },
-        {
-          "rank": 49,
-          "name": "Too Many Nights (feat. Don Toliver & with Future)",
-          "artists": [
-            "Metro Boomin",
-            "Future",
-            "Don Toliver"
-          ],
-          "album": "HEROES & VILLAINS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
-          "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
-          "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
-          "duration_ms": 199920
-        },
-        {
-          "rank": 50,
-          "name": "Long Time - Intro",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Die Lit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-          "uri": "spotify:track:4IO2X2YoXoUMv0M2rwomLC",
-          "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC",
-          "duration_ms": 211773
         }
       ],
       "artists": [
@@ -671,19 +670,19 @@
         },
         {
           "rank": 6,
-          "name": "Trippie Redd",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbb2dd30a6c15bdeeb131e525",
-          "genres": [],
-          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "rank": 7,
           "name": "Tay-K",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3d2fd19e0e7a909ab141ceab",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
+        },
+        {
+          "rank": 7,
+          "name": "Trippie Redd",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbb2dd30a6c15bdeeb131e525",
+          "genres": [],
+          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
           "rank": 8,
@@ -783,6 +782,14 @@
         },
         {
           "rank": 20,
+          "name": "Crowbar",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7431d2e18a5ebbb758f3ee7b",
+          "genres": [],
+          "uri": "spotify:artist:3xtIpqzIOfQUxKce8BU4Ka",
+          "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
+        },
+        {
+          "rank": 21,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
@@ -790,7 +797,7 @@
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
@@ -798,7 +805,7 @@
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -806,7 +813,7 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -814,20 +821,12 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 25,
-          "name": "Slipknot",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
-          "genres": [],
-          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
           "rank": 26,
@@ -844,6 +843,14 @@
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "rank": 28,
+          "name": "Slipknot",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
+          "genres": [],
+          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ]
     },

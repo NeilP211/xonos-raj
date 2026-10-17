@@ -1,16 +1,15 @@
 {
-  "updated_at": "2026-10-17T19:56:22.385Z",
-  "is_playing": true,
+  "updated_at": "2026-10-17T22:48:34.462Z",
+  "is_playing": false,
   "track": {
-    "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+    "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
     "artists": [
-      "Daft Punk",
-      "Pharrell Williams",
-      "Nile Rodgers"
+      "BabyTron",
+      "DJ Ess"
     ],
-    "album": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-    "image": "https://i.scdn.co/image/ab67616d0000b27319a88dd5c7118e87d7b1619e",
-    "uri": "spotify:track:2Foc5Q5nqNiosCNqttzHof"
+    "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+    "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO"
   },
-  "played_at": "2026-10-17T19:56:22.385Z"
+  "played_at": "2026-10-17T20:27:27.601Z"
 }
