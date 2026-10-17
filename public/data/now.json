@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-10-17T17:40:55.389Z",
-  "is_playing": false,
+  "updated_at": "2026-10-17T19:56:22.385Z",
+  "is_playing": true,
   "track": {
-    "name": "Fade - Grant Nelson Big Room Remix",
+    "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
     "artists": [
-      "Solu Music",
-      "KimBlee"
+      "Daft Punk",
+      "Pharrell Williams",
+      "Nile Rodgers"
     ],
-    "album": "Fade",
-    "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
-    "uri": "spotify:track:58XZDglLRsZClpg19mmqjz"
+    "album": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+    "image": "https://i.scdn.co/image/ab67616d0000b27319a88dd5c7118e87d7b1619e",
+    "uri": "spotify:track:2Foc5Q5nqNiosCNqttzHof"
   },
-  "played_at": "2026-10-17T16:42:59.459Z"
+  "played_at": "2026-10-17T19:56:22.385Z"
 }

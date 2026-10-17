@@ -1,138 +1,6 @@
 {
-  "updated_at": "2026-10-17T17:40:55.278Z",
+  "updated_at": "2026-10-17T19:56:22.200Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T14:25:35.211Z",
-      "name": "For the First Time",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "This Old Dog",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739f1b21f21b13ff2d3e891f6b",
-      "uri": "spotify:track:2R4AlwtrrkMaRKojcTIzmL",
-      "duration_ms": 182306
-    },
-    {
-      "played_at": "2026-07-23T14:30:43.003Z",
-      "name": "Chamber Of Reflection",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "Salad Days",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ec6e9c13eeed14eedbd5f7c9",
-      "uri": "spotify:track:7H7NyZ3G075GqPx2evsfeb",
-      "duration_ms": 231723
-    },
-    {
-      "played_at": "2026-07-23T15:01:54.879Z",
-      "name": "Moonlight on the River",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "This Old Dog",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739f1b21f21b13ff2d3e891f6b",
-      "uri": "spotify:track:2fhOljbX79loRcdl47SFye",
-      "duration_ms": 422613
-    },
-    {
-      "played_at": "2026-07-23T15:04:48.569Z",
-      "name": "No Other Heart",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "Another One",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2",
-      "uri": "spotify:track:2aaCNg42RA74s0EmHTBqS7",
-      "duration_ms": 173117
-    },
-    {
-      "played_at": "2026-07-23T15:14:03.508Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-07-23T15:17:31.127Z",
-      "name": "Oh Me - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
-      "duration_ms": 206160
-    },
-    {
-      "played_at": "2026-07-23T15:23:51.187Z",
-      "name": "Lake Of Fire - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:4UJmPSJsBsIR1U0N79BU1g",
-      "duration_ms": 175973
-    },
-    {
-      "played_at": "2026-07-23T15:27:43.794Z",
-      "name": "Something In The Way",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
-      "duration_ms": 232146
-    },
-    {
-      "played_at": "2026-07-23T15:31:48.844Z",
-      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "The Queen Is Dead",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
-      "uri": "spotify:track:0WQiDwKJclirSYG9v5tayI",
-      "duration_ms": 244586
-    },
-    {
-      "played_at": "2026-07-23T15:34:55.925Z",
-      "name": "Back to the Old House - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "Louder Than Bombs",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574",
-      "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
-      "duration_ms": 186626
-    },
-    {
-      "played_at": "2026-07-23T15:37:46.710Z",
-      "name": "I Thought I Saw Your Face Today",
-      "artists": [
-        "She & Him"
-      ],
-      "album": "Volume One",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a47c6d8a934b4833c0916cc9",
-      "uri": "spotify:track:0myRViRgmQ3J8izICXEAVO",
-      "duration_ms": 170333
-    },
-    {
-      "played_at": "2026-07-23T15:44:45.630Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
     {
       "played_at": "2026-07-23T15:47:20.942Z",
       "name": "Safe In Your Skin",
@@ -22932,6 +22800,144 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
       "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
       "duration_ms": 175840
+    },
+    {
+      "played_at": "2026-10-17T17:54:25.628Z",
+      "name": "Fuck It Up (feat. Mike Sherm)",
+      "artists": [
+        "Shoreline Mafia",
+        "Mike Sherm",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:6M4L9ta9VvA7noaWHYE1BP",
+      "duration_ms": 148285
+    },
+    {
+      "played_at": "2026-10-17T18:23:57.015Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-17T18:29:07.959Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-17T18:31:05.359Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-10-17T18:39:37.901Z",
+      "name": "Wokeup",
+      "artists": [
+        "Kankan"
+      ],
+      "album": "Wokeup",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
+      "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
+      "duration_ms": 115347
+    },
+    {
+      "played_at": "2026-10-17T18:45:50.404Z",
+      "name": "Remember The Rain",
+      "artists": [
+        "21st Century"
+      ],
+      "album": "Ahead of Our Time",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735088c3c1c49d166ca7210e46",
+      "uri": "spotify:track:4yhQV8Ys8ntDG3lqTtp2hl",
+      "duration_ms": 239250
+    },
+    {
+      "played_at": "2026-10-17T19:09:08.742Z",
+      "name": "Duality",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "Vol. 3: The Subliminal Verses (Special Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
+      "uri": "spotify:track:61mWefnWQOLf90gepjOCb3",
+      "duration_ms": 252613
+    },
+    {
+      "played_at": "2026-10-17T19:20:26.632Z",
+      "name": "It's Been Awhile",
+      "artists": [
+        "Staind"
+      ],
+      "album": "Break the Cycle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+      "uri": "spotify:track:25CMmGsl22APKhfuj4Tp7j",
+      "duration_ms": 264706
+    },
+    {
+      "played_at": "2026-10-17T19:24:25.472Z",
+      "name": "My Own Prison",
+      "artists": [
+        "Creed"
+      ],
+      "album": "My Own Prison",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+      "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m",
+      "duration_ms": 298800
+    },
+    {
+      "played_at": "2026-10-17T19:36:46.235Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-17T19:38:56.634Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-17T19:43:39.947Z",
+      "name": "Fallen Down - Slowed",
+      "artists": [
+        "dru",
+        "EtxrnalL"
+      ],
+      "album": "Fallen Down (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d406f84646ebe24d2aae7cf8",
+      "uri": "spotify:track:28wXXdoArl2UJmpTesjCBo",
+      "duration_ms": 250125
     }
   ]
 }
