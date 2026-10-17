@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-16T23:11:31.891Z",
+  "updated_at": "2026-10-17T02:30:46.543Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T14:05:30.757Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
     {
       "played_at": "2026-07-23T14:09:06.075Z",
       "name": "Good Looking",
@@ -22928,6 +22917,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ad7fd844fa43442abfa6fbec",
       "uri": "spotify:track:5pBcAiIOgK12dxBSpKjulg",
       "duration_ms": 241928
+    },
+    {
+      "played_at": "2026-10-16T23:42:27.442Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
     }
   ]
 }
