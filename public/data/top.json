@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:56:17.945Z",
+  "generated_at": "2026-10-18T22:41:49.170Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -836,14 +836,6 @@
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "rank": 27,
-          "name": "Slipknot",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
-          "genres": [],
-          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ]
     },

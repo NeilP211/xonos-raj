@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-10-18T19:56:18.037Z",
+  "updated_at": "2026-10-18T22:41:49.297Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T22:14:11.697Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
     {
       "played_at": "2026-07-23T22:21:50.476Z",
       "name": "Coffin",
@@ -22942,6 +22927,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
       "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
       "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-18T19:02:52.909Z",
+      "name": "Gintama",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "psykotic",
+      "image": "https://i.scdn.co/image/ab67616d0000b27341d8c624c257ffccbca8c3ad",
+      "uri": "spotify:track:3xBGFRl0oqpsoUNpVOXhMd",
+      "duration_ms": 127177
     }
   ]
 }
