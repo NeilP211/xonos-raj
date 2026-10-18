@@ -1,51 +1,6 @@
 {
-  "updated_at": "2026-10-18T02:31:14.626Z",
+  "updated_at": "2026-10-18T07:39:10.596Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T15:58:54.772Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
-    {
-      "played_at": "2026-07-23T19:59:28.338Z",
-      "name": "Good Looking",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "album": "Good Looking",
-      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
-      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
-      "duration_ms": 214800
-    },
-    {
-      "played_at": "2026-07-23T20:15:05.443Z",
-      "name": "Fade - Grant Nelson Big Room Remix",
-      "artists": [
-        "Solu Music",
-        "KimBlee"
-      ],
-      "album": "Fade",
-      "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
-      "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
-      "duration_ms": 175840
-    },
-    {
-      "played_at": "2026-07-23T22:02:46.318Z",
-      "name": "Sultans of Swing",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Dire Straits",
-      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
-      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
-      "duration_ms": 348760
-    },
     {
       "played_at": "2026-07-23T22:14:11.697Z",
       "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
@@ -22932,6 +22887,52 @@
     },
     {
       "played_at": "2026-10-17T20:27:27.601Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-17T20:30:43.222Z",
+      "name": "Just the Two of Us (feat. Bill Withers) - Edit",
+      "artists": [
+        "Grover Washington, Jr.",
+        "Bill Withers"
+      ],
+      "album": "Lean on Me: The Best of Bill Withers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35",
+      "uri": "spotify:track:2tH28YyKYOldxhuBHoI79M",
+      "duration_ms": 237373
+    },
+    {
+      "played_at": "2026-10-18T04:14:46.958Z",
+      "name": "Milwaukee Brewers",
+      "artists": [
+        "Foenem"
+      ],
+      "album": "Milwaukee Brewers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d12c4c9c1ed500d5ab1fd3f1",
+      "uri": "spotify:track:5GkylkL4zY4GtGvrFiTJ7x",
+      "duration_ms": 98336
+    },
+    {
+      "played_at": "2026-10-18T04:18:05.813Z",
+      "name": "Milwaukee Brewers",
+      "artists": [
+        "Foenem"
+      ],
+      "album": "Milwaukee Brewers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d12c4c9c1ed500d5ab1fd3f1",
+      "uri": "spotify:track:5GkylkL4zY4GtGvrFiTJ7x",
+      "duration_ms": 98336
+    },
+    {
+      "played_at": "2026-10-18T04:21:16.787Z",
       "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
       "artists": [
         "BabyTron",
