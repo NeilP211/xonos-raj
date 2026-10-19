@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:45:19.704Z",
+  "generated_at": "2026-10-19T08:21:25.322Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -566,18 +566,6 @@
         },
         {
           "rank": 46,
-          "name": "Touchable",
-          "artists": [
-            "Remble"
-          ],
-          "album": "IT’S REMBLE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
-          "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
-          "url": "https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw",
-          "duration_ms": 122647
-        },
-        {
-          "rank": 47,
           "name": "The Grinch",
           "artists": [
             "Trippie Redd"
@@ -589,7 +577,7 @@
           "duration_ms": 91288
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Rich Nigga Shit (feat. Young Thug)",
           "artists": [
             "21 Savage",
@@ -603,7 +591,7 @@
           "duration_ms": 190331
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -616,7 +604,7 @@
           "duration_ms": 205701
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -626,6 +614,20 @@
           "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
           "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
           "duration_ms": 271600
+        },
+        {
+          "rank": 50,
+          "name": "Too Many Nights (feat. Don Toliver & with Future)",
+          "artists": [
+            "Metro Boomin",
+            "Future",
+            "Don Toliver"
+          ],
+          "album": "HEROES & VILLAINS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+          "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+          "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
+          "duration_ms": 199920
         }
       ],
       "artists": [

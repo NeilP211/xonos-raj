@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-19T02:45:19.968Z",
+  "updated_at": "2026-10-19T08:21:25.462Z",
   "is_playing": false,
   "track": {
-    "name": "Lights Out",
+    "name": "Definition",
     "artists": [
+      "2wo2imes",
       "Glokk40Spaz"
     ],
-    "album": "Don’t Get Took Off 2",
-    "image": "https://i.scdn.co/image/ab67616d0000b27330ff2b3fef56d0606a52d561",
-    "uri": "spotify:track:6G1ZTPm9NYRgQCFkRYMtaU"
+    "album": "2wo Glokks",
+    "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
+    "uri": "spotify:track:6gIi4K9qerIyzVmTpoB2kR"
   },
-  "played_at": "2026-10-19T01:13:53.410Z"
+  "played_at": "2026-10-19T02:41:44.410Z"
 }

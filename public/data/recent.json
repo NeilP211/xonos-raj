@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-19T02:45:19.855Z",
+  "updated_at": "2026-10-19T08:21:25.424Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T22:47:01.740Z",
-      "name": "Everlong",
-      "artists": [
-        "Foo Fighters"
-      ],
-      "album": "The Colour And The Shape",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
-      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
-      "duration_ms": 250546
-    },
     {
       "played_at": "2026-07-23T23:02:43.659Z",
       "name": "My Own Summer (Shove It)",
@@ -22939,6 +22928,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27330ff2b3fef56d0606a52d561",
       "uri": "spotify:track:6G1ZTPm9NYRgQCFkRYMtaU",
       "duration_ms": 138318
+    },
+    {
+      "played_at": "2026-10-19T02:41:44.410Z",
+      "name": "Definition",
+      "artists": [
+        "2wo2imes",
+        "Glokk40Spaz"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
+      "uri": "spotify:track:6gIi4K9qerIyzVmTpoB2kR",
+      "duration_ms": 150425
     }
   ]
 }
