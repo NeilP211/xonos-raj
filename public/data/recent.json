@@ -1,94 +1,6 @@
 {
-  "updated_at": "2026-10-19T08:21:25.424Z",
+  "updated_at": "2026-10-19T16:04:56.159Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T23:02:43.659Z",
-      "name": "My Own Summer (Shove It)",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Around the Fur",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
-      "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
-      "duration_ms": 214760
-    },
-    {
-      "played_at": "2026-07-23T23:22:20.162Z",
-      "name": "No More Tears",
-      "artists": [
-        "Ozzy Osbourne"
-      ],
-      "album": "No More Tears (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273509342e69eb341df70e5c2e3",
-      "uri": "spotify:track:7w6PJe5KBPyvuRYxFkPssC",
-      "duration_ms": 444983
-    },
-    {
-      "played_at": "2026-07-23T23:22:21.960Z",
-      "name": "Leech - Demo Version",
-      "artists": [
-        "Limp Bizkit"
-      ],
-      "album": "Three Dollar Bill, Y'all $",
-      "image": "https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f",
-      "uri": "spotify:track:14bsZ0VIilE9EnF4FxoL6p",
-      "duration_ms": 131400
-    },
-    {
-      "played_at": "2026-07-24T14:27:51.662Z",
-      "name": "Can't Tell Me Nothing",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-      "duration_ms": 271600
-    },
-    {
-      "played_at": "2026-07-24T16:24:12.800Z",
-      "name": "Long Time - Intro",
-      "artists": [
-        "Playboi Carti"
-      ],
-      "album": "Die Lit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-      "uri": "spotify:track:4IO2X2YoXoUMv0M2rwomLC",
-      "duration_ms": 211773
-    },
-    {
-      "played_at": "2026-07-24T16:27:47.491Z",
-      "name": "Long Time - Intro",
-      "artists": [
-        "Playboi Carti"
-      ],
-      "album": "Die Lit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-      "uri": "spotify:track:4IO2X2YoXoUMv0M2rwomLC",
-      "duration_ms": 211773
-    },
-    {
-      "played_at": "2026-07-24T16:30:37.942Z",
-      "name": "Armed And Dangerous",
-      "artists": [
-        "Juice WRLD"
-      ],
-      "album": "Goodbye & Good Riddance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
-      "duration_ms": 169999
-    },
-    {
-      "played_at": "2026-07-24T16:38:10.365Z",
-      "name": "Can't Tell Me Nothing",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-      "duration_ms": 271600
-    },
     {
       "played_at": "2026-07-24T16:42:30.061Z",
       "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
@@ -22940,6 +22852,97 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
       "uri": "spotify:track:6gIi4K9qerIyzVmTpoB2kR",
       "duration_ms": 150425
+    },
+    {
+      "played_at": "2026-10-19T10:55:04.848Z",
+      "name": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "America",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "uri": "spotify:track:54eZmuggBFJbV7k248bTTt",
+      "duration_ms": 252239
+    },
+    {
+      "played_at": "2026-10-19T11:00:16.144Z",
+      "name": "August 10",
+      "artists": [
+        "Julie Doiron"
+      ],
+      "album": "Broken Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d2e66c75f8550ce7de6fa66",
+      "uri": "spotify:track:0yOf4dgkVq8jbB2zxVK8Zj",
+      "duration_ms": 178000
+    },
+    {
+      "played_at": "2026-10-19T11:03:47.147Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-10-19T11:06:41.245Z",
+      "name": "Falling Behind",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Everything I Know About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+      "duration_ms": 173640
+    },
+    {
+      "played_at": "2026-10-19T11:09:00.897Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-19T11:11:19.938Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-19T11:17:10.243Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-19T12:45:02.568Z",
+      "name": "Make You Whole (Radio Edit)",
+      "artists": [
+        "Andronicus"
+      ],
+      "album": "Make You Whole",
+      "image": "https://i.scdn.co/image/ab67616d0000b273167ea53d2c9906d0907ef994",
+      "uri": "spotify:track:2WpRJJJzf2WM6IP0zr5aaB",
+      "duration_ms": 212168
     }
   ]
 }
