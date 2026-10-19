@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:04:56.020Z",
+  "generated_at": "2026-10-19T21:54:46.975Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1131,18 +1131,6 @@
         },
         {
           "rank": 23,
-          "name": "R.I.P.",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Die Lit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-          "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
-          "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv",
-          "duration_ms": 192026
-        },
-        {
-          "rank": 24,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -1152,6 +1140,18 @@
           "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
           "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
           "duration_ms": 210506
+        },
+        {
+          "rank": 24,
+          "name": "R.I.P.",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Die Lit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+          "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
+          "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv",
+          "duration_ms": 192026
         },
         {
           "rank": 25,
