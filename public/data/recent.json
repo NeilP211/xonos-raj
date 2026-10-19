@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-18T22:41:49.297Z",
+  "updated_at": "2026-10-19T02:45:19.855Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T22:21:50.476Z",
-      "name": "Coffin",
-      "artists": [
-        "Lil Yachty"
-      ],
-      "album": "Lil Boat 3.5",
-      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-      "duration_ms": 89535
-    },
-    {
-      "played_at": "2026-07-23T22:25:12.233Z",
-      "name": "OLYMPIAN",
-      "artists": [
-        "Playboi Carti"
-      ],
-      "album": "MUSIC",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-      "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
-      "duration_ms": 174733
-    },
     {
       "played_at": "2026-07-23T22:47:01.740Z",
       "name": "Everlong",
@@ -22938,6 +22916,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27341d8c624c257ffccbca8c3ad",
       "uri": "spotify:track:3xBGFRl0oqpsoUNpVOXhMd",
       "duration_ms": 127177
+    },
+    {
+      "played_at": "2026-10-18T21:00:46.009Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-19T01:13:53.410Z",
+      "name": "Lights Out",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Don’t Get Took Off 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b27330ff2b3fef56d0606a52d561",
+      "uri": "spotify:track:6G1ZTPm9NYRgQCFkRYMtaU",
+      "duration_ms": 138318
     }
   ]
 }
