@@ -1,285 +1,6 @@
 {
-  "updated_at": "2026-10-20T18:51:24.546Z",
+  "updated_at": "2026-10-20T23:34:15.519Z",
   "plays": [
-    {
-      "played_at": "2026-07-28T14:44:28.005Z",
-      "name": "Massive X Touch Me",
-      "artists": [
-        "NovaX",
-        "Sevven"
-      ],
-      "album": "Massive X Touch Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-      "duration_ms": 174160
-    },
-    {
-      "played_at": "2026-07-28T14:48:21.844Z",
-      "name": "World, Hold On - FISHER Rework",
-      "artists": [
-        "Bob Sinclar",
-        "Steve Edwards",
-        "FISHER"
-      ],
-      "album": "World, Hold On (FISHER Rework)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
-      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
-      "duration_ms": 178304
-    },
-    {
-      "played_at": "2026-07-28T14:52:02.955Z",
-      "name": "Gonna Be",
-      "artists": [
-        "Daniel Wolf"
-      ],
-      "album": "Gonna Be",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
-      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
-      "duration_ms": 213750
-    },
-    {
-      "played_at": "2026-07-29T00:52:23.722Z",
-      "name": "Blessings",
-      "artists": [
-        "Calvin Harris",
-        "Clementine Douglas"
-      ],
-      "album": "Blessings",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
-      "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z",
-      "duration_ms": 219650
-    },
-    {
-      "played_at": "2026-07-29T18:55:09.974Z",
-      "name": "Massive X Touch Me",
-      "artists": [
-        "NovaX",
-        "Sevven"
-      ],
-      "album": "Massive X Touch Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-      "duration_ms": 174160
-    },
-    {
-      "played_at": "2026-07-29T19:07:42.802Z",
-      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "Hotel California (40th Anniversary Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
-      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
-      "duration_ms": 287533
-    },
-    {
-      "played_at": "2026-07-29T20:40:58.233Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-07-29T20:49:54.958Z",
-      "name": "Too Much For Me",
-      "artists": [
-        "SELKER"
-      ],
-      "album": "Too Much For Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
-      "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
-      "duration_ms": 153869
-    },
-    {
-      "played_at": "2026-07-29T20:53:00.666Z",
-      "name": "World, Hold On - FISHER Rework",
-      "artists": [
-        "Bob Sinclar",
-        "Steve Edwards",
-        "FISHER"
-      ],
-      "album": "World, Hold On (FISHER Rework)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
-      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
-      "duration_ms": 178304
-    },
-    {
-      "played_at": "2026-07-29T20:56:01.138Z",
-      "name": "Summer 91 (Looking Back)",
-      "artists": [
-        "Noizu"
-      ],
-      "album": "Summer 91 (Looking Back)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733c0c35544b3c51b9b8896f87",
-      "uri": "spotify:track:4FEcEwbE2vsqhxbTPtiNTL",
-      "duration_ms": 180000
-    },
-    {
-      "played_at": "2026-07-29T21:21:38.965Z",
-      "name": "Would? (2022 Remaster)",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Dirt (2022 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-      "uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
-      "duration_ms": 206773
-    },
-    {
-      "played_at": "2026-07-29T21:25:48.685Z",
-      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
-      "artists": [
-        "Van Halen"
-      ],
-      "album": "Van Halen (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
-      "uri": "spotify:track:6fybp4N6eW3bsFAvARxyVe",
-      "duration_ms": 227800
-    },
-    {
-      "played_at": "2026-07-29T21:32:42.832Z",
-      "name": "Work",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Work",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
-      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
-      "duration_ms": 135861
-    },
-    {
-      "played_at": "2026-07-29T21:36:40.487Z",
-      "name": "Hardcore",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
-      "duration_ms": 124567
-    },
-    {
-      "played_at": "2026-07-29T21:39:09.999Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-07-29T21:41:27.593Z",
-      "name": "HEAT STICK",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Work",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
-      "uri": "spotify:track:15Lphc77TFtqRTGyYRYeNA",
-      "duration_ms": 137142
-    },
-    {
-      "played_at": "2026-07-29T21:46:04.081Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-07-29T22:04:21.621Z",
-      "name": "Coffin",
-      "artists": [
-        "Lil Yachty"
-      ],
-      "album": "Lil Boat 3.5",
-      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-      "duration_ms": 89535
-    },
-    {
-      "played_at": "2026-07-29T22:08:54.027Z",
-      "name": "Hoe Shit",
-      "artists": [
-        "Shoreline Mafia",
-        "Fenix Flexin"
-      ],
-      "album": "Mafia Bidness",
-      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
-      "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
-      "duration_ms": 168000
-    },
-    {
-      "played_at": "2026-07-30T01:45:48.608Z",
-      "name": "Pink Tape Trailer",
-      "artists": [
-        "Lil Uzi Vert"
-      ],
-      "album": "Pink Tape Trailer",
-      "image": "https://i.scdn.co/image/ab6742d3000053b78a415e5683ed67f3f4acc5b7",
-      "uri": "spotify:track:3TETAhgDBhlNJeN9ETNAEj",
-      "duration_ms": 261972
-    },
-    {
-      "played_at": "2026-07-30T01:49:05.635Z",
-      "name": "World, Hold On - FISHER Rework",
-      "artists": [
-        "Bob Sinclar",
-        "Steve Edwards",
-        "FISHER"
-      ],
-      "album": "World, Hold On (FISHER Rework)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
-      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
-      "duration_ms": 178304
-    },
-    {
-      "played_at": "2026-07-30T01:53:28.248Z",
-      "name": "Happy Nation",
-      "artists": [
-        "Ace of Base"
-      ],
-      "album": "Happy Nation",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b8e072ca95df6dc435b1484f",
-      "uri": "spotify:track:7yCF65vpc7sUwPjftI0iFb",
-      "duration_ms": 255413
-    },
-    {
-      "played_at": "2026-07-30T02:02:39.482Z",
-      "name": "World, Hold On - FISHER Rework",
-      "artists": [
-        "Bob Sinclar",
-        "Steve Edwards",
-        "FISHER"
-      ],
-      "album": "World, Hold On (FISHER Rework)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
-      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
-      "duration_ms": 178304
-    },
     {
       "played_at": "2026-07-30T14:57:49.588Z",
       "name": "Ocean Man",
@@ -22947,6 +22668,274 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
       "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
       "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-10-20T20:59:53.052Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-10-20T21:03:31.852Z",
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "artists": [
+        "Drake",
+        "21 Savage"
+      ],
+      "album": "Honestly, Nevermind",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+      "uri": "spotify:track:3F5CgOj3wFlRv51JsHbxhe",
+      "duration_ms": 218364
+    },
+    {
+      "played_at": "2026-10-20T21:06:18.751Z",
+      "name": "Nuketown",
+      "artists": [
+        "Ski Mask The Slump God",
+        "Juice WRLD"
+      ],
+      "album": "STOKELEY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e70b411110de2cbbba45ab7",
+      "uri": "spotify:track:4YFdnGd92wP6KBcaFa5v64",
+      "duration_ms": 166400
+    },
+    {
+      "played_at": "2026-10-20T21:11:41.041Z",
+      "name": "Touch Down",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27397d2079a834443fc82547f3c",
+      "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
+      "duration_ms": 203428
+    },
+    {
+      "played_at": "2026-10-20T21:14:19.641Z",
+      "name": "HEAT STICK",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:15Lphc77TFtqRTGyYRYeNA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-10-20T21:17:33.348Z",
+      "name": "Sky",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Whole Lotta Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
+      "uri": "spotify:track:29TPjc8wxfz4XMn21O7VsZ",
+      "duration_ms": 193234
+    },
+    {
+      "played_at": "2026-10-20T21:19:37.543Z",
+      "name": "The Grinch",
+      "artists": [
+        "Trippie Redd"
+      ],
+      "album": "A Love Letter To You 4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
+      "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
+      "duration_ms": 91288
+    },
+    {
+      "played_at": "2026-10-20T21:22:10.343Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-10-20T21:25:45.829Z",
+      "name": "Long Time - Intro",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:4IO2X2YoXoUMv0M2rwomLC",
+      "duration_ms": 211773
+    },
+    {
+      "played_at": "2026-10-20T21:27:53.829Z",
+      "name": "Recover Artist",
+      "artists": [
+        "devLfg"
+      ],
+      "album": "Recover Artist",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c2c637dc7e4daeea8874dfe",
+      "uri": "spotify:track:18QWiiCbP3Y5s4Xn4OB74O",
+      "duration_ms": 127477
+    },
+    {
+      "played_at": "2026-10-20T21:30:30.736Z",
+      "name": "3.5",
+      "artists": [
+        "ian"
+      ],
+      "album": "Goodbye Horses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+      "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+      "duration_ms": 156444
+    },
+    {
+      "played_at": "2026-10-20T21:32:48.721Z",
+      "name": "Swërved It",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:6GukTiiz6sGrXEHPEqsD5Y",
+      "duration_ms": 137299
+    },
+    {
+      "played_at": "2026-10-20T21:36:04.687Z",
+      "name": "Whuss the Deal",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
+      "duration_ms": 195636
+    },
+    {
+      "played_at": "2026-10-20T21:41:41.996Z",
+      "name": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "America",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "uri": "spotify:track:54eZmuggBFJbV7k248bTTt",
+      "duration_ms": 252239
+    },
+    {
+      "played_at": "2026-10-20T21:46:20.309Z",
+      "name": "Boston",
+      "artists": [
+        "STELLA LEFTY"
+      ],
+      "album": "Boston",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e6cb19b02e38d18246ac334f",
+      "uri": "spotify:track:36idurZmYRjJ56KQ8JD9bN",
+      "duration_ms": 170859
+    },
+    {
+      "played_at": "2026-10-20T21:50:17.207Z",
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "artists": [
+        "Maroon 5",
+        "Christina Aguilera"
+      ],
+      "album": "Hands All Over",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239",
+      "uri": "spotify:track:7LcfRTgAVTs5pQGEQgUEzN",
+      "duration_ms": 201160
+    },
+    {
+      "played_at": "2026-10-20T21:55:38.202Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-10-20T21:58:38.699Z",
+      "name": "Summer 91 (Looking Back)",
+      "artists": [
+        "Noizu"
+      ],
+      "album": "Summer 91 (Looking Back)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c0c35544b3c51b9b8896f87",
+      "uri": "spotify:track:4FEcEwbE2vsqhxbTPtiNTL",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-10-20T22:03:06.085Z",
+      "name": "Gonna Be",
+      "artists": [
+        "Daniel Wolf"
+      ],
+      "album": "Gonna Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
+      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
+      "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-10-20T22:06:46.243Z",
+      "name": "Blessings",
+      "artists": [
+        "Calvin Harris",
+        "Clementine Douglas"
+      ],
+      "album": "Blessings",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
+      "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z",
+      "duration_ms": 219650
+    },
+    {
+      "played_at": "2026-10-20T22:20:19.680Z",
+      "name": "Freaking Out the Neighborhood",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ecfde7feaa212a1b60a197a1",
+      "uri": "spotify:track:17L0mSvHatVjgTgBxfmyjf",
+      "duration_ms": 173888
+    },
+    {
+      "played_at": "2026-10-20T22:25:51.114Z",
+      "name": "Banana Pancakes",
+      "artists": [
+        "Jack Johnson"
+      ],
+      "album": "In Between Dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
+      "uri": "spotify:track:451GvHwY99NKV4zdKPRWmv",
+      "duration_ms": 191906
+    },
+    {
+      "played_at": "2026-10-20T22:28:46.373Z",
+      "name": "OLYMPIAN",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+      "duration_ms": 174733
     }
   ]
 }
