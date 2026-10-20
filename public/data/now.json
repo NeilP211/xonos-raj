@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-19T21:54:47.247Z",
+  "updated_at": "2026-10-20T02:56:23.977Z",
   "is_playing": false,
   "track": {
-    "name": "Make You Whole (Radio Edit)",
+    "name": "Definition",
     "artists": [
-      "Andronicus"
+      "2wo2imes",
+      "Glokk40Spaz"
     ],
-    "album": "Make You Whole",
-    "image": "https://i.scdn.co/image/ab67616d0000b273167ea53d2c9906d0907ef994",
-    "uri": "spotify:track:2WpRJJJzf2WM6IP0zr5aaB"
+    "album": "Glokk Files",
+    "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+    "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy"
   },
-  "played_at": "2026-10-19T12:45:02.568Z"
+  "played_at": "2026-10-19T23:23:02.552Z"
 }
