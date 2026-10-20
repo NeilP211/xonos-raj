@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:09:07.313Z",
+  "generated_at": "2026-10-20T14:01:06.167Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -33,6 +33,19 @@
         },
         {
           "rank": 3,
+          "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+          "artists": [
+            "BabyTron",
+            "DJ Ess"
+          ],
+          "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+          "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+          "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO",
+          "duration_ms": 122012
+        },
+        {
+          "rank": 4,
           "name": "Answer My Prayers",
           "artists": [
             "Lil Tony Official"
@@ -44,7 +57,7 @@
           "duration_ms": 117736
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Ski",
           "artists": [
             "Young Stoner Life",
@@ -58,7 +71,7 @@
           "duration_ms": 152333
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -71,19 +84,6 @@
           "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
           "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB",
           "duration_ms": 134400
-        },
-        {
-          "rank": 6,
-          "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
-          "artists": [
-            "BabyTron",
-            "DJ Ess"
-          ],
-          "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
-          "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
-          "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO",
-          "duration_ms": 122012
         },
         {
           "rank": 7,
@@ -198,16 +198,16 @@
         },
         {
           "rank": 16,
-          "name": "Hoe Shit",
+          "name": "Kung Fu Panda",
           "artists": [
-            "Shoreline Mafia",
-            "Fenix Flexin"
+            "Young Yayo",
+            "We$"
           ],
-          "album": "Mafia Bidness",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
-          "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
-          "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
-          "duration_ms": 168000
+          "album": "Kung Fu Panda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
+          "duration_ms": 111699
         },
         {
           "rank": 17,
@@ -225,16 +225,16 @@
         },
         {
           "rank": 18,
-          "name": "Kung Fu Panda",
+          "name": "Hoe Shit",
           "artists": [
-            "Young Yayo",
-            "We$"
+            "Shoreline Mafia",
+            "Fenix Flexin"
           ],
-          "album": "Kung Fu Panda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
-          "duration_ms": 111699
+          "album": "Mafia Bidness",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+          "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+          "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
+          "duration_ms": 168000
         },
         {
           "rank": 19,
@@ -674,7 +674,7 @@
         {
           "rank": 6,
           "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3d2fd19e0e7a909ab141ceab",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
@@ -769,14 +769,6 @@
         },
         {
           "rank": 18,
-          "name": "Stevie Ray Vaughan",
-          "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
-          "genres": [],
-          "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        },
-        {
-          "rank": 19,
           "name": "Crowbar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7431d2e18a5ebbb758f3ee7b",
           "genres": [],
@@ -784,7 +776,7 @@
           "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
           "genres": [],
@@ -792,7 +784,7 @@
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
           "genres": [],
@@ -800,7 +792,7 @@
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -808,7 +800,7 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -816,7 +808,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -824,12 +816,20 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
           "uri": "spotify:artist:2cnMpRsOVqtPMfq7YiFE6K",
           "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        },
+        {
+          "rank": 25,
+          "name": "Stevie Ray Vaughan",
+          "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
+          "genres": [],
+          "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         },
         {
           "rank": 26,
@@ -923,6 +923,21 @@
         },
         {
           "rank": 7,
+          "name": "40 - Dj Ess Mix",
+          "artists": [
+            "evilgiane",
+            "xaviersobased",
+            "Nettspend",
+            "DJ Ess"
+          ],
+          "album": "40 (Dj Ess Mix)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
+          "duration_ms": 81658
+        },
+        {
+          "rank": 8,
           "name": "ZEZE (feat. Travis Scott & Offset)",
           "artists": [
             "Kodak Black",
@@ -936,7 +951,7 @@
           "duration_ms": 228759
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -946,21 +961,6 @@
           "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
           "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
           "duration_ms": 183685
-        },
-        {
-          "rank": 9,
-          "name": "40 - Dj Ess Mix",
-          "artists": [
-            "evilgiane",
-            "xaviersobased",
-            "Nettspend",
-            "DJ Ess"
-          ],
-          "album": "40 (Dj Ess Mix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
-          "duration_ms": 81658
         },
         {
           "rank": 10,
@@ -1169,6 +1169,30 @@
         },
         {
           "rank": 26,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
+        },
+        {
+          "rank": 27,
+          "name": "Wokeup",
+          "artists": [
+            "Kankan"
+          ],
+          "album": "Wokeup",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
+          "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
+          "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
+          "duration_ms": 115347
+        },
+        {
+          "rank": 28,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -1181,7 +1205,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "OUT WEST (feat. Young Thug)",
           "artists": [
             "JACKBOYS",
@@ -1193,30 +1217,6 @@
           "uri": "spotify:track:6gi6y1xwmVszDWkUqab1qw",
           "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw",
           "duration_ms": 157712
-        },
-        {
-          "rank": 28,
-          "name": "Can't Tell Me Nothing",
-          "artists": [
-            "Kanye West"
-          ],
-          "album": "Graduation",
-          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-          "duration_ms": 271600
-        },
-        {
-          "rank": 29,
-          "name": "Wokeup",
-          "artists": [
-            "Kankan"
-          ],
-          "album": "Wokeup",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
-          "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
-          "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
-          "duration_ms": 115347
         },
         {
           "rank": 30,
@@ -1405,6 +1405,19 @@
         },
         {
           "rank": 45,
+          "name": "Kung Fu Panda",
+          "artists": [
+            "Young Yayo",
+            "We$"
+          ],
+          "album": "Kung Fu Panda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
+          "duration_ms": 111699
+        },
+        {
+          "rank": 46,
           "name": "ball hard",
           "artists": [
             "ksuuvi"
@@ -1416,7 +1429,7 @@
           "duration_ms": 160731
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Nun Major",
           "artists": [
             "Shoreline Mafia"
@@ -1428,7 +1441,7 @@
           "duration_ms": 151836
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Dark Thoughts",
           "artists": [
             "Lil Tecca"
@@ -1438,19 +1451,6 @@
           "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
           "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
           "duration_ms": 136991
-        },
-        {
-          "rank": 48,
-          "name": "Kung Fu Panda",
-          "artists": [
-            "Young Yayo",
-            "We$"
-          ],
-          "album": "Kung Fu Panda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
-          "duration_ms": 111699
         },
         {
           "rank": 49,
@@ -1538,7 +1538,7 @@
         {
           "rank": 8,
           "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3d2fd19e0e7a909ab141ceab",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
@@ -2601,7 +2601,7 @@
         {
           "rank": 10,
           "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3d2fd19e0e7a909ab141ceab",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
           "genres": [],
           "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
