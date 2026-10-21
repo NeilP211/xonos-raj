@@ -1,129 +1,6 @@
 {
-  "updated_at": "2026-10-21T14:16:42.426Z",
+  "updated_at": "2026-10-21T19:03:37.366Z",
   "plays": [
-    {
-      "played_at": "2026-08-01T21:06:21.623Z",
-      "name": "Springsteen",
-      "artists": [
-        "Eric Church"
-      ],
-      "album": "Chief",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
-      "duration_ms": 263386
-    },
-    {
-      "played_at": "2026-08-01T21:09:39.335Z",
-      "name": "Up Down (feat. Florida Georgia Line)",
-      "artists": [
-        "Morgan Wallen",
-        "Florida Georgia Line"
-      ],
-      "album": "If I Know Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
-      "uri": "spotify:track:2RfYofkWwN77WJjR1rpena",
-      "duration_ms": 197253
-    },
-    {
-      "played_at": "2026-08-01T21:12:41.405Z",
-      "name": "Cowgirls",
-      "artists": [
-        "Morgan Wallen",
-        "ERNEST"
-      ],
-      "album": "One Thing At A Time",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c37a94d92b0a874ba2419ed7",
-      "uri": "spotify:track:4mtmmBBEgdJLYWnLy5zvWE",
-      "duration_ms": 181621
-    },
-    {
-      "played_at": "2026-08-01T21:14:51.648Z",
-      "name": "Whiskey Glasses",
-      "artists": [
-        "Morgan Wallen"
-      ],
-      "album": "If I Know Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
-      "uri": "spotify:track:57TEkZN3f84tFJFHFrD4pO",
-      "duration_ms": 234346
-    },
-    {
-      "played_at": "2026-08-01T23:11:57.990Z",
-      "name": "Whiskey Glasses",
-      "artists": [
-        "Morgan Wallen"
-      ],
-      "album": "If I Know Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
-      "uri": "spotify:track:57TEkZN3f84tFJFHFrD4pO",
-      "duration_ms": 234346
-    },
-    {
-      "played_at": "2026-08-01T23:27:06.002Z",
-      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
-      "artists": [
-        "The Adventures Of Stevie V"
-      ],
-      "album": "Dirty Cash (Money Talks)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
-      "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
-      "duration_ms": 243133
-    },
-    {
-      "played_at": "2026-08-01T23:33:15.900Z",
-      "name": "NUEVAYoL",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-      "duration_ms": 183685
-    },
-    {
-      "played_at": "2026-08-01T23:35:52.270Z",
-      "name": "VOY A LLeVARTE PA PR",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-      "duration_ms": 156364
-    },
-    {
-      "played_at": "2026-08-01T23:44:45.934Z",
-      "name": "BAILE INoLVIDABLE",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
-      "duration_ms": 367725
-    },
-    {
-      "played_at": "2026-08-02T01:15:26.004Z",
-      "name": "Dreams",
-      "artists": [
-        "Van Halen"
-      ],
-      "album": "5150",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57",
-      "uri": "spotify:track:2APxH5XbOLDTmW9X5yi6Hw",
-      "duration_ms": 294000
-    },
-    {
-      "played_at": "2026-08-02T01:17:01.666Z",
-      "name": "put math in da cup",
-      "artists": [
-        "Robin Gan"
-      ],
-      "album": "put math in da cup",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e13569ad3ba87aef2675f469",
-      "uri": "spotify:track:4D9cs5BPL9PSFIa22d3yWq",
-      "duration_ms": 41201
-    },
     {
       "played_at": "2026-08-02T01:19:35.154Z",
       "name": "too deep",
@@ -22929,6 +22806,134 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
       "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
       "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-21T14:22:34.253Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-10-21T14:52:43.597Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-21T14:58:00.944Z",
+      "name": "Definition",
+      "artists": [
+        "2wo2imes",
+        "Glokk40Spaz"
+      ],
+      "album": "Glokk Files",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+      "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
+      "duration_ms": 162560
+    },
+    {
+      "played_at": "2026-10-21T14:59:39.928Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-21T15:02:01.223Z",
+      "name": "Lose It",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:5ZY2fIqxuKDr5pdz0ucpRz",
+      "duration_ms": 140811
+    },
+    {
+      "played_at": "2026-10-21T15:27:07.636Z",
+      "name": "Springsteen",
+      "artists": [
+        "Eric Church"
+      ],
+      "album": "Chief",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+      "duration_ms": 263386
+    },
+    {
+      "played_at": "2026-10-21T16:54:28.471Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-21T18:16:38.534Z",
+      "name": "Whuss the Deal",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
+      "duration_ms": 195636
+    },
+    {
+      "played_at": "2026-10-21T18:20:29.691Z",
+      "name": "40 - Dj Ess Mix",
+      "artists": [
+        "evilgiane",
+        "xaviersobased",
+        "Nettspend",
+        "DJ Ess"
+      ],
+      "album": "40 (Dj Ess Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-10-21T18:23:47.876Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-10-21T18:25:52.912Z",
+      "name": "Hardcore",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
+      "duration_ms": 124567
     }
   ]
 }
