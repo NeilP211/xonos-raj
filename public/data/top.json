@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:50:24.038Z",
+  "generated_at": "2026-10-21T08:10:54.104Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1020,6 +1020,18 @@
         },
         {
           "rank": 14,
+          "name": "OLYMPIAN",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
+          "duration_ms": 174733
+        },
+        {
+          "rank": 15,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -1032,18 +1044,6 @@
           "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
           "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB",
           "duration_ms": 134400
-        },
-        {
-          "rank": 15,
-          "name": "OLYMPIAN",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
-          "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
-          "duration_ms": 174733
         },
         {
           "rank": 16,
@@ -1248,18 +1248,6 @@
         },
         {
           "rank": 32,
-          "name": "Loving Machine",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
-          "duration_ms": 227000
-        },
-        {
-          "rank": 33,
           "name": "HEAT STICK",
           "artists": [
             "Shoreline Mafia",
@@ -1271,6 +1259,18 @@
           "uri": "spotify:track:0HGItm7Ox9AnHZbx26nkE4",
           "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4",
           "duration_ms": 137142
+        },
+        {
+          "rank": 33,
+          "name": "Loving Machine",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
         },
         {
           "rank": 34,
@@ -1397,6 +1397,18 @@
         },
         {
           "rank": 44,
+          "name": "The Grinch",
+          "artists": [
+            "Trippie Redd"
+          ],
+          "album": "A Love Letter To You 4",
+          "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
+          "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
+          "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ",
+          "duration_ms": 91288
+        },
+        {
+          "rank": 45,
           "name": "Kung Fu Panda",
           "artists": [
             "Young Yayo",
@@ -1409,7 +1421,7 @@
           "duration_ms": 111699
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -1419,18 +1431,6 @@
           "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
           "url": "https://open.spotify.com/track/2OXn0rzeFW9h2BUViGlW3A",
           "duration_ms": 422613
-        },
-        {
-          "rank": 46,
-          "name": "The Grinch",
-          "artists": [
-            "Trippie Redd"
-          ],
-          "album": "A Love Letter To You 4",
-          "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
-          "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
-          "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ",
-          "duration_ms": 91288
         },
         {
           "rank": 47,
@@ -1458,6 +1458,18 @@
         },
         {
           "rank": 49,
+          "name": "Dark Thoughts",
+          "artists": [
+            "Lil Tecca"
+          ],
+          "album": "DOPAMINE",
+          "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+          "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
+          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
+          "duration_ms": 136991
+        },
+        {
+          "rank": 50,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -1468,18 +1480,6 @@
           "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
           "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
           "duration_ms": 168000
-        },
-        {
-          "rank": 50,
-          "name": "Dark Thoughts",
-          "artists": [
-            "Lil Tecca"
-          ],
-          "album": "DOPAMINE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-          "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
-          "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N",
-          "duration_ms": 136991
         }
       ],
       "artists": [
@@ -1557,19 +1557,19 @@
         },
         {
           "rank": 10,
-          "name": "Trippie Redd",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbb2dd30a6c15bdeeb131e525",
-          "genres": [],
-          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "rank": 11,
           "name": "Yeat",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
           "genres": [],
           "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx",
           "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "rank": 11,
+          "name": "Trippie Redd",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbb2dd30a6c15bdeeb131e525",
+          "genres": [],
+          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
           "rank": 12,
