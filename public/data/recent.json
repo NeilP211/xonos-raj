@@ -1,197 +1,6 @@
 {
-  "updated_at": "2026-10-21T19:03:37.366Z",
+  "updated_at": "2026-10-21T23:51:37.297Z",
   "plays": [
-    {
-      "played_at": "2026-08-02T01:19:35.154Z",
-      "name": "too deep",
-      "artists": [
-        "Robin Gan"
-      ],
-      "album": "too deep",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f087350b523744bad75c0335",
-      "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h",
-      "duration_ms": 67745
-    },
-    {
-      "played_at": "2026-08-02T01:20:00.016Z",
-      "name": "too deep",
-      "artists": [
-        "Robin Gan"
-      ],
-      "album": "too deep",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f087350b523744bad75c0335",
-      "uri": "spotify:track:3TtDP2uIv6TZaHFviD7s0h",
-      "duration_ms": 67745
-    },
-    {
-      "played_at": "2026-08-02T01:24:32.729Z",
-      "name": "God Church",
-      "artists": [
-        "Ricegum"
-      ],
-      "album": "God Church",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731234d152f38c6d60aa04a21d",
-      "uri": "spotify:track:6vSCM2SU46QPusXLiy0kjz",
-      "duration_ms": 150622
-    },
-    {
-      "played_at": "2026-08-02T01:35:48.749Z",
-      "name": "California Dreamin' - Single Version",
-      "artists": [
-        "The Mamas & The Papas"
-      ],
-      "album": "If You Can Believe Your Eyes & Ears",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
-      "uri": "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ",
-      "duration_ms": 162373
-    },
-    {
-      "played_at": "2026-08-02T02:03:11.340Z",
-      "name": "Tornado Of Souls - 2004 Remix",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
-      "duration_ms": 319266
-    },
-    {
-      "played_at": "2026-08-02T03:30:58.162Z",
-      "name": "Tornado Of Souls - 2004 Remix",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
-      "duration_ms": 319266
-    },
-    {
-      "played_at": "2026-08-02T03:42:00.989Z",
-      "name": "Killing In The Name",
-      "artists": [
-        "Rage Against The Machine"
-      ],
-      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece",
-      "uri": "spotify:track:59WN2psjkt1tyaxjspN8fp",
-      "duration_ms": 313573
-    },
-    {
-      "played_at": "2026-08-02T03:47:45.377Z",
-      "name": "Broken Wings",
-      "artists": [
-        "Mr. Mister"
-      ],
-      "album": "Welcome To The Real World",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cfccabf39d00d34235d5bcd6",
-      "uri": "spotify:track:78FHUZRbFDCG6VkRAQdFLm",
-      "duration_ms": 343933
-    },
-    {
-      "played_at": "2026-08-02T03:59:31.188Z",
-      "name": "You Really Got Me - 2015 Remaster",
-      "artists": [
-        "Van Halen"
-      ],
-      "album": "Van Halen (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
-      "uri": "spotify:track:0upLyFR8Rr52ZpMp5esQoq",
-      "duration_ms": 156146
-    },
-    {
-      "played_at": "2026-08-02T04:03:09.829Z",
-      "name": "Plateau - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:2smax1OWAxOo63p14G8KZx",
-      "duration_ms": 218133
-    },
-    {
-      "played_at": "2026-08-02T04:04:10.227Z",
-      "name": "Comatose",
-      "artists": [
-        "quannnic"
-      ],
-      "album": "Stepdream",
-      "image": "https://i.scdn.co/image/ab67616d0000b27310de399e9c02ae7a4a61f9e9",
-      "uri": "spotify:track:0u0SIh7y7UopLQMFUvEhvp",
-      "duration_ms": 228916
-    },
-    {
-      "played_at": "2026-08-02T04:34:25.839Z",
-      "name": "Upside Down",
-      "artists": [
-        "Jack Johnson"
-      ],
-      "album": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
-      "uri": "spotify:track:6shRGWCtBUOPFLFTTqXZIC",
-      "duration_ms": 208653
-    },
-    {
-      "played_at": "2026-08-02T05:09:30.898Z",
-      "name": "Black Hole Sun",
-      "artists": [
-        "Soundgarden"
-      ],
-      "album": "Superunknown (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
-      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
-      "duration_ms": 318586
-    },
-    {
-      "played_at": "2026-08-02T05:18:43.871Z",
-      "name": "Recover Artist",
-      "artists": [
-        "devLfg"
-      ],
-      "album": "Recover Artist",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a2c245bb79432df0f130fc4",
-      "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
-      "duration_ms": 127477
-    },
-    {
-      "played_at": "2026-08-02T05:21:38.656Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-08-02T05:31:39.894Z",
-      "name": "Loving Machine",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-      "duration_ms": 227000
-    },
-    {
-      "played_at": "2026-08-02T05:38:42.950Z",
-      "name": "Moonlight on the River",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "This Old Dog",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
-      "duration_ms": 422613
-    },
     {
       "played_at": "2026-08-02T05:41:36.525Z",
       "name": "No Other Heart",
@@ -22934,6 +22743,198 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
       "uri": "spotify:track:39xDX63yonTblgoHdTKLtI",
       "duration_ms": 124567
+    },
+    {
+      "played_at": "2026-10-21T22:56:57.868Z",
+      "name": "Knights Corpse - Slowed Down",
+      "artists": [
+        "Milord",
+        "juno"
+      ],
+      "album": "Knights Corpse (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d7609f6f6a0cd11d2687e86",
+      "uri": "spotify:track:6QPF3UnuFU7mm9hBeRpZDa",
+      "duration_ms": 226127
+    },
+    {
+      "played_at": "2026-10-21T22:59:24.043Z",
+      "name": "Moosy - viral",
+      "artists": [
+        "ilyhiryu"
+      ],
+      "album": "Moosy (viral)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
+      "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
+      "duration_ms": 140197
+    },
+    {
+      "played_at": "2026-10-21T23:03:06.526Z",
+      "name": "Solitude - Felsmann + Tiley Reinterpretation",
+      "artists": [
+        "M83",
+        "Felsmann + Tiley"
+      ],
+      "album": "Solitude (Felsmann + Tiley Reinterpretation)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e399d960a253b2740b549151",
+      "uri": "spotify:track:5SOA0gaKMMp9cgwn3nuwk7",
+      "duration_ms": 222354
+    },
+    {
+      "played_at": "2026-10-21T23:05:34.608Z",
+      "name": "SPIT IN MY FACE!",
+      "artists": [
+        "ThxSoMch"
+      ],
+      "album": "SPIT IN MY FACE!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
+      "uri": "spotify:track:1N8TTK1Uoy7UvQNUazfUt5",
+      "duration_ms": 147874
+    },
+    {
+      "played_at": "2026-10-21T23:08:32.770Z",
+      "name": "wutiwant - SLOWD",
+      "artists": [
+        "saraunh0ly"
+      ],
+      "album": "wutuwant",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398f96551e4c468d48f48f3e3",
+      "uri": "spotify:track:6bxukxNnfPyph0sqhnGhpW",
+      "duration_ms": 106173
+    },
+    {
+      "played_at": "2026-10-21T23:12:49.111Z",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "duration_ms": 242960
+    },
+    {
+      "played_at": "2026-10-21T23:16:19.871Z",
+      "name": "The Perfect Girl",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "The Perfect Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d54a30e59638f60f56dd4e6",
+      "uri": "spotify:track:5RBOcBpJXaNnHCGViJmYhh",
+      "duration_ms": 194423
+    },
+    {
+      "played_at": "2026-10-21T23:19:58.543Z",
+      "name": "Under Your Spell",
+      "artists": [
+        "Snow Strippers"
+      ],
+      "album": "April Mixtape 3",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317dbd78819c31da3641cb8ca",
+      "uri": "spotify:track:5q0N5SaFhROG9UQiPukv9p",
+      "duration_ms": 218500
+    },
+    {
+      "played_at": "2026-10-21T23:26:08.924Z",
+      "name": "Untrust Us",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
+      "duration_ms": 186373
+    },
+    {
+      "played_at": "2026-10-21T23:28:14.468Z",
+      "name": "Freak Show",
+      "artists": [
+        "Punkinloveee",
+        "h3artcrush"
+      ],
+      "album": "Freak Show",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731260df83530414843056418e",
+      "uri": "spotify:track:03KRZpV8xqp0tjxB7EsuBe",
+      "duration_ms": 125387
+    },
+    {
+      "played_at": "2026-10-21T23:30:44.476Z",
+      "name": "tell me that u love me (slowed)",
+      "artists": [
+        "SUICIDAL-IDOL",
+        "Pröz"
+      ],
+      "album": "tell me that u love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a2bd24668b62e72dfedd22c",
+      "uri": "spotify:track:7GNNYTmPPeGP1xzUdkve7T",
+      "duration_ms": 149860
+    },
+    {
+      "played_at": "2026-10-21T23:33:24.553Z",
+      "name": "ecstacy - super slowed",
+      "artists": [
+        "SUICIDAL-IDOL"
+      ],
+      "album": "ecstacy (super slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345b423aa287b0483e9468666",
+      "uri": "spotify:track:4piafr7YSZHYgPvH4n4NeE",
+      "duration_ms": 136348
+    },
+    {
+      "played_at": "2026-10-21T23:35:56.152Z",
+      "name": "did i tell u that i miss u - slowed",
+      "artists": [
+        "adore"
+      ],
+      "album": "did i tell u that i miss u",
+      "image": "https://i.scdn.co/image/ab67616d0000b27337b9c1d008fe46d755cbcd3c",
+      "uri": "spotify:track:5A619AfuoWdjHA2QFijXjv",
+      "duration_ms": 137854
+    },
+    {
+      "played_at": "2026-10-21T23:38:28.446Z",
+      "name": "lilacs - slowed",
+      "artists": [
+        "azrxel",
+        "abxddon"
+      ],
+      "album": "lilacs - slowed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
+      "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
+      "duration_ms": 70866
+    },
+    {
+      "played_at": "2026-10-21T23:40:06.090Z",
+      "name": "Roi - Instrumental Slowed",
+      "artists": [
+        "Mckyyy"
+      ],
+      "album": "Roi",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f178ef6a0e6c23f6330bd982",
+      "uri": "spotify:track:5vCREmODQpdzOmcNOVsN6B",
+      "duration_ms": 92589
+    },
+    {
+      "played_at": "2026-10-21T23:47:10.672Z",
+      "name": "Gallowdance",
+      "artists": [
+        "Lebanon Hanover"
+      ],
+      "album": "Tomb for Two",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
+      "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo",
+      "duration_ms": 231911
+    },
+    {
+      "played_at": "2026-10-21T23:51:08.121Z",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "duration_ms": 242960
     }
   ]
 }

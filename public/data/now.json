@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-21T19:03:37.472Z",
-  "is_playing": false,
+  "updated_at": "2026-10-21T23:51:37.520Z",
+  "is_playing": true,
   "track": {
-    "name": "Hardcore",
+    "name": "Electronic Heart - Slowed",
     "artists": [
-      "Ken Carson"
+      "NIVEK FFORHS"
     ],
-    "album": "A Great Chaos",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-    "uri": "spotify:track:39xDX63yonTblgoHdTKLtI"
+    "album": "Electronic Heart",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738b88064619ea563252230702",
+    "uri": "spotify:track:1RJY9Sgj963s3nQfF3VuR3"
   },
-  "played_at": "2026-10-21T18:25:52.912Z"
+  "played_at": "2026-10-21T23:51:37.520Z"
 }
