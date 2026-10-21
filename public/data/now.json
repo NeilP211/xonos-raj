@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-21T08:10:54.377Z",
+  "updated_at": "2026-10-21T14:16:42.533Z",
   "is_playing": false,
   "track": {
-    "name": "OLYMPIAN",
+    "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
     "artists": [
-      "Playboi Carti"
+      "BabyTron",
+      "DJ Ess"
     ],
-    "album": "MUSIC",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-    "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM"
+    "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+    "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO"
   },
-  "played_at": "2026-10-20T22:28:46.373Z"
+  "played_at": "2026-10-21T12:55:32.688Z"
 }
