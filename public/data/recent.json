@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-10-22T08:12:06.799Z",
+  "updated_at": "2026-10-22T14:16:28.895Z",
   "plays": [
-    {
-      "played_at": "2026-08-03T13:55:19.706Z",
-      "name": "NUEVAYoL",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-      "duration_ms": 183685
-    },
-    {
-      "played_at": "2026-08-03T13:59:44.524Z",
-      "name": "VOY A LLeVARTE PA PR",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-      "duration_ms": 156364
-    },
-    {
-      "played_at": "2026-08-03T14:14:45.759Z",
-      "name": "Tornado Of Souls - 2004 Remix",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
-      "duration_ms": 319266
-    },
-    {
-      "played_at": "2026-08-03T14:17:26.308Z",
-      "name": "Special",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "Keep it goin xav",
-      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-      "duration_ms": 104650
-    },
-    {
-      "played_at": "2026-08-03T14:19:16.106Z",
-      "name": "GoOd Night",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "GoOd Night",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730ee05bbf9dd8e88a141be598",
-      "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
-      "duration_ms": 109244
-    },
     {
       "played_at": "2026-08-03T14:20:19.954Z",
       "name": "Massive X Touch Me",
@@ -22931,6 +22876,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
       "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
       "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-10-22T10:58:42.742Z",
+      "name": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "America",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "uri": "spotify:track:54eZmuggBFJbV7k248bTTt",
+      "duration_ms": 252239
+    },
+    {
+      "played_at": "2026-10-22T11:00:32.435Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-22T11:04:09.698Z",
+      "name": "Banana Pancakes",
+      "artists": [
+        "Jack Johnson"
+      ],
+      "album": "In Between Dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
+      "uri": "spotify:track:451GvHwY99NKV4zdKPRWmv",
+      "duration_ms": 191906
+    },
+    {
+      "played_at": "2026-10-22T11:07:40.684Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-10-22T11:19:59.820Z",
+      "name": "Moonlight on the River",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+      "duration_ms": 422613
     }
   ]
 }

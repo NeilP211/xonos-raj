@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-10-22T08:12:06.903Z",
+  "updated_at": "2026-10-22T14:16:29.005Z",
   "is_playing": false,
   "track": {
-    "name": "Ski",
+    "name": "Moonlight on the River",
     "artists": [
-      "Young Stoner Life",
-      "Young Thug",
-      "Gunna"
+      "Mac DeMarco"
     ],
-    "album": "Slime Language 2",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
-    "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1"
+    "album": "This Old Dog",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+    "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A"
   },
-  "played_at": "2026-10-22T04:55:08.432Z"
+  "played_at": "2026-10-22T11:19:59.820Z"
 }
