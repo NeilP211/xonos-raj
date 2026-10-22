@@ -1,191 +1,6 @@
 {
-  "updated_at": "2026-10-21T23:51:37.297Z",
+  "updated_at": "2026-10-22T02:56:23.166Z",
   "plays": [
-    {
-      "played_at": "2026-08-02T05:41:36.525Z",
-      "name": "No Other Heart",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "Another One",
-      "image": "https://i.scdn.co/image/ab67616d0000b27363bb237154c47c65da7f63c2",
-      "uri": "spotify:track:3J31Ng3dKKJ6sEHDtV9hSp",
-      "duration_ms": 173117
-    },
-    {
-      "played_at": "2026-08-02T05:45:56.248Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-08-02T05:49:22.866Z",
-      "name": "Oh Me - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
-      "duration_ms": 206160
-    },
-    {
-      "played_at": "2026-08-02T05:56:21.777Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-08-02T06:02:28.219Z",
-      "name": "Blue Hair",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Death of a Party Girl",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
-      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
-      "duration_ms": 217000
-    },
-    {
-      "played_at": "2026-08-02T06:06:40.104Z",
-      "name": "Everything In Its Right Place",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "Kid A",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-      "duration_ms": 251426
-    },
-    {
-      "played_at": "2026-08-02T06:08:49.990Z",
-      "name": "Wet Hands",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:1MLZMrjfwiT5ll5vjIwwU7",
-      "duration_ms": 90000
-    },
-    {
-      "played_at": "2026-08-02T06:17:09.894Z",
-      "name": "Sweden",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:716HpbfSkMkU7TwQsJlhHT",
-      "duration_ms": 215500
-    },
-    {
-      "played_at": "2026-08-02T06:18:15.478Z",
-      "name": "Oxygène",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:4VMe8UCKlLRr5jW5KQ4jlb",
-      "duration_ms": 65125
-    },
-    {
-      "played_at": "2026-08-02T06:21:22.242Z",
-      "name": "Cat",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:6jKBCAD6bistV2SrVUmKfW",
-      "duration_ms": 186250
-    },
-    {
-      "played_at": "2026-08-02T06:24:34.689Z",
-      "name": "Far",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "uri": "spotify:track:0xpq6tciSb9xZJaQ4eyjEY",
-      "duration_ms": 192000
-    },
-    {
-      "played_at": "2026-08-02T15:48:10.129Z",
-      "name": "Dead Voxel",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "uri": "spotify:track:6k3wFN8K4oooRBqfHaA9k0",
-      "duration_ms": 296000
-    },
-    {
-      "played_at": "2026-08-03T02:39:56.745Z",
-      "name": "luck",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "Someone Help",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339ab031d41bfbce5fe0199fa",
-      "uri": "spotify:track:7JheuVZpxyiwuFMqHvLA1K",
-      "duration_ms": 36048
-    },
-    {
-      "played_at": "2026-08-03T13:43:08.171Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-08-03T13:45:49.703Z",
-      "name": "Back In Bidness",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Back In Bidness",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
-      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
-      "duration_ms": 137142
-    },
-    {
-      "played_at": "2026-08-03T13:48:12.312Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
     {
       "played_at": "2026-08-03T13:51:26.747Z",
       "name": "Armed And Dangerous",
@@ -22935,6 +22750,185 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
       "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
       "duration_ms": 242960
+    },
+    {
+      "played_at": "2026-10-21T23:55:04.138Z",
+      "name": "Electronic Heart - Slowed",
+      "artists": [
+        "NIVEK FFORHS"
+      ],
+      "album": "Electronic Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738e463b32447aa4247dc26b9e",
+      "uri": "spotify:track:2zRYa0BjvpZx0KVDg8JV4e",
+      "duration_ms": 235839
+    },
+    {
+      "played_at": "2026-10-21T23:58:47.758Z",
+      "name": "Summertime",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "Predestiny",
+      "image": "https://i.scdn.co/image/ab67616d0000b273794624c277052d068bf311d8",
+      "uri": "spotify:track:109rpPw9mmFN1KhQ38zyt0",
+      "duration_ms": 217651
+    },
+    {
+      "played_at": "2026-10-22T00:02:12.072Z",
+      "name": "Embrace",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:1wszdDUhlil6EH3SRkmTZL",
+      "duration_ms": 204124
+    },
+    {
+      "played_at": "2026-10-22T00:22:21.740Z",
+      "name": "The Lost Soul Down X Lost Soul",
+      "artists": [
+        "NBSPLV"
+      ],
+      "album": "The Lost Soul Down X Lost Soul",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e150c941941594a25bec73f",
+      "uri": "spotify:track:0kbBU3ey5IkKwPvDHXJOry",
+      "duration_ms": 151348
+    },
+    {
+      "played_at": "2026-10-22T00:25:41.232Z",
+      "name": "Lovers From The Past",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "Lovers From The Past",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fcccf691e05e86753bb954a9",
+      "uri": "spotify:track:69cGlmgNyMf2K6AvmLBuRD",
+      "duration_ms": 199280
+    },
+    {
+      "played_at": "2026-10-22T00:28:46.120Z",
+      "name": "Transgender",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "(III)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38",
+      "uri": "spotify:track:26ZzSLUJMmYp5u1hDELEWH",
+      "duration_ms": 184760
+    },
+    {
+      "played_at": "2026-10-22T00:32:20.331Z",
+      "name": "Society",
+      "artists": [
+        "pathetic240px"
+      ],
+      "album": "Society",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bf9bbc5686fd4fdd8197b717",
+      "uri": "spotify:track:6GuuO0nxVXoSqfzWPbztbz",
+      "duration_ms": 214062
+    },
+    {
+      "played_at": "2026-10-22T00:37:38.653Z",
+      "name": "Resonance - Slowed & Reverb",
+      "artists": [
+        "noturgf"
+      ],
+      "album": "Resonance (Slowed & Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a16abf0dad97fd3f1ef06ebc",
+      "uri": "spotify:track:72qSU1mTkBpwokctNf6KNv",
+      "duration_ms": 318169
+    },
+    {
+      "played_at": "2026-10-22T00:41:35.092Z",
+      "name": "Memory Reboot - Slowed",
+      "artists": [
+        "VØJ",
+        "Narvent"
+      ],
+      "album": "Memory Reboot (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730111ad831b18789e535c2052",
+      "uri": "spotify:track:4WG3mAQIGHQJalK922wAiG",
+      "duration_ms": 236307
+    },
+    {
+      "played_at": "2026-10-22T00:47:48.545Z",
+      "name": "In This Shirt",
+      "artists": [
+        "The Irrepressibles"
+      ],
+      "album": "Mirror Mirror",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da004e530a74febd9d3ad1e2",
+      "uri": "spotify:track:14QX1ckbDIhqetvu5VZ3cP",
+      "duration_ms": 335146
+    },
+    {
+      "played_at": "2026-10-22T00:51:15.891Z",
+      "name": "Goth",
+      "artists": [
+        "Sidewalks and Skeletons"
+      ],
+      "album": "White Light",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938",
+      "uri": "spotify:track:0uMZbmAAgOhdMrv25iPEH6",
+      "duration_ms": 207120
+    },
+    {
+      "played_at": "2026-10-22T01:00:02.584Z",
+      "name": "Shadows",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:3vtFowc9zcQfvqsLAZ9Cx2",
+      "duration_ms": 208624
+    },
+    {
+      "played_at": "2026-10-22T01:02:43.776Z",
+      "name": "Simpsonwave (You look lonely)",
+      "artists": [
+        "mikeeysmind",
+        "FrankJavCee"
+      ],
+      "album": "Simpsonwave (You look lonely)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eeb8fa00972360781e4f560e",
+      "uri": "spotify:track:2d0SxnpTA41RY98jfXZTd8",
+      "duration_ms": 160960
+    },
+    {
+      "played_at": "2026-10-22T01:06:25.909Z",
+      "name": "Dark Beach",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Abyss",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+      "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr",
+      "duration_ms": 222000
+    },
+    {
+      "played_at": "2026-10-22T01:13:05.698Z",
+      "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
+      "artists": [
+        "Marc Acardipane",
+        "Dayerteq"
+      ],
+      "album": "Return to Zero Beztebya (Mixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5fb5e2c271ea627c962a8b4",
+      "uri": "spotify:track:1XmrkcwlWxEHR0g7rHNtEG",
+      "duration_ms": 163200
+    },
+    {
+      "played_at": "2026-10-22T02:34:49.931Z",
+      "name": "Brian is the Most Beautiful",
+      "artists": [
+        "Memo Boy"
+      ],
+      "album": "Songs & Demos 2015-2017",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+      "uri": "spotify:track:3lhLML5eIwmPnw2xWKosZX",
+      "duration_ms": 225000
     }
   ]
 }
