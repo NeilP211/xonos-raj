@@ -1,128 +1,6 @@
 {
-  "updated_at": "2026-10-22T14:16:28.895Z",
+  "updated_at": "2026-10-22T18:59:42.342Z",
   "plays": [
-    {
-      "played_at": "2026-08-03T14:20:19.954Z",
-      "name": "Massive X Touch Me",
-      "artists": [
-        "NovaX",
-        "Sevven"
-      ],
-      "album": "Massive X Touch Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-      "duration_ms": 174160
-    },
-    {
-      "played_at": "2026-08-03T14:39:19.755Z",
-      "name": "Dreams - 2004 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Rumours (Super Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-      "uri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz",
-      "duration_ms": 257800
-    },
-    {
-      "played_at": "2026-08-03T14:43:00.834Z",
-      "name": "Hungry Like the Wolf - 2009 Remaster",
-      "artists": [
-        "Duran Duran"
-      ],
-      "album": "Rio (Collector's Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556",
-      "uri": "spotify:track:39lSeqnyjZJejRuaREfyLL",
-      "duration_ms": 220626
-    },
-    {
-      "played_at": "2026-08-03T14:47:49.844Z",
-      "name": "Black Hole Sun",
-      "artists": [
-        "Soundgarden"
-      ],
-      "album": "Superunknown (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
-      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
-      "duration_ms": 318586
-    },
-    {
-      "played_at": "2026-08-03T15:11:40.273Z",
-      "name": "NUEVAYoL",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-      "duration_ms": 183685
-    },
-    {
-      "played_at": "2026-08-03T23:41:03.043Z",
-      "name": "Gallowdance",
-      "artists": [
-        "Lebanon Hanover"
-      ],
-      "album": "Tomb for Two",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
-      "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo",
-      "duration_ms": 231911
-    },
-    {
-      "played_at": "2026-08-03T23:44:55.414Z",
-      "name": "Gallowdance",
-      "artists": [
-        "Lebanon Hanover"
-      ],
-      "album": "Tomb for Two",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
-      "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo",
-      "duration_ms": 231911
-    },
-    {
-      "played_at": "2026-08-04T00:17:36.292Z",
-      "name": "Moog City",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:3wmvHdag2I7BpHCtWoiV9w",
-      "duration_ms": 160000
-    },
-    {
-      "played_at": "2026-08-04T00:31:35.068Z",
-      "name": "Call Me - Slowed",
-      "artists": [
-        "plenka"
-      ],
-      "album": "Call Me (Slowed)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273af279eb21d4842eae7066f36",
-      "uri": "spotify:track:0TvHrcLqLrQxAmT8ILd21V",
-      "duration_ms": 160500
-    },
-    {
-      "played_at": "2026-08-04T00:33:38.984Z",
-      "name": "Roi - Instrumental Slowed",
-      "artists": [
-        "Mckyyy"
-      ],
-      "album": "Roi",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f178ef6a0e6c23f6330bd982",
-      "uri": "spotify:track:5vCREmODQpdzOmcNOVsN6B",
-      "duration_ms": 92589
-    },
-    {
-      "played_at": "2026-08-04T00:34:53.119Z",
-      "name": "Dreams - 2004 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Rumours (Super Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-      "uri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz",
-      "duration_ms": 257800
-    },
     {
       "played_at": "2026-08-04T00:43:48.815Z",
       "name": "Emilux Pô Exiduss",
@@ -22932,6 +22810,137 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
       "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
       "duration_ms": 422613
+    },
+    {
+      "played_at": "2026-10-22T12:55:36.825Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-22T14:25:25.714Z",
+      "name": "Beautiful Boy (Darling Boy) - Ultimate Mix",
+      "artists": [
+        "John Lennon"
+      ],
+      "album": "GIMME SOME TRUTH. (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ba32dba27854f0f7457f445",
+      "uri": "spotify:track:5Sonv4VmN362mdHGCY4wyZ",
+      "duration_ms": 241653
+    },
+    {
+      "played_at": "2026-10-22T15:25:20.259Z",
+      "name": "Heather",
+      "artists": [
+        "4zz",
+        "GBG shiek"
+      ],
+      "album": "Heather",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a9ca1474b741e3054f68ade",
+      "uri": "spotify:track:6wC3tZQSFFOaekyEvXwYF0",
+      "duration_ms": 113973
+    },
+    {
+      "played_at": "2026-10-22T15:28:41.599Z",
+      "name": "National Treasures",
+      "artists": [
+        "Drake"
+      ],
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "uri": "spotify:track:393OFJFZKIIv66JmJcNm9D",
+      "duration_ms": 200830
+    },
+    {
+      "played_at": "2026-10-22T15:30:57.990Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-10-22T16:54:07.955Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-10-22T16:56:49.670Z",
+      "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
+      "artists": [
+        "Playboi Carti",
+        "Young Nudy"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:45Ln3F9PRPYTXBcMFkZMzS",
+      "duration_ms": 161200
+    },
+    {
+      "played_at": "2026-10-22T16:59:52.403Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-10-22T17:57:51.678Z",
+      "name": "Drip or Drown",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "Drip or Drown",
+      "image": "https://i.scdn.co/image/ab67616d0000b273340cf6dc6c0118e1458ce308",
+      "uri": "spotify:track:6ZthdsKjWtiCxnxbhs74vF",
+      "duration_ms": 126168
+    },
+    {
+      "played_at": "2026-10-22T18:01:17.918Z",
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "artists": [
+        "Trippie Redd",
+        "Coi Leray"
+      ],
+      "album": "!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+      "duration_ms": 205701
+    },
+    {
+      "played_at": "2026-10-22T18:23:46.049Z",
+      "name": "Definition",
+      "artists": [
+        "2wo2imes",
+        "Glokk40Spaz"
+      ],
+      "album": "Glokk Files",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+      "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
+      "duration_ms": 162560
     }
   ]
 }

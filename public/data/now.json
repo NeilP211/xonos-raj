@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-22T14:16:29.005Z",
+  "updated_at": "2026-10-22T18:59:42.387Z",
   "is_playing": false,
   "track": {
-    "name": "Moonlight on the River",
+    "name": "Definition",
     "artists": [
-      "Mac DeMarco"
+      "2wo2imes",
+      "Glokk40Spaz"
     ],
-    "album": "This Old Dog",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-    "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A"
+    "album": "Glokk Files",
+    "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+    "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy"
   },
-  "played_at": "2026-10-22T11:19:59.820Z"
+  "played_at": "2026-10-22T18:23:46.049Z"
 }
