@@ -1,91 +1,6 @@
 {
-  "updated_at": "2026-10-23T18:49:22.559Z",
+  "updated_at": "2026-10-23T23:42:11.508Z",
   "plays": [
-    {
-      "played_at": "2026-08-05T21:05:02.633Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-08-05T23:16:36.463Z",
-      "name": "Don't Dream It's Over",
-      "artists": [
-        "Crowded House"
-      ],
-      "album": "Crowded House",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-      "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-      "duration_ms": 236933
-    },
-    {
-      "played_at": "2026-08-05T23:52:10.134Z",
-      "name": "Sweet Child O' Mine",
-      "artists": [
-        "Guns N' Roses"
-      ],
-      "album": "Appetite For Destruction",
-      "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
-      "uri": "spotify:track:7snQQk1zcKl8gZ92AnueZW",
-      "duration_ms": 356066
-    },
-    {
-      "played_at": "2026-08-05T23:57:32.082Z",
-      "name": "Special",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "Keep it goin xav",
-      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-      "duration_ms": 104650
-    },
-    {
-      "played_at": "2026-08-06T00:02:42.784Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-08-06T00:02:45.946Z",
-      "name": "GOOBA",
-      "artists": [
-        "6ix9ine"
-      ],
-      "album": "TattleTales",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
-      "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
-      "duration_ms": 132303
-    },
-    {
-      "played_at": "2026-08-06T00:26:09.208Z",
-      "name": "Massive X Touch Me",
-      "artists": [
-        "NovaX",
-        "Sevven"
-      ],
-      "album": "Massive X Touch Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-      "duration_ms": 174160
-    },
     {
       "played_at": "2026-08-06T00:29:27.763Z",
       "name": "Waiting for Tonight - Radio Edit",
@@ -22942,6 +22857,84 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
       "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
       "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-10-23T18:47:04.749Z",
+      "name": "Dark Knight Dummo (feat. Travis Scott)",
+      "artists": [
+        "Trippie Redd",
+        "Travis Scott"
+      ],
+      "album": "LIFE'S A TRIP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+      "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+      "duration_ms": 256161
+    },
+    {
+      "played_at": "2026-10-23T20:54:05.822Z",
+      "name": "Drip or Drown",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "Drip or Drown",
+      "image": "https://i.scdn.co/image/ab67616d0000b273340cf6dc6c0118e1458ce308",
+      "uri": "spotify:track:6ZthdsKjWtiCxnxbhs74vF",
+      "duration_ms": 126168
+    },
+    {
+      "played_at": "2026-10-23T20:59:47.799Z",
+      "name": "Don't Worry Be Happy",
+      "artists": [
+        "Bobby McFerrin"
+      ],
+      "album": "Jarhead",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9fe7356c090f56dfe0710c1",
+      "uri": "spotify:track:6ndftErM6BlQpKwRWIHyjZ",
+      "duration_ms": 290986
+    },
+    {
+      "played_at": "2026-10-23T21:01:26.760Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-23T21:07:51.891Z",
+      "name": "ball hard",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "ball hard",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
+      "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
+      "duration_ms": 160731
+    },
+    {
+      "played_at": "2026-10-23T21:18:25.351Z",
+      "name": "Man in the Box",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Facelift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733cf83c82a8e976d7b51e2d00",
+      "uri": "spotify:track:6gZVQvQZOFpzIy3HblJ20F",
+      "duration_ms": 285200
+    },
+    {
+      "played_at": "2026-10-23T21:39:07.642Z",
+      "name": "My Own Prison",
+      "artists": [
+        "Creed"
+      ],
+      "album": "My Own Prison",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+      "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m",
+      "duration_ms": 298800
     }
   ]
 }
