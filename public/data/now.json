@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-10-23T13:59:41.270Z",
+  "updated_at": "2026-10-23T18:49:22.678Z",
   "is_playing": false,
   "track": {
-    "name": "A Horse with No Name",
+    "name": "Back In Bidness",
     "artists": [
-      "America",
-      "George Martin"
+      "Shoreline Mafia",
+      "OHGEESY",
+      "Fenix Flexin"
     ],
-    "album": "America",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-    "uri": "spotify:track:54eZmuggBFJbV7k248bTTt"
+    "album": "Back In Bidness",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+    "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA"
   },
-  "played_at": "2026-10-23T00:45:53.194Z"
+  "played_at": "2026-10-23T18:43:16.810Z"
 }

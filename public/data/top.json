@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:59:41.103Z",
+  "generated_at": "2026-10-23T18:49:22.422Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -72,6 +72,19 @@
         },
         {
           "rank": 6,
+          "name": "Kung Fu Panda",
+          "artists": [
+            "Young Yayo",
+            "We$"
+          ],
+          "album": "Kung Fu Panda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
+          "duration_ms": 111699
+        },
+        {
+          "rank": 7,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -86,31 +99,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 7,
-          "name": "Answer My Prayers",
-          "artists": [
-            "Lil Tony Official"
-          ],
-          "album": "Tkey vs. Tony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
-          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
-          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
-          "duration_ms": 117736
-        },
-        {
           "rank": 8,
-          "name": "Bonnie's Lullaby - Reverbed",
-          "artists": [
-            "Levon Echalbe"
-          ],
-          "album": "Bonnie's Lullaby",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734332bd03a3ff79864ea62c81",
-          "uri": "spotify:track:1kAtvuthy66guTt2eFgLRM",
-          "url": "https://open.spotify.com/track/1kAtvuthy66guTt2eFgLRM",
-          "duration_ms": 62057
-        },
-        {
-          "rank": 9,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -120,6 +109,18 @@
           "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
           "url": "https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ",
           "duration_ms": 89535
+        },
+        {
+          "rank": 9,
+          "name": "Bonnie's Lullaby - Reverbed",
+          "artists": [
+            "Levon Echalbe"
+          ],
+          "album": "Bonnie's Lullaby",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734332bd03a3ff79864ea62c81",
+          "uri": "spotify:track:1kAtvuthy66guTt2eFgLRM",
+          "url": "https://open.spotify.com/track/1kAtvuthy66guTt2eFgLRM",
+          "duration_ms": 62057
         },
         {
           "rank": 10,
@@ -137,19 +138,6 @@
         },
         {
           "rank": 11,
-          "name": "Kung Fu Panda",
-          "artists": [
-            "Young Yayo",
-            "We$"
-          ],
-          "album": "Kung Fu Panda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
-          "duration_ms": 111699
-        },
-        {
-          "rank": 12,
           "name": "Talk",
           "artists": [
             "Yeat"
@@ -161,7 +149,7 @@
           "duration_ms": 174857
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -174,7 +162,7 @@
           "duration_ms": 256161
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Swërved It",
           "artists": [
             "Yeat"
@@ -186,7 +174,7 @@
           "duration_ms": 137299
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Warmth",
           "artists": [
             "C418"
@@ -198,20 +186,19 @@
           "duration_ms": 239379
         },
         {
-          "rank": 16,
-          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+          "rank": 15,
+          "name": "Answer My Prayers",
           "artists": [
-            "lil ricefield",
-            "seiji oda"
+            "Lil Tony Official"
           ],
-          "album": "Eat Rice Dummy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
-          "duration_ms": 106666
+          "album": "Tkey vs. Tony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
+          "duration_ms": 117736
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -225,7 +212,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Fool",
           "artists": [
             "OsamaSon"
@@ -235,6 +222,19 @@
           "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
           "url": "https://open.spotify.com/track/2zhOFpI6w9Dyt3d5wpFWSE",
           "duration_ms": 125562
+        },
+        {
+          "rank": 18,
+          "name": "Hoe Shit",
+          "artists": [
+            "Shoreline Mafia",
+            "Fenix Flexin"
+          ],
+          "album": "Mafia Bidness",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+          "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+          "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
+          "duration_ms": 168000
         },
         {
           "rank": 19,
@@ -250,16 +250,16 @@
         },
         {
           "rank": 20,
-          "name": "Hoe Shit",
+          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
           "artists": [
-            "Shoreline Mafia",
-            "Fenix Flexin"
+            "lil ricefield",
+            "seiji oda"
           ],
-          "album": "Mafia Bidness",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
-          "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
-          "url": "https://open.spotify.com/track/1eNERcMwfmtiFo8qzW5enn",
-          "duration_ms": 168000
+          "album": "Eat Rice Dummy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
+          "duration_ms": 106666
         },
         {
           "rank": 21,
@@ -275,18 +275,6 @@
         },
         {
           "rank": 22,
-          "name": "Wokeup",
-          "artists": [
-            "Kankan"
-          ],
-          "album": "Wokeup",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
-          "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
-          "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
-          "duration_ms": 115347
-        },
-        {
-          "rank": 23,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -298,7 +286,7 @@
           "duration_ms": 169999
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Yung Nigga Shit",
           "artists": [
             "2wo2imes",
@@ -311,7 +299,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "we fell in love in october",
           "artists": [
             "girl in red"
@@ -323,7 +311,7 @@
           "duration_ms": 184153
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Definition",
           "artists": [
             "2wo2imes",
@@ -334,6 +322,21 @@
           "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
           "url": "https://open.spotify.com/track/08GNAA4fM4BEZ8yG9opdFy",
           "duration_ms": 162560
+        },
+        {
+          "rank": 26,
+          "name": "40 - Dj Ess Mix",
+          "artists": [
+            "evilgiane",
+            "xaviersobased",
+            "Nettspend",
+            "DJ Ess"
+          ],
+          "album": "40 (Dj Ess Mix)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
+          "duration_ms": 81658
         },
         {
           "rank": 27,
@@ -374,21 +377,6 @@
         },
         {
           "rank": 30,
-          "name": "40 - Dj Ess Mix",
-          "artists": [
-            "evilgiane",
-            "xaviersobased",
-            "Nettspend",
-            "DJ Ess"
-          ],
-          "album": "40 (Dj Ess Mix)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-          "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-          "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz",
-          "duration_ms": 81658
-        },
-        {
-          "rank": 31,
           "name": "I <3 My Choppa",
           "artists": [
             "Tay-K"
@@ -400,19 +388,7 @@
           "duration_ms": 105000
         },
         {
-          "rank": 32,
-          "name": "Nun Major",
-          "artists": [
-            "Shoreline Mafia"
-          ],
-          "album": "ShorelineDoThatShit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
-          "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
-          "url": "https://open.spotify.com/track/18pwD0HrweX8oCgIkayRb4",
-          "duration_ms": 151836
-        },
-        {
-          "rank": 33,
+          "rank": 31,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -424,7 +400,19 @@
           "duration_ms": 184375
         },
         {
-          "rank": 34,
+          "rank": 32,
+          "name": "Wokeup",
+          "artists": [
+            "Kankan"
+          ],
+          "album": "Wokeup",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d90782720551abcee417a005",
+          "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
+          "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
+          "duration_ms": 115347
+        },
+        {
+          "rank": 33,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -436,7 +424,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Just the Two of Us (feat. Bill Withers) - Edit",
           "artists": [
             "Grover Washington, Jr.",
@@ -447,6 +435,18 @@
           "uri": "spotify:track:4Wfxqaksd2ohhZM57DagnA",
           "url": "https://open.spotify.com/track/4Wfxqaksd2ohhZM57DagnA",
           "duration_ms": 240640
+        },
+        {
+          "rank": 35,
+          "name": "Nun Major",
+          "artists": [
+            "Shoreline Mafia"
+          ],
+          "album": "ShorelineDoThatShit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+          "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+          "url": "https://open.spotify.com/track/18pwD0HrweX8oCgIkayRb4",
+          "duration_ms": 151836
         },
         {
           "rank": 36,
@@ -474,19 +474,6 @@
         },
         {
           "rank": 38,
-          "name": "RATHER LIE (with The Weeknd)",
-          "artists": [
-            "Playboi Carti",
-            "The Weeknd"
-          ],
-          "album": "MUSIC",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-          "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
-          "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
-          "duration_ms": 209680
-        },
-        {
-          "rank": 39,
           "name": "Take It",
           "artists": [
             "Staind"
@@ -498,7 +485,7 @@
           "duration_ms": 215706
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Heather",
           "artists": [
             "4zz",
@@ -511,7 +498,7 @@
           "duration_ms": 113973
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Hypnotize - 2014 Remaster",
           "artists": [
             "The Notorious B.I.G."
@@ -521,6 +508,18 @@
           "uri": "spotify:track:7KwZNVEaqikRSBSpyhXK2j",
           "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
           "duration_ms": 229826
+        },
+        {
+          "rank": 41,
+          "name": "3.5",
+          "artists": [
+            "ian"
+          ],
+          "album": "Goodbye Horses",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+          "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+          "url": "https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ",
+          "duration_ms": 156444
         },
         {
           "rank": 42,
@@ -560,16 +559,17 @@
         },
         {
           "rank": 45,
-          "name": "Everything BoZ (feat. Coi Leray)",
+          "name": "Rich Nigga Shit (feat. Young Thug)",
           "artists": [
-            "Trippie Redd",
-            "Coi Leray"
+            "21 Savage",
+            "Metro Boomin",
+            "Young Thug"
           ],
-          "album": "!",
-          "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
-          "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
-          "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV",
-          "duration_ms": 205701
+          "album": "SAVAGE MODE II",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
+          "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
+          "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq",
+          "duration_ms": 190331
         },
         {
           "rank": 46,
@@ -597,6 +597,19 @@
         },
         {
           "rank": 48,
+          "name": "RATHER LIE (with The Weeknd)",
+          "artists": [
+            "Playboi Carti",
+            "The Weeknd"
+          ],
+          "album": "MUSIC",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+          "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+          "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
+          "duration_ms": 209680
+        },
+        {
+          "rank": 49,
           "name": "Megaman",
           "artists": [
             "Tay-K"
@@ -608,30 +621,17 @@
           "duration_ms": 133000
         },
         {
-          "rank": 49,
-          "name": "Rich Nigga Shit (feat. Young Thug)",
-          "artists": [
-            "21 Savage",
-            "Metro Boomin",
-            "Young Thug"
-          ],
-          "album": "SAVAGE MODE II",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
-          "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
-          "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq",
-          "duration_ms": 190331
-        },
-        {
           "rank": 50,
-          "name": "3.5",
+          "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
-            "ian"
+            "Trippie Redd",
+            "Coi Leray"
           ],
-          "album": "Goodbye Horses",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
-          "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
-          "url": "https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ",
-          "duration_ms": 156444
+          "album": "!",
+          "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+          "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+          "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV",
+          "duration_ms": 205701
         }
       ],
       "artists": [
