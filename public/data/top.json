@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:48:18.369Z",
+  "generated_at": "2026-10-23T02:52:52.193Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -337,6 +337,19 @@
         },
         {
           "rank": 27,
+          "name": "A Horse with No Name",
+          "artists": [
+            "America",
+            "George Martin"
+          ],
+          "album": "America",
+          "image": "https://i.scdn.co/image/ab67616d0000b273343c95291707f47476369470",
+          "uri": "spotify:track:0iAzEJWNn7ZLAldDEYLECV",
+          "url": "https://open.spotify.com/track/0iAzEJWNn7ZLAldDEYLECV",
+          "duration_ms": 255253
+        },
+        {
+          "rank": 28,
           "name": "mud",
           "artists": [
             "Destroy Lonely"
@@ -348,7 +361,7 @@
           "duration_ms": 107951
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -360,7 +373,7 @@
           "duration_ms": 195636
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -375,7 +388,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "I <3 My Choppa",
           "artists": [
             "Tay-K"
@@ -387,7 +400,7 @@
           "duration_ms": 105000
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Nun Major",
           "artists": [
             "Shoreline Mafia"
@@ -399,7 +412,7 @@
           "duration_ms": 151836
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -411,7 +424,7 @@
           "duration_ms": 184375
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -421,19 +434,6 @@
           "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
           "url": "https://open.spotify.com/track/0OmWHmUFbHC2xHNNsSHHKN",
           "duration_ms": 104650
-        },
-        {
-          "rank": 34,
-          "name": "A Horse with No Name",
-          "artists": [
-            "America",
-            "George Martin"
-          ],
-          "album": "America",
-          "image": "https://i.scdn.co/image/ab67616d0000b273343c95291707f47476369470",
-          "uri": "spotify:track:0iAzEJWNn7ZLAldDEYLECV",
-          "url": "https://open.spotify.com/track/0iAzEJWNn7ZLAldDEYLECV",
-          "duration_ms": 255253
         },
         {
           "rank": 35,
@@ -725,6 +725,14 @@
         },
         {
           "rank": 12,
+          "name": "Stevie Ray Vaughan",
+          "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
+          "genres": [],
+          "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "rank": 13,
           "name": "Mac DeMarco",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
           "genres": [],
@@ -732,20 +740,12 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "genres": [],
           "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "rank": 14,
-          "name": "Stevie Ray Vaughan",
-          "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
-          "genres": [],
-          "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         },
         {
           "rank": 15,
