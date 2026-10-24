@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-23T23:42:11.508Z",
+  "updated_at": "2026-10-24T02:49:52.095Z",
   "plays": [
-    {
-      "played_at": "2026-08-06T00:29:27.763Z",
-      "name": "Waiting for Tonight - Radio Edit",
-      "artists": [
-        "Jennifer Lopez",
-        "FISHER"
-      ],
-      "album": "On The 6 (25th Anniversary Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
-      "uri": "spotify:track:5GHVp2CCufZ8MJzYE82W7R",
-      "duration_ms": 198019
-    },
     {
       "played_at": "2026-08-06T00:33:46.828Z",
       "name": "Find My Way Home",
@@ -22935,6 +22923,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
       "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m",
       "duration_ms": 298800
+    },
+    {
+      "played_at": "2026-10-23T21:52:02.754Z",
+      "name": "Attaining Heaven By Force",
+      "artists": [
+        "Doomsday"
+      ],
+      "album": "Attaining Heaven By Force",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f65bbde9e5f5efcd6eb990e",
+      "uri": "spotify:track:3cAAtbHEN4ebQx10k2WarA",
+      "duration_ms": 215215
     }
   ]
 }
