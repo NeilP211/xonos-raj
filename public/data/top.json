@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:44:42.895Z",
+  "generated_at": "2026-10-24T20:02:46.594Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -187,6 +187,19 @@
         },
         {
           "rank": 15,
+          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+          "artists": [
+            "lil ricefield",
+            "seiji oda"
+          ],
+          "album": "Eat Rice Dummy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
+          "duration_ms": 106666
+        },
+        {
+          "rank": 16,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -200,7 +213,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -210,19 +223,6 @@
           "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
           "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
           "duration_ms": 169999
-        },
-        {
-          "rank": 17,
-          "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-          "artists": [
-            "lil ricefield",
-            "seiji oda"
-          ],
-          "album": "Eat Rice Dummy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-          "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-          "url": "https://open.spotify.com/track/0DIVTg7wb0732hhwOCq7N2",
-          "duration_ms": 106666
         },
         {
           "rank": 18,
@@ -287,6 +287,19 @@
         },
         {
           "rank": 23,
+          "name": "A Horse with No Name",
+          "artists": [
+            "America",
+            "George Martin"
+          ],
+          "album": "America",
+          "image": "https://i.scdn.co/image/ab67616d0000b273343c95291707f47476369470",
+          "uri": "spotify:track:0iAzEJWNn7ZLAldDEYLECV",
+          "url": "https://open.spotify.com/track/0iAzEJWNn7ZLAldDEYLECV",
+          "duration_ms": 255253
+        },
+        {
+          "rank": 24,
           "name": "Yung Nigga Shit",
           "artists": [
             "2wo2imes",
@@ -299,7 +312,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Definition",
           "artists": [
             "2wo2imes",
@@ -312,7 +325,7 @@
           "duration_ms": 162560
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Answer My Prayers",
           "artists": [
             "Lil Tony Official"
@@ -324,7 +337,7 @@
           "duration_ms": 117736
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "we fell in love in october",
           "artists": [
             "girl in red"
@@ -336,7 +349,7 @@
           "duration_ms": 184153
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "I <3 My Choppa",
           "artists": [
             "Tay-K"
@@ -348,7 +361,7 @@
           "duration_ms": 105000
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Just the Two of Us (feat. Bill Withers) - Edit",
           "artists": [
             "Grover Washington, Jr.",
@@ -359,19 +372,6 @@
           "uri": "spotify:track:4Wfxqaksd2ohhZM57DagnA",
           "url": "https://open.spotify.com/track/4Wfxqaksd2ohhZM57DagnA",
           "duration_ms": 240640
-        },
-        {
-          "rank": 29,
-          "name": "A Horse with No Name",
-          "artists": [
-            "America",
-            "George Martin"
-          ],
-          "album": "America",
-          "image": "https://i.scdn.co/image/ab67616d0000b273343c95291707f47476369470",
-          "uri": "spotify:track:0iAzEJWNn7ZLAldDEYLECV",
-          "url": "https://open.spotify.com/track/0iAzEJWNn7ZLAldDEYLECV",
-          "duration_ms": 255253
         },
         {
           "rank": 30,

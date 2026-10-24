@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-10-24T17:44:42.999Z",
+  "updated_at": "2026-10-24T20:02:46.770Z",
   "plays": [
-    {
-      "played_at": "2026-08-06T00:33:46.828Z",
-      "name": "Find My Way Home",
-      "artists": [
-        "Sammy Virji"
-      ],
-      "album": "Find My Way Home",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731cc9594eb4e8e4cc6aabe090",
-      "uri": "spotify:track:1yIi7qRdybE4yY1V0YdOKG",
-      "duration_ms": 258858
-    },
-    {
-      "played_at": "2026-08-06T00:37:04.200Z",
-      "name": "Who do u?",
-      "artists": [
-        "JACK MARLOW",
-        "Phantom Records"
-      ],
-      "album": "Who do u?",
-      "image": "https://i.scdn.co/image/ab67616d0000b27350278aeaacd4286cf4c6cdcb",
-      "uri": "spotify:track:5oWfXmdrVX0AMwEdJ8iSBf",
-      "duration_ms": 196874
-    },
-    {
-      "played_at": "2026-08-06T00:40:39.108Z",
-      "name": "Paradise",
-      "artists": [
-        "Lewis Taylor"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a4a592cc8d5385428d8f7b0",
-      "uri": "spotify:track:1mjJPwJaSnj1wMWazselPS",
-      "duration_ms": 214291
-    },
     {
       "played_at": "2026-08-06T00:43:31.714Z",
       "name": "World, Hold On - FISHER Rework",
@@ -22934,6 +22900,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737f65bbde9e5f5efcd6eb990e",
       "uri": "spotify:track:3cAAtbHEN4ebQx10k2WarA",
       "duration_ms": 215215
+    },
+    {
+      "played_at": "2026-10-24T15:56:14.238Z",
+      "name": "Don't Worry Be Happy",
+      "artists": [
+        "Bobby McFerrin"
+      ],
+      "album": "Jarhead",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9fe7356c090f56dfe0710c1",
+      "uri": "spotify:track:6ndftErM6BlQpKwRWIHyjZ",
+      "duration_ms": 290986
+    },
+    {
+      "played_at": "2026-10-24T18:47:20.165Z",
+      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
+      "artists": [
+        "lil ricefield",
+        "seiji oda"
+      ],
+      "album": "Eat Rice Dummy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
+      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
+      "duration_ms": 106666
+    },
+    {
+      "played_at": "2026-10-24T18:58:31.204Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
     }
   ]
 }
