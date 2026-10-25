@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-10-24T22:48:29.173Z",
+  "updated_at": "2026-10-25T02:41:32.722Z",
   "plays": [
-    {
-      "played_at": "2026-08-07T20:00:45.957Z",
-      "name": "Everything BoZ (feat. Coi Leray)",
-      "artists": [
-        "Trippie Redd",
-        "Coi Leray"
-      ],
-      "album": "!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
-      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
-      "duration_ms": 205701
-    },
-    {
-      "played_at": "2026-08-08T21:22:43.007Z",
-      "name": "ghost (with Lil Uzi Vert)",
-      "artists": [
-        "Ken Carson",
-        "Lil Uzi Vert"
-      ],
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "uri": "spotify:track:5l2JiMegRp9HTtnlVDDdJb",
-      "duration_ms": 233335
-    },
-    {
-      "played_at": "2026-08-08T21:27:12.474Z",
-      "name": "Mutation",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "uri": "spotify:track:0tKGheuEeXHSDz55C35MpL",
-      "duration_ms": 185000
-    },
     {
       "played_at": "2026-08-08T21:28:42.159Z",
       "name": "Dry Hands",
@@ -22930,6 +22895,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
       "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
       "duration_ms": 151836
+    },
+    {
+      "played_at": "2026-10-24T23:43:42.493Z",
+      "name": "RATHER LIE (with The Weeknd)",
+      "artists": [
+        "Playboi Carti",
+        "The Weeknd"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-10-24T23:44:08.169Z",
+      "name": "Just the Two of Us (feat. Bill Withers) - Edit",
+      "artists": [
+        "Grover Washington, Jr.",
+        "Bill Withers"
+      ],
+      "album": "Lean on Me: The Best of Bill Withers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35",
+      "uri": "spotify:track:2tH28YyKYOldxhuBHoI79M",
+      "duration_ms": 237373
+    },
+    {
+      "played_at": "2026-10-25T00:28:37.119Z",
+      "name": "Blind Spots",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+      "duration_ms": 332500
     }
   ]
 }
