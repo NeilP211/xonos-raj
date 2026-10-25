@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T02:41:32.576Z",
+  "generated_at": "2026-10-25T07:59:44.133Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -500,18 +500,6 @@
         },
         {
           "rank": 40,
-          "name": "Hypnotize - 2014 Remaster",
-          "artists": [
-            "The Notorious B.I.G."
-          ],
-          "album": "Life After Death (2014 Remastered Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
-          "uri": "spotify:track:7KwZNVEaqikRSBSpyhXK2j",
-          "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
-          "duration_ms": 229826
-        },
-        {
-          "rank": 41,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -523,7 +511,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Rich Nigga Shit (feat. Young Thug)",
           "artists": [
             "21 Savage",
@@ -537,7 +525,7 @@
           "duration_ms": 190331
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "3.5",
           "artists": [
             "ian"
@@ -549,7 +537,7 @@
           "duration_ms": 156444
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Can't Tell Me Nothing",
           "artists": [
             "Kanye West"
@@ -561,7 +549,7 @@
           "duration_ms": 271600
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -573,7 +561,7 @@
           "duration_ms": 157779
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -585,7 +573,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Boston",
           "artists": [
             "STELLA LEFTY"
@@ -597,7 +585,7 @@
           "duration_ms": 170859
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -609,7 +597,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Megaman",
           "artists": [
             "Tay-K"
@@ -621,7 +609,7 @@
           "duration_ms": 133000
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -632,6 +620,20 @@
           "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
           "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV",
           "duration_ms": 205701
+        },
+        {
+          "rank": 50,
+          "name": "Touch Down",
+          "artists": [
+            "Shoreline Mafia",
+            "OHGEESY",
+            "Fenix Flexin"
+          ],
+          "album": "Back In Bidness",
+          "image": "https://i.scdn.co/image/ab67616d0000b27397d2079a834443fc82547f3c",
+          "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
+          "url": "https://open.spotify.com/track/4K4GL5CVZrkQFj1xb22gRP",
+          "duration_ms": 203428
         }
       ],
       "artists": [
