@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-26T02:39:43.566Z",
+  "updated_at": "2026-10-26T08:21:42.393Z",
   "plays": [
-    {
-      "played_at": "2026-08-08T21:42:55.552Z",
-      "name": "Aria Math",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "uri": "spotify:track:6VK8OMA2FhX4KoS3QCH7rL",
-      "duration_ms": 310000
-    },
     {
       "played_at": "2026-08-08T21:48:31.233Z",
       "name": "Danny",
@@ -22931,6 +22920,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273babfb7bd6df5dc73585f3fef",
       "uri": "spotify:track:1KDlvvuwPAdfv95F2x04ch",
       "duration_ms": 205158
+    },
+    {
+      "played_at": "2026-10-26T02:23:31.268Z",
+      "name": "scars",
+      "artists": [
+        "Novulent"
+      ],
+      "album": "scars",
+      "image": "https://i.scdn.co/image/ab67616d0000b273516c672987bfc51ea8061c18",
+      "uri": "spotify:track:016z46SJwcRosW9Xb8JKmF",
+      "duration_ms": 95002
     }
   ]
 }

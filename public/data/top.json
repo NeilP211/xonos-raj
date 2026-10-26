@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T02:39:43.447Z",
+  "generated_at": "2026-10-26T08:21:42.211Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -97,21 +97,6 @@
         },
         {
           "rank": 8,
-          "name": "Quickest Routes",
-          "artists": [
-            "Shoreline Mafia",
-            "Disco Lines",
-            "OHGEESY",
-            "Fenix Flexin"
-          ],
-          "album": "Disco Mafia Pack",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
-          "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
-          "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB",
-          "duration_ms": 134400
-        },
-        {
-          "rank": 9,
           "name": "Coffin",
           "artists": [
             "Lil Yachty"
@@ -123,7 +108,7 @@
           "duration_ms": 89535
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Bonnie's Lullaby - Reverbed",
           "artists": [
             "Levon Echalbe"
@@ -135,7 +120,7 @@
           "duration_ms": 62057
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -149,7 +134,7 @@
           "duration_ms": 135861
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Swërved It",
           "artists": [
             "Yeat"
@@ -159,6 +144,21 @@
           "uri": "spotify:track:6GukTiiz6sGrXEHPEqsD5Y",
           "url": "https://open.spotify.com/track/6GukTiiz6sGrXEHPEqsD5Y",
           "duration_ms": 137299
+        },
+        {
+          "rank": 12,
+          "name": "Quickest Routes",
+          "artists": [
+            "Shoreline Mafia",
+            "Disco Lines",
+            "OHGEESY",
+            "Fenix Flexin"
+          ],
+          "album": "Disco Mafia Pack",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
+          "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
+          "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB",
+          "duration_ms": 134400
         },
         {
           "rank": 13,
@@ -403,18 +403,6 @@
         },
         {
           "rank": 32,
-          "name": "Answer My Prayers",
-          "artists": [
-            "Lil Tony Official"
-          ],
-          "album": "Tkey vs. Tony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
-          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
-          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
-          "duration_ms": 117736
-        },
-        {
-          "rank": 33,
           "name": "M.... She Wrote",
           "artists": [
             "Tay-K"
@@ -426,7 +414,7 @@
           "duration_ms": 112000
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "mud",
           "artists": [
             "Destroy Lonely"
@@ -438,7 +426,7 @@
           "duration_ms": 107951
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -450,7 +438,7 @@
           "duration_ms": 115347
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -461,6 +449,18 @@
           "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
           "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
           "duration_ms": 209680
+        },
+        {
+          "rank": 36,
+          "name": "Answer My Prayers",
+          "artists": [
+            "Lil Tony Official"
+          ],
+          "album": "Tkey vs. Tony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732d0f05a694d595f5624551fd",
+          "uri": "spotify:track:4qvei4G5bxonGwmCjZy88P",
+          "url": "https://open.spotify.com/track/4qvei4G5bxonGwmCjZy88P",
+          "duration_ms": 117736
         },
         {
           "rank": 37,
@@ -679,19 +679,19 @@
         },
         {
           "rank": 6,
-          "name": "Drake",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-          "genres": [],
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "rank": 7,
           "name": "Destroy Lonely",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
           "genres": [],
           "uri": "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD",
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "rank": 7,
+          "name": "Drake",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+          "genres": [],
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "rank": 8,
@@ -847,14 +847,6 @@
         },
         {
           "rank": 27,
-          "name": "OsamaSon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
-          "genres": [],
-          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 28,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -862,7 +854,7 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Van Halen",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
           "genres": [],
