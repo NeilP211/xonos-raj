@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-10-26T08:21:42.393Z",
+  "updated_at": "2026-10-26T15:41:58.534Z",
   "plays": [
-    {
-      "played_at": "2026-08-08T21:48:31.233Z",
-      "name": "Danny",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:1i2bwN2e2TpsH3gLoNX8dC",
-      "duration_ms": 254500
-    },
-    {
-      "played_at": "2026-08-08T21:53:25.761Z",
-      "name": "Sweden",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:716HpbfSkMkU7TwQsJlhHT",
-      "duration_ms": 215500
-    },
-    {
-      "played_at": "2026-08-08T21:56:26.242Z",
-      "name": "Moog City",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:3wmvHdag2I7BpHCtWoiV9w",
-      "duration_ms": 160000
-    },
-    {
-      "played_at": "2026-08-08T21:57:54.450Z",
-      "name": "Chris",
-      "artists": [
-        "C418"
-      ],
-      "album": "Minecraft - Volume Alpha",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
-      "uri": "spotify:track:6DWDh2228j0yXcDQBQtq2t",
-      "duration_ms": 87750
-    },
     {
       "played_at": "2026-08-08T21:59:24.906Z",
       "name": "Wet Hands",
@@ -22931,6 +22887,54 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273516c672987bfc51ea8061c18",
       "uri": "spotify:track:016z46SJwcRosW9Xb8JKmF",
       "duration_ms": 95002
+    },
+    {
+      "played_at": "2026-10-26T04:04:47.167Z",
+      "name": "Don't Worry Be Happy",
+      "artists": [
+        "Bobby McFerrin"
+      ],
+      "album": "Jarhead",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9fe7356c090f56dfe0710c1",
+      "uri": "spotify:track:6ndftErM6BlQpKwRWIHyjZ",
+      "duration_ms": 290986
+    },
+    {
+      "played_at": "2026-10-26T12:47:07.369Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-26T14:30:34.143Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-10-26T14:32:11.538Z",
+      "name": "ball hard",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "ball hard",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
+      "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
+      "duration_ms": 160731
     }
   ]
 }
