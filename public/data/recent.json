@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-26T22:09:21.455Z",
+  "updated_at": "2026-10-27T03:14:33.653Z",
   "plays": [
-    {
-      "played_at": "2026-08-10T21:48:52.844Z",
-      "name": "Don't Dream It's Over",
-      "artists": [
-        "Crowded House"
-      ],
-      "album": "Crowded House",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-      "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-      "duration_ms": 236933
-    },
-    {
-      "played_at": "2026-08-10T21:58:31.816Z",
-      "name": "Mascara",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Around the Fur",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
-      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
-      "duration_ms": 225293
-    },
     {
       "played_at": "2026-08-10T22:04:57.822Z",
       "name": "Would? (2022 Remaster)",
@@ -22943,6 +22921,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
       "uri": "spotify:track:696DnlkuDOXcMAnKlTgXXK",
       "duration_ms": 163636
+    },
+    {
+      "played_at": "2026-10-27T01:51:10.910Z",
+      "name": "ROXANNE",
+      "artists": [
+        "Arizona Zervas"
+      ],
+      "album": "ROXANNE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+      "uri": "spotify:track:696DnlkuDOXcMAnKlTgXXK",
+      "duration_ms": 163636
+    },
+    {
+      "played_at": "2026-10-27T01:52:02.821Z",
+      "name": "Gët Busy",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
+      "duration_ms": 157779
     }
   ]
 }
