@@ -1,31 +1,6 @@
 {
-  "updated_at": "2026-10-28T03:29:00.852Z",
+  "updated_at": "2026-10-28T11:56:14.504Z",
   "plays": [
-    {
-      "played_at": "2026-08-10T23:03:49.993Z",
-      "name": "Nuketown",
-      "artists": [
-        "Ski Mask The Slump God",
-        "Juice WRLD"
-      ],
-      "album": "STOKELEY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737e70b411110de2cbbba45ab7",
-      "uri": "spotify:track:4YFdnGd92wP6KBcaFa5v64",
-      "duration_ms": 166400
-    },
-    {
-      "played_at": "2026-08-10T23:06:34.857Z",
-      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
-      "artists": [
-        "Shoreline Mafia",
-        "Fenix Flexin",
-        "OHGEESY"
-      ],
-      "album": "OTXmas",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
-      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
-      "duration_ms": 164400
-    },
     {
       "played_at": "2026-08-10T23:13:08.674Z",
       "name": "Special",
@@ -22933,6 +22908,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730824105a6282782aaabb0584",
       "uri": "spotify:track:22LAwLoDA5b4AaGSkg6bKW",
       "duration_ms": 162546
+    },
+    {
+      "played_at": "2026-10-28T00:11:00.246Z",
+      "name": "ROXANNE",
+      "artists": [
+        "Arizona Zervas"
+      ],
+      "album": "ROXANNE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+      "uri": "spotify:track:696DnlkuDOXcMAnKlTgXXK",
+      "duration_ms": 163636
+    },
+    {
+      "played_at": "2026-10-28T11:01:01.092Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
     }
   ]
 }
