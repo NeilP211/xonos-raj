@@ -1,252 +1,6 @@
 {
-  "updated_at": "2026-10-28T11:56:14.504Z",
+  "updated_at": "2026-10-28T17:50:57.872Z",
   "plays": [
-    {
-      "played_at": "2026-08-10T23:13:08.674Z",
-      "name": "Special",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "Keep it goin xav",
-      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-      "duration_ms": 104650
-    },
-    {
-      "played_at": "2026-08-10T23:19:18.410Z",
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "artists": [
-        "Kodak Black",
-        "Offset",
-        "Travis Scott"
-      ],
-      "album": "Dying to Live",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
-      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
-      "duration_ms": 228759
-    },
-    {
-      "played_at": "2026-08-10T23:21:50.441Z",
-      "name": "Singapore (feat. Destroy Lonely)",
-      "artists": [
-        "Ken Carson",
-        "Destroy Lonely"
-      ],
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "uri": "spotify:track:56QNTK715IJeYmJP2grB5f",
-      "duration_ms": 151581
-    },
-    {
-      "played_at": "2026-08-10T23:32:35.847Z",
-      "name": "VOY A LLeVARTE PA PR",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-      "duration_ms": 156364
-    },
-    {
-      "played_at": "2026-08-11T17:31:59.624Z",
-      "name": "Paint It, Black - (Original Single Mono Version)",
-      "artists": [
-        "The Rolling Stones"
-      ],
-      "album": "Singles 1965-1967",
-      "image": "https://i.scdn.co/image/ab67616d0000b273196ddacc8968e22242285745",
-      "uri": "spotify:track:7lY8aoN3wUR3NY4nUwigPv",
-      "duration_ms": 224133
-    },
-    {
-      "played_at": "2026-08-11T21:45:05.692Z",
-      "name": "Back In Bidness",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Back In Bidness",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
-      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
-      "duration_ms": 137142
-    },
-    {
-      "played_at": "2026-08-11T21:55:30.966Z",
-      "name": "World, Hold On - FISHER Rework",
-      "artists": [
-        "Bob Sinclar",
-        "Steve Edwards",
-        "FISHER"
-      ],
-      "album": "World, Hold On (FISHER Rework)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
-      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
-      "duration_ms": 178304
-    },
-    {
-      "played_at": "2026-08-11T22:00:19.318Z",
-      "name": "Gonna Be",
-      "artists": [
-        "Daniel Wolf"
-      ],
-      "album": "Gonna Be",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
-      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
-      "duration_ms": 213750
-    },
-    {
-      "played_at": "2026-08-11T22:17:02.009Z",
-      "name": "wokeuplikethis*",
-      "artists": [
-        "Playboi Carti",
-        "Lil Uzi Vert"
-      ],
-      "album": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-      "uri": "spotify:track:59J5nzL1KniFHnU120dQzt",
-      "duration_ms": 235535
-    },
-    {
-      "played_at": "2026-08-11T22:17:59.056Z",
-      "name": "Rich Nigga Shit (feat. Young Thug)",
-      "artists": [
-        "21 Savage",
-        "Metro Boomin",
-        "Young Thug"
-      ],
-      "album": "SAVAGE MODE II",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
-      "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
-      "duration_ms": 190331
-    },
-    {
-      "played_at": "2026-08-12T04:01:16.225Z",
-      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-      "artists": [
-        "lil ricefield",
-        "seiji oda"
-      ],
-      "album": "Eat Rice Dummy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-      "duration_ms": 106666
-    },
-    {
-      "played_at": "2026-08-12T14:31:50.963Z",
-      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-      "artists": [
-        "lil ricefield",
-        "seiji oda"
-      ],
-      "album": "Eat Rice Dummy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-      "duration_ms": 106666
-    },
-    {
-      "played_at": "2026-08-12T17:57:08.285Z",
-      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-      "artists": [
-        "lil ricefield",
-        "seiji oda"
-      ],
-      "album": "Eat Rice Dummy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-      "duration_ms": 106666
-    },
-    {
-      "played_at": "2026-08-12T18:04:40.485Z",
-      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-      "artists": [
-        "lil ricefield",
-        "seiji oda"
-      ],
-      "album": "Eat Rice Dummy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-      "duration_ms": 106666
-    },
-    {
-      "played_at": "2026-08-12T22:00:10.153Z",
-      "name": "Would? (2022 Remaster)",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Dirt (2022 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-      "uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
-      "duration_ms": 206773
-    },
-    {
-      "played_at": "2026-08-12T22:05:29.185Z",
-      "name": "Black Hole Sun",
-      "artists": [
-        "Soundgarden"
-      ],
-      "album": "Superunknown (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
-      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
-      "duration_ms": 318586
-    },
-    {
-      "played_at": "2026-08-12T22:10:22.223Z",
-      "name": "Even Flow",
-      "artists": [
-        "Pearl Jam"
-      ],
-      "album": "Ten",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0",
-      "uri": "spotify:track:6QewNVIDKdSl8Y3ycuHIei",
-      "duration_ms": 292579
-    },
-    {
-      "played_at": "2026-08-12T22:20:16.285Z",
-      "name": "1979 - Remastered 2012",
-      "artists": [
-        "The Smashing Pumpkins"
-      ],
-      "album": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
-      "uri": "spotify:track:5QLHGv0DfpeXLNFo7SFEy1",
-      "duration_ms": 266200
-    },
-    {
-      "played_at": "2026-08-12T22:32:40.519Z",
-      "name": "Rooster (2022 Remaster)",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Dirt (2022 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-      "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2",
-      "duration_ms": 374333
-    },
-    {
-      "played_at": "2026-08-12T22:37:24.695Z",
-      "name": "Sick Love",
-      "artists": [
-        "Red Hot Chili Peppers"
-      ],
-      "album": "The Getaway",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef",
-      "uri": "spotify:track:6GsP3uMCd0Dn5T37C93waZ",
-      "duration_ms": 221440
-    },
-    {
-      "played_at": "2026-08-12T22:40:53.370Z",
-      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-      "artists": [
-        "lil ricefield",
-        "seiji oda"
-      ],
-      "album": "Eat Rice Dummy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-      "duration_ms": 106666
-    },
     {
       "played_at": "2026-08-12T22:58:22.283Z",
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
@@ -22930,6 +22684,245 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
       "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
       "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-28T11:04:03.734Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-28T11:07:28.633Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-28T11:09:31.306Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-28T11:11:18.559Z",
+      "name": "Pain",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "to hell with it",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+      "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+      "duration_ms": 98544
+    },
+    {
+      "played_at": "2026-10-28T11:15:12.507Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-28T11:17:45.145Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-10-28T11:21:42.641Z",
+      "name": "Don't Dream It's Over",
+      "artists": [
+        "Crowded House"
+      ],
+      "album": "Crowded House",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+      "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
+      "duration_ms": 236933
+    },
+    {
+      "played_at": "2026-10-28T12:50:54.317Z",
+      "name": "Cheri Cheri Lady",
+      "artists": [
+        "Modern Talking"
+      ],
+      "album": "Let's Talk About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aedd9728f5cc4b13ee49e061",
+      "uri": "spotify:track:2aEuA8PSqLa17Y4hKPj5rr",
+      "duration_ms": 226333
+    },
+    {
+      "played_at": "2026-10-28T12:57:48.735Z",
+      "name": "R.I.P.",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:3L0IKstjUgDFVQAbQIRZRv",
+      "duration_ms": 192026
+    },
+    {
+      "played_at": "2026-10-28T15:20:33.364Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-28T15:22:48.617Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-28T15:26:24.424Z",
+      "name": "3.5",
+      "artists": [
+        "ian"
+      ],
+      "album": "Goodbye Horses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+      "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+      "duration_ms": 156444
+    },
+    {
+      "played_at": "2026-10-28T15:29:50.720Z",
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "artists": [
+        "Trippie Redd",
+        "Coi Leray"
+      ],
+      "album": "!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+      "duration_ms": 205701
+    },
+    {
+      "played_at": "2026-10-28T15:44:16.083Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-28T15:45:47.807Z",
+      "name": "The Grinch",
+      "artists": [
+        "Trippie Redd"
+      ],
+      "album": "A Love Letter To You 4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
+      "uri": "spotify:track:2VKHWIONh47ntN7wyoSxEQ",
+      "duration_ms": 91288
+    },
+    {
+      "played_at": "2026-10-28T15:50:47.315Z",
+      "name": "Passionfruit",
+      "artists": [
+        "Drake"
+      ],
+      "album": "More Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+      "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+      "duration_ms": 298940
+    },
+    {
+      "played_at": "2026-10-28T15:52:53.955Z",
+      "name": "Drip or Drown",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "Drip or Drown",
+      "image": "https://i.scdn.co/image/ab67616d0000b273340cf6dc6c0118e1458ce308",
+      "uri": "spotify:track:6ZthdsKjWtiCxnxbhs74vF",
+      "duration_ms": 126168
+    },
+    {
+      "played_at": "2026-10-28T15:55:26.058Z",
+      "name": "Singapore (feat. Destroy Lonely)",
+      "artists": [
+        "Ken Carson",
+        "Destroy Lonely"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:56QNTK715IJeYmJP2grB5f",
+      "duration_ms": 151581
+    },
+    {
+      "played_at": "2026-10-28T15:58:46.501Z",
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "artists": [
+        "Metro Boomin",
+        "Future",
+        "Don Toliver"
+      ],
+      "album": "HEROES & VILLAINS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+      "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+      "duration_ms": 199920
+    },
+    {
+      "played_at": "2026-10-28T16:52:43.936Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-28T16:55:22.534Z",
+      "name": "Heather",
+      "artists": [
+        "4zz",
+        "GBG shiek"
+      ],
+      "album": "Heather",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a9ca1474b741e3054f68ade",
+      "uri": "spotify:track:6wC3tZQSFFOaekyEvXwYF0",
+      "duration_ms": 113973
     }
   ]
 }
