@@ -1,138 +1,6 @@
 {
-  "updated_at": "2026-10-27T21:40:50.731Z",
+  "updated_at": "2026-10-28T03:29:00.852Z",
   "plays": [
-    {
-      "played_at": "2026-08-10T22:04:57.822Z",
-      "name": "Would? (2022 Remaster)",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Dirt (2022 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-      "uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
-      "duration_ms": 206773
-    },
-    {
-      "played_at": "2026-08-10T22:13:28.959Z",
-      "name": "Sultans of Swing",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Dire Straits",
-      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
-      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
-      "duration_ms": 348760
-    },
-    {
-      "played_at": "2026-08-10T22:29:28.848Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-08-10T22:32:52.521Z",
-      "name": "Quickest Routes",
-      "artists": [
-        "Shoreline Mafia",
-        "Disco Lines",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Disco Mafia Pack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
-      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
-      "duration_ms": 134400
-    },
-    {
-      "played_at": "2026-08-10T22:37:08.580Z",
-      "name": "Lean Wit Me",
-      "artists": [
-        "Juice WRLD"
-      ],
-      "album": "Goodbye & Good Riddance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-      "uri": "spotify:track:3oDkdAySo1VQQG0ptV7uwa",
-      "duration_ms": 175755
-    },
-    {
-      "played_at": "2026-08-10T22:43:14.711Z",
-      "name": "Too Many Nights (feat. Don Toliver & with Future)",
-      "artists": [
-        "Metro Boomin",
-        "Future",
-        "Don Toliver"
-      ],
-      "album": "HEROES & VILLAINS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
-      "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
-      "duration_ms": 199920
-    },
-    {
-      "played_at": "2026-08-10T22:49:02.701Z",
-      "name": "Touch Down",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Back In Bidness",
-      "image": "https://i.scdn.co/image/ab67616d0000b27397d2079a834443fc82547f3c",
-      "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
-      "duration_ms": 203428
-    },
-    {
-      "played_at": "2026-08-10T22:51:09.332Z",
-      "name": "Drip or Drown",
-      "artists": [
-        "Gunna"
-      ],
-      "album": "Drip or Drown",
-      "image": "https://i.scdn.co/image/ab67616d0000b273340cf6dc6c0118e1458ce308",
-      "uri": "spotify:track:6ZthdsKjWtiCxnxbhs74vF",
-      "duration_ms": 126168
-    },
-    {
-      "played_at": "2026-08-10T22:53:26.428Z",
-      "name": "LOT OF ME",
-      "artists": [
-        "Lil Tecca"
-      ],
-      "album": "We Love You Tecca 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f156ced88fa6920e86ddf11f",
-      "uri": "spotify:track:2ZXxRC6V6AXzMdbLQZMHSB",
-      "duration_ms": 123870
-    },
-    {
-      "played_at": "2026-08-10T22:55:11.679Z",
-      "name": "Coffin",
-      "artists": [
-        "Lil Yachty"
-      ],
-      "album": "Lil Boat 3.5",
-      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-      "duration_ms": 89535
-    },
-    {
-      "played_at": "2026-08-10T23:01:03.138Z",
-      "name": "Lemonade",
-      "artists": [
-        "Tay-K"
-      ],
-      "album": "#SantanaWorld (+)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
-      "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
-      "duration_ms": 132000
-    },
     {
       "played_at": "2026-08-10T23:03:49.993Z",
       "name": "Nuketown",
@@ -22943,6 +22811,128 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
       "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
       "duration_ms": 157779
+    },
+    {
+      "played_at": "2026-10-27T16:29:47.229Z",
+      "name": "ROXANNE",
+      "artists": [
+        "Arizona Zervas"
+      ],
+      "album": "ROXANNE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+      "uri": "spotify:track:696DnlkuDOXcMAnKlTgXXK",
+      "duration_ms": 163636
+    },
+    {
+      "played_at": "2026-10-27T22:38:22.799Z",
+      "name": "ROXANNE",
+      "artists": [
+        "Arizona Zervas"
+      ],
+      "album": "ROXANNE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+      "uri": "spotify:track:696DnlkuDOXcMAnKlTgXXK",
+      "duration_ms": 163636
+    },
+    {
+      "played_at": "2026-10-27T22:43:30.483Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-27T22:48:20.104Z",
+      "name": "Mighty Wings - From \"Top Gun\" Original Soundtrack",
+      "artists": [
+        "Cheap Trick"
+      ],
+      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
+      "uri": "spotify:track:32SckiFOYb8bwYewY51WA7",
+      "duration_ms": 231039
+    },
+    {
+      "played_at": "2026-10-27T22:59:29.311Z",
+      "name": "Swerve City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:2OUR8g12h5qsGDs1v5lqvp",
+      "duration_ms": 164986
+    },
+    {
+      "played_at": "2026-10-27T23:08:37.902Z",
+      "name": "life imitates life",
+      "artists": [
+        "quannnic"
+      ],
+      "album": "kenopsia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4e7b3e9d85d126a500340c1",
+      "uri": "spotify:track:7gh5QJgbtHayTzz2rUu4mL",
+      "duration_ms": 203294
+    },
+    {
+      "played_at": "2026-10-27T23:25:14.217Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-10-27T23:30:46.184Z",
+      "name": "...and Suffer As One",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Odd Fellows Rest",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
+      "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
+      "duration_ms": 249813
+    },
+    {
+      "played_at": "2026-10-27T23:35:58.498Z",
+      "name": "ROXANNE",
+      "artists": [
+        "Arizona Zervas"
+      ],
+      "album": "ROXANNE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+      "uri": "spotify:track:696DnlkuDOXcMAnKlTgXXK",
+      "duration_ms": 163636
+    },
+    {
+      "played_at": "2026-10-27T23:59:35.195Z",
+      "name": "3.5",
+      "artists": [
+        "ian"
+      ],
+      "album": "Goodbye Horses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+      "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+      "duration_ms": 156444
+    },
+    {
+      "played_at": "2026-10-28T00:06:32.634Z",
+      "name": "Blueberry Faygo",
+      "artists": [
+        "Lil Mosey"
+      ],
+      "album": "Certified Hitmaker",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730824105a6282782aaabb0584",
+      "uri": "spotify:track:22LAwLoDA5b4AaGSkg6bKW",
+      "duration_ms": 162546
     }
   ]
 }
