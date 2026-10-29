@@ -1,488 +1,6 @@
 {
-  "updated_at": "2026-10-29T12:05:03.066Z",
+  "updated_at": "2026-10-29T20:00:17.471Z",
   "plays": [
-    {
-      "played_at": "2026-08-13T22:58:50.683Z",
-      "name": "Fade - Grant Nelson Big Room Remix",
-      "artists": [
-        "Solu Music",
-        "KimBlee"
-      ],
-      "album": "Fade",
-      "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
-      "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
-      "duration_ms": 175840
-    },
-    {
-      "played_at": "2026-08-13T23:06:51.702Z",
-      "name": "Massive X Touch Me",
-      "artists": [
-        "NovaX",
-        "Sevven"
-      ],
-      "album": "Massive X Touch Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-      "duration_ms": 174160
-    },
-    {
-      "played_at": "2026-08-13T23:22:21.598Z",
-      "name": "Find My Way Home",
-      "artists": [
-        "Sammy Virji"
-      ],
-      "album": "Find My Way Home",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731cc9594eb4e8e4cc6aabe090",
-      "uri": "spotify:track:1yIi7qRdybE4yY1V0YdOKG",
-      "duration_ms": 258858
-    },
-    {
-      "played_at": "2026-08-14T18:30:47.490Z",
-      "name": "Kung Fu Panda",
-      "artists": [
-        "Young Yayo",
-        "We$"
-      ],
-      "album": "Kung Fu Panda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-      "duration_ms": 111699
-    },
-    {
-      "played_at": "2026-08-14T18:32:34.605Z",
-      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-      "artists": [
-        "lil ricefield",
-        "seiji oda"
-      ],
-      "album": "Eat Rice Dummy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-      "duration_ms": 106666
-    },
-    {
-      "played_at": "2026-08-14T18:36:32.038Z",
-      "name": "Don't Dream It's Over",
-      "artists": [
-        "Crowded House"
-      ],
-      "album": "Crowded House",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-      "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-      "duration_ms": 236933
-    },
-    {
-      "played_at": "2026-08-14T19:20:21.210Z",
-      "name": "Hollow",
-      "artists": [
-        "Pantera"
-      ],
-      "album": "Vulgar Display of Power",
-      "image": "https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6",
-      "uri": "spotify:track:1lM1ZHTvfKi5CMRjsZ4Sg9",
-      "duration_ms": 345733
-    },
-    {
-      "played_at": "2026-08-14T19:24:10.625Z",
-      "name": "Gonna Be",
-      "artists": [
-        "Daniel Wolf"
-      ],
-      "album": "Gonna Be",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
-      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
-      "duration_ms": 213750
-    },
-    {
-      "played_at": "2026-08-15T01:22:24.822Z",
-      "name": "World, Hold On - FISHER Rework",
-      "artists": [
-        "Bob Sinclar",
-        "Steve Edwards",
-        "FISHER"
-      ],
-      "album": "World, Hold On (FISHER Rework)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
-      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
-      "duration_ms": 178304
-    },
-    {
-      "played_at": "2026-08-15T17:34:57.286Z",
-      "name": "Don't Dream It's Over",
-      "artists": [
-        "Crowded House"
-      ],
-      "album": "Crowded House",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-      "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-      "duration_ms": 236933
-    },
-    {
-      "played_at": "2026-08-15T17:35:03.651Z",
-      "name": "Touch Down",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Back In Bidness",
-      "image": "https://i.scdn.co/image/ab67616d0000b27397d2079a834443fc82547f3c",
-      "uri": "spotify:track:4K4GL5CVZrkQFj1xb22gRP",
-      "duration_ms": 203428
-    },
-    {
-      "played_at": "2026-08-16T12:19:10.791Z",
-      "name": "Kung Fu Panda",
-      "artists": [
-        "Young Yayo",
-        "We$"
-      ],
-      "album": "Kung Fu Panda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-      "duration_ms": 111699
-    },
-    {
-      "played_at": "2026-08-16T15:19:08.144Z",
-      "name": "Everything In Its Right Place",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "Kid A",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-      "duration_ms": 251426
-    },
-    {
-      "played_at": "2026-08-16T17:06:36.097Z",
-      "name": "VOY A LLeVARTE PA PR",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
-      "duration_ms": 156364
-    },
-    {
-      "played_at": "2026-08-16T17:10:10.298Z",
-      "name": "Gonna Be",
-      "artists": [
-        "Daniel Wolf"
-      ],
-      "album": "Gonna Be",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
-      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
-      "duration_ms": 213750
-    },
-    {
-      "played_at": "2026-08-16T17:17:35.374Z",
-      "name": "Don't Dream It's Over",
-      "artists": [
-        "Crowded House"
-      ],
-      "album": "Crowded House",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
-      "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
-      "duration_ms": 236933
-    },
-    {
-      "played_at": "2026-08-16T17:21:59.174Z",
-      "name": "Springsteen",
-      "artists": [
-        "Eric Church"
-      ],
-      "album": "Chief",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
-      "duration_ms": 263386
-    },
-    {
-      "played_at": "2026-08-16T17:28:46.617Z",
-      "name": "fukumean",
-      "artists": [
-        "Gunna"
-      ],
-      "album": "a Gift & a Curse",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-      "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
-      "duration_ms": 125040
-    },
-    {
-      "played_at": "2026-08-16T17:34:22.017Z",
-      "name": "Heather",
-      "artists": [
-        "4zz",
-        "GBG shiek",
-        "S9ine",
-        "Kyle Richh"
-      ],
-      "album": "Heather",
-      "image": "https://i.scdn.co/image/ab67616d0000b27349438384ddb1d252e2732b92",
-      "uri": "spotify:track:6MBRAa2JUEQO1DcP6McjGl",
-      "duration_ms": 113963
-    },
-    {
-      "played_at": "2026-08-16T17:40:39.816Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-08-16T22:59:58.909Z",
-      "name": "Chamber Of Reflection",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "Salad Days",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
-      "uri": "spotify:track:1Snko28yJOihcRVXs9dAo9",
-      "duration_ms": 231723
-    },
-    {
-      "played_at": "2026-08-16T23:02:19.721Z",
-      "name": "Kung Fu Panda",
-      "artists": [
-        "Young Yayo",
-        "We$"
-      ],
-      "album": "Kung Fu Panda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-      "duration_ms": 111699
-    },
-    {
-      "played_at": "2026-08-16T23:04:06.849Z",
-      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-      "artists": [
-        "lil ricefield",
-        "seiji oda"
-      ],
-      "album": "Eat Rice Dummy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-      "duration_ms": 106666
-    },
-    {
-      "played_at": "2026-08-16T23:08:01.530Z",
-      "name": "Gonna Be",
-      "artists": [
-        "Daniel Wolf"
-      ],
-      "album": "Gonna Be",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
-      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
-      "duration_ms": 213750
-    },
-    {
-      "played_at": "2026-08-16T23:13:13.961Z",
-      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
-      "artists": [
-        "Shoreline Mafia",
-        "Fenix Flexin",
-        "OHGEESY"
-      ],
-      "album": "OTXmas",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
-      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
-      "duration_ms": 164400
-    },
-    {
-      "played_at": "2026-08-17T02:08:18.042Z",
-      "name": "Moonlight on the River",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "This Old Dog",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
-      "duration_ms": 422613
-    },
-    {
-      "played_at": "2026-08-17T02:12:48.219Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-08-17T02:20:02.307Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-08-17T02:35:14.384Z",
-      "name": "Blue Hair",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Death of a Party Girl",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
-      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
-      "duration_ms": 217000
-    },
-    {
-      "played_at": "2026-08-18T00:43:51.820Z",
-      "name": "Sugar, Sugar",
-      "artists": [
-        "The Archies"
-      ],
-      "album": "The Very Best Of \"The Archies\"",
-      "image": "https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f",
-      "uri": "spotify:track:3iSws76HjaU7k49EqJVTfF",
-      "duration_ms": 167186
-    },
-    {
-      "played_at": "2026-08-18T00:46:41.921Z",
-      "name": "Ain't That A Kick In The Head - Remastered 1997",
-      "artists": [
-        "Dean Martin"
-      ],
-      "album": "At The Movies",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734d3ff72e140b46903b52765c",
-      "uri": "spotify:track:4qQ8sToR3GNossXlwSlyKz",
-      "duration_ms": 147293
-    },
-    {
-      "played_at": "2026-08-18T02:45:31.780Z",
-      "name": "Beyond the Sea",
-      "artists": [
-        "Bobby Darin"
-      ],
-      "album": "That's All",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e774643594281699bde1e4ed",
-      "uri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg",
-      "duration_ms": 172480
-    },
-    {
-      "played_at": "2026-08-18T03:39:53.401Z",
-      "name": "Supalonely",
-      "artists": [
-        "BENEE",
-        "Gus Dapperton"
-      ],
-      "album": "STELLA & STEVE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27382f4ec53c54bdd5be4eed4a0",
-      "uri": "spotify:track:4nK5YrxbMGZstTLbvj6Gxw",
-      "duration_ms": 223480
-    },
-    {
-      "played_at": "2026-08-18T04:56:06.125Z",
-      "name": "Back In Bidness",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Back In Bidness",
-      "image": "https://i.scdn.co/image/ab67616d0000b27397d2079a834443fc82547f3c",
-      "uri": "spotify:track:4HyBDkCeRJWN1eOT2GELcL",
-      "duration_ms": 137142
-    },
-    {
-      "played_at": "2026-08-18T05:15:09.663Z",
-      "name": "CORONA CHRONICLES (feat. Seiji Oda)",
-      "artists": [
-        "lil ricefield",
-        "seiji oda"
-      ],
-      "album": "Eat Rice Dummy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d29ad369dad5e12a22185e12",
-      "uri": "spotify:track:0DIVTg7wb0732hhwOCq7N2",
-      "duration_ms": 106666
-    },
-    {
-      "played_at": "2026-08-18T05:17:01.813Z",
-      "name": "Kung Fu Panda",
-      "artists": [
-        "Young Yayo",
-        "We$"
-      ],
-      "album": "Kung Fu Panda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-      "duration_ms": 111699
-    },
-    {
-      "played_at": "2026-08-18T05:18:03.666Z",
-      "name": "I'm Through With Love",
-      "artists": [
-        "Dion & The Belmonts"
-      ],
-      "album": "Wish Upon A Star",
-      "image": "https://i.scdn.co/image/ab67616d0000b273318c9027bcae3d352bed7462",
-      "uri": "spotify:track:46PXkh7fx2Fgo0049zWLZJ",
-      "duration_ms": 137000
-    },
-    {
-      "played_at": "2026-08-18T19:42:01.728Z",
-      "name": "Kung Fu Panda",
-      "artists": [
-        "Young Yayo",
-        "We$"
-      ],
-      "album": "Kung Fu Panda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-      "duration_ms": 111699
-    },
-    {
-      "played_at": "2026-08-18T20:27:55.920Z",
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
-      "artists": [
-        "Kenny Loggins"
-      ],
-      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
-      "uri": "spotify:track:3hMHG6lx9QHVcfYSUr5PoM",
-      "duration_ms": 216133
-    },
-    {
-      "played_at": "2026-08-18T20:32:00.337Z",
-      "name": "Work",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Work",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
-      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
-      "duration_ms": 135861
-    },
-    {
-      "played_at": "2026-08-18T20:33:45.037Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
     {
       "played_at": "2026-08-18T20:45:24.603Z",
       "name": "Magnolia",
@@ -22921,6 +22439,473 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731f174c80242142ad9306df3b",
       "uri": "spotify:track:4VkEkljlOC5cMbRMhREO5E",
       "duration_ms": 150660
+    },
+    {
+      "played_at": "2026-10-29T13:12:54.462Z",
+      "name": "Just the Two of Us (feat. Bill Withers) - Edit",
+      "artists": [
+        "Grover Washington, Jr.",
+        "Bill Withers"
+      ],
+      "album": "Lean on Me: The Best of Bill Withers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35",
+      "uri": "spotify:track:2tH28YyKYOldxhuBHoI79M",
+      "duration_ms": 237373
+    },
+    {
+      "played_at": "2026-10-29T13:15:12.281Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-29T13:23:36.587Z",
+      "name": "Lean Wit Me",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:3oDkdAySo1VQQG0ptV7uwa",
+      "duration_ms": 175755
+    },
+    {
+      "played_at": "2026-10-29T13:29:34.915Z",
+      "name": "On Fire - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
+      "uri": "spotify:track:6Acw8q4nBEPLQFNOjb9j4O",
+      "duration_ms": 180853
+    },
+    {
+      "played_at": "2026-10-29T13:38:31.987Z",
+      "name": "Beautiful Girls - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen II (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f09b618bc81755c0d817bd20",
+      "uri": "spotify:track:7Ly4DzymgujObKg7wWVHZV",
+      "duration_ms": 236240
+    },
+    {
+      "played_at": "2026-10-29T13:44:46.080Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-10-29T13:49:59.375Z",
+      "name": "Hells Bells",
+      "artists": [
+        "AC/DC"
+      ],
+      "album": "Back In Black",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
+      "uri": "spotify:track:69QHm3pustz01CJRwdo20z",
+      "duration_ms": 312815
+    },
+    {
+      "played_at": "2026-10-29T14:00:00.176Z",
+      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "Van Halen (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
+      "uri": "spotify:track:6fybp4N6eW3bsFAvARxyVe",
+      "duration_ms": 227800
+    },
+    {
+      "played_at": "2026-10-29T14:10:16.535Z",
+      "name": "Rotten Apple",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
+      "duration_ms": 418466
+    },
+    {
+      "played_at": "2026-10-29T14:17:16.921Z",
+      "name": "Floods",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "The Great Southern Trendkill",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e698b41c758c1a49fecbc1cf",
+      "uri": "spotify:track:1L2ZkXbRX00ZiaUDuMMgf7",
+      "duration_ms": 419893
+    },
+    {
+      "played_at": "2026-10-29T15:21:39.458Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-10-29T15:22:22.828Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-10-29T16:52:40.591Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-29T16:55:18.788Z",
+      "name": "OUT WEST (feat. Young Thug)",
+      "artists": [
+        "JACKBOYS",
+        "Travis Scott",
+        "Young Thug"
+      ],
+      "album": "JACKBOYS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b920fc01c37be38130418a34",
+      "uri": "spotify:track:6gi6y1xwmVszDWkUqab1qw",
+      "duration_ms": 157712
+    },
+    {
+      "played_at": "2026-10-29T16:57:05.788Z",
+      "name": "Yale",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "Teen X",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e34f259b461e589917140e65",
+      "uri": "spotify:track:66yPalPs9DrhbGb9gR3vD9",
+      "duration_ms": 106533
+    },
+    {
+      "played_at": "2026-10-29T16:59:22.146Z",
+      "name": "Work",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Work",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
+      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
+      "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-10-29T17:02:22.680Z",
+      "name": "FAKENGGAS",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "NO STYLIST",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316253391849ee562db8da541",
+      "uri": "spotify:track:6BlfsdUgeFwkFC30cD4EFO",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-10-29T17:05:54.879Z",
+      "name": "Long Time - Intro",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:4IO2X2YoXoUMv0M2rwomLC",
+      "duration_ms": 211773
+    },
+    {
+      "played_at": "2026-10-29T17:09:22.277Z",
+      "name": "In The Air",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "In The Air",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a36ff1ccb437954a2e7554b0",
+      "uri": "spotify:track:3y67OmsYWyCevujkT4N6q1",
+      "duration_ms": 206878
+    },
+    {
+      "played_at": "2026-10-29T17:11:13.671Z",
+      "name": "Who's Dat",
+      "artists": [
+        "ABG Neal"
+      ],
+      "album": "Who's Dat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5aea629e18c12f931d111a3",
+      "uri": "spotify:track:1kg3sjif9p9Qvq4zWDGpcK",
+      "duration_ms": 110837
+    },
+    {
+      "played_at": "2026-10-29T17:13:42.426Z",
+      "name": "Fuck It Up (feat. Mike Sherm)",
+      "artists": [
+        "Shoreline Mafia",
+        "Mike Sherm",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:6M4L9ta9VvA7noaWHYE1BP",
+      "duration_ms": 148285
+    },
+    {
+      "played_at": "2026-10-29T17:18:37.770Z",
+      "name": "Flight's Booked",
+      "artists": [
+        "Drake"
+      ],
+      "album": "Honestly, Nevermind",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+      "uri": "spotify:track:6Yj7Zhxt73uvwFFvzQXdxO",
+      "duration_ms": 254407
+    },
+    {
+      "played_at": "2026-10-29T17:20:23.266Z",
+      "name": "I <3 My Choppa",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:0Dk9lP1YnOqssHH0oCeq9u",
+      "duration_ms": 105000
+    },
+    {
+      "played_at": "2026-10-29T17:23:01.366Z",
+      "name": "GUMMO",
+      "artists": [
+        "6ix9ine"
+      ],
+      "album": "Day69: Graduation Day",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
+      "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt",
+      "duration_ms": 157643
+    },
+    {
+      "played_at": "2026-10-29T17:25:50.662Z",
+      "name": "Location",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+      "duration_ms": 168783
+    },
+    {
+      "played_at": "2026-10-29T17:28:08.160Z",
+      "name": "Dark Thoughts",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "DOPAMINE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+      "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
+      "duration_ms": 136991
+    },
+    {
+      "played_at": "2026-10-29T17:31:57.389Z",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "artists": [
+        "Kodak Black",
+        "Offset",
+        "Travis Scott"
+      ],
+      "album": "Dying to Live",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
+      "uri": "spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z",
+      "duration_ms": 228759
+    },
+    {
+      "played_at": "2026-10-29T17:34:02.854Z",
+      "name": "hyperjerk",
+      "artists": [
+        "thesoupiscold"
+      ],
+      "album": "hyperjerk",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379eadb971684b25e4eefa095",
+      "uri": "spotify:track:4N9CzZCUwbqGByoudr91SG",
+      "duration_ms": 124941
+    },
+    {
+      "played_at": "2026-10-29T17:37:41.706Z",
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "artists": [
+        "Drake",
+        "21 Savage"
+      ],
+      "album": "Honestly, Nevermind",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+      "uri": "spotify:track:3F5CgOj3wFlRv51JsHbxhe",
+      "duration_ms": 218364
+    },
+    {
+      "played_at": "2026-10-29T17:39:48.350Z",
+      "name": "Drip or Drown",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "Drip or Drown",
+      "image": "https://i.scdn.co/image/ab67616d0000b273340cf6dc6c0118e1458ce308",
+      "uri": "spotify:track:6ZthdsKjWtiCxnxbhs74vF",
+      "duration_ms": 126168
+    },
+    {
+      "played_at": "2026-10-29T17:42:50.747Z",
+      "name": "Magnolia",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:1e1JKLEDKP7hEQzJfNAgPl",
+      "duration_ms": 181812
+    },
+    {
+      "played_at": "2026-10-29T17:44:47.245Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-10-29T17:50:24.541Z",
+      "name": "Catch Me Outside",
+      "artists": [
+        "Ski Mask The Slump God"
+      ],
+      "album": "You Will Regret (Reloaded)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
+      "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
+      "duration_ms": 145760
+    },
+    {
+      "played_at": "2026-10-29T17:54:15.537Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-10-29T18:01:46.188Z",
+      "name": "Dark Knight Dummo (feat. Travis Scott)",
+      "artists": [
+        "Trippie Redd",
+        "Travis Scott"
+      ],
+      "album": "LIFE'S A TRIP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+      "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+      "duration_ms": 256161
+    },
+    {
+      "played_at": "2026-10-29T18:03:48.724Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-10-29T18:06:17.822Z",
+      "name": "Make No Sense",
+      "artists": [
+        "YoungBoy Never Broke Again"
+      ],
+      "album": "AI YoungBoy 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a92eb0e4fcbe2fb6e1208e5",
+      "uri": "spotify:track:6klLvorLoo1sxvZcjJIY8I",
+      "duration_ms": 148629
+    },
+    {
+      "played_at": "2026-10-29T18:08:28.056Z",
+      "name": "ROCKIN",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "ROCKIN",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335b588e9e25ed47ffda85274",
+      "uri": "spotify:track:6m5cyVx8qLqu69MFiBVnMI",
+      "duration_ms": 129722
+    },
+    {
+      "played_at": "2026-10-29T18:10:45.722Z",
+      "name": "Magic Johnson",
+      "artists": [
+        "ian"
+      ],
+      "album": "Valedictorian [Deluxe]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+      "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
+      "duration_ms": 137158
+    },
+    {
+      "played_at": "2026-10-29T18:13:22.715Z",
+      "name": "3.5",
+      "artists": [
+        "ian"
+      ],
+      "album": "Goodbye Horses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+      "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+      "duration_ms": 156444
+    },
+    {
+      "played_at": "2026-10-29T18:22:24.635Z",
+      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin",
+        "OHGEESY"
+      ],
+      "album": "OTXmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
+      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
+      "duration_ms": 164400
     }
   ]
 }
