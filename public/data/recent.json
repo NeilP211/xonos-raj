@@ -1,142 +1,6 @@
 {
-  "updated_at": "2026-10-30T17:35:02.888Z",
+  "updated_at": "2026-10-30T21:51:22.816Z",
   "plays": [
-    {
-      "played_at": "2026-08-21T05:06:30.559Z",
-      "name": "Who's Dat",
-      "artists": [
-        "ABG Neal"
-      ],
-      "album": "Who's Dat",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c5aea629e18c12f931d111a3",
-      "uri": "spotify:track:1kg3sjif9p9Qvq4zWDGpcK",
-      "duration_ms": 110837
-    },
-    {
-      "played_at": "2026-08-21T05:13:05.451Z",
-      "name": "7 Summers",
-      "artists": [
-        "Morgan Wallen"
-      ],
-      "album": "Dangerous: The Double Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-      "duration_ms": 210506
-    },
-    {
-      "played_at": "2026-08-21T05:17:06.724Z",
-      "name": "All Along the Watchtower",
-      "artists": [
-        "Jimi Hendrix"
-      ],
-      "album": "Electric Ladyland",
-      "image": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
-      "uri": "spotify:track:2aoo2jlRnM3A0NyLQqMN2f",
-      "duration_ms": 240800
-    },
-    {
-      "played_at": "2026-08-21T05:29:30.187Z",
-      "name": "Broken Wings",
-      "artists": [
-        "Mr. Mister"
-      ],
-      "album": "Welcome To The Real World",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cfccabf39d00d34235d5bcd6",
-      "uri": "spotify:track:78FHUZRbFDCG6VkRAQdFLm",
-      "duration_ms": 343933
-    },
-    {
-      "played_at": "2026-08-21T05:31:45.066Z",
-      "name": "Quickest Routes",
-      "artists": [
-        "Shoreline Mafia",
-        "Disco Lines",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Disco Mafia Pack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
-      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
-      "duration_ms": 134400
-    },
-    {
-      "played_at": "2026-08-21T08:16:34.607Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-08-21T08:37:06.954Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-08-21T22:30:10.076Z",
-      "name": "Fade - Grant Nelson Big Room Remix",
-      "artists": [
-        "Solu Music",
-        "KimBlee"
-      ],
-      "album": "Fade",
-      "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
-      "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
-      "duration_ms": 175840
-    },
-    {
-      "played_at": "2026-08-22T11:03:40.577Z",
-      "name": "Every Breath You Take",
-      "artists": [
-        "The Police"
-      ],
-      "album": "Synchronicity (Remastered 2003)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-      "duration_ms": 253920
-    },
-    {
-      "played_at": "2026-08-22T11:12:59.366Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-08-22T15:32:25.485Z",
-      "name": "Blackbird - Remastered 2009",
-      "artists": [
-        "The Beatles"
-      ],
-      "album": "The Beatles (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
-      "uri": "spotify:track:5jgFfDIR6FR0gvlA56Nakr",
-      "duration_ms": 138386
-    },
-    {
-      "played_at": "2026-08-22T15:36:40.581Z",
-      "name": "Falling Behind",
-      "artists": [
-        "Laufey"
-      ],
-      "album": "Everything I Know About Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
-      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
-      "duration_ms": 173640
-    },
     {
       "played_at": "2026-08-22T15:39:17.619Z",
       "name": "Kung Fu Panda",
@@ -22923,6 +22787,142 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734c2c637dc7e4daeea8874dfe",
       "uri": "spotify:track:18QWiiCbP3Y5s4Xn4OB74O",
       "duration_ms": 127477
+    },
+    {
+      "played_at": "2026-10-30T18:26:17.579Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-10-30T18:30:13.072Z",
+      "name": "Make No Sense",
+      "artists": [
+        "YoungBoy Never Broke Again"
+      ],
+      "album": "AI YoungBoy 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a92eb0e4fcbe2fb6e1208e5",
+      "uri": "spotify:track:6klLvorLoo1sxvZcjJIY8I",
+      "duration_ms": 148629
+    },
+    {
+      "played_at": "2026-10-30T18:34:02.223Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-10-30T18:41:28.194Z",
+      "name": "Musty",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:2bkKnaLTMCghmjlcPBoYWd",
+      "duration_ms": 161557
+    },
+    {
+      "played_at": "2026-10-30T19:07:30.911Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-10-30T19:10:05.305Z",
+      "name": "Too Much For Me",
+      "artists": [
+        "SELKER"
+      ],
+      "album": "Too Much For Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+      "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+      "duration_ms": 153869
+    },
+    {
+      "played_at": "2026-10-30T19:10:38.900Z",
+      "name": "Big Poppa - 2005 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Ready to Die (The Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+      "uri": "spotify:track:2g8HN35AnVGIk7B8yMucww",
+      "duration_ms": 252746
+    },
+    {
+      "played_at": "2026-10-30T21:24:23.861Z",
+      "name": "Big Poppa - 2005 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Ready to Die (The Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+      "uri": "spotify:track:2g8HN35AnVGIk7B8yMucww",
+      "duration_ms": 252746
+    },
+    {
+      "played_at": "2026-10-30T21:26:07.117Z",
+      "name": "Big Poppa - 2005 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Ready to Die (The Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+      "uri": "spotify:track:2g8HN35AnVGIk7B8yMucww",
+      "duration_ms": 252746
+    },
+    {
+      "played_at": "2026-10-30T21:34:11.932Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-10-30T21:42:42.027Z",
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "artists": [
+        "Metro Boomin",
+        "Future",
+        "Don Toliver"
+      ],
+      "album": "HEROES & VILLAINS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+      "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+      "duration_ms": 199920
+    },
+    {
+      "played_at": "2026-10-30T21:47:06.782Z",
+      "name": "One Last Breath",
+      "artists": [
+        "Creed"
+      ],
+      "album": "Weathered",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a32f2ae4dade83e0d7a294f4",
+      "uri": "spotify:track:42T2QQv3xgBlpQxaSP7lnK",
+      "duration_ms": 238240
     }
   ]
 }

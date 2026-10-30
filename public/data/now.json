@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-30T17:35:02.980Z",
-  "is_playing": false,
+  "updated_at": "2026-10-30T21:51:23.064Z",
+  "is_playing": true,
   "track": {
-    "name": "Recover Artist",
+    "name": "My Own Prison",
     "artists": [
-      "devLfg"
+      "Creed"
     ],
-    "album": "Recover Artist",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734c2c637dc7e4daeea8874dfe",
-    "uri": "spotify:track:18QWiiCbP3Y5s4Xn4OB74O"
+    "album": "My Own Prison",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+    "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
   },
-  "played_at": "2026-10-30T16:57:17.644Z"
+  "played_at": "2026-10-30T21:51:23.064Z"
 }
