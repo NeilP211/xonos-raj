@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-31T20:51:27.276Z",
-  "is_playing": false,
+  "updated_at": "2026-10-31T23:53:32.065Z",
+  "is_playing": true,
   "track": {
-    "name": "Blind Spots",
+    "name": "My Own Prison",
     "artists": [
-      "C418"
+      "Creed"
     ],
-    "album": "Minecraft - Volume Beta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-    "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO"
+    "album": "My Own Prison",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+    "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
   },
-  "played_at": "2026-10-31T00:32:22.016Z"
+  "played_at": "2026-10-31T23:53:32.065Z"
 }
