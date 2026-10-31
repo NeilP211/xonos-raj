@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:51:22.630Z",
+  "generated_at": "2026-10-31T03:37:55.858Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -159,18 +159,6 @@
         },
         {
           "rank": 13,
-          "name": "Blind Spots",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
-          "url": "https://open.spotify.com/track/6Dc23uTvKTKbyDfZ3WAzEO",
-          "duration_ms": 332500
-        },
-        {
-          "rank": 14,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -182,7 +170,32 @@
           "duration_ms": 169999
         },
         {
+          "rank": 14,
+          "name": "Definition",
+          "artists": [
+            "2wo2imes",
+            "Glokk40Spaz"
+          ],
+          "album": "Glokk Files",
+          "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+          "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
+          "url": "https://open.spotify.com/track/08GNAA4fM4BEZ8yG9opdFy",
+          "duration_ms": 162560
+        },
+        {
           "rank": 15,
+          "name": "Blind Spots",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+          "url": "https://open.spotify.com/track/6Dc23uTvKTKbyDfZ3WAzEO",
+          "duration_ms": 332500
+        },
+        {
+          "rank": 16,
           "name": "ROXANNE",
           "artists": [
             "Arizona Zervas"
@@ -194,7 +207,7 @@
           "duration_ms": 163636
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Ski",
           "artists": [
             "Young Stoner Life",
@@ -208,7 +221,7 @@
           "duration_ms": 152333
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -218,19 +231,6 @@
           "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
           "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
           "duration_ms": 210506
-        },
-        {
-          "rank": 18,
-          "name": "Definition",
-          "artists": [
-            "2wo2imes",
-            "Glokk40Spaz"
-          ],
-          "album": "Glokk Files",
-          "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
-          "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
-          "url": "https://open.spotify.com/track/08GNAA4fM4BEZ8yG9opdFy",
-          "duration_ms": 162560
         },
         {
           "rank": 19,
@@ -309,6 +309,18 @@
         },
         {
           "rank": 25,
+          "name": "Warmth",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
+          "duration_ms": 239379
+        },
+        {
+          "rank": 26,
           "name": "Don't Worry Be Happy",
           "artists": [
             "Bobby McFerrin"
@@ -320,7 +332,7 @@
           "duration_ms": 294400
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "I <3 My Choppa",
           "artists": [
             "Tay-K"
@@ -332,7 +344,7 @@
           "duration_ms": 105000
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -346,7 +358,7 @@
           "duration_ms": 135861
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -361,7 +373,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Take It",
           "artists": [
             "Staind"
@@ -373,7 +385,7 @@
           "duration_ms": 215706
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -386,7 +398,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -401,7 +413,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -414,7 +426,7 @@
           "duration_ms": 168000
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -426,7 +438,7 @@
           "duration_ms": 184375
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Gët Busy",
           "artists": [
             "Yeat"
@@ -438,7 +450,7 @@
           "duration_ms": 157779
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Yung Nigga Shit",
           "artists": [
             "2wo2imes",
@@ -451,7 +463,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Rich Nigga Shit (feat. Young Thug)",
           "artists": [
             "21 Savage",
@@ -465,7 +477,7 @@
           "duration_ms": 190331
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -478,7 +490,7 @@
           "duration_ms": 205701
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Boston",
           "artists": [
             "STELLA LEFTY"
@@ -490,7 +502,7 @@
           "duration_ms": 170859
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Catch Me Outside",
           "artists": [
             "Ski Mask The Slump God"
@@ -502,7 +514,7 @@
           "duration_ms": 145760
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "mud",
           "artists": [
             "Destroy Lonely"
@@ -514,7 +526,7 @@
           "duration_ms": 107951
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Fool",
           "artists": [
             "OsamaSon"
@@ -526,7 +538,7 @@
           "duration_ms": 125562
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Ball Tongue",
           "artists": [
             "Korn"
@@ -538,7 +550,7 @@
           "duration_ms": 268533
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "M.... She Wrote",
           "artists": [
             "Tay-K"
@@ -548,18 +560,6 @@
           "uri": "spotify:track:1WRzux3cJRM9xRNN99QKgR",
           "url": "https://open.spotify.com/track/1WRzux3cJRM9xRNN99QKgR",
           "duration_ms": 112000
-        },
-        {
-          "rank": 44,
-          "name": "Warmth",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
-          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
-          "duration_ms": 239379
         },
         {
           "rank": 45,
@@ -587,6 +587,20 @@
         },
         {
           "rank": 47,
+          "name": "Too Many Nights (feat. Don Toliver & with Future)",
+          "artists": [
+            "Metro Boomin",
+            "Future",
+            "Don Toliver"
+          ],
+          "album": "HEROES & VILLAINS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+          "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+          "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
+          "duration_ms": 199920
+        },
+        {
+          "rank": 48,
           "name": "Everything In Its Right Place",
           "artists": [
             "Radiohead"
@@ -598,7 +612,7 @@
           "duration_ms": 251426
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -610,7 +624,7 @@
           "duration_ms": 174733
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Whuss the Deal",
           "artists": [
             "Shoreline Mafia"
@@ -620,20 +634,6 @@
           "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
           "url": "https://open.spotify.com/track/64FxpKdU055iIaMDY441Qc",
           "duration_ms": 195636
-        },
-        {
-          "rank": 50,
-          "name": "RICK OWENS (feat. Ken Carson)",
-          "artists": [
-            "Ufo361",
-            "lucidbeatz",
-            "Ken Carson"
-          ],
-          "album": "SONY",
-          "image": "https://i.scdn.co/image/ab67616d0000b273024e84efa66999d59afe4a20",
-          "uri": "spotify:track:6VASMtJitNcGLlsWhPb9BC",
-          "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC",
-          "duration_ms": 130129
         }
       ],
       "artists": [
@@ -831,6 +831,14 @@
         },
         {
           "rank": 25,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 26,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
@@ -838,20 +846,12 @@
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "rank": 27,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 28,
@@ -863,6 +863,14 @@
         },
         {
           "rank": 29,
+          "name": "Creed",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0d86c8971cc4d6fa63d58bae",
+          "genres": [],
+          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        },
+        {
+          "rank": 30,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
           "genres": [],
