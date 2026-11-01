@@ -1,105 +1,6 @@
 {
-  "updated_at": "2026-10-31T23:53:31.886Z",
+  "updated_at": "2026-11-01T03:43:49.895Z",
   "plays": [
-    {
-      "played_at": "2026-08-23T14:14:14.541Z",
-      "name": "Texas Flood - Live at the El Mocambo",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Texas Flood (Live at the El Mocambo)",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7788cf1ab33fd6e76506f95ee",
-      "uri": "spotify:track:6xIYSmuDqb8ilmpFb7ATD4",
-      "duration_ms": 570581
-    },
-    {
-      "played_at": "2026-08-23T15:30:02.802Z",
-      "name": "Texas Flood",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Texas Flood (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
-      "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
-      "duration_ms": 320906
-    },
-    {
-      "played_at": "2026-08-23T15:39:03.335Z",
-      "name": "Voodoo Child (Slight Return)",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Couldn't Stand The Weather (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-      "uri": "spotify:track:1kY6OOTBmRNzhYmu9xSH3a",
-      "duration_ms": 478746
-    },
-    {
-      "played_at": "2026-08-23T17:02:59.322Z",
-      "name": "Texas Flood",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Texas Flood (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
-      "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
-      "duration_ms": 320906
-    },
-    {
-      "played_at": "2026-08-23T17:12:16.891Z",
-      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Couldn't Stand The Weather (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-      "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
-      "duration_ms": 551786
-    },
-    {
-      "played_at": "2026-08-23T17:20:32.345Z",
-      "name": "Voodoo Child (Slight Return)",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Couldn't Stand The Weather (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-      "uri": "spotify:track:1kY6OOTBmRNzhYmu9xSH3a",
-      "duration_ms": 478746
-    },
-    {
-      "played_at": "2026-08-23T17:24:36.147Z",
-      "name": "Gonna Be",
-      "artists": [
-        "Daniel Wolf"
-      ],
-      "album": "Gonna Be",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
-      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
-      "duration_ms": 213750
-    },
-    {
-      "played_at": "2026-08-23T19:51:58.398Z",
-      "name": "Riviera Paradise - Live From Austin, TX",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Riviera Paradise (Live From Austin, TX)",
-      "image": "https://i.scdn.co/image/ab6742d3000053b77e6c798df1a3dca20306d88b",
-      "uri": "spotify:track:3KMm3oo7i471JyonV93QNX",
-      "duration_ms": 553173
-    },
-    {
-      "played_at": "2026-08-23T19:53:06.217Z",
-      "name": "Little Wing",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Couldn't Stand The Weather (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-      "uri": "spotify:track:5XNpdKmlLJPUbwKQceX2tW",
-      "duration_ms": 408480
-    },
     {
       "played_at": "2026-08-24T02:50:11.835Z",
       "name": "WESPN",
@@ -22922,6 +22823,112 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
       "uri": "spotify:track:2OUR8g12h5qsGDs1v5lqvp",
       "duration_ms": 164986
+    },
+    {
+      "played_at": "2026-10-31T23:56:23.445Z",
+      "name": "My Own Prison",
+      "artists": [
+        "Creed"
+      ],
+      "album": "My Own Prison",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+      "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m",
+      "duration_ms": 298800
+    },
+    {
+      "played_at": "2026-11-01T00:34:10.892Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-11-01T00:37:38.543Z",
+      "name": "Summer 91 (Looking Back)",
+      "artists": [
+        "Noizu"
+      ],
+      "album": "Summer 91 (Looking Back)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c0c35544b3c51b9b8896f87",
+      "uri": "spotify:track:4FEcEwbE2vsqhxbTPtiNTL",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-11-01T00:56:22.023Z",
+      "name": "Talk",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Talk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273904651e3012cc098c7d77b6c",
+      "uri": "spotify:track:0ypjMI7vHiDP4sLB1C0Qna",
+      "duration_ms": 174857
+    },
+    {
+      "played_at": "2026-11-01T00:59:42.683Z",
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "artists": [
+        "Metro Boomin",
+        "Future",
+        "Don Toliver"
+      ],
+      "album": "HEROES & VILLAINS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+      "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+      "duration_ms": 199920
+    },
+    {
+      "played_at": "2026-11-01T01:01:45.080Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-11-01T01:05:00.421Z",
+      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin",
+        "OHGEESY"
+      ],
+      "album": "OTXmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
+      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
+      "duration_ms": 164400
+    },
+    {
+      "played_at": "2026-11-01T01:13:35.617Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-11-01T01:15:38.814Z",
+      "name": "I <3 My Choppa",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:0Dk9lP1YnOqssHH0oCeq9u",
+      "duration_ms": 105000
     }
   ]
 }
