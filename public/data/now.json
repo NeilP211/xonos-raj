@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-01T19:18:21.520Z",
-  "is_playing": false,
+  "updated_at": "2026-11-02T00:06:34.689Z",
+  "is_playing": true,
   "track": {
-    "name": "I <3 My Choppa",
+    "name": "A Horse with No Name",
     "artists": [
-      "Tay-K"
+      "America",
+      "George Martin"
     ],
-    "album": "#SantanaWorld (+)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
-    "uri": "spotify:track:0Dk9lP1YnOqssHH0oCeq9u"
+    "album": "America",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+    "uri": "spotify:track:54eZmuggBFJbV7k248bTTt"
   },
-  "played_at": "2026-11-01T01:15:38.814Z"
+  "played_at": "2026-11-02T00:06:34.689Z"
 }

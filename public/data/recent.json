@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-01T19:18:21.421Z",
+  "updated_at": "2026-11-02T00:06:34.433Z",
   "plays": [
-    {
-      "played_at": "2026-08-24T02:50:11.835Z",
-      "name": "WESPN",
-      "artists": [
-        "Sheck Wes"
-      ],
-      "album": "MUDBOY",
-      "image": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
-      "uri": "spotify:track:07AQbb8xIEj3bF082KEwJp",
-      "duration_ms": 273746
-    },
     {
       "played_at": "2026-08-24T10:53:14.757Z",
       "name": "Don't Dream It's Over",
@@ -22929,6 +22918,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
       "uri": "spotify:track:0Dk9lP1YnOqssHH0oCeq9u",
       "duration_ms": 105000
+    },
+    {
+      "played_at": "2026-11-02T00:04:06.338Z",
+      "name": "Let Go",
+      "artists": [
+        "Ark Patrol",
+        "Veronika Redd"
+      ],
+      "album": "Let Go",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731486985cbc1b7e096a32aba9",
+      "uri": "spotify:track:47ZktHjhbCcs7VNPsJTib5",
+      "duration_ms": 248056
     }
   ]
 }
