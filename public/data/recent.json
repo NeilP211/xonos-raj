@@ -1,186 +1,6 @@
 {
-  "updated_at": "2026-11-02T10:24:38.793Z",
+  "updated_at": "2026-11-02T21:14:43.694Z",
   "plays": [
-    {
-      "played_at": "2026-08-24T13:00:11.059Z",
-      "name": "U Told Us Quit",
-      "artists": [
-        "Nettspend",
-        "Yungster Jack"
-      ],
-      "album": "U Told Us Quit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e3e30846101fbeed1316d9f8",
-      "uri": "spotify:track:260vK9lth3HzURSl6rh4WP",
-      "duration_ms": 132311
-    },
-    {
-      "played_at": "2026-08-24T13:01:30.533Z",
-      "name": "sidia",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:1f5Q4a871MYSEc614ybqrZ",
-      "duration_ms": 79124
-    },
-    {
-      "played_at": "2026-08-24T13:03:22.240Z",
-      "name": "so based",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:5TiyljwKu8Dmcmy5t5sHNr",
-      "duration_ms": 105535
-    },
-    {
-      "played_at": "2026-08-24T13:07:26.080Z",
-      "name": "bag it 2",
-      "artists": [
-        "xaviersobased",
-        "david shawty"
-      ],
-      "album": "bag it 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b27366cd9194d33f6e9b7329642a",
-      "uri": "spotify:track:55t61aLXzFJ4yFBblB8rgO",
-      "duration_ms": 117002
-    },
-    {
-      "played_at": "2026-08-24T13:09:11.042Z",
-      "name": "Benihana",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "Benihana",
-      "image": "https://i.scdn.co/image/ab67616d0000b27390a8adaa1536a805a9e03eb3",
-      "uri": "spotify:track:3vhXXyrJOUPEuYDwh08m5c",
-      "duration_ms": 104511
-    },
-    {
-      "played_at": "2026-08-24T13:16:15.460Z",
-      "name": "Thug's In My House",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "Thug's In My House",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c6bc473c79f85c2dfb5914f7",
-      "uri": "spotify:track:0nViXgBAlIggGekvSgiDsX",
-      "duration_ms": 151578
-    },
-    {
-      "played_at": "2026-08-24T13:19:15.940Z",
-      "name": "FAKENGGAS",
-      "artists": [
-        "Destroy Lonely"
-      ],
-      "album": "NO STYLIST",
-      "image": "https://i.scdn.co/image/ab67616d0000b27316253391849ee562db8da541",
-      "uri": "spotify:track:6BlfsdUgeFwkFC30cD4EFO",
-      "duration_ms": 180000
-    },
-    {
-      "played_at": "2026-08-24T13:21:24.317Z",
-      "name": "enough",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:7k6MsH4CADcOf3wlRV3Fn4",
-      "duration_ms": 127895
-    },
-    {
-      "played_at": "2026-08-24T13:24:34.042Z",
-      "name": "FMJ (feat. Che)",
-      "artists": [
-        "OsamaSon",
-        "Che"
-      ],
-      "album": "psykotic",
-      "image": "https://i.scdn.co/image/ab67616d0000b27341d8c624c257ffccbca8c3ad",
-      "uri": "spotify:track:4iLsg1kZif1DGcdywxEP3M",
-      "duration_ms": 189295
-    },
-    {
-      "played_at": "2026-08-24T13:25:55.221Z",
-      "name": "funuhyuh",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "funuhyuh",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd89db8dbbc422daefa55432",
-      "uri": "spotify:track:6jwCUzXJwNLaP1rnU0fJTz",
-      "duration_ms": 75347
-    },
-    {
-      "played_at": "2026-08-24T13:27:48.432Z",
-      "name": "jaded",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
-      "duration_ms": 112733
-    },
-    {
-      "played_at": "2026-08-24T13:29:15.286Z",
-      "name": "Swamp",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "Glokk Files",
-      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
-      "uri": "spotify:track:0oiaNKkZsnzrSM0zXxh5tm",
-      "duration_ms": 85524
-    },
-    {
-      "played_at": "2026-08-24T13:31:33.265Z",
-      "name": "Under Your Skin",
-      "artists": [
-        "fakemink"
-      ],
-      "album": "Under Your Skin",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f55a61f09473a7870bafe5a4",
-      "uri": "spotify:track:7GCI295l4PvM9TmVhlxRWH",
-      "duration_ms": 132949
-    },
-    {
-      "played_at": "2026-08-24T13:33:39.037Z",
-      "name": "Bally",
-      "artists": [
-        "Rico Ace",
-        "EsDeeKid"
-      ],
-      "album": "Bally",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d2c78a5c7059fd8c3376a267",
-      "uri": "spotify:track:7H90WucIF921NR5leLriX7",
-      "duration_ms": 125240
-    },
-    {
-      "played_at": "2026-08-24T13:36:28.161Z",
-      "name": "Guap Man",
-      "artists": [
-        "OsamaSon"
-      ],
-      "album": "psykotic",
-      "image": "https://i.scdn.co/image/ab67616d0000b27341d8c624c257ffccbca8c3ad",
-      "uri": "spotify:track:0jTRBzKB6p7xjRqQYLGKsX",
-      "duration_ms": 168648
-    },
-    {
-      "played_at": "2026-08-24T13:37:35.869Z",
-      "name": "bag it",
-      "artists": [
-        "sleepyherd"
-      ],
-      "album": "bag it",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735304e76cba2688c10e2ce115",
-      "uri": "spotify:track:4qYL02Lgrc0LM1rVb0mAwy",
-      "duration_ms": 67223
-    },
     {
       "played_at": "2026-08-24T13:39:25.634Z",
       "name": "CHARLIE MURDER",
@@ -22926,6 +22746,197 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273663b8b395f895362074ce956",
       "uri": "spotify:track:3qTYzMkbzxqRtA2hlSz4Ba",
       "duration_ms": 133213
+    },
+    {
+      "played_at": "2026-11-02T15:17:36.994Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-11-02T15:20:00.851Z",
+      "name": "ROCKIN",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "ROCKIN",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335b588e9e25ed47ffda85274",
+      "uri": "spotify:track:6m5cyVx8qLqu69MFiBVnMI",
+      "duration_ms": 129722
+    },
+    {
+      "played_at": "2026-11-02T15:29:58.764Z",
+      "name": "ORANGE SODA",
+      "artists": [
+        "Baby Keem"
+      ],
+      "album": "DIE FOR MY BITCH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "uri": "spotify:track:5FkoSXiJPKTNyYgALRJFhD",
+      "duration_ms": 129882
+    },
+    {
+      "played_at": "2026-11-02T16:28:51.310Z",
+      "name": "I <3 My Choppa",
+      "artists": [
+        "Tay-K"
+      ],
+      "album": "#SantanaWorld (+)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+      "uri": "spotify:track:0Dk9lP1YnOqssHH0oCeq9u",
+      "duration_ms": 105000
+    },
+    {
+      "played_at": "2026-11-02T16:32:09.593Z",
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "artists": [
+        "21 Savage",
+        "Metro Boomin",
+        "Young Thug"
+      ],
+      "album": "SAVAGE MODE II",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
+      "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
+      "duration_ms": 190331
+    },
+    {
+      "played_at": "2026-11-02T16:44:46.035Z",
+      "name": "Passionfruit",
+      "artists": [
+        "Drake"
+      ],
+      "album": "More Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+      "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+      "duration_ms": 298940
+    },
+    {
+      "played_at": "2026-11-02T16:46:37.382Z",
+      "name": "Who's Dat",
+      "artists": [
+        "ABG Neal"
+      ],
+      "album": "Who's Dat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5aea629e18c12f931d111a3",
+      "uri": "spotify:track:1kg3sjif9p9Qvq4zWDGpcK",
+      "duration_ms": 110837
+    },
+    {
+      "played_at": "2026-11-02T16:49:01.887Z",
+      "name": "NEVEREVER",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "NS+ (ULTRA)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f210060708ed55d2d5e79b4",
+      "uri": "spotify:track:610gzNqwaSz89u6YIpDlyZ",
+      "duration_ms": 144000
+    },
+    {
+      "played_at": "2026-11-02T17:58:31.668Z",
+      "name": "Freestyle 2",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "X",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa2acda98644476f5086cd02",
+      "uri": "spotify:track:28niVl6iodHnHpE1bCeJiV",
+      "duration_ms": 138319
+    },
+    {
+      "played_at": "2026-11-02T18:50:32.152Z",
+      "name": "Magnolia",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:1e1JKLEDKP7hEQzJfNAgPl",
+      "duration_ms": 181812
+    },
+    {
+      "played_at": "2026-11-02T19:18:38.555Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-11-02T19:22:55.210Z",
+      "name": "Dark Knight Dummo (feat. Travis Scott)",
+      "artists": [
+        "Trippie Redd",
+        "Travis Scott"
+      ],
+      "album": "LIFE'S A TRIP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+      "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+      "duration_ms": 256161
+    },
+    {
+      "played_at": "2026-11-02T19:27:20.787Z",
+      "name": "Ski",
+      "artists": [
+        "Young Stoner Life",
+        "Young Thug",
+        "Gunna"
+      ],
+      "album": "Slime Language 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
+      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
+      "duration_ms": 152333
+    },
+    {
+      "played_at": "2026-11-02T19:32:30.355Z",
+      "name": "Definition",
+      "artists": [
+        "2wo2imes",
+        "Glokk40Spaz"
+      ],
+      "album": "Glokk Files",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+      "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
+      "duration_ms": 162560
+    },
+    {
+      "played_at": "2026-11-02T19:37:33.294Z",
+      "name": "Back In Bidness",
+      "artists": [
+        "Shoreline Mafia",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Back In Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f8a059c8a1bfce103a3cb2a",
+      "uri": "spotify:track:6XUnPaGAI0W4NCzCKH0ACA",
+      "duration_ms": 137142
+    },
+    {
+      "played_at": "2026-11-02T19:45:26.070Z",
+      "name": "Special",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+      "duration_ms": 104650
     }
   ]
 }
