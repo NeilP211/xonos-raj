@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-11-02T00:06:34.689Z",
-  "is_playing": true,
+  "updated_at": "2026-11-02T10:24:38.908Z",
+  "is_playing": false,
   "track": {
-    "name": "A Horse with No Name",
+    "name": "It Had to Be You",
     "artists": [
-      "America",
-      "George Martin"
+      "Bobby Darin"
     ],
-    "album": "America",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-    "uri": "spotify:track:54eZmuggBFJbV7k248bTTt"
+    "album": "Love Swings",
+    "image": "https://i.scdn.co/image/ab67616d0000b273663b8b395f895362074ce956",
+    "uri": "spotify:track:3qTYzMkbzxqRtA2hlSz4Ba"
   },
-  "played_at": "2026-11-02T00:06:34.689Z"
+  "played_at": "2026-11-02T02:37:02.058Z"
 }
