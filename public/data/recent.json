@@ -1,85 +1,6 @@
 {
-  "updated_at": "2026-11-03T13:25:18.853Z",
+  "updated_at": "2026-11-03T20:43:36.226Z",
   "plays": [
-    {
-      "played_at": "2026-08-24T14:43:28.405Z",
-      "name": "love hate",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
-      "duration_ms": 116080
-    },
-    {
-      "played_at": "2026-08-24T14:45:45.663Z",
-      "name": "masked up (feat. YoungBoy Never Broke Again)",
-      "artists": [
-        "Nettspend",
-        "YoungBoy Never Broke Again"
-      ],
-      "album": "early life crisis",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
-      "uri": "spotify:track:6tuVceHAyUCDRhbEC2634b",
-      "duration_ms": 136923
-    },
-    {
-      "played_at": "2026-08-24T14:49:53.961Z",
-      "name": "Lord Of Chaos",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "More Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b27353b16cd45ce027fc7b65f9e8",
-      "uri": "spotify:track:2Tif3Rjua8qfTCUFP6lFrV",
-      "duration_ms": 121957
-    },
-    {
-      "played_at": "2026-08-24T14:51:50.179Z",
-      "name": "Impact (with xaviersobased)",
-      "artists": [
-        "Nettspend",
-        "xaviersobased"
-      ],
-      "album": "Impact (with xaviersobased)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273604293be2b0b422900395d7d",
-      "uri": "spotify:track:2xTk9wtJ6mWf7YV6ppmdCK",
-      "duration_ms": 115764
-    },
-    {
-      "played_at": "2026-08-24T14:53:08.429Z",
-      "name": "not healthy",
-      "artists": [
-        "boolymon"
-      ],
-      "album": "not healthy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273705bf676a578aa6e8be45fa1",
-      "uri": "spotify:track:7E0CqC6nD4cJbQs3RdCSpz",
-      "duration_ms": 77792
-    },
-    {
-      "played_at": "2026-08-24T14:57:40.998Z",
-      "name": "Make You Whole (Radio Edit)",
-      "artists": [
-        "Andronicus"
-      ],
-      "album": "Make You Whole",
-      "image": "https://i.scdn.co/image/ab67616d0000b273167ea53d2c9906d0907ef994",
-      "uri": "spotify:track:2WpRJJJzf2WM6IP0zr5aaB",
-      "duration_ms": 212168
-    },
-    {
-      "played_at": "2026-08-24T15:01:13.794Z",
-      "name": "Make You Whole (Radio Edit)",
-      "artists": [
-        "Andronicus"
-      ],
-      "album": "Make You Whole",
-      "image": "https://i.scdn.co/image/ab67616d0000b273167ea53d2c9906d0907ef994",
-      "uri": "spotify:track:2WpRJJJzf2WM6IP0zr5aaB",
-      "duration_ms": 212168
-    },
     {
       "played_at": "2026-08-24T15:04:46.475Z",
       "name": "Make You Whole (Radio Edit)",
@@ -22939,6 +22860,88 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
       "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
       "duration_ms": 135510
+    },
+    {
+      "played_at": "2026-11-03T20:07:05.661Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-11-03T20:12:13.295Z",
+      "name": "Gët Busy",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
+      "duration_ms": 157779
+    },
+    {
+      "played_at": "2026-11-03T20:19:33.858Z",
+      "name": "Drip or Drown",
+      "artists": [
+        "Gunna"
+      ],
+      "album": "Drip or Drown",
+      "image": "https://i.scdn.co/image/ab67616d0000b273340cf6dc6c0118e1458ce308",
+      "uri": "spotify:track:6ZthdsKjWtiCxnxbhs74vF",
+      "duration_ms": 126168
+    },
+    {
+      "played_at": "2026-11-03T20:22:28.450Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-11-03T20:24:16.918Z",
+      "name": "mud",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "Forever, ILY.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
+      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
+      "duration_ms": 107951
+    },
+    {
+      "played_at": "2026-11-03T20:25:50.051Z",
+      "name": "Forrest Gump (feat. ABG Neal)",
+      "artists": [
+        "Krimelife Ca$$",
+        "ABG Neal"
+      ],
+      "album": "Forrest Gump (feat. ABG Neal)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27300d50a21d8626037e9fb3bdd",
+      "uri": "spotify:track:32LLYzFcucxGqqIOQzpcNM",
+      "duration_ms": 92640
+    },
+    {
+      "played_at": "2026-11-03T20:28:14.551Z",
+      "name": "NEVEREVER",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "NS+ (ULTRA)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f210060708ed55d2d5e79b4",
+      "uri": "spotify:track:610gzNqwaSz89u6YIpDlyZ",
+      "duration_ms": 144000
     }
   ]
 }
