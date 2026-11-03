@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:52:49.633Z",
+  "generated_at": "2026-11-03T13:25:18.702Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -311,6 +311,19 @@
         },
         {
           "rank": 25,
+          "name": "Yung Nigga Shit",
+          "artists": [
+            "2wo2imes",
+            "Glokk40Spaz"
+          ],
+          "album": "2wo Glokks",
+          "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
+          "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
+          "url": "https://open.spotify.com/track/1UsARqNRpvwChZb4ZOrF35",
+          "duration_ms": 135510
+        },
+        {
+          "rank": 26,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -321,18 +334,6 @@
           "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
           "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
           "duration_ms": 209680
-        },
-        {
-          "rank": 26,
-          "name": "Take It",
-          "artists": [
-            "Staind"
-          ],
-          "album": "Break the Cycle",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
-          "uri": "spotify:track:38DpmNjN5AK8sJUnB4FPLA",
-          "url": "https://open.spotify.com/track/38DpmNjN5AK8sJUnB4FPLA",
-          "duration_ms": 215706
         },
         {
           "rank": 27,
@@ -363,19 +364,6 @@
         },
         {
           "rank": 29,
-          "name": "Yung Nigga Shit",
-          "artists": [
-            "2wo2imes",
-            "Glokk40Spaz"
-          ],
-          "album": "2wo Glokks",
-          "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
-          "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
-          "url": "https://open.spotify.com/track/1UsARqNRpvwChZb4ZOrF35",
-          "duration_ms": 135510
-        },
-        {
-          "rank": 30,
           "name": "Ball Tongue",
           "artists": [
             "Korn"
@@ -387,19 +375,7 @@
           "duration_ms": 268533
         },
         {
-          "rank": 31,
-          "name": "Warmth",
-          "artists": [
-            "C418"
-          ],
-          "album": "Minecraft - Volume Beta",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
-          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
-          "duration_ms": 239379
-        },
-        {
-          "rank": 32,
+          "rank": 30,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -414,7 +390,7 @@
           "duration_ms": 134400
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -427,7 +403,7 @@
           "duration_ms": 168000
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "mud",
           "artists": [
             "Destroy Lonely"
@@ -439,7 +415,7 @@
           "duration_ms": 107951
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -452,7 +428,7 @@
           "duration_ms": 205701
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "Boston",
           "artists": [
             "STELLA LEFTY"
@@ -464,7 +440,19 @@
           "duration_ms": 170859
         },
         {
-          "rank": 37,
+          "rank": 35,
+          "name": "Take It",
+          "artists": [
+            "Staind"
+          ],
+          "album": "Break the Cycle",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+          "uri": "spotify:track:38DpmNjN5AK8sJUnB4FPLA",
+          "url": "https://open.spotify.com/track/38DpmNjN5AK8sJUnB4FPLA",
+          "duration_ms": 215706
+        },
+        {
+          "rank": 36,
           "name": "Special",
           "artists": [
             "xaviersobased"
@@ -476,7 +464,7 @@
           "duration_ms": 104650
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Work",
           "artists": [
             "Shoreline Mafia",
@@ -490,7 +478,7 @@
           "duration_ms": 135861
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Catch Me Outside",
           "artists": [
             "Ski Mask The Slump God"
@@ -500,6 +488,18 @@
           "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
           "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
           "duration_ms": 145760
+        },
+        {
+          "rank": 39,
+          "name": "Warmth",
+          "artists": [
+            "C418"
+          ],
+          "album": "Minecraft - Volume Beta",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+          "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+          "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ",
+          "duration_ms": 239379
         },
         {
           "rank": 40,
