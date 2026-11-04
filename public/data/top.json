@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:59:21.972Z",
+  "generated_at": "2026-11-04T10:16:24.670Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1033,6 +1033,19 @@
         },
         {
           "rank": 11,
+          "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+          "artists": [
+            "BabyTron",
+            "DJ Ess"
+          ],
+          "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+          "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+          "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO",
+          "duration_ms": 122012
+        },
+        {
+          "rank": 12,
           "name": "Tree On The Hill (Lunch Break Freestyle)",
           "artists": [
             "Lyrical Lemonade",
@@ -1045,7 +1058,7 @@
           "duration_ms": 100871
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -1059,7 +1072,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -1069,19 +1082,6 @@
           "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
           "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
           "duration_ms": 174733
-        },
-        {
-          "rank": 14,
-          "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
-          "artists": [
-            "BabyTron",
-            "DJ Ess"
-          ],
-          "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
-          "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
-          "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO",
-          "duration_ms": 122012
         },
         {
           "rank": 15,
@@ -1124,44 +1124,6 @@
         },
         {
           "rank": 18,
-          "name": "Lemonade",
-          "artists": [
-            "Tay-K"
-          ],
-          "album": "#SantanaWorld (+)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
-          "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
-          "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
-          "duration_ms": 132000
-        },
-        {
-          "rank": 19,
-          "name": "NUEVAYoL",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
-          "duration_ms": 183685
-        },
-        {
-          "rank": 20,
-          "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
-          "artists": [
-            "Shoreline Mafia",
-            "Fenix Flexin",
-            "OHGEESY"
-          ],
-          "album": "OTXmas",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
-          "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
-          "url": "https://open.spotify.com/track/7oW5YZZVeesParmVY7gx6s",
-          "duration_ms": 164400
-        },
-        {
-          "rank": 21,
           "name": "Quickest Routes",
           "artists": [
             "Shoreline Mafia",
@@ -1174,6 +1136,44 @@
           "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
           "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB",
           "duration_ms": 134400
+        },
+        {
+          "rank": 19,
+          "name": "Lemonade",
+          "artists": [
+            "Tay-K"
+          ],
+          "album": "#SantanaWorld (+)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+          "uri": "spotify:track:26qQf1Wmyy3ZZkagqCu5kp",
+          "url": "https://open.spotify.com/track/26qQf1Wmyy3ZZkagqCu5kp",
+          "duration_ms": 132000
+        },
+        {
+          "rank": 20,
+          "name": "NUEVAYoL",
+          "artists": [
+            "Bad Bunny"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
+          "duration_ms": 183685
+        },
+        {
+          "rank": 21,
+          "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
+          "artists": [
+            "Shoreline Mafia",
+            "Fenix Flexin",
+            "OHGEESY"
+          ],
+          "album": "OTXmas",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
+          "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
+          "url": "https://open.spotify.com/track/7oW5YZZVeesParmVY7gx6s",
+          "duration_ms": 164400
         },
         {
           "rank": 22,
@@ -1250,6 +1250,18 @@
         },
         {
           "rank": 28,
+          "name": "Gët Busy",
+          "artists": [
+            "Yeat"
+          ],
+          "album": "Up 2 Më",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+          "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
+          "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR",
+          "duration_ms": 157779
+        },
+        {
+          "rank": 29,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -1263,7 +1275,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Wokeup",
           "artists": [
             "Kankan"
@@ -1273,18 +1285,6 @@
           "uri": "spotify:track:3jM9VzF2d1AMUyTD8sTmPu",
           "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu",
           "duration_ms": 115347
-        },
-        {
-          "rank": 30,
-          "name": "Gët Busy",
-          "artists": [
-            "Yeat"
-          ],
-          "album": "Up 2 Më",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
-          "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
-          "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR",
-          "duration_ms": 157779
         },
         {
           "rank": 31,
@@ -1364,6 +1364,18 @@
         },
         {
           "rank": 37,
+          "name": "GOOBA",
+          "artists": [
+            "6ix9ine"
+          ],
+          "album": "TattleTales",
+          "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
+          "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
+          "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
+          "duration_ms": 132303
+        },
+        {
+          "rank": 38,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -1375,7 +1387,7 @@
           "duration_ms": 169999
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Moonlight on the River",
           "artists": [
             "Mac DeMarco"
@@ -1387,7 +1399,7 @@
           "duration_ms": 422613
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -1397,18 +1409,6 @@
           "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
           "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
           "duration_ms": 227000
-        },
-        {
-          "rank": 40,
-          "name": "GOOBA",
-          "artists": [
-            "6ix9ine"
-          ],
-          "album": "TattleTales",
-          "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
-          "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
-          "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
-          "duration_ms": 132303
         },
         {
           "rank": 41,
@@ -1630,6 +1630,14 @@
         },
         {
           "rank": 13,
+          "name": "Destroy Lonely",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
+          "genres": [],
+          "uri": "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "rank": 14,
           "name": "6ix9ine",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2ce0f1899ab2bf14a4eb286",
           "genres": [],
@@ -1637,20 +1645,12 @@
           "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Gunna",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb99bd0e431142f2919a58276",
           "genres": [],
           "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "rank": 15,
-          "name": "Destroy Lonely",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
-          "genres": [],
-          "uri": "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         },
         {
           "rank": 16,
@@ -1918,19 +1918,19 @@
         },
         {
           "rank": 49,
-          "name": "OsamaSon",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
-          "genres": [],
-          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        },
-        {
-          "rank": 50,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "rank": 50,
+          "name": "OsamaSon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
+          "genres": [],
+          "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         }
       ]
     },
