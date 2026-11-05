@@ -1,134 +1,6 @@
 {
-  "updated_at": "2026-11-05T10:10:40.880Z",
+  "updated_at": "2026-11-05T19:18:50.673Z",
   "plays": [
-    {
-      "played_at": "2026-08-24T16:54:48.544Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-08-24T18:20:37.542Z",
-      "name": "Gonna Be",
-      "artists": [
-        "Daniel Wolf"
-      ],
-      "album": "Gonna Be",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
-      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
-      "duration_ms": 213750
-    },
-    {
-      "played_at": "2026-08-24T21:22:01.533Z",
-      "name": "RATHER LIE (with The Weeknd)",
-      "artists": [
-        "Playboi Carti",
-        "The Weeknd"
-      ],
-      "album": "MUSIC",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
-      "duration_ms": 209680
-    },
-    {
-      "played_at": "2026-08-24T21:37:47.489Z",
-      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Couldn't Stand The Weather (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-      "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
-      "duration_ms": 551786
-    },
-    {
-      "played_at": "2026-08-25T03:48:15.975Z",
-      "name": "Voodoo Child (Slight Return)",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Couldn't Stand The Weather (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-      "uri": "spotify:track:1kY6OOTBmRNzhYmu9xSH3a",
-      "duration_ms": 478746
-    },
-    {
-      "played_at": "2026-08-25T11:03:18.672Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-08-25T11:11:59.176Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-08-25T12:52:46.530Z",
-      "name": "Sultans of Swing",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Dire Straits",
-      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
-      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
-      "duration_ms": 348760
-    },
-    {
-      "played_at": "2026-08-25T12:56:13.019Z",
-      "name": "Massive X Touch Me",
-      "artists": [
-        "NovaX",
-        "Sevven"
-      ],
-      "album": "Massive X Touch Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-      "duration_ms": 174160
-    },
-    {
-      "played_at": "2026-08-25T13:55:22.802Z",
-      "name": "Waiting for Tonight - Radio Edit",
-      "artists": [
-        "Jennifer Lopez",
-        "FISHER"
-      ],
-      "album": "On The 6 (25th Anniversary Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
-      "uri": "spotify:track:5GHVp2CCufZ8MJzYE82W7R",
-      "duration_ms": 198019
-    },
-    {
-      "played_at": "2026-08-25T13:58:58.135Z",
-      "name": "Recover Artist",
-      "artists": [
-        "devLfg"
-      ],
-      "album": "Recover Artist",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a2c245bb79432df0f130fc4",
-      "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
-      "duration_ms": 127477
-    },
     {
       "played_at": "2026-08-25T14:43:10.180Z",
       "name": "Coffin",
@@ -22941,6 +22813,132 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
       "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
       "duration_ms": 422613
+    },
+    {
+      "played_at": "2026-11-05T04:08:54.994Z",
+      "name": "Smooth Operator - Single Version",
+      "artists": [
+        "Sade"
+      ],
+      "album": "The Best of Sade",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+      "uri": "spotify:track:1Hv1VTm8zeOeybub15mA2R",
+      "duration_ms": 258693
+    },
+    {
+      "played_at": "2026-11-05T15:31:22.948Z",
+      "name": "Heather",
+      "artists": [
+        "4zz",
+        "GBG shiek"
+      ],
+      "album": "Heather",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a9ca1474b741e3054f68ade",
+      "uri": "spotify:track:6wC3tZQSFFOaekyEvXwYF0",
+      "duration_ms": 113973
+    },
+    {
+      "played_at": "2026-11-05T17:54:28.435Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-11-05T17:56:13.546Z",
+      "name": "Special",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "Keep it goin xav",
+      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
+      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
+      "duration_ms": 104650
+    },
+    {
+      "played_at": "2026-11-05T17:59:34.615Z",
+      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin",
+        "OHGEESY"
+      ],
+      "album": "OTXmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
+      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
+      "duration_ms": 164400
+    },
+    {
+      "played_at": "2026-11-05T18:01:23.013Z",
+      "name": "mud",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "Forever, ILY.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
+      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
+      "duration_ms": 107951
+    },
+    {
+      "played_at": "2026-11-05T18:04:53.211Z",
+      "name": "RATHER LIE (with The Weeknd)",
+      "artists": [
+        "Playboi Carti",
+        "The Weeknd"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-11-05T18:09:24.026Z",
+      "name": "NEVEREVER",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "NS+ (ULTRA)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f210060708ed55d2d5e79b4",
+      "uri": "spotify:track:610gzNqwaSz89u6YIpDlyZ",
+      "duration_ms": 144000
+    },
+    {
+      "played_at": "2026-11-05T18:11:29.615Z",
+      "name": "Sunset",
+      "artists": [
+        "LUCKI"
+      ],
+      "album": "Sunset",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738afe05439fd7b3d4a6b79bb9",
+      "uri": "spotify:track:0zXnqruuTKhV7dTmbaO52L",
+      "duration_ms": 125021
+    },
+    {
+      "played_at": "2026-11-05T18:14:06.516Z",
+      "name": "3.5",
+      "artists": [
+        "ian"
+      ],
+      "album": "Goodbye Horses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+      "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
+      "duration_ms": 156444
+    },
+    {
+      "played_at": "2026-11-05T18:54:13.415Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-05T10:10:41.022Z",
-  "is_playing": false,
+  "updated_at": "2026-11-05T19:18:50.833Z",
+  "is_playing": true,
   "track": {
-    "name": "Moonlight on the River",
+    "name": "Location",
     "artists": [
-      "Mac DeMarco"
+      "Playboi Carti"
     ],
-    "album": "This Old Dog",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
-    "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A"
+    "album": "Playboi Carti",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+    "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf"
   },
-  "played_at": "2026-11-04T21:02:48.594Z"
+  "played_at": "2026-11-05T19:18:50.833Z"
 }
