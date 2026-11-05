@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-11-04T19:13:08.824Z",
+  "updated_at": "2026-11-05T01:13:20.086Z",
   "plays": [
-    {
-      "played_at": "2026-08-24T15:15:11.529Z",
-      "name": "Make You Whole (Radio Edit)",
-      "artists": [
-        "Andronicus"
-      ],
-      "album": "Make You Whole",
-      "image": "https://i.scdn.co/image/ab67616d0000b273167ea53d2c9906d0907ef994",
-      "uri": "spotify:track:2WpRJJJzf2WM6IP0zr5aaB",
-      "duration_ms": 212168
-    },
-    {
-      "played_at": "2026-08-24T15:23:27.441Z",
-      "name": "Work",
-      "artists": [
-        "Shoreline Mafia",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Work",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
-      "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
-      "duration_ms": 135861
-    },
-    {
-      "played_at": "2026-08-24T15:25:35.232Z",
-      "name": "Recover Artist",
-      "artists": [
-        "devLfg"
-      ],
-      "album": "Recover Artist",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a2c245bb79432df0f130fc4",
-      "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
-      "duration_ms": 127477
-    },
     {
       "played_at": "2026-08-24T16:54:48.544Z",
       "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
@@ -22942,6 +22907,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735181758e4e5b59eaa050d473",
       "uri": "spotify:track:7A2MVNMJbVMItIlhV8e8Vq",
       "duration_ms": 228916
+    },
+    {
+      "played_at": "2026-11-04T20:21:10.544Z",
+      "name": "Heather",
+      "artists": [
+        "4zz",
+        "GBG shiek"
+      ],
+      "album": "Heather",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a9ca1474b741e3054f68ade",
+      "uri": "spotify:track:6wC3tZQSFFOaekyEvXwYF0",
+      "duration_ms": 113973
+    },
+    {
+      "played_at": "2026-11-04T20:25:30.734Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-11-04T21:02:48.594Z",
+      "name": "Moonlight on the River",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+      "duration_ms": 422613
     }
   ]
 }
