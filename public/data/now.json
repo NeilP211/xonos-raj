@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-05T19:18:50.833Z",
-  "is_playing": true,
+  "updated_at": "2026-11-06T01:18:35.285Z",
+  "is_playing": false,
   "track": {
-    "name": "Location",
+    "name": "Warmth",
     "artists": [
-      "Playboi Carti"
+      "C418"
     ],
-    "album": "Playboi Carti",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-    "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf"
+    "album": "Minecraft - Volume Beta",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+    "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ"
   },
-  "played_at": "2026-11-05T19:18:50.833Z"
+  "played_at": "2026-11-05T23:53:39.591Z"
 }
