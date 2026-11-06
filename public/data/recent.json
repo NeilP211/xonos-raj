@@ -1,51 +1,6 @@
 {
-  "updated_at": "2026-11-06T10:14:03.722Z",
+  "updated_at": "2026-11-06T18:44:50.169Z",
   "plays": [
-    {
-      "played_at": "2026-08-26T10:48:54.285Z",
-      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Couldn't Stand The Weather (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
-      "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
-      "duration_ms": 551786
-    },
-    {
-      "played_at": "2026-08-26T10:56:29.022Z",
-      "name": "Kung Fu Panda",
-      "artists": [
-        "Young Yayo",
-        "We$"
-      ],
-      "album": "Kung Fu Panda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-      "duration_ms": 111699
-    },
-    {
-      "played_at": "2026-08-26T11:02:43.814Z",
-      "name": "Rooster (2022 Remaster)",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Dirt (2022 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-      "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2",
-      "duration_ms": 374333
-    },
-    {
-      "played_at": "2026-08-26T11:09:40.396Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
     {
       "played_at": "2026-08-26T12:50:32.533Z",
       "name": "Sultans of Swing",
@@ -22935,6 +22890,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
       "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-11-06T13:50:02.847Z",
+      "name": "Blind Spots",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+      "duration_ms": 332500
+    },
+    {
+      "played_at": "2026-11-06T13:51:29.598Z",
+      "name": "sakura zxc - Slowed",
+      "artists": [
+        "i wxnt to slxxp",
+        "mad arieri"
+      ],
+      "album": "sakura zxc (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae155467a49bd97f277a8b33",
+      "uri": "spotify:track:4k66G2sImipoWALBwCnE1P",
+      "duration_ms": 166736
+    },
+    {
+      "played_at": "2026-11-06T15:16:51.133Z",
+      "name": "Don't Worry Be Happy",
+      "artists": [
+        "Bobby McFerrin"
+      ],
+      "album": "Jarhead",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9fe7356c090f56dfe0710c1",
+      "uri": "spotify:track:6ndftErM6BlQpKwRWIHyjZ",
+      "duration_ms": 290986
+    },
+    {
+      "played_at": "2026-11-06T15:22:26.429Z",
+      "name": "Easy Lover",
+      "artists": [
+        "Philip Bailey",
+        "Phil Collins"
+      ],
+      "album": "Chinese Wall (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c61fd7cba6914924fea49ea9",
+      "uri": "spotify:track:5LYJ631w9ps5h9tdvac7yP",
+      "duration_ms": 305866
     }
   ]
 }

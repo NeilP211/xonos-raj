@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-06T10:14:03.813Z",
+  "updated_at": "2026-11-06T18:44:50.262Z",
   "is_playing": false,
   "track": {
-    "name": "Warmth",
+    "name": "Easy Lover",
     "artists": [
-      "C418"
+      "Philip Bailey",
+      "Phil Collins"
     ],
-    "album": "Minecraft - Volume Beta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-    "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ"
+    "album": "Chinese Wall (Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c61fd7cba6914924fea49ea9",
+    "uri": "spotify:track:5LYJ631w9ps5h9tdvac7yP"
   },
-  "played_at": "2026-11-05T23:53:39.591Z"
+  "played_at": "2026-11-06T15:22:26.429Z"
 }
