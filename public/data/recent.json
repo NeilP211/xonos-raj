@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-07T17:15:39.717Z",
+  "updated_at": "2026-11-07T21:17:21.969Z",
   "plays": [
-    {
-      "played_at": "2026-08-27T19:28:40.243Z",
-      "name": "Beach leak",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "BAD ASS F*CKING KID",
-      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-      "uri": "spotify:track:5Yv0sTyP1QCQeUuy0wYbW1",
-      "duration_ms": 106169
-    },
-    {
-      "played_at": "2026-08-27T19:29:59.950Z",
-      "name": "sidia",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:1f5Q4a871MYSEc614ybqrZ",
-      "duration_ms": 79124
-    },
-    {
-      "played_at": "2026-08-27T19:32:01.042Z",
-      "name": "jaded",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
-      "duration_ms": 112733
-    },
     {
       "played_at": "2026-08-27T19:34:01.531Z",
       "name": "cts-v",
@@ -22949,6 +22916,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273df5399677b85e9f581bb9833",
       "uri": "spotify:track:2BoSbGSp2OaDBOx5NFHkrr",
       "duration_ms": 158848
+    },
+    {
+      "played_at": "2026-11-07T17:38:34.276Z",
+      "name": "We Do What We Want - Edit",
+      "artists": [
+        "Alan Fitzpatrick"
+      ],
+      "album": "We Do What We Want (Edit)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb7bbfd72d873abf08a0a980",
+      "uri": "spotify:track:2qGvgsRsmrB0Y7Y4MmuP1M",
+      "duration_ms": 188095
+    },
+    {
+      "played_at": "2026-11-07T17:42:18.461Z",
+      "name": "Whiplash",
+      "artists": [
+        "Hank Levy"
+      ],
+      "album": "Whiplash (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736fce4a71d3973d3bbb12e8d7",
+      "uri": "spotify:track:0v0oL77zDnGTdRwB2q6OIm",
+      "duration_ms": 115360
+    },
+    {
+      "played_at": "2026-11-07T17:48:24.260Z",
+      "name": "Scuttle Buttin'",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Couldn't Stand The Weather (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+      "uri": "spotify:track:18PhtDBBYxE0vN4YvsZnMy",
+      "duration_ms": 111920
     }
   ]
 }
