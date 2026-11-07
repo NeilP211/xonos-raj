@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-07T09:29:43.462Z",
+  "updated_at": "2026-11-07T17:15:39.717Z",
   "plays": [
-    {
-      "played_at": "2026-08-27T19:23:36.681Z",
-      "name": "patchmade",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:2RH68g2fChiOIhIxT0HfYP",
-      "duration_ms": 112848
-    },
-    {
-      "played_at": "2026-08-27T19:25:23.482Z",
-      "name": "satanic",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:5UkaaXK9Peo7WBZ3ckq1sk",
-      "duration_ms": 68623
-    },
-    {
-      "played_at": "2026-08-27T19:26:53.591Z",
-      "name": "Ref",
-      "artists": [
-        "OsamaSon"
-      ],
-      "album": "Jump Out",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
-      "uri": "spotify:track:1Rza5aDdB05TcKpfz8oKtQ",
-      "duration_ms": 89637
-    },
     {
       "played_at": "2026-08-27T19:28:40.243Z",
       "name": "Beach leak",
@@ -22949,6 +22916,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d640d0a07c0630bd36fe59c5",
       "uri": "spotify:track:0qtj507DWXEbfJpIxAMtB9",
       "duration_ms": 135861
+    },
+    {
+      "played_at": "2026-11-07T14:33:53.731Z",
+      "name": "Dark Thoughts",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "DOPAMINE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+      "uri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
+      "duration_ms": 136991
+    },
+    {
+      "played_at": "2026-11-07T14:51:39.308Z",
+      "name": "Summer 91 (Looking Back)",
+      "artists": [
+        "Noizu"
+      ],
+      "album": "Summer 91 (Looking Back)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c0c35544b3c51b9b8896f87",
+      "uri": "spotify:track:4FEcEwbE2vsqhxbTPtiNTL",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-11-07T14:54:36.810Z",
+      "name": "On 2nite",
+      "artists": [
+        "Silva Bumpa"
+      ],
+      "album": "On 2nite",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df5399677b85e9f581bb9833",
+      "uri": "spotify:track:2BoSbGSp2OaDBOx5NFHkrr",
+      "duration_ms": 158848
     }
   ]
 }
