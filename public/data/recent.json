@@ -1,123 +1,6 @@
 {
-  "updated_at": "2026-11-07T21:17:21.969Z",
+  "updated_at": "2026-11-08T03:48:16.344Z",
   "plays": [
-    {
-      "played_at": "2026-08-27T19:34:01.531Z",
-      "name": "cts-v",
-      "artists": [
-        "OsamaSon"
-      ],
-      "album": "cts-v",
-      "image": "https://i.scdn.co/image/ab67616d0000b27304e302d64094bab26c5bee3e",
-      "uri": "spotify:track:2LyWlN2el7N7Vd5zfYFyey",
-      "duration_ms": 120032
-    },
-    {
-      "played_at": "2026-08-28T06:37:50.477Z",
-      "name": "hating???",
-      "artists": [
-        "ss3bby",
-        "xaviersobased"
-      ],
-      "album": "hating???",
-      "image": "https://i.scdn.co/image/ab67616d0000b27305c5ef649601a27443b0ece5",
-      "uri": "spotify:track:6ds42I9PtVteXErAG8BMyz",
-      "duration_ms": 135879
-    },
-    {
-      "played_at": "2026-08-28T10:55:08.212Z",
-      "name": "Black Hole Sun",
-      "artists": [
-        "Soundgarden"
-      ],
-      "album": "Superunknown (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
-      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
-      "duration_ms": 318586
-    },
-    {
-      "played_at": "2026-08-28T11:00:20.083Z",
-      "name": "Everlong",
-      "artists": [
-        "Foo Fighters"
-      ],
-      "album": "The Colour And The Shape",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
-      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
-      "duration_ms": 250546
-    },
-    {
-      "played_at": "2026-08-28T11:04:39.818Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-08-28T12:55:33.424Z",
-      "name": "Need Me",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "Keep it goin xav",
-      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-      "uri": "spotify:track:5XFmxkOvTMkv46UV2eMLbx",
-      "duration_ms": 99588
-    },
-    {
-      "played_at": "2026-08-28T16:57:08.219Z",
-      "name": "wokeuplikethis*",
-      "artists": [
-        "Playboi Carti",
-        "Lil Uzi Vert"
-      ],
-      "album": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-      "uri": "spotify:track:59J5nzL1KniFHnU120dQzt",
-      "duration_ms": 235535
-    },
-    {
-      "played_at": "2026-08-28T18:22:01.419Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-08-28T18:24:18.499Z",
-      "name": "Black Beatles",
-      "artists": [
-        "Rae Sremmurd",
-        "Gucci Mane"
-      ],
-      "album": "SremmLife 2 (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
-      "uri": "spotify:track:6fujklziTHa8uoM5OQSfIo",
-      "duration_ms": 291893
-    },
-    {
-      "played_at": "2026-08-28T21:16:42.645Z",
-      "name": "so based",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:5TiyljwKu8Dmcmy5t5sHNr",
-      "duration_ms": 105535
-    },
     {
       "played_at": "2026-08-28T21:22:06.179Z",
       "name": "bacardi",
@@ -22949,6 +22832,120 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
       "uri": "spotify:track:18PhtDBBYxE0vN4YvsZnMy",
       "duration_ms": 111920
+    },
+    {
+      "played_at": "2026-11-07T21:47:02.684Z",
+      "name": "Flashing Lights",
+      "artists": [
+        "Kanye West",
+        "Dwele"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "uri": "spotify:track:5TRPicyLGbAF2LGBFbHGvO",
+      "duration_ms": 237506
+    },
+    {
+      "played_at": "2026-11-07T21:49:08.784Z",
+      "name": "Whiplash",
+      "artists": [
+        "Hank Levy"
+      ],
+      "album": "Whiplash (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736fce4a71d3973d3bbb12e8d7",
+      "uri": "spotify:track:0v0oL77zDnGTdRwB2q6OIm",
+      "duration_ms": 115360
+    },
+    {
+      "played_at": "2026-11-07T22:00:10.893Z",
+      "name": "On 2nite",
+      "artists": [
+        "Silva Bumpa"
+      ],
+      "album": "On 2nite",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df5399677b85e9f581bb9833",
+      "uri": "spotify:track:2BoSbGSp2OaDBOx5NFHkrr",
+      "duration_ms": 158848
+    },
+    {
+      "played_at": "2026-11-07T22:55:40.932Z",
+      "name": "On 2nite",
+      "artists": [
+        "Silva Bumpa"
+      ],
+      "album": "On 2nite",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df5399677b85e9f581bb9833",
+      "uri": "spotify:track:2BoSbGSp2OaDBOx5NFHkrr",
+      "duration_ms": 158848
+    },
+    {
+      "played_at": "2026-11-07T22:59:42.205Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-11-07T23:03:12.429Z",
+      "name": "RATHER LIE (with The Weeknd)",
+      "artists": [
+        "Playboi Carti",
+        "The Weeknd"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-11-07T23:08:55.327Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-11-07T23:19:27.377Z",
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "artists": [
+        "Trippie Redd",
+        "Coi Leray"
+      ],
+      "album": "!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+      "uri": "spotify:track:7uWJbF2gmQlcuhLrFnxGsV",
+      "duration_ms": 205701
+    },
+    {
+      "played_at": "2026-11-07T23:22:42.116Z",
+      "name": "if looks could kill",
+      "artists": [
+        "Destroy Lonely"
+      ],
+      "album": "If Looks Could Kill",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735887b3f4481d39becbebffbc",
+      "uri": "spotify:track:7cFLFmj3fLV5wxhcFfol7u",
+      "duration_ms": 194213
+    },
+    {
+      "played_at": "2026-11-07T23:53:34.348Z",
+      "name": "Fighting My Demons",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:2c7sRekhMGlj7u1WIIzoQu",
+      "duration_ms": 150401
     }
   ]
 }
