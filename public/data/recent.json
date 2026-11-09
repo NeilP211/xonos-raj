@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-08T19:16:24.965Z",
+  "updated_at": "2026-11-09T00:24:44.582Z",
   "plays": [
-    {
-      "played_at": "2026-08-28T21:22:06.179Z",
-      "name": "bacardi",
-      "artists": [
-        "phreshboyswag"
-      ],
-      "album": "VIP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b04c4505cb1d00e12582b762",
-      "uri": "spotify:track:178eiv7y1ot3IBaJEvceHe",
-      "duration_ms": 112198
-    },
     {
       "played_at": "2026-08-28T21:31:25.946Z",
       "name": "Tin Pan Alley (AKA Roughest Place in Town)",
@@ -22946,6 +22935,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
       "uri": "spotify:track:2c7sRekhMGlj7u1WIIzoQu",
       "duration_ms": 150401
+    },
+    {
+      "played_at": "2026-11-08T03:03:13.297Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
     }
   ]
 }
