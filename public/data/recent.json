@@ -1,281 +1,6 @@
 {
-  "updated_at": "2026-11-09T10:45:27.850Z",
+  "updated_at": "2026-11-09T21:49:22.617Z",
   "plays": [
-    {
-      "played_at": "2026-08-29T17:25:26.154Z",
-      "name": "Black Hole Sun",
-      "artists": [
-        "Soundgarden"
-      ],
-      "album": "Superunknown (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
-      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
-      "duration_ms": 318586
-    },
-    {
-      "played_at": "2026-08-29T18:15:00.400Z",
-      "name": "Pride and Joy",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Texas Flood (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
-      "uri": "spotify:track:1a2iF9XymafjRk56q7oCxo",
-      "duration_ms": 219586
-    },
-    {
-      "played_at": "2026-08-29T18:20:17.320Z",
-      "name": "Sultans of Swing",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Dire Straits",
-      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
-      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
-      "duration_ms": 348760
-    },
-    {
-      "played_at": "2026-08-29T22:03:57.177Z",
-      "name": "Kiss of Life",
-      "artists": [
-        "Sade"
-      ],
-      "album": "The Best of Sade",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-      "uri": "spotify:track:65krtHkaYLPr0mEbjL61UP",
-      "duration_ms": 251333
-    },
-    {
-      "played_at": "2026-08-29T22:07:28.108Z",
-      "name": "7 Summers",
-      "artists": [
-        "Morgan Wallen"
-      ],
-      "album": "Dangerous: The Double Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
-      "duration_ms": 210506
-    },
-    {
-      "played_at": "2026-08-29T22:11:31.132Z",
-      "name": "Down Under",
-      "artists": [
-        "Men At Work"
-      ],
-      "album": "Business As Usual",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
-      "uri": "spotify:track:3ZZq9396zv8pcn5GYVhxUi",
-      "duration_ms": 222320
-    },
-    {
-      "played_at": "2026-08-29T22:19:51.077Z",
-      "name": "Springsteen",
-      "artists": [
-        "Eric Church"
-      ],
-      "album": "Chief",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
-      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
-      "duration_ms": 263386
-    },
-    {
-      "played_at": "2026-08-30T02:09:14.960Z",
-      "name": "Dream On",
-      "artists": [
-        "Aerosmith"
-      ],
-      "album": "Aerosmith",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e0c7891bd7c7ea49d69512e2",
-      "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC",
-      "duration_ms": 267600
-    },
-    {
-      "played_at": "2026-08-30T18:51:33.523Z",
-      "name": "About A Girl",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Bleach (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342b32e43479b6aa2cdf93c92",
-      "uri": "spotify:track:0nH4OFO4PasjNGvQv1Z36s",
-      "duration_ms": 168428
-    },
-    {
-      "played_at": "2026-08-30T20:32:28.971Z",
-      "name": "Texas Flood",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Texas Flood (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
-      "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
-      "duration_ms": 320906
-    },
-    {
-      "played_at": "2026-08-30T20:33:13.815Z",
-      "name": "Texas Flood",
-      "artists": [
-        "Stevie Ray Vaughan"
-      ],
-      "album": "Texas Flood (Legacy Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
-      "uri": "spotify:track:5MtN38MGEWJt60LwtBmFNP",
-      "duration_ms": 320906
-    },
-    {
-      "played_at": "2026-08-30T20:54:05.676Z",
-      "name": "Rooster (2022 Remaster)",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Dirt (2022 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-      "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2",
-      "duration_ms": 374333
-    },
-    {
-      "played_at": "2026-08-30T21:05:09.233Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-08-30T21:12:45.023Z",
-      "name": "Sappy - Smart Sessions",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739882599a8bed4658b11b9f1a",
-      "uri": "spotify:track:1nuBHt1jsgWRNaGEi1tl7e",
-      "duration_ms": 214893
-    },
-    {
-      "played_at": "2026-08-30T21:43:27.795Z",
-      "name": "Black Hole Sun",
-      "artists": [
-        "Soundgarden"
-      ],
-      "album": "Superunknown (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
-      "uri": "spotify:track:2EoOZnxNgtmZaD8uUmz2nD",
-      "duration_ms": 318586
-    },
-    {
-      "played_at": "2026-08-30T21:52:39.215Z",
-      "name": "Battery (Remastered)",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Master of Puppets (Remastered Deluxe Box Set)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa",
-      "uri": "spotify:track:7wz8LNfmGZ3C0PwKW9LdDg",
-      "duration_ms": 312360
-    },
-    {
-      "played_at": "2026-08-30T22:44:06.070Z",
-      "name": "Jump - 2015 Remaster",
-      "artists": [
-        "Van Halen"
-      ],
-      "album": "1984 (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
-      "uri": "spotify:track:7N3PAbqfTjSEU1edb2tY8j",
-      "duration_ms": 241599
-    },
-    {
-      "played_at": "2026-08-30T22:50:49.114Z",
-      "name": "Holy Wars...The Punishment Due - 2004 Remix",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "uri": "spotify:track:5LyRtsQLhcXmy50VXhQXXS",
-      "duration_ms": 392600
-    },
-    {
-      "played_at": "2026-08-30T22:58:46.958Z",
-      "name": "Tornado Of Souls - 2004 Remix",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
-      "duration_ms": 319266
-    },
-    {
-      "played_at": "2026-08-30T23:05:17.292Z",
-      "name": "One (Remastered)",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "...And Justice for All (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738161357a12a172721e772e0d",
-      "uri": "spotify:track:3sRZqCxbnwiKKPe57WoT6S",
-      "duration_ms": 446145
-    },
-    {
-      "played_at": "2026-08-31T00:53:06.080Z",
-      "name": "Holier Than Thou (Remastered)",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Metallica (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
-      "uri": "spotify:track:5VJ05rDJ2O4cECGNbWPi64",
-      "duration_ms": 227573
-    },
-    {
-      "played_at": "2026-08-31T01:01:16.870Z",
-      "name": "Wherever I May Roam (Remastered)",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Metallica (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
-      "uri": "spotify:track:745sNpjWbAxo2MA2zSYbyD",
-      "duration_ms": 404333
-    },
-    {
-      "played_at": "2026-08-31T01:07:58.976Z",
-      "name": "Sulfur",
-      "artists": [
-        "Slipknot"
-      ],
-      "album": "All Hope Is Gone (10th Anniversary)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
-      "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
-      "duration_ms": 277800
-    },
-    {
-      "played_at": "2026-08-31T01:31:26.161Z",
-      "name": "The Blister Exists",
-      "artists": [
-        "Slipknot"
-      ],
-      "album": "Vol. 3: The Subliminal Verses (Special Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
-      "uri": "spotify:track:3q7GKmKaiktt57PVIxKOm8",
-      "duration_ms": 319426
-    },
-    {
-      "played_at": "2026-08-31T01:46:15.055Z",
-      "name": "Freak On a Leash",
-      "artists": [
-        "Korn"
-      ],
-      "album": "Follow The Leader",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21",
-      "uri": "spotify:track:6W21LNLz9Sw7sUSNWMSHRu",
-      "duration_ms": 255729
-    },
     {
       "played_at": "2026-08-31T01:53:37.125Z",
       "name": "Wherever I May Roam (Remastered)",
@@ -22947,6 +22672,301 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736fce4a71d3973d3bbb12e8d7",
       "uri": "spotify:track:0v0oL77zDnGTdRwB2q6OIm",
       "duration_ms": 115360
+    },
+    {
+      "played_at": "2026-11-09T06:12:13.056Z",
+      "name": "Falling Behind",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Everything I Know About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+      "duration_ms": 173640
+    },
+    {
+      "played_at": "2026-11-09T11:54:14.463Z",
+      "name": "Samba Dees Days",
+      "artists": [
+        "Stan Getz",
+        "Charlie Byrd"
+      ],
+      "album": "Jazz Samba",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
+      "uri": "spotify:track:68ELKUCl9CkRx3gXpMfjzL",
+      "duration_ms": 212320
+    },
+    {
+      "played_at": "2026-11-09T11:58:25.337Z",
+      "name": "Sunday",
+      "artists": [
+        "Ben Webster",
+        "Oscar Peterson"
+      ],
+      "album": "Ben Webster's Finest Hour",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389c5c606cd7bae638ee4bb44",
+      "uri": "spotify:track:4tSY2oSX8fdedowKjFYWJH",
+      "duration_ms": 237493
+    },
+    {
+      "played_at": "2026-11-09T13:45:59.448Z",
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Couldn't Stand The Weather (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
+      "uri": "spotify:track:7zto61V8ySp03Qi6X1LU2X",
+      "duration_ms": 551786
+    },
+    {
+      "played_at": "2026-11-09T13:50:42.167Z",
+      "name": "Bluesette",
+      "artists": [
+        "Toots Thielemans"
+      ],
+      "album": "The Jazz Harmonica",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3f0d7744b15a4587c388020",
+      "uri": "spotify:track:7E5pDQN3D93OxPak6Esnw7",
+      "duration_ms": 172386
+    },
+    {
+      "played_at": "2026-11-09T14:02:58.010Z",
+      "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "artists": [
+        "Miles Davis",
+        "John Coltrane",
+        "Cannonball Adderley",
+        "Red Garland",
+        "Paul Chambers",
+        "Philly Joe Jones"
+      ],
+      "album": "Milestones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016",
+      "uri": "spotify:track:1xicvSO4CJ2ymqYgpk7DFh",
+      "duration_ms": 342066
+    },
+    {
+      "played_at": "2026-11-09T16:47:23.270Z",
+      "name": "Bluesette",
+      "artists": [
+        "Toots Thielemans"
+      ],
+      "album": "The Jazz Harmonica",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3f0d7744b15a4587c388020",
+      "uri": "spotify:track:7E5pDQN3D93OxPak6Esnw7",
+      "duration_ms": 172386
+    },
+    {
+      "played_at": "2026-11-09T16:53:16.527Z",
+      "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "artists": [
+        "Miles Davis",
+        "John Coltrane",
+        "Cannonball Adderley",
+        "Red Garland",
+        "Paul Chambers",
+        "Philly Joe Jones"
+      ],
+      "album": "Milestones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016",
+      "uri": "spotify:track:1xicvSO4CJ2ymqYgpk7DFh",
+      "duration_ms": 342066
+    },
+    {
+      "played_at": "2026-11-09T18:05:59.789Z",
+      "name": "Bluesette",
+      "artists": [
+        "Toots Thielemans"
+      ],
+      "album": "The Jazz Harmonica",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3f0d7744b15a4587c388020",
+      "uri": "spotify:track:7E5pDQN3D93OxPak6Esnw7",
+      "duration_ms": 172386
+    },
+    {
+      "played_at": "2026-11-09T18:12:51.475Z",
+      "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "artists": [
+        "Miles Davis",
+        "John Coltrane",
+        "Cannonball Adderley",
+        "Red Garland",
+        "Paul Chambers",
+        "Philly Joe Jones"
+      ],
+      "album": "Milestones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016",
+      "uri": "spotify:track:1xicvSO4CJ2ymqYgpk7DFh",
+      "duration_ms": 342066
+    },
+    {
+      "played_at": "2026-11-09T18:16:18.770Z",
+      "name": "Quickest Routes",
+      "artists": [
+        "Shoreline Mafia",
+        "Disco Lines",
+        "OHGEESY",
+        "Fenix Flexin"
+      ],
+      "album": "Disco Mafia Pack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
+      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
+      "duration_ms": 134400
+    },
+    {
+      "played_at": "2026-11-09T18:19:53.640Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-11-09T18:24:19.425Z",
+      "name": "Cheri Cheri Lady",
+      "artists": [
+        "Modern Talking"
+      ],
+      "album": "Let's Talk About Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aedd9728f5cc4b13ee49e061",
+      "uri": "spotify:track:2aEuA8PSqLa17Y4hKPj5rr",
+      "duration_ms": 226333
+    },
+    {
+      "played_at": "2026-11-09T18:28:10.917Z",
+      "name": "Mighty Wings - From \"Top Gun\" Original Soundtrack",
+      "artists": [
+        "Cheap Trick"
+      ],
+      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
+      "uri": "spotify:track:32SckiFOYb8bwYewY51WA7",
+      "duration_ms": 231039
+    },
+    {
+      "played_at": "2026-11-09T18:30:38.706Z",
+      "name": "Ain't That A Kick In The Head - Remastered 1997",
+      "artists": [
+        "Dean Martin"
+      ],
+      "album": "At The Movies",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734d3ff72e140b46903b52765c",
+      "uri": "spotify:track:4qQ8sToR3GNossXlwSlyKz",
+      "duration_ms": 147293
+    },
+    {
+      "played_at": "2026-11-09T18:42:44.545Z",
+      "name": "Moonlight on the River",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+      "duration_ms": 422613
+    },
+    {
+      "played_at": "2026-11-09T18:49:19.049Z",
+      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Hotel California (40th Anniversary Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
+      "duration_ms": 287533
+    },
+    {
+      "played_at": "2026-11-09T18:52:35.148Z",
+      "name": "Whuss the Deal",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:64FxpKdU055iIaMDY441Qc",
+      "duration_ms": 195636
+    },
+    {
+      "played_at": "2026-11-09T18:54:43.146Z",
+      "name": "Recover Artist",
+      "artists": [
+        "devLfg"
+      ],
+      "album": "Recover Artist",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c2c637dc7e4daeea8874dfe",
+      "uri": "spotify:track:18QWiiCbP3Y5s4Xn4OB74O",
+      "duration_ms": 127477
+    },
+    {
+      "played_at": "2026-11-09T18:59:33.550Z",
+      "name": "Chamber Of Reflection",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "Salad Days",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
+      "uri": "spotify:track:1Snko28yJOihcRVXs9dAo9",
+      "duration_ms": 231723
+    },
+    {
+      "played_at": "2026-11-09T19:03:30.933Z",
+      "name": "Don't Dream It's Over",
+      "artists": [
+        "Crowded House"
+      ],
+      "album": "Crowded House",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+      "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh",
+      "duration_ms": 236933
+    },
+    {
+      "played_at": "2026-11-09T19:10:08.619Z",
+      "name": "POP OUT",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:3j3SfV4hAcR4XjCvW393Gr",
+      "duration_ms": 161738
+    },
+    {
+      "played_at": "2026-11-09T19:24:33.501Z",
+      "name": "Swërved It",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:6GukTiiz6sGrXEHPEqsD5Y",
+      "duration_ms": 137299
+    },
+    {
+      "played_at": "2026-11-09T20:49:32.482Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-11-09T20:53:21.214Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
     }
   ]
 }
