@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-11-10T05:33:24.827Z",
+  "updated_at": "2026-11-10T14:05:04.988Z",
   "is_playing": false,
   "track": {
-    "name": "The Beauty And The Beast",
+    "name": "Bluesette",
     "artists": [
-      "Marjorie Barnes",
       "Toots Thielemans"
     ],
-    "album": "The Beauty And The Beast",
-    "image": "https://i.scdn.co/image/ab6742d3000053b758b7bd219b1205e0cc577d5b",
-    "uri": "spotify:track:2ZYkVYnWFBPp98isZxWH8o"
+    "album": "The Jazz Harmonica",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e3f0d7744b15a4587c388020",
+    "uri": "spotify:track:7E5pDQN3D93OxPak6Esnw7"
   },
-  "played_at": "2026-11-10T03:12:37.577Z"
+  "played_at": "2026-11-10T13:56:21.038Z"
 }
