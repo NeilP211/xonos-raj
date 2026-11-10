@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-09T21:49:22.817Z",
+  "updated_at": "2026-11-10T05:33:24.827Z",
   "is_playing": false,
   "track": {
-    "name": "7 Summers",
+    "name": "The Beauty And The Beast",
     "artists": [
-      "Morgan Wallen"
+      "Marjorie Barnes",
+      "Toots Thielemans"
     ],
-    "album": "Dangerous: The Double Album",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
-    "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr"
+    "album": "The Beauty And The Beast",
+    "image": "https://i.scdn.co/image/ab6742d3000053b758b7bd219b1205e0cc577d5b",
+    "uri": "spotify:track:2ZYkVYnWFBPp98isZxWH8o"
   },
-  "played_at": "2026-11-09T20:53:21.214Z"
+  "played_at": "2026-11-10T03:12:37.577Z"
 }
