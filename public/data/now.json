@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-11-12T05:17:25.007Z",
+  "updated_at": "2026-11-12T14:26:14.793Z",
   "is_playing": false,
   "track": {
-    "name": "Gungala nido",
+    "name": "Breathe (In the Air)",
     "artists": [
-      "Luigi Malatesta",
-      "Franco Bixio",
-      "Sandro Brugnolini"
+      "Pink Floyd"
     ],
-    "album": "Gungala, la pantera nuda (Original Motion Picture Soundtrack)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735825bed39f88a05995213355",
-    "uri": "spotify:track:1UMF4tcuC8J1XpJ1qp9Ws3"
+    "album": "The Dark Side of the Moon",
+    "image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+    "uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53"
   },
-  "played_at": "2026-11-12T01:05:54.331Z"
+  "played_at": "2026-11-12T11:56:40.501Z"
 }
