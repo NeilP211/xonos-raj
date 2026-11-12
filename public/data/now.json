@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-11-11T21:41:24.398Z",
+  "updated_at": "2026-11-12T05:17:25.007Z",
   "is_playing": false,
   "track": {
-    "name": "Love Walks In",
+    "name": "Gungala nido",
     "artists": [
-      "Van Halen"
+      "Luigi Malatesta",
+      "Franco Bixio",
+      "Sandro Brugnolini"
     ],
-    "album": "5150",
-    "image": "https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57",
-    "uri": "spotify:track:6FRQGRdhueJGTKiYnirDNy"
+    "album": "Gungala, la pantera nuda (Original Motion Picture Soundtrack)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735825bed39f88a05995213355",
+    "uri": "spotify:track:1UMF4tcuC8J1XpJ1qp9Ws3"
   },
-  "played_at": "2026-11-11T05:17:27.011Z"
+  "played_at": "2026-11-12T01:05:54.331Z"
 }
