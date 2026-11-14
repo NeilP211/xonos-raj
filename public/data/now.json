@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-13T21:07:31.075Z",
+  "updated_at": "2026-11-14T04:28:22.974Z",
   "is_playing": false,
   "track": {
-    "name": "Coffee",
+    "name": "Harvest Moon",
     "artists": [
-      "beabadoobee"
+      "Neil Young"
     ],
-    "album": "Coffee",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ad2c1e1bcbc8d7415636691b",
-    "uri": "spotify:track:429NtPmr12aypzFH3FkN9l"
+    "album": "Greatest Hits",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739ccaa7931619cf504014a987",
+    "uri": "spotify:track:7sCHy8QQUz3CRvUMp53Cbm"
   },
-  "played_at": "2026-11-13T19:49:56.267Z"
+  "played_at": "2026-11-13T19:50:14.534Z"
 }

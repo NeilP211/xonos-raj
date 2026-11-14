@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:07:30.760Z",
+  "generated_at": "2026-11-14T04:28:22.827Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1198,6 +1198,18 @@
         },
         {
           "rank": 24,
+          "name": "Can't Tell Me Nothing",
+          "artists": [
+            "Kanye West"
+          ],
+          "album": "Graduation",
+          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+          "duration_ms": 271600
+        },
+        {
+          "rank": 25,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -1209,18 +1221,6 @@
           "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
           "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
           "duration_ms": 199920
-        },
-        {
-          "rank": 25,
-          "name": "Can't Tell Me Nothing",
-          "artists": [
-            "Kanye West"
-          ],
-          "album": "Graduation",
-          "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-          "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-          "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-          "duration_ms": 271600
         },
         {
           "rank": 26,
@@ -1572,6 +1572,14 @@
         },
         {
           "rank": 6,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 7,
           "name": "ian",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8aad49dbc1594fa8d4dee88e",
           "genres": [],
@@ -1579,7 +1587,7 @@
           "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Stevie Ray Vaughan",
           "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
           "genres": [],
@@ -1587,7 +1595,7 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Trippie Redd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbb2dd30a6c15bdeeb131e525",
           "genres": [],
@@ -1595,20 +1603,12 @@
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Yeat",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
           "genres": [],
           "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx",
           "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "rank": 10,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 11,
@@ -1716,19 +1716,19 @@
         },
         {
           "rank": 24,
-          "name": "Lil Uzi Vert",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
-          "genres": [],
-          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "rank": 25,
           "name": "Slipknot",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
           "genres": [],
           "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        },
+        {
+          "rank": 25,
+          "name": "Lil Uzi Vert",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
+          "genres": [],
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
           "rank": 26,
@@ -1772,6 +1772,14 @@
         },
         {
           "rank": 31,
+          "name": "Crowbar",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7541a50126cf83b140f44d00",
+          "genres": [],
+          "uri": "spotify:artist:3xtIpqzIOfQUxKce8BU4Ka",
+          "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
+        },
+        {
+          "rank": 32,
           "name": "Dean Martin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6cd6243f252c50b89eee1bbc",
           "genres": [],
@@ -1779,7 +1787,7 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Robin Gan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf09cf91f17f33c04bb384a41",
           "genres": [],
@@ -1787,20 +1795,12 @@
           "url": "https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL"
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
           "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "rank": 34,
-          "name": "Crowbar",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7541a50126cf83b140f44d00",
-          "genres": [],
-          "uri": "spotify:artist:3xtIpqzIOfQUxKce8BU4Ka",
-          "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
         },
         {
           "rank": 35,
@@ -1820,6 +1820,14 @@
         },
         {
           "rank": 37,
+          "name": "Bobby Darin",
+          "image": "https://i.scdn.co/image/ab6772690000c46c92f83e9f6b9f4b89c56c5811",
+          "genres": [],
+          "uri": "spotify:artist:0EodhzA6yW1bIdD5B4tcmJ",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        },
+        {
+          "rank": 38,
           "name": "Charles Mingus",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe43b629d257d42a86c71323d",
           "genres": [],
@@ -1827,20 +1835,12 @@
           "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "The Dave Brubeck Quartet",
           "image": "https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e",
           "genres": [],
           "uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7",
           "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        },
-        {
-          "rank": 39,
-          "name": "Bobby Darin",
-          "image": "https://i.scdn.co/image/ab6772690000c46c92f83e9f6b9f4b89c56c5811",
-          "genres": [],
-          "uri": "spotify:artist:0EodhzA6yW1bIdD5B4tcmJ",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         },
         {
           "rank": 40,
