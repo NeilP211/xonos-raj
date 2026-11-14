@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:48:55.596Z",
+  "generated_at": "2026-11-14T19:38:25.141Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -104,6 +104,18 @@
         },
         {
           "rank": 9,
+          "name": "Don't Worry Be Happy",
+          "artists": [
+            "Bobby McFerrin"
+          ],
+          "album": "Simple Pleasures",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a88b9eddbf3650ea0529f2cc",
+          "uri": "spotify:track:4hObp5bmIJ3PP3cKA9K9GY",
+          "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY",
+          "duration_ms": 294400
+        },
+        {
+          "rank": 10,
           "name": "Kung Fu Panda",
           "artists": [
             "Young Yayo",
@@ -114,18 +126,6 @@
           "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
           "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
           "duration_ms": 111699
-        },
-        {
-          "rank": 10,
-          "name": "Don't Worry Be Happy",
-          "artists": [
-            "Bobby McFerrin"
-          ],
-          "album": "Simple Pleasures",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a88b9eddbf3650ea0529f2cc",
-          "uri": "spotify:track:4hObp5bmIJ3PP3cKA9K9GY",
-          "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY",
-          "duration_ms": 294400
         },
         {
           "rank": 11,
@@ -223,18 +223,6 @@
         },
         {
           "rank": 18,
-          "name": "Pain",
-          "artists": [
-            "PinkPantheress"
-          ],
-          "album": "to hell with it",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
-          "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
-          "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka",
-          "duration_ms": 98544
-        },
-        {
-          "rank": 19,
           "name": "Nun Major",
           "artists": [
             "Shoreline Mafia"
@@ -246,7 +234,7 @@
           "duration_ms": 151836
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Yung Nigga Shit",
           "artists": [
             "2wo2imes",
@@ -259,7 +247,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -271,7 +259,7 @@
           "duration_ms": 184375
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Harvest Moon",
           "artists": [
             "Neil Young"
@@ -283,7 +271,7 @@
           "duration_ms": 303213
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Passionfruit",
           "artists": [
             "Drake"
@@ -295,7 +283,7 @@
           "duration_ms": 298940
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Fair Trade (with Travis Scott)",
           "artists": [
             "Drake",
@@ -308,7 +296,7 @@
           "duration_ms": 291175
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -322,7 +310,7 @@
           "duration_ms": 137142
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Armed And Dangerous",
           "artists": [
             "Juice WRLD"
@@ -334,7 +322,7 @@
           "duration_ms": 169999
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Talk",
           "artists": [
             "Yeat"
@@ -346,7 +334,7 @@
           "duration_ms": 174857
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "40 - Dj Ess Mix",
           "artists": [
             "evilgiane",
@@ -361,20 +349,7 @@
           "duration_ms": 81658
         },
         {
-          "rank": 29,
-          "name": "Dark Knight Dummo (feat. Travis Scott)",
-          "artists": [
-            "Trippie Redd",
-            "Travis Scott"
-          ],
-          "album": "LIFE'S A TRIP",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
-          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
-          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
-          "duration_ms": 256161
-        },
-        {
-          "rank": 30,
+          "rank": 28,
           "name": "It's Such a Good Night (From \"Breaking Bad\")",
           "artists": [
             "Heisenberg & The Albuquerque Kingpins"
@@ -386,7 +361,19 @@
           "duration_ms": 157888
         },
         {
-          "rank": 31,
+          "rank": 29,
+          "name": "Pain",
+          "artists": [
+            "PinkPantheress"
+          ],
+          "album": "to hell with it",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+          "uri": "spotify:track:4S4QJfBGGrC8jRIjJHf1Ka",
+          "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka",
+          "duration_ms": 98544
+        },
+        {
+          "rank": 30,
           "name": "Banana Pancakes",
           "artists": [
             "Jack Johnson"
@@ -398,7 +385,7 @@
           "duration_ms": 191906
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Thriller",
           "artists": [
             "Michael Jackson"
@@ -410,7 +397,7 @@
           "duration_ms": 358807
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "I <3 My Choppa",
           "artists": [
             "Tay-K"
@@ -422,7 +409,7 @@
           "duration_ms": 105000
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Too Many Nights (feat. Don Toliver & with Future)",
           "artists": [
             "Metro Boomin",
@@ -436,7 +423,7 @@
           "duration_ms": 199920
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Smooth Operator - Single Version",
           "artists": [
             "Sade"
@@ -448,7 +435,7 @@
           "duration_ms": 258693
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Flight's Booked",
           "artists": [
             "Drake"
@@ -460,7 +447,7 @@
           "duration_ms": 254407
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Let Go",
           "artists": [
             "Ark Patrol",
@@ -473,7 +460,7 @@
           "duration_ms": 248056
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "RATHER LIE (with The Weeknd)",
           "artists": [
             "Playboi Carti",
@@ -486,7 +473,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Ski",
           "artists": [
             "Young Stoner Life",
@@ -498,6 +485,18 @@
           "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
           "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1",
           "duration_ms": 152333
+        },
+        {
+          "rank": 39,
+          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+          "artists": [
+            "Stevie Ray Vaughan"
+          ],
+          "album": "Couldn't Stand the Weather",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732b2a79fa29fcad7aebfc994b",
+          "uri": "spotify:track:1xqapeaVoRCzHYsyEDwgPJ",
+          "url": "https://open.spotify.com/track/1xqapeaVoRCzHYsyEDwgPJ",
+          "duration_ms": 552464
         },
         {
           "rank": 40,
@@ -513,15 +512,16 @@
         },
         {
           "rank": 41,
-          "name": "GUMMO",
+          "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
-            "6ix9ine"
+            "Trippie Redd",
+            "Travis Scott"
           ],
-          "album": "Day69: Graduation Day",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
-          "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt",
-          "url": "https://open.spotify.com/track/2HBtd9MYDd2xDVu8Zc6pwt",
-          "duration_ms": 157643
+          "album": "LIFE'S A TRIP",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+          "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
+          "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
+          "duration_ms": 256161
         },
         {
           "rank": 42,
@@ -561,15 +561,15 @@
         },
         {
           "rank": 45,
-          "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+          "name": "GUMMO",
           "artists": [
-            "Stevie Ray Vaughan"
+            "6ix9ine"
           ],
-          "album": "Couldn't Stand the Weather",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732b2a79fa29fcad7aebfc994b",
-          "uri": "spotify:track:1xqapeaVoRCzHYsyEDwgPJ",
-          "url": "https://open.spotify.com/track/1xqapeaVoRCzHYsyEDwgPJ",
-          "duration_ms": 552464
+          "album": "Day69: Graduation Day",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734ab8b1c3369c5fc82d63ac79",
+          "uri": "spotify:track:2HBtd9MYDd2xDVu8Zc6pwt",
+          "url": "https://open.spotify.com/track/2HBtd9MYDd2xDVu8Zc6pwt",
+          "duration_ms": 157643
         },
         {
           "rank": 46,
@@ -622,15 +622,16 @@
         },
         {
           "rank": 50,
-          "name": "Catch Me Outside",
+          "name": "Just the Two of Us (feat. Bill Withers) - Edit",
           "artists": [
-            "Ski Mask The Slump God"
+            "Grover Washington, Jr.",
+            "Bill Withers"
           ],
-          "album": "You Will Regret (Reloaded)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737dcdeb2a001a06cbd0c6a6ae",
-          "uri": "spotify:track:1hVHF4piGsHg5MKwxG7XwR",
-          "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR",
-          "duration_ms": 145760
+          "album": "The Complete Elektra Singles",
+          "image": "https://i.scdn.co/image/ab67616d0000b27344599207c878187b9b357770",
+          "uri": "spotify:track:4Wfxqaksd2ohhZM57DagnA",
+          "url": "https://open.spotify.com/track/4Wfxqaksd2ohhZM57DagnA",
+          "duration_ms": 240640
         }
       ],
       "artists": [
