@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:38:25.141Z",
+  "generated_at": "2026-11-15T00:35:42.638Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -67,6 +67,18 @@
         },
         {
           "rank": 6,
+          "name": "Breathe (In the Air)",
+          "artists": [
+            "Pink Floyd"
+          ],
+          "album": "The Dark Side of the Moon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+          "uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53",
+          "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53",
+          "duration_ms": 169560
+        },
+        {
+          "rank": 7,
           "name": "Definition",
           "artists": [
             "2wo2imes",
@@ -77,18 +89,6 @@
           "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
           "url": "https://open.spotify.com/track/08GNAA4fM4BEZ8yG9opdFy",
           "duration_ms": 162560
-        },
-        {
-          "rank": 7,
-          "name": "Breathe (In the Air)",
-          "artists": [
-            "Pink Floyd"
-          ],
-          "album": "The Dark Side of the Moon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
-          "uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53",
-          "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53",
-          "duration_ms": 169560
         },
         {
           "rank": 8,
@@ -206,6 +206,18 @@
         },
         {
           "rank": 17,
+          "name": "Harvest Moon",
+          "artists": [
+            "Neil Young"
+          ],
+          "album": "Harvest Moon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
+          "uri": "spotify:track:5l9c6bJmzvftumhz4TMPgk",
+          "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
+          "duration_ms": 303213
+        },
+        {
+          "rank": 18,
           "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) - Mono Version",
           "artists": [
             "Miles Davis",
@@ -222,7 +234,7 @@
           "duration_ms": 349256
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nun Major",
           "artists": [
             "Shoreline Mafia"
@@ -234,7 +246,7 @@
           "duration_ms": 151836
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Yung Nigga Shit",
           "artists": [
             "2wo2imes",
@@ -247,7 +259,7 @@
           "duration_ms": 135510
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "ss",
           "artists": [
             "Ken Carson"
@@ -257,18 +269,6 @@
           "uri": "spotify:track:26QJuQfM8PVAWkIm1JRyqq",
           "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq",
           "duration_ms": 184375
-        },
-        {
-          "rank": 21,
-          "name": "Harvest Moon",
-          "artists": [
-            "Neil Young"
-          ],
-          "album": "Harvest Moon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
-          "uri": "spotify:track:5l9c6bJmzvftumhz4TMPgk",
-          "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
-          "duration_ms": 303213
         },
         {
           "rank": 22,
@@ -284,6 +284,18 @@
         },
         {
           "rank": 23,
+          "name": "Armed And Dangerous",
+          "artists": [
+            "Juice WRLD"
+          ],
+          "album": "Goodbye & Good Riddance",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+          "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+          "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
+          "duration_ms": 169999
+        },
+        {
+          "rank": 24,
           "name": "Fair Trade (with Travis Scott)",
           "artists": [
             "Drake",
@@ -296,7 +308,7 @@
           "duration_ms": 291175
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Back In Bidness",
           "artists": [
             "Shoreline Mafia",
@@ -308,18 +320,6 @@
           "uri": "spotify:track:4HyBDkCeRJWN1eOT2GELcL",
           "url": "https://open.spotify.com/track/4HyBDkCeRJWN1eOT2GELcL",
           "duration_ms": 137142
-        },
-        {
-          "rank": 25,
-          "name": "Armed And Dangerous",
-          "artists": [
-            "Juice WRLD"
-          ],
-          "album": "Goodbye & Good Riddance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-          "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
-          "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
-          "duration_ms": 169999
         },
         {
           "rank": 26,
@@ -597,6 +597,18 @@
         },
         {
           "rank": 48,
+          "name": "Gonna Fly Now - Theme From \"Rocky\"",
+          "artists": [
+            "Bill Conti"
+          ],
+          "album": "Rocky (Original Motion Picture Score)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27379abdfdbe029582f32fe0b94",
+          "uri": "spotify:track:7iXYRR70wewzVYzWScm99j",
+          "url": "https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j",
+          "duration_ms": 167533
+        },
+        {
+          "rank": 49,
           "name": "Easy Lover",
           "artists": [
             "Philip Bailey",
@@ -609,7 +621,7 @@
           "duration_ms": 305866
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -619,19 +631,6 @@
           "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
           "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
           "duration_ms": 213920
-        },
-        {
-          "rank": 50,
-          "name": "Just the Two of Us (feat. Bill Withers) - Edit",
-          "artists": [
-            "Grover Washington, Jr.",
-            "Bill Withers"
-          ],
-          "album": "The Complete Elektra Singles",
-          "image": "https://i.scdn.co/image/ab67616d0000b27344599207c878187b9b357770",
-          "uri": "spotify:track:4Wfxqaksd2ohhZM57DagnA",
-          "url": "https://open.spotify.com/track/4Wfxqaksd2ohhZM57DagnA",
-          "duration_ms": 240640
         }
       ],
       "artists": [
@@ -685,14 +684,6 @@
         },
         {
           "rank": 7,
-          "name": "Tay-K",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
-          "genres": [],
-          "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
-          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
-        },
-        {
-          "rank": 8,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
           "genres": [],
@@ -700,7 +691,7 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Stevie Ray Vaughan",
           "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
           "genres": [],
@@ -708,12 +699,20 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Trippie Redd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbb2dd30a6c15bdeeb131e525",
           "genres": [],
           "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "rank": 10,
+          "name": "Tay-K",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8",
+          "genres": [],
+          "uri": "spotify:artist:2ODbg2404zUzTi02qIPEjB",
+          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
         },
         {
           "rank": 11,
@@ -733,14 +732,6 @@
         },
         {
           "rank": 13,
-          "name": "Slipknot",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
-          "genres": [],
-          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        },
-        {
-          "rank": 14,
           "name": "Michael Jackson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
           "genres": [],
@@ -748,12 +739,20 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Yasuharu Takanashi",
           "image": "https://i.scdn.co/image/ab6761610000e5eba6c9c7099223a976f96e4613",
           "genres": [],
           "uri": "spotify:artist:64mecceQewFCKwCK6JBW0o",
           "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "rank": 15,
+          "name": "Slipknot",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf5bd8b1496eb4fb7ca5031ad",
+          "genres": [],
+          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         },
         {
           "rank": 16,
@@ -765,14 +764,6 @@
         },
         {
           "rank": 17,
-          "name": "Lil Tecca",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
-          "genres": [],
-          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "rank": 18,
           "name": "6ix9ine",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2ce0f1899ab2bf14a4eb286",
           "genres": [],
@@ -780,7 +771,7 @@
           "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Engelbert Humperdinck",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0f3aa6415854de11e7d9c532",
           "genres": [],
@@ -788,12 +779,20 @@
           "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "ian",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8aad49dbc1594fa8d4dee88e",
           "genres": [],
           "uri": "spotify:artist:23hzc59PkIUau13dqXx5Ef",
           "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        },
+        {
+          "rank": 20,
+          "name": "Lil Tecca",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
+          "genres": [],
+          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
           "rank": 21,
@@ -861,14 +860,6 @@
         },
         {
           "rank": 29,
-          "name": "Creed",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0d86c8971cc4d6fa63d58bae",
-          "genres": [],
-          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        },
-        {
-          "rank": 30,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -876,12 +867,20 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
           "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        },
+        {
+          "rank": 31,
+          "name": "Creed",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0d86c8971cc4d6fa63d58bae",
+          "genres": [],
+          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
         },
         {
           "rank": 32,
