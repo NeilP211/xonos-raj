@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:15:33.334Z",
+  "generated_at": "2026-11-15T18:20:42.351Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2859,6 +2859,14 @@
         },
         {
           "rank": 36,
+          "name": "Chief Keef",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe816aaf5f96c04fdfa8fadc7",
+          "genres": [],
+          "uri": "spotify:artist:15iVAtD3s3FsQR4w1v6M0P",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "rank": 37,
           "name": "Kenny Loggins",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe5ade0d346536449c7a75b48",
           "genres": [],
@@ -2866,7 +2874,7 @@
           "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Lil Uzi Vert",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
           "genres": [],
@@ -2874,7 +2882,7 @@
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Bobby Darin",
           "image": "https://i.scdn.co/image/ab6772690000c46c92f83e9f6b9f4b89c56c5811",
           "genres": [],
@@ -2882,7 +2890,7 @@
           "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
           "genres": [],
@@ -2890,7 +2898,7 @@
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Bon Jovi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
           "genres": [],
@@ -2898,7 +2906,7 @@
           "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
@@ -2906,7 +2914,7 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "NLE Choppa",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ea6234dca22b768150e05cb",
           "genres": [],
@@ -2914,7 +2922,7 @@
           "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "John Coltrane",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4e85f2df0ebc051fcb317def",
           "genres": [],
@@ -2922,20 +2930,12 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Young Nudy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb059cd2a54904a42b22afb0cf",
           "genres": [],
           "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1",
           "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "rank": 45,
-          "name": "Chief Keef",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe816aaf5f96c04fdfa8fadc7",
-          "genres": [],
-          "uri": "spotify:artist:15iVAtD3s3FsQR4w1v6M0P",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         },
         {
           "rank": 46,
