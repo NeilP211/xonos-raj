@@ -1,119 +1,6 @@
 {
-  "updated_at": "2026-11-15T18:20:42.452Z",
+  "updated_at": "2026-11-16T00:35:54.588Z",
   "plays": [
-    {
-      "played_at": "2026-09-02T13:26:02.629Z",
-      "name": "40 - DJ Ess Mix",
-      "artists": [
-        "DJ Ess",
-        "xaviersobased",
-        "Nettspend"
-      ],
-      "album": "#HEAVENSGATE VOL. 1 (DJ Ess Mixes)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731155023ae163f8e2e810f93c",
-      "uri": "spotify:track:1z98RNpZuuWqzuHI8Xccuu",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-09-02T13:28:08.916Z",
-      "name": "Shut Up",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "BAD ASS F*CKING KID",
-      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-      "uri": "spotify:track:7iZGpuboJPQQGH07EprPnR",
-      "duration_ms": 125799
-    },
-    {
-      "played_at": "2026-09-02T13:31:01.560Z",
-      "name": "Ref",
-      "artists": [
-        "OsamaSon"
-      ],
-      "album": "Jump Out",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
-      "uri": "spotify:track:1Rza5aDdB05TcKpfz8oKtQ",
-      "duration_ms": 89637
-    },
-    {
-      "played_at": "2026-09-02T13:33:12.966Z",
-      "name": "classist",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:5uAb1fWoUHtc7O47vlkE6Q",
-      "duration_ms": 106004
-    },
-    {
-      "played_at": "2026-09-02T13:35:08.345Z",
-      "name": "take my life",
-      "artists": [
-        "boolymon"
-      ],
-      "album": "take my life",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ec7e47c631821ca918079b22",
-      "uri": "spotify:track:2CH1CARkfPKU7D5livyPsA",
-      "duration_ms": 85194
-    },
-    {
-      "played_at": "2026-09-02T13:37:11.106Z",
-      "name": "22 #BASEDGOTH (feat. xaviersobased)",
-      "artists": [
-        "ZAYGUAPKID",
-        "xaviersobased"
-      ],
-      "album": "22 #BASEDGOTH (feat. xaviersobased)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730f081e8c1e1f504c4f0bd43b",
-      "uri": "spotify:track:4uUKg3UgQ0wlItag3S5q0n",
-      "duration_ms": 122305
-    },
-    {
-      "played_at": "2026-09-02T13:39:06.179Z",
-      "name": "Feeling Like",
-      "artists": [
-        "rommulas"
-      ],
-      "album": "ANIMÁL",
-      "image": "https://i.scdn.co/image/ab67616d0000b273158436f2bda9323c6be396db",
-      "uri": "spotify:track:2Oijm4Jz7Bv3GuZ2x0eoaC",
-      "duration_ms": 114591
-    },
-    {
-      "played_at": "2026-09-02T13:42:11.011Z",
-      "name": "ss",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "A Great Chaos (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b494c1b464d41ef641de442",
-      "uri": "spotify:track:26QJuQfM8PVAWkIm1JRyqq",
-      "duration_ms": 184375
-    },
-    {
-      "played_at": "2026-09-02T13:44:42.963Z",
-      "name": "codeine tears",
-      "artists": [
-        "bleood"
-      ],
-      "album": "PROTAGONIST",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
-      "uri": "spotify:track:7zZrTT2U48hah5Xwmg64t3",
-      "duration_ms": 151475
-    },
-    {
-      "played_at": "2026-09-02T13:46:48.981Z",
-      "name": "Fool",
-      "artists": [
-        "OsamaSon"
-      ],
-      "album": "Jump Out",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
-      "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
-      "duration_ms": 125562
-    },
     {
       "played_at": "2026-09-02T13:48:35.972Z",
       "name": "Yale",
@@ -23008,6 +22895,116 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
       "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
       "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-11-15T20:18:14.611Z",
+      "name": "Dreams",
+      "artists": [
+        "Van Halen"
+      ],
+      "album": "5150",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57",
+      "uri": "spotify:track:2APxH5XbOLDTmW9X5yi6Hw",
+      "duration_ms": 294000
+    },
+    {
+      "played_at": "2026-11-15T20:38:15.447Z",
+      "name": "Born in the U.S.A.",
+      "artists": [
+        "Bruce Springsteen"
+      ],
+      "album": "Born In The U.S.A.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77",
+      "uri": "spotify:track:0dOg1ySSI7NkpAe89Zo0b9",
+      "duration_ms": 279786
+    },
+    {
+      "played_at": "2026-11-15T20:42:06.637Z",
+      "name": "Mighty Wings - From \"Top Gun\" Original Soundtrack",
+      "artists": [
+        "Cheap Trick"
+      ],
+      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
+      "uri": "spotify:track:32SckiFOYb8bwYewY51WA7",
+      "duration_ms": 231039
+    },
+    {
+      "played_at": "2026-11-15T20:46:22.227Z",
+      "name": "Happy Nation",
+      "artists": [
+        "Ace of Base"
+      ],
+      "album": "Happy Nation",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8e072ca95df6dc435b1484f",
+      "uri": "spotify:track:7yCF65vpc7sUwPjftI0iFb",
+      "duration_ms": 255413
+    },
+    {
+      "played_at": "2026-11-15T21:07:23.373Z",
+      "name": "Working for the Weekend",
+      "artists": [
+        "Loverboy"
+      ],
+      "album": "Get Lucky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4536505a0b3f7ce434f46ff",
+      "uri": "spotify:track:6pY88I8vkB0sY3Za4LuTYE",
+      "duration_ms": 221000
+    },
+    {
+      "played_at": "2026-11-15T21:07:55.867Z",
+      "name": "Livin' On A Prayer",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "album": "Slippery When Wet (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349e6168f69625252689c2526",
+      "uri": "spotify:track:0ee1DiZF94NSqqpG0XHUzH",
+      "duration_ms": 250209
+    },
+    {
+      "played_at": "2026-11-15T21:11:54.372Z",
+      "name": "Livin' On A Prayer",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "album": "Slippery When Wet (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349e6168f69625252689c2526",
+      "uri": "spotify:track:0ee1DiZF94NSqqpG0XHUzH",
+      "duration_ms": 250209
+    },
+    {
+      "played_at": "2026-11-15T21:15:35.662Z",
+      "name": "Working for the Weekend",
+      "artists": [
+        "Loverboy"
+      ],
+      "album": "Get Lucky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4536505a0b3f7ce434f46ff",
+      "uri": "spotify:track:6pY88I8vkB0sY3Za4LuTYE",
+      "duration_ms": 221000
+    },
+    {
+      "played_at": "2026-11-15T21:20:18.003Z",
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "artists": [
+        "Kenny Loggins"
+      ],
+      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
+      "uri": "spotify:track:3hMHG6lx9QHVcfYSUr5PoM",
+      "duration_ms": 216133
+    },
+    {
+      "played_at": "2026-11-15T21:22:19.576Z",
+      "name": "Everybody Wants To Rule The World",
+      "artists": [
+        "Tears For Fears"
+      ],
+      "album": "Songs From The Big Chair (Super Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235",
+      "uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE",
+      "duration_ms": 251488
     }
   ]
 }
