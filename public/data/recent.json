@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-11-17T05:59:13.492Z",
+  "updated_at": "2026-11-17T15:43:29.238Z",
   "plays": [
-    {
-      "played_at": "2026-09-04T02:39:25.128Z",
-      "name": "Every Breath You Take",
-      "artists": [
-        "The Police"
-      ],
-      "album": "Synchronicity (Remastered 2003)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-      "duration_ms": 253920
-    },
-    {
-      "played_at": "2026-09-04T02:41:43.745Z",
-      "name": "Blackbird - Remastered 2009",
-      "artists": [
-        "The Beatles"
-      ],
-      "album": "The Beatles (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
-      "uri": "spotify:track:5jgFfDIR6FR0gvlA56Nakr",
-      "duration_ms": 138386
-    },
-    {
-      "played_at": "2026-09-04T02:46:14.868Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-09-04T02:51:27.044Z",
-      "name": "Oh Me - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
-      "duration_ms": 206160
-    },
-    {
-      "played_at": "2026-09-04T02:54:23.174Z",
-      "name": "Lake Of Fire - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:4UJmPSJsBsIR1U0N79BU1g",
-      "duration_ms": 175973
-    },
     {
       "played_at": "2026-09-04T03:54:39.561Z",
       "name": "Something In The Way",
@@ -23018,6 +22963,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
       "uri": "spotify:track:745sNpjWbAxo2MA2zSYbyD",
       "duration_ms": 404333
+    },
+    {
+      "played_at": "2026-11-17T13:57:43.068Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-11-17T15:09:52.624Z",
+      "name": "Samba Dees Days",
+      "artists": [
+        "Stan Getz",
+        "Charlie Byrd"
+      ],
+      "album": "Jazz Samba",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
+      "uri": "spotify:track:68ELKUCl9CkRx3gXpMfjzL",
+      "duration_ms": 212320
+    },
+    {
+      "played_at": "2026-11-17T15:13:53.654Z",
+      "name": "Breathe (In the Air)",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "album": "The Dark Side of the Moon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+      "uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53",
+      "duration_ms": 169560
+    },
+    {
+      "played_at": "2026-11-17T15:17:25.470Z",
+      "name": "Too Much For Me",
+      "artists": [
+        "SELKER"
+      ],
+      "album": "Too Much For Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+      "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+      "duration_ms": 153869
+    },
+    {
+      "played_at": "2026-11-17T15:22:57.799Z",
+      "name": "Blessings",
+      "artists": [
+        "Calvin Harris",
+        "Clementine Douglas"
+      ],
+      "album": "Blessings",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
+      "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z",
+      "duration_ms": 219650
     }
   ]
 }
