@@ -1,314 +1,6 @@
 {
-  "updated_at": "2026-11-17T15:43:29.238Z",
+  "updated_at": "2026-11-18T00:20:41.505Z",
   "plays": [
-    {
-      "played_at": "2026-09-04T03:54:39.561Z",
-      "name": "Something In The Way",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
-      "duration_ms": 232146
-    },
-    {
-      "played_at": "2026-09-05T15:25:42.108Z",
-      "name": "Kung Fu Panda",
-      "artists": [
-        "Young Yayo",
-        "We$"
-      ],
-      "album": "Kung Fu Panda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-      "duration_ms": 111699
-    },
-    {
-      "played_at": "2026-09-05T16:00:58.474Z",
-      "name": "Freak On a Leash",
-      "artists": [
-        "Korn"
-      ],
-      "album": "Follow The Leader",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21",
-      "uri": "spotify:track:6W21LNLz9Sw7sUSNWMSHRu",
-      "duration_ms": 255729
-    },
-    {
-      "played_at": "2026-09-05T19:56:46Z",
-      "name": "Can't Tell Me Nothing",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-      "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-      "duration_ms": 271600
-    },
-    {
-      "played_at": "2026-09-05T20:13:41.399Z",
-      "name": "Falling Behind",
-      "artists": [
-        "Laufey"
-      ],
-      "album": "Everything I Know About Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
-      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
-      "duration_ms": 173640
-    },
-    {
-      "played_at": "2026-09-05T20:16:36.240Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-09-05T20:20:36.013Z",
-      "name": "Playing with the Boys - From \"Top Gun\" Original Soundtrack",
-      "artists": [
-        "Kenny Loggins"
-      ],
-      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
-      "uri": "spotify:track:5mQYBoGU3BOAqiFq54b51i",
-      "duration_ms": 239266
-    },
-    {
-      "played_at": "2026-09-05T20:24:26.960Z",
-      "name": "Tree On The Hill (Lunch Break Freestyle)",
-      "artists": [
-        "Lyrical Lemonade",
-        "Nino Paid"
-      ],
-      "album": "Tree On The Hill (Lunch Break Freestyle)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380221f36d766d17b3e507720",
-      "uri": "spotify:track:6FPZlhHqrtCi3C4IBCHAy6",
-      "duration_ms": 100871
-    },
-    {
-      "played_at": "2026-09-05T20:36:38.826Z",
-      "name": "The Struggle Within (Remastered)",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Metallica (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
-      "uri": "spotify:track:4r0gODFlBlIZ12NsNf38qf",
-      "duration_ms": 232648
-    },
-    {
-      "played_at": "2026-09-05T20:44:55.949Z",
-      "name": "Disposable Heroes (Remastered)",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Master of Puppets (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732127e0afac383fb73d533a7d",
-      "uri": "spotify:track:2CbYOuq9uxqclV21HJaJ4B",
-      "duration_ms": 496626
-    },
-    {
-      "played_at": "2026-09-05T20:50:28.001Z",
-      "name": "Tornado Of Souls - 2004 Remix",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "uri": "spotify:track:4E5xVW505akJX0wcKj8Mpd",
-      "duration_ms": 319266
-    },
-    {
-      "played_at": "2026-09-05T20:54:39.057Z",
-      "name": "Everlong",
-      "artists": [
-        "Foo Fighters"
-      ],
-      "album": "The Colour And The Shape",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
-      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
-      "duration_ms": 250546
-    },
-    {
-      "played_at": "2026-09-05T21:00:28.322Z",
-      "name": "Sultans of Swing",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Dire Straits",
-      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
-      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
-      "duration_ms": 348760
-    },
-    {
-      "played_at": "2026-09-06T01:00:11.226Z",
-      "name": "Stereo Love",
-      "artists": [
-        "Edward Maya",
-        "Vika Jigulina"
-      ],
-      "album": "Stereo Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d629ba472bce9c426eb1fdc4",
-      "uri": "spotify:track:1AguHaKOuggrVTebp7cZEI",
-      "duration_ms": 184573
-    },
-    {
-      "played_at": "2026-09-06T01:09:00.097Z",
-      "name": "My Love (feat. T.I.)",
-      "artists": [
-        "Justin Timberlake",
-        "T.I."
-      ],
-      "album": "FutureSex/LoveSounds Deluxe Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c68f26a3d34fbd0faed2b473",
-      "uri": "spotify:track:4NeOWqHmlrGRuBvsLJC9rL",
-      "duration_ms": 276160
-    },
-    {
-      "played_at": "2026-09-06T01:13:52.471Z",
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "artists": [
-        "Maroon 5",
-        "Christina Aguilera"
-      ],
-      "album": "Hands All Over",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239",
-      "uri": "spotify:track:7LcfRTgAVTs5pQGEQgUEzN",
-      "duration_ms": 201160
-    },
-    {
-      "played_at": "2026-09-06T01:37:59.751Z",
-      "name": "Flashing Lights",
-      "artists": [
-        "Kanye West",
-        "Dwele"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-      "uri": "spotify:track:5TRPicyLGbAF2LGBFbHGvO",
-      "duration_ms": 237506
-    },
-    {
-      "played_at": "2026-09-06T01:45:31.119Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-09-06T01:48:43.363Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-09-06T02:22:53.687Z",
-      "name": "Who You Foolin",
-      "artists": [
-        "Gunna"
-      ],
-      "album": "Drip or Drown 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
-      "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
-      "duration_ms": 151539
-    },
-    {
-      "played_at": "2026-09-06T02:23:25.354Z",
-      "name": "Who You Foolin",
-      "artists": [
-        "Gunna"
-      ],
-      "album": "Drip or Drown 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
-      "uri": "spotify:track:7KVPsVMOK3NL7subwJ0dZj",
-      "duration_ms": 151539
-    },
-    {
-      "played_at": "2026-09-06T02:50:09.278Z",
-      "name": "Outstanding",
-      "artists": [
-        "The Gap Band"
-      ],
-      "album": "The Gap Band IV",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731eeaabd6f72ff29707f0476f",
-      "uri": "spotify:track:2yd0XI7g0BhAgY9GkpPClU",
-      "duration_ms": 198800
-    },
-    {
-      "played_at": "2026-09-06T02:53:13.573Z",
-      "name": "Miserlou",
-      "artists": [
-        "Dick Dale & His Del-Tones"
-      ],
-      "album": "Surfer's Choice",
-      "image": "https://i.scdn.co/image/ab67616d0000b273189c10c705d2967fc0f503f7",
-      "uri": "spotify:track:587i4g5fwUDAdl5xTP7UtW",
-      "duration_ms": 137426
-    },
-    {
-      "played_at": "2026-09-06T15:12:13.879Z",
-      "name": "Oh Ok - xxl freestyle",
-      "artists": [
-        "ian"
-      ],
-      "album": "Oh Ok (xxl freestyle)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f13d49b28f0c25838acc136b",
-      "uri": "spotify:track:555oowE8kujtS6bR2GOOPD",
-      "duration_ms": 127578
-    },
-    {
-      "played_at": "2026-09-06T18:46:02.006Z",
-      "name": "bake shop",
-      "artists": [
-        "kuala"
-      ],
-      "album": "bake shop",
-      "image": "https://i.scdn.co/image/ab67616d0000b273540c6a5c78bd857c85bb256d",
-      "uri": "spotify:track:2KU7CB4GA26r0VQ47Lvf9i",
-      "duration_ms": 212307
-    },
-    {
-      "played_at": "2026-09-06T19:19:29.925Z",
-      "name": "(I Just) Died In Your Arms",
-      "artists": [
-        "Cutting Crew"
-      ],
-      "album": "Broadcast",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb2faa3ed46d1d0124ca325e",
-      "uri": "spotify:track:4ByEFOBuLXpCqvO1kw8Wdm",
-      "duration_ms": 280400
-    },
-    {
-      "played_at": "2026-09-06T20:48:15.964Z",
-      "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
-      "artists": [
-        "Marc Acardipane",
-        "Dayerteq"
-      ],
-      "album": "Return to Zero Beztebya (Mixes)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b5fb5e2c271ea627c962a8b4",
-      "uri": "spotify:track:1XmrkcwlWxEHR0g7rHNtEG",
-      "duration_ms": 163200
-    },
     {
       "played_at": "2026-09-06T20:50:59.722Z",
       "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
@@ -23020,6 +22712,312 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
       "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z",
       "duration_ms": 219650
+    },
+    {
+      "played_at": "2026-11-17T15:36:04.970Z",
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "artists": [
+        "21 Savage",
+        "Metro Boomin",
+        "Young Thug"
+      ],
+      "album": "SAVAGE MODE II",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8",
+      "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq",
+      "duration_ms": 190331
+    },
+    {
+      "played_at": "2026-11-17T16:31:19.413Z",
+      "name": "Sweet Child O' Mine",
+      "artists": [
+        "Guns N' Roses"
+      ],
+      "album": "Appetite For Destruction",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+      "uri": "spotify:track:7snQQk1zcKl8gZ92AnueZW",
+      "duration_ms": 356066
+    },
+    {
+      "played_at": "2026-11-17T16:35:23.423Z",
+      "name": "Cowboys from Hell",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "Cowboys from Hell",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
+      "uri": "spotify:track:2SgbR6ttzoNlCRGQOKjrop",
+      "duration_ms": 243533
+    },
+    {
+      "played_at": "2026-11-17T16:38:04.705Z",
+      "name": "ball hard",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "ball hard",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
+      "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
+      "duration_ms": 160731
+    },
+    {
+      "played_at": "2026-11-17T16:44:32.103Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-11-17T16:47:03.214Z",
+      "name": "snowfall (Slowed + Reverb)",
+      "artists": [
+        "Øneheart",
+        "reidenshi"
+      ],
+      "album": "snowfall (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f174c80242142ad9306df3b",
+      "uri": "spotify:track:4VkEkljlOC5cMbRMhREO5E",
+      "duration_ms": 150660
+    },
+    {
+      "played_at": "2026-11-17T16:49:51.709Z",
+      "name": "Hoe Shit",
+      "artists": [
+        "Shoreline Mafia",
+        "Fenix Flexin"
+      ],
+      "album": "Mafia Bidness",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374d77e97b991ad489fec28f8",
+      "uri": "spotify:track:1eNERcMwfmtiFo8qzW5enn",
+      "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-11-17T17:56:30.354Z",
+      "name": "I Don't Like",
+      "artists": [
+        "Chief Keef",
+        "Lil Reese"
+      ],
+      "album": "Finally Rich",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891",
+      "uri": "spotify:track:1h6kgem1ai8vUgO1rZOwfB",
+      "duration_ms": 293840
+    },
+    {
+      "played_at": "2026-11-17T17:59:09.758Z",
+      "name": "Put Your Head On My Shoulder - Remastered",
+      "artists": [
+        "Paul Anka"
+      ],
+      "album": "Paul Anka Sings His Big 15 (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f16eb646e4096177286ebc2",
+      "uri": "spotify:track:6YDDrg8llsRtAgLlIROzZc",
+      "duration_ms": 158906
+    },
+    {
+      "played_at": "2026-11-17T18:05:05.443Z",
+      "name": "Comatose",
+      "artists": [
+        "quannnic"
+      ],
+      "album": "Stepdream",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735181758e4e5b59eaa050d473",
+      "uri": "spotify:track:7A2MVNMJbVMItIlhV8e8Vq",
+      "duration_ms": 228916
+    },
+    {
+      "played_at": "2026-11-17T18:08:08.239Z",
+      "name": "For the First Time",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:0WiMJIxYYEex2AqhRqzV3u",
+      "duration_ms": 182306
+    },
+    {
+      "played_at": "2026-11-17T18:11:48.291Z",
+      "name": "Pride and Joy",
+      "artists": [
+        "Stevie Ray Vaughan"
+      ],
+      "album": "Texas Flood (Legacy Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
+      "uri": "spotify:track:1a2iF9XymafjRk56q7oCxo",
+      "duration_ms": 219586
+    },
+    {
+      "played_at": "2026-11-17T18:18:15.837Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-11-17T18:23:40.920Z",
+      "name": "Sad But True (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:5UaDi8KzCGJqFfVAOBfXhi",
+      "duration_ms": 324600
+    },
+    {
+      "played_at": "2026-11-17T18:28:14.778Z",
+      "name": "Happy Nation",
+      "artists": [
+        "Ace of Base"
+      ],
+      "album": "Happy Nation",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8e072ca95df6dc435b1484f",
+      "uri": "spotify:track:7yCF65vpc7sUwPjftI0iFb",
+      "duration_ms": 255413
+    },
+    {
+      "played_at": "2026-11-17T18:30:17.306Z",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artists": [
+        "BabyTron",
+        "DJ Ess"
+      ],
+      "album": "#CERTIFIED (DJ Ess Mixx) [feat. DJ Ess]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735050f0c952746fd90c62d318",
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "duration_ms": 122012
+    },
+    {
+      "played_at": "2026-11-17T18:34:50.629Z",
+      "name": "Hypnotize - 2007 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
+      "uri": "spotify:track:6Tsu3OsuMz4KEGKbOYd6A0",
+      "duration_ms": 230000
+    },
+    {
+      "played_at": "2026-11-17T18:38:21.658Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-11-17T18:43:31.638Z",
+      "name": "40 - Dj Ess Mix",
+      "artists": [
+        "evilgiane",
+        "xaviersobased",
+        "Nettspend",
+        "DJ Ess"
+      ],
+      "album": "40 (Dj Ess Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-11-17T18:49:56.391Z",
+      "name": "Nun Major",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+      "duration_ms": 151836
+    },
+    {
+      "played_at": "2026-11-17T18:52:00.750Z",
+      "name": "LOT OF ME",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "We Love You Tecca 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f156ced88fa6920e86ddf11f",
+      "uri": "spotify:track:2ZXxRC6V6AXzMdbLQZMHSB",
+      "duration_ms": 123870
+    },
+    {
+      "played_at": "2026-11-17T19:28:27.318Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-11-17T19:31:25.914Z",
+      "name": "It's Such a Good Night (From \"Breaking Bad\")",
+      "artists": [
+        "Heisenberg & The Albuquerque Kingpins"
+      ],
+      "album": "TV Music & Theme Songs (2015)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27327c89c60e6dd014892b4234b",
+      "uri": "spotify:track:7I4OmzcINbMoPBCJHBI49Q",
+      "duration_ms": 157888
+    },
+    {
+      "played_at": "2026-11-17T19:36:10.608Z",
+      "name": "OLYMPIAN",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:4uoADk7q83CHvXHW3k1etM",
+      "duration_ms": 174733
+    },
+    {
+      "played_at": "2026-11-17T19:39:53.715Z",
+      "name": "Blueberry Faygo",
+      "artists": [
+        "Lil Mosey"
+      ],
+      "album": "Certified Hitmaker",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730824105a6282782aaabb0584",
+      "uri": "spotify:track:22LAwLoDA5b4AaGSkg6bKW",
+      "duration_ms": 162546
+    },
+    {
+      "played_at": "2026-11-17T19:43:58.878Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-11-17T19:46:51.776Z",
+      "name": "Bluesette",
+      "artists": [
+        "Toots Thielemans"
+      ],
+      "album": "The Jazz Harmonica",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3f0d7744b15a4587c388020",
+      "uri": "spotify:track:7E5pDQN3D93OxPak6Esnw7",
+      "duration_ms": 172386
     }
   ]
 }

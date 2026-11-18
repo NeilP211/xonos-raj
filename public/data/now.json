@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-11-17T15:43:29.329Z",
+  "updated_at": "2026-11-18T00:20:41.596Z",
   "is_playing": false,
   "track": {
-    "name": "Blessings",
+    "name": "Bluesette",
     "artists": [
-      "Calvin Harris",
-      "Clementine Douglas"
+      "Toots Thielemans"
     ],
-    "album": "Blessings",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ff86507cb1a9c7645a330314",
-    "uri": "spotify:track:78nx0HDJIFD5xDq2L5420Z"
+    "album": "The Jazz Harmonica",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e3f0d7744b15a4587c388020",
+    "uri": "spotify:track:7E5pDQN3D93OxPak6Esnw7"
   },
-  "played_at": "2026-11-17T15:22:57.799Z"
+  "played_at": "2026-11-17T19:46:51.776Z"
 }
