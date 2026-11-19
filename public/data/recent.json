@@ -1,95 +1,6 @@
 {
-  "updated_at": "2026-11-18T19:49:38.303Z",
+  "updated_at": "2026-11-19T02:10:03.916Z",
   "plays": [
-    {
-      "played_at": "2026-09-07T05:05:28.209Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-09-07T05:08:54.862Z",
-      "name": "Oh Me - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
-      "duration_ms": 206160
-    },
-    {
-      "played_at": "2026-09-07T05:13:09.266Z",
-      "name": "Every Breath You Take",
-      "artists": [
-        "The Police"
-      ],
-      "album": "Synchronicity (Remastered 2003)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-      "duration_ms": 253920
-    },
-    {
-      "played_at": "2026-09-07T05:17:29.007Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-09-07T05:20:00.410Z",
-      "name": "Good Looking",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "album": "Good Looking",
-      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
-      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
-      "duration_ms": 214800
-    },
-    {
-      "played_at": "2026-09-07T15:38:47.077Z",
-      "name": "22 (Remix)",
-      "artists": [
-        "Lil Candy Paint",
-        "Bhad Bhabie"
-      ],
-      "album": "22 (Remix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738906943b12b39e3450c8d8dd",
-      "uri": "spotify:track:1Tfl1OLWRg2l2gmrLudDEL",
-      "duration_ms": 156000
-    },
-    {
-      "played_at": "2026-09-07T17:41:07.916Z",
-      "name": "Every Breath You Take",
-      "artists": [
-        "The Police"
-      ],
-      "album": "Synchronicity (Remastered 2003)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-      "duration_ms": 253920
-    },
-    {
-      "played_at": "2026-09-07T17:55:00.948Z",
-      "name": "Blind",
-      "artists": [
-        "Korn"
-      ],
-      "album": "Korn",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737153b1cf6ee990c2a9fa46cc",
-      "uri": "spotify:track:1pr9TZGOXeJUggIal1Wq3R",
-      "duration_ms": 258266
-    },
     {
       "played_at": "2026-09-07T17:55:12.888Z",
       "name": "Ice Cream Man - 2015 Remaster",
@@ -23018,6 +22929,104 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
       "uri": "spotify:track:38DpmNjN5AK8sJUnB4FPLA",
       "duration_ms": 215706
+    },
+    {
+      "played_at": "2026-11-18T19:52:36.071Z",
+      "name": "I Was Doing All Right",
+      "artists": [
+        "Stan Getz",
+        "Oscar Peterson Trio"
+      ],
+      "album": "Stan Getz And The Oscar Peterson Trio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8bdec8f743b1961cd459b33",
+      "uri": "spotify:track:2pday5uCrVYBdUgvldUJWm",
+      "duration_ms": 246506
+    },
+    {
+      "played_at": "2026-11-18T20:20:41.088Z",
+      "name": "I Was Doing All Right",
+      "artists": [
+        "Stan Getz",
+        "Oscar Peterson Trio"
+      ],
+      "album": "Stan Getz And The Oscar Peterson Trio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8bdec8f743b1961cd459b33",
+      "uri": "spotify:track:2pday5uCrVYBdUgvldUJWm",
+      "duration_ms": 246506
+    },
+    {
+      "played_at": "2026-11-19T00:17:58.709Z",
+      "name": "I Don't Like",
+      "artists": [
+        "Chief Keef",
+        "Lil Reese"
+      ],
+      "album": "Finally Rich",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891",
+      "uri": "spotify:track:1h6kgem1ai8vUgO1rZOwfB",
+      "duration_ms": 293840
+    },
+    {
+      "played_at": "2026-11-19T00:21:19.700Z",
+      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
+      "artists": [
+        "Shoreline Mafia",
+        "Rob Vicious",
+        "Fenix Flexin",
+        "Master Kato",
+        "OHGEESY"
+      ],
+      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
+      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
+      "duration_ms": 174335
+    },
+    {
+      "played_at": "2026-11-19T00:35:53.954Z",
+      "name": "40 - Dj Ess Mix",
+      "artists": [
+        "evilgiane",
+        "xaviersobased",
+        "Nettspend",
+        "DJ Ess"
+      ],
+      "album": "40 (Dj Ess Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
+      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
+      "duration_ms": 81658
+    },
+    {
+      "played_at": "2026-11-19T00:40:21.528Z",
+      "name": "Check My Brain",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Black Gives Way To Blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732aac6b7dae4a8813f5e28454",
+      "uri": "spotify:track:2liwbAaiYRiJB2H286u1zS",
+      "duration_ms": 237906
+    },
+    {
+      "played_at": "2026-11-19T01:02:16.370Z",
+      "name": "Sad But True (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:5UaDi8KzCGJqFfVAOBfXhi",
+      "duration_ms": 324600
+    },
+    {
+      "played_at": "2026-11-19T01:14:21.168Z",
+      "name": "For Whom The Bell Tolls (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Deluxe Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
+      "uri": "spotify:track:51YZAJhOwIC5Gg3jMbAmhZ",
+      "duration_ms": 309973
     }
   ]
 }
