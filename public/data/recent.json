@@ -1,142 +1,6 @@
 {
-  "updated_at": "2026-11-19T10:59:17.130Z",
+  "updated_at": "2026-11-19T19:50:04.336Z",
   "plays": [
-    {
-      "played_at": "2026-09-07T17:55:12.888Z",
-      "name": "Ice Cream Man - 2015 Remaster",
-      "artists": [
-        "Van Halen"
-      ],
-      "album": "Van Halen (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
-      "uri": "spotify:track:2TXzXJWWzESQq5glbDtZc9",
-      "duration_ms": 198373
-    },
-    {
-      "played_at": "2026-09-07T18:02:38.603Z",
-      "name": "Black Beatles",
-      "artists": [
-        "Rae Sremmurd",
-        "Gucci Mane"
-      ],
-      "album": "SremmLife 2 (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
-      "uri": "spotify:track:6fujklziTHa8uoM5OQSfIo",
-      "duration_ms": 291893
-    },
-    {
-      "played_at": "2026-09-08T03:03:37.698Z",
-      "name": "Big Energy",
-      "artists": [
-        "Latto"
-      ],
-      "album": "Big Energy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273abf934534eacd57586244f46",
-      "uri": "spotify:track:6Zu3aw7FfjAF9WA0fA81Oq",
-      "duration_ms": 173182
-    },
-    {
-      "played_at": "2026-09-08T14:31:17.430Z",
-      "name": "TATI (feat. DJ Spinking)",
-      "artists": [
-        "6ix9ine",
-        "DJ SpinKing"
-      ],
-      "album": "DUMMY BOY (Revised)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730a4da3f1a72e4ecaabb76370",
-      "uri": "spotify:track:0CFJoopJPNMEC7Itmp64Yb",
-      "duration_ms": 154565
-    },
-    {
-      "played_at": "2026-09-08T21:05:25.704Z",
-      "name": "GUMMO",
-      "artists": [
-        "6ix9ine"
-      ],
-      "album": "GUMMO",
-      "image": "https://i.scdn.co/image/ab6742d3000053b756020f7acf0bc5927324f32a",
-      "uri": "spotify:track:1FcLKjTSfXEDoZwRDubT73",
-      "duration_ms": 158037
-    },
-    {
-      "played_at": "2026-09-08T21:05:43.657Z",
-      "name": "DAWG FIGHT",
-      "artists": [
-        "Dawg Fight",
-        "Doomsday"
-      ],
-      "album": "For My Dawgs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731a0b89d22392a33161163c6d",
-      "uri": "spotify:track:4foHbEX7hLjtRZCdwzxkYb",
-      "duration_ms": 204543
-    },
-    {
-      "played_at": "2026-09-09T05:54:30.193Z",
-      "name": "Domination",
-      "artists": [
-        "Pantera"
-      ],
-      "album": "Cowboys from Hell",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
-      "uri": "spotify:track:769cLRTw2y6KRdkFWFkxtu",
-      "duration_ms": 305293
-    },
-    {
-      "played_at": "2026-09-09T17:46:57.965Z",
-      "name": "Moosy - viral",
-      "artists": [
-        "ilyhiryu"
-      ],
-      "album": "Moosy (viral)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
-      "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
-      "duration_ms": 140197
-    },
-    {
-      "played_at": "2026-09-09T18:48:23.271Z",
-      "name": "mud",
-      "artists": [
-        "Destroy Lonely"
-      ],
-      "album": "Forever, ILY.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
-      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
-      "duration_ms": 107951
-    },
-    {
-      "played_at": "2026-09-09T18:49:43.481Z",
-      "name": "mud",
-      "artists": [
-        "Destroy Lonely"
-      ],
-      "album": "Forever, ILY.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
-      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
-      "duration_ms": 107951
-    },
-    {
-      "played_at": "2026-09-09T23:32:37.568Z",
-      "name": "Hours In Silence",
-      "artists": [
-        "Drake",
-        "21 Savage"
-      ],
-      "album": "Her Loss",
-      "image": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
-      "uri": "spotify:track:0sSRLXxknVTQDStgU1NqpY",
-      "duration_ms": 399153
-    },
-    {
-      "played_at": "2026-09-10T02:11:22.422Z",
-      "name": "Sulfur",
-      "artists": [
-        "Slipknot"
-      ],
-      "album": "All Hope Is Gone (10th Anniversary)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
-      "uri": "spotify:track:1ckta9xwbEcxLaGClreVRf",
-      "duration_ms": 277800
-    },
     {
       "played_at": "2026-09-10T04:39:42.109Z",
       "name": "Nutshell",
@@ -23027,6 +22891,142 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
       "uri": "spotify:track:51YZAJhOwIC5Gg3jMbAmhZ",
       "duration_ms": 309973
+    },
+    {
+      "played_at": "2026-11-19T01:20:09.915Z",
+      "name": "Psychosocial",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
+      "uri": "spotify:track:3RAFcUBrCNaboRXoP3S5t1",
+      "duration_ms": 284120
+    },
+    {
+      "played_at": "2026-11-19T13:55:03.789Z",
+      "name": "Kung Fu Panda",
+      "artists": [
+        "Young Yayo",
+        "We$"
+      ],
+      "album": "Kung Fu Panda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+      "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+      "duration_ms": 111699
+    },
+    {
+      "played_at": "2026-11-19T14:27:04.927Z",
+      "name": "jeans",
+      "artists": [
+        "2hollis"
+      ],
+      "album": "jeans",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8362432f72c45d2b6bf08d8",
+      "uri": "spotify:track:6C2nVSSeXNqfoY8t6tliZ4",
+      "duration_ms": 181258
+    },
+    {
+      "played_at": "2026-11-19T14:53:04.717Z",
+      "name": "Yung Nigga Shit",
+      "artists": [
+        "2wo2imes",
+        "Glokk40Spaz"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
+      "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
+      "duration_ms": 135510
+    },
+    {
+      "played_at": "2026-11-19T16:23:43.673Z",
+      "name": "I Don't Like",
+      "artists": [
+        "Chief Keef",
+        "Lil Reese"
+      ],
+      "album": "Finally Rich",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891",
+      "uri": "spotify:track:1h6kgem1ai8vUgO1rZOwfB",
+      "duration_ms": 293840
+    },
+    {
+      "played_at": "2026-11-19T17:54:58.955Z",
+      "name": "Faneto",
+      "artists": [
+        "Chief Keef"
+      ],
+      "album": "Back from the Dead 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273589138eb4f42c9abcf848ba0",
+      "uri": "spotify:track:6fL8iaSdwmSTQiUv9K6L4h",
+      "duration_ms": 206654
+    },
+    {
+      "played_at": "2026-11-19T18:12:05.755Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-11-19T18:21:50.393Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-11-19T18:23:55.885Z",
+      "name": "hyperjerk",
+      "artists": [
+        "thesoupiscold"
+      ],
+      "album": "hyperjerk",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379eadb971684b25e4eefa095",
+      "uri": "spotify:track:4N9CzZCUwbqGByoudr91SG",
+      "duration_ms": 124941
+    },
+    {
+      "played_at": "2026-11-19T19:15:02.046Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-11-19T19:17:51.335Z",
+      "name": "Location",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "uri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+      "duration_ms": 168783
+    },
+    {
+      "played_at": "2026-11-19T19:20:07.151Z",
+      "name": "TOXIC (with Skepta)",
+      "artists": [
+        "Playboi Carti",
+        "Skepta"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:4evMMKc2HD6fV9slMfgkMx",
+      "duration_ms": 135275
     }
   ]
 }

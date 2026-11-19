@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-19T10:59:17.222Z",
+  "updated_at": "2026-11-19T19:50:04.460Z",
   "is_playing": false,
   "track": {
-    "name": "For Whom The Bell Tolls (Remastered)",
+    "name": "TOXIC (with Skepta)",
     "artists": [
-      "Metallica"
+      "Playboi Carti",
+      "Skepta"
     ],
-    "album": "Ride The Lightning (Deluxe Remaster)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
-    "uri": "spotify:track:51YZAJhOwIC5Gg3jMbAmhZ"
+    "album": "MUSIC",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+    "uri": "spotify:track:4evMMKc2HD6fV9slMfgkMx"
   },
-  "played_at": "2026-11-19T01:14:21.168Z"
+  "played_at": "2026-11-19T19:20:07.151Z"
 }
