@@ -1,107 +1,6 @@
 {
-  "updated_at": "2026-11-19T19:50:04.336Z",
+  "updated_at": "2026-11-20T01:58:27.453Z",
   "plays": [
-    {
-      "played_at": "2026-09-10T04:39:42.109Z",
-      "name": "Nutshell",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-09-10T04:43:08.722Z",
-      "name": "Oh Me - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:2vfCSwToh0Am0O4zgHXfn7",
-      "duration_ms": 206160
-    },
-    {
-      "played_at": "2026-09-10T04:48:03.658Z",
-      "name": "rises the moon",
-      "artists": [
-        "Liana Flores"
-      ],
-      "album": "recently",
-      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
-      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
-      "duration_ms": 161929
-    },
-    {
-      "played_at": "2026-09-10T04:50:09.090Z",
-      "name": "And I Love Her",
-      "artists": [
-        "Kurt Cobain"
-      ],
-      "album": "Montage Of Heck: The Home Recordings",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a4c50ce025b39993dea03d71",
-      "uri": "spotify:track:7x4b0UccXSKBWxWmjcrG2T",
-      "duration_ms": 124933
-    },
-    {
-      "played_at": "2026-09-10T04:52:01.037Z",
-      "name": "Heart To Heart",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "album": "Here Comes The Cowboy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
-      "uri": "spotify:track:7EAMXbLcL0qXmciM5SwMh2",
-      "duration_ms": 211140
-    },
-    {
-      "played_at": "2026-09-10T14:49:40.989Z",
-      "name": "Far From Any Road - Main Title Theme from \"True Detective\"",
-      "artists": [
-        "The Handsome Family"
-      ],
-      "album": "Far From Any Road (Main Title Theme from \"True Detective\")",
-      "image": "https://i.scdn.co/image/ab67616d0000b27392adfa6a80a2d70deebe83f0",
-      "uri": "spotify:track:1PmWRQ2TPB5FCOvinqx7ql",
-      "duration_ms": 166493
-    },
-    {
-      "played_at": "2026-09-10T15:59:59.444Z",
-      "name": "Ski",
-      "artists": [
-        "Young Stoner Life",
-        "Young Thug",
-        "Gunna"
-      ],
-      "album": "Slime Language 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
-      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
-      "duration_ms": 152333
-    },
-    {
-      "played_at": "2026-09-10T16:10:49.834Z",
-      "name": "Special",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "Keep it goin xav",
-      "image": "https://i.scdn.co/image/ab67616d0000b273beb7e537258a5ad2acd19d30",
-      "uri": "spotify:track:0OmWHmUFbHC2xHNNsSHHKN",
-      "duration_ms": 104650
-    },
-    {
-      "played_at": "2026-09-10T16:13:20.353Z",
-      "name": "mud",
-      "artists": [
-        "Destroy Lonely"
-      ],
-      "album": "Forever, ILY.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
-      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
-      "duration_ms": 107951
-    },
     {
       "played_at": "2026-09-10T17:00:39.668Z",
       "name": "Gët Busy",
@@ -23027,6 +22926,108 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
       "uri": "spotify:track:4evMMKc2HD6fV9slMfgkMx",
       "duration_ms": 135275
+    },
+    {
+      "played_at": "2026-11-19T20:00:22.283Z",
+      "name": "Springsteen",
+      "artists": [
+        "Eric Church"
+      ],
+      "album": "Chief",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+      "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB",
+      "duration_ms": 263386
+    },
+    {
+      "played_at": "2026-11-19T21:50:24.011Z",
+      "name": "Sad But True (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:5UaDi8KzCGJqFfVAOBfXhi",
+      "duration_ms": 324600
+    },
+    {
+      "played_at": "2026-11-19T22:08:04.163Z",
+      "name": "Massive X Touch Me",
+      "artists": [
+        "NovaX",
+        "Sevven"
+      ],
+      "album": "Massive X Touch Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
+      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
+      "duration_ms": 174160
+    },
+    {
+      "played_at": "2026-11-19T22:20:34.033Z",
+      "name": "Waiting for Tonight - Radio Edit",
+      "artists": [
+        "Jennifer Lopez",
+        "FISHER"
+      ],
+      "album": "On The 6 (25th Anniversary Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
+      "uri": "spotify:track:5GHVp2CCufZ8MJzYE82W7R",
+      "duration_ms": 198019
+    },
+    {
+      "played_at": "2026-11-19T22:24:13.596Z",
+      "name": "I'm Not Alone - 2019 Edit",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "album": "96 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738daa8ac6367fc997c1873b9b",
+      "uri": "spotify:track:6zAUCritANdhceCMLVB8xR",
+      "duration_ms": 201313
+    },
+    {
+      "played_at": "2026-11-19T22:31:33.552Z",
+      "name": "Gonna Be",
+      "artists": [
+        "Daniel Wolf"
+      ],
+      "album": "Gonna Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381da6d2284aa777ba97b1d7b",
+      "uri": "spotify:track:3zQnZ82zxF5dFSfRDkO5d7",
+      "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-11-19T22:34:48.838Z",
+      "name": "Back to the 305",
+      "artists": [
+        "Omar+",
+        "Luke Dean"
+      ],
+      "album": "Back to the 305",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381c3cb075048e8ef39d080a1",
+      "uri": "spotify:track:1tWkiHe2UtNye350uhqwVm",
+      "duration_ms": 177730
+    },
+    {
+      "played_at": "2026-11-19T22:38:48.346Z",
+      "name": "deep in your love",
+      "artists": [
+        "HR"
+      ],
+      "album": "deep in your love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737bb1254d4f5919081de8363a",
+      "uri": "spotify:track:15JRWHoSCmmX8UkJkHfIW6",
+      "duration_ms": 239187
+    },
+    {
+      "played_at": "2026-11-19T23:59:01.099Z",
+      "name": "You Give Love A Bad Name",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "album": "Slippery When Wet (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349e6168f69625252689c2526",
+      "uri": "spotify:track:2TofEeQobQ9YoK7EFds698",
+      "duration_ms": 222317
     }
   ]
 }
