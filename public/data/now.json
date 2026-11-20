@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-20T10:48:02.321Z",
-  "is_playing": false,
+  "updated_at": "2026-11-20T19:29:41.896Z",
+  "is_playing": true,
   "track": {
-    "name": "You Give Love A Bad Name",
+    "name": "Armed And Dangerous",
     "artists": [
-      "Bon Jovi"
+      "Juice WRLD"
     ],
-    "album": "Slippery When Wet (Deluxe Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27349e6168f69625252689c2526",
-    "uri": "spotify:track:2TofEeQobQ9YoK7EFds698"
+    "album": "Goodbye & Good Riddance",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+    "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX"
   },
-  "played_at": "2026-11-19T23:59:01.099Z"
+  "played_at": "2026-11-20T19:29:41.897Z"
 }

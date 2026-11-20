@@ -1,151 +1,6 @@
 {
-  "updated_at": "2026-11-20T10:48:02.278Z",
+  "updated_at": "2026-11-20T19:29:41.639Z",
   "plays": [
-    {
-      "played_at": "2026-09-10T17:00:39.668Z",
-      "name": "Gët Busy",
-      "artists": [
-        "Yeat"
-      ],
-      "album": "Up 2 Më",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737f18c4658caa4a3d47f2d978",
-      "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
-      "duration_ms": 157779
-    },
-    {
-      "played_at": "2026-09-10T19:55:20.909Z",
-      "name": "Opp Stoppa (feat. 21 Savage)",
-      "artists": [
-        "YBN Nahmir",
-        "21 Savage"
-      ],
-      "album": "VISIONLAND",
-      "image": "https://i.scdn.co/image/ab67616d0000b27350d8e2a5ee8bce666f9e26c7",
-      "uri": "spotify:track:78p1rF7xx1snnaKxtUzBHn",
-      "duration_ms": 135430
-    },
-    {
-      "played_at": "2026-09-10T20:05:36.076Z",
-      "name": "Wake Up",
-      "artists": [
-        "YBN Nahmir"
-      ],
-      "album": "Wake Up",
-      "image": "https://i.scdn.co/image/ab6742d3000053b797141347f2aafbe7d72616ca",
-      "uri": "spotify:track:40nAxU0XhJMqwLxZcQSDfs",
-      "duration_ms": 133568
-    },
-    {
-      "played_at": "2026-09-10T20:07:57.527Z",
-      "name": "Far From Any Road - Main Title Theme from \"True Detective\"",
-      "artists": [
-        "The Handsome Family"
-      ],
-      "album": "Far From Any Road (Main Title Theme from \"True Detective\")",
-      "image": "https://i.scdn.co/image/ab67616d0000b27392adfa6a80a2d70deebe83f0",
-      "uri": "spotify:track:1PmWRQ2TPB5FCOvinqx7ql",
-      "duration_ms": 166493
-    },
-    {
-      "played_at": "2026-09-10T20:59:34.986Z",
-      "name": "Flashing Lights",
-      "artists": [
-        "Kanye West",
-        "Dwele"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-      "uri": "spotify:track:5TRPicyLGbAF2LGBFbHGvO",
-      "duration_ms": 237506
-    },
-    {
-      "played_at": "2026-09-10T21:07:16.146Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-09-10T21:11:53.650Z",
-      "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
-      "artists": [
-        "Shoreline Mafia",
-        "Fenix Flexin",
-        "OHGEESY"
-      ],
-      "album": "OTXmas",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b71a41133179195e0d2a73f6",
-      "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
-      "duration_ms": 164400
-    },
-    {
-      "played_at": "2026-09-10T21:13:27.355Z",
-      "name": "Coffin",
-      "artists": [
-        "Lil Yachty"
-      ],
-      "album": "Lil Boat 3.5",
-      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
-      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
-      "duration_ms": 89535
-    },
-    {
-      "played_at": "2026-09-10T21:17:37.060Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-09-10T21:32:58.673Z",
-      "name": "mud",
-      "artists": [
-        "Destroy Lonely"
-      ],
-      "album": "Forever, ILY.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e43b2676d1b05fb31b0cafb3",
-      "uri": "spotify:track:2X3ApPn9I0MpPdKCjDtwH5",
-      "duration_ms": 107951
-    },
-    {
-      "played_at": "2026-09-10T21:36:53.822Z",
-      "name": "Ski",
-      "artists": [
-        "Young Stoner Life",
-        "Young Thug",
-        "Gunna"
-      ],
-      "album": "Slime Language 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
-      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
-      "duration_ms": 152333
-    },
-    {
-      "played_at": "2026-09-10T21:40:21.189Z",
-      "name": "In The Air",
-      "artists": [
-        "Destroy Lonely"
-      ],
-      "album": "In The Air",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a36ff1ccb437954a2e7554b0",
-      "uri": "spotify:track:3y67OmsYWyCevujkT4N6q1",
-      "duration_ms": 206878
-    },
     {
       "played_at": "2026-09-10T21:42:25.567Z",
       "name": "LOT OF ME",
@@ -23028,6 +22883,143 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27349e6168f69625252689c2526",
       "uri": "spotify:track:2TofEeQobQ9YoK7EFds698",
       "duration_ms": 222317
+    },
+    {
+      "played_at": "2026-11-20T11:56:27.073Z",
+      "name": "Breathe (In the Air)",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "album": "The Dark Side of the Moon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+      "uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53",
+      "duration_ms": 169560
+    },
+    {
+      "played_at": "2026-11-20T12:09:48.330Z",
+      "name": "Sultans of Swing",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+      "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
+      "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-11-20T12:15:47.915Z",
+      "name": "love hate",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
+      "duration_ms": 116080
+    },
+    {
+      "played_at": "2026-11-20T12:21:24.815Z",
+      "name": "Magic Johnson",
+      "artists": [
+        "ian"
+      ],
+      "album": "Valedictorian [Deluxe]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
+      "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
+      "duration_ms": 137158
+    },
+    {
+      "played_at": "2026-11-20T13:55:16.183Z",
+      "name": "Coffin",
+      "artists": [
+        "Lil Yachty"
+      ],
+      "album": "Lil Boat 3.5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+      "uri": "spotify:track:5vDNippoMr52KpXBO9b9KQ",
+      "duration_ms": 89535
+    },
+    {
+      "played_at": "2026-11-20T16:21:28.439Z",
+      "name": "Definition",
+      "artists": [
+        "2wo2imes",
+        "Glokk40Spaz"
+      ],
+      "album": "Glokk Files",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
+      "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
+      "duration_ms": 162560
+    },
+    {
+      "played_at": "2026-11-20T16:26:30.577Z",
+      "name": "I Don't Like",
+      "artists": [
+        "Chief Keef",
+        "Lil Reese"
+      ],
+      "album": "Finally Rich",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891",
+      "uri": "spotify:track:1h6kgem1ai8vUgO1rZOwfB",
+      "duration_ms": 293840
+    },
+    {
+      "played_at": "2026-11-20T17:56:42.276Z",
+      "name": "I Don't Like",
+      "artists": [
+        "Chief Keef",
+        "Lil Reese"
+      ],
+      "album": "Finally Rich",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891",
+      "uri": "spotify:track:1h6kgem1ai8vUgO1rZOwfB",
+      "duration_ms": 293840
+    },
+    {
+      "played_at": "2026-11-20T18:01:42.969Z",
+      "name": "Smooth Operator - Single Version",
+      "artists": [
+        "Sade"
+      ],
+      "album": "The Best of Sade",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+      "uri": "spotify:track:1Hv1VTm8zeOeybub15mA2R",
+      "duration_ms": 258693
+    },
+    {
+      "played_at": "2026-11-20T19:14:00.929Z",
+      "name": "Moonlight on the River",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+      "duration_ms": 422613
+    },
+    {
+      "played_at": "2026-11-20T19:18:58.193Z",
+      "name": "Freaking Out the Neighborhood",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ecfde7feaa212a1b60a197a1",
+      "uri": "spotify:track:17L0mSvHatVjgTgBxfmyjf",
+      "duration_ms": 173888
+    },
+    {
+      "played_at": "2026-11-20T19:27:42.871Z",
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "artists": [
+        "Metro Boomin",
+        "Future",
+        "Don Toliver"
+      ],
+      "album": "HEROES & VILLAINS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+      "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+      "duration_ms": 199920
     }
   ]
 }
