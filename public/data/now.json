@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-20T19:29:41.896Z",
-  "is_playing": true,
+  "updated_at": "2026-11-21T01:54:40.292Z",
+  "is_playing": false,
   "track": {
-    "name": "Armed And Dangerous",
+    "name": "Banana Pancakes",
     "artists": [
-      "Juice WRLD"
+      "Jack Johnson"
     ],
-    "album": "Goodbye & Good Riddance",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
-    "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX"
+    "album": "In Between Dreams",
+    "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
+    "uri": "spotify:track:451GvHwY99NKV4zdKPRWmv"
   },
-  "played_at": "2026-11-20T19:29:41.897Z"
+  "played_at": "2026-11-20T19:37:37.424Z"
 }

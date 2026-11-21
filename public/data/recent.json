@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-11-20T19:29:41.639Z",
+  "updated_at": "2026-11-21T01:54:40.256Z",
   "plays": [
-    {
-      "played_at": "2026-09-10T21:42:25.567Z",
-      "name": "LOT OF ME",
-      "artists": [
-        "Lil Tecca"
-      ],
-      "album": "We Love You Tecca 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f156ced88fa6920e86ddf11f",
-      "uri": "spotify:track:2ZXxRC6V6AXzMdbLQZMHSB",
-      "duration_ms": 123870
-    },
-    {
-      "played_at": "2026-09-10T21:45:01.417Z",
-      "name": "Gangstas & Sippas (feat. Q Da Fool)",
-      "artists": [
-        "Shoreline Mafia",
-        "Q Da Fool"
-      ],
-      "album": "Gangstas & Sippas (feat. Q Da Fool)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fadfb282847d8d7830cd06dc",
-      "uri": "spotify:track:6dRK7lr3WCpQjfSFSA0oI1",
-      "duration_ms": 155346
-    },
     {
       "played_at": "2026-09-10T21:46:52.746Z",
       "name": "Who's Dat",
@@ -23020,6 +22997,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
       "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
       "duration_ms": 199920
+    },
+    {
+      "played_at": "2026-11-20T19:30:46.505Z",
+      "name": "Armed And Dangerous",
+      "artists": [
+        "Juice WRLD"
+      ],
+      "album": "Goodbye & Good Riddance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "uri": "spotify:track:5wujBwqG7INdStqGd4tRMX",
+      "duration_ms": 169999
+    },
+    {
+      "played_at": "2026-11-20T19:37:37.424Z",
+      "name": "Banana Pancakes",
+      "artists": [
+        "Jack Johnson"
+      ],
+      "album": "In Between Dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
+      "uri": "spotify:track:451GvHwY99NKV4zdKPRWmv",
+      "duration_ms": 191906
     }
   ]
 }
