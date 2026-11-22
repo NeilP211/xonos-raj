@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-21T18:32:48.546Z",
+  "updated_at": "2026-11-22T00:50:34.226Z",
   "is_playing": false,
   "track": {
-    "name": "Banana Pancakes",
+    "name": "Kung Fu Panda",
     "artists": [
-      "Jack Johnson"
+      "Young Yayo",
+      "We$"
     ],
-    "album": "In Between Dreams",
-    "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
-    "uri": "spotify:track:451GvHwY99NKV4zdKPRWmv"
+    "album": "Kung Fu Panda",
+    "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+    "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN"
   },
-  "played_at": "2026-11-20T19:37:37.424Z"
+  "played_at": "2026-11-21T23:51:15.005Z"
 }
