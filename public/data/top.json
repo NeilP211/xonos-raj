@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:54:38.597Z",
+  "generated_at": "2026-11-23T01:18:59.050Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2080,18 +2080,6 @@
         },
         {
           "rank": 12,
-          "name": "Recover Artist",
-          "artists": [
-            "devLfg"
-          ],
-          "album": "Recover Artist",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732a2c245bb79432df0f130fc4",
-          "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
-          "url": "https://open.spotify.com/track/10UApFsM18peMOQU3TmvmE",
-          "duration_ms": 127477
-        },
-        {
-          "rank": 13,
           "name": "Pressure (feat. OhGeesy & Fenix Flexin)",
           "artists": [
             "Shoreline Mafia",
@@ -2103,6 +2091,18 @@
           "uri": "spotify:track:7oW5YZZVeesParmVY7gx6s",
           "url": "https://open.spotify.com/track/7oW5YZZVeesParmVY7gx6s",
           "duration_ms": 164400
+        },
+        {
+          "rank": 13,
+          "name": "Recover Artist",
+          "artists": [
+            "devLfg"
+          ],
+          "album": "Recover Artist",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732a2c245bb79432df0f130fc4",
+          "uri": "spotify:track:10UApFsM18peMOQU3TmvmE",
+          "url": "https://open.spotify.com/track/10UApFsM18peMOQU3TmvmE",
+          "duration_ms": 127477
         },
         {
           "rank": 14,
@@ -2212,6 +2212,20 @@
         },
         {
           "rank": 22,
+          "name": "Too Many Nights (feat. Don Toliver & with Future)",
+          "artists": [
+            "Metro Boomin",
+            "Future",
+            "Don Toliver"
+          ],
+          "album": "HEROES & VILLAINS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+          "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
+          "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
+          "duration_ms": 199920
+        },
+        {
+          "rank": 23,
           "name": "OLYMPIAN",
           "artists": [
             "Playboi Carti"
@@ -2223,7 +2237,7 @@
           "duration_ms": 174733
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Everything BoZ (feat. Coi Leray)",
           "artists": [
             "Trippie Redd",
@@ -2236,7 +2250,7 @@
           "duration_ms": 205701
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Dark Knight Dummo (feat. Travis Scott)",
           "artists": [
             "Trippie Redd",
@@ -2247,20 +2261,6 @@
           "uri": "spotify:track:1pfwOQKJsRRBf6NdYO4Qog",
           "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog",
           "duration_ms": 256161
-        },
-        {
-          "rank": 25,
-          "name": "Too Many Nights (feat. Don Toliver & with Future)",
-          "artists": [
-            "Metro Boomin",
-            "Future",
-            "Don Toliver"
-          ],
-          "album": "HEROES & VILLAINS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
-          "uri": "spotify:track:2Hh3ETdQKrmSI3QS0hme7g",
-          "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
-          "duration_ms": 199920
         },
         {
           "rank": 26,
@@ -2350,6 +2350,19 @@
         },
         {
           "rank": 33,
+          "name": "Kung Fu Panda",
+          "artists": [
+            "Young Yayo",
+            "We$"
+          ],
+          "album": "Kung Fu Panda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
+          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
+          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
+          "duration_ms": 111699
+        },
+        {
+          "rank": 34,
           "name": "Never Stop",
           "artists": [
             "ian"
@@ -2361,7 +2374,7 @@
           "duration_ms": 127872
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "7 Summers",
           "artists": [
             "Morgan Wallen"
@@ -2373,7 +2386,7 @@
           "duration_ms": 210506
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "3.5",
           "artists": [
             "ian"
@@ -2383,19 +2396,6 @@
           "uri": "spotify:track:6YvCWIlMBJgQEm6i0POVbZ",
           "url": "https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ",
           "duration_ms": 156444
-        },
-        {
-          "rank": 36,
-          "name": "Kung Fu Panda",
-          "artists": [
-            "Young Yayo",
-            "We$"
-          ],
-          "album": "Kung Fu Panda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273089b07dd773eef337cbb1c8a",
-          "uri": "spotify:track:0FSC21k8ZDEFenJb1H8tHN",
-          "url": "https://open.spotify.com/track/0FSC21k8ZDEFenJb1H8tHN",
-          "duration_ms": 111699
         },
         {
           "rank": 37,
