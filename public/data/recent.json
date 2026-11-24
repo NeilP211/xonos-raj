@@ -1,100 +1,6 @@
 {
-  "updated_at": "2026-11-23T23:11:52.082Z",
+  "updated_at": "2026-11-24T07:53:45.947Z",
   "plays": [
-    {
-      "played_at": "2026-09-14T11:04:27.832Z",
-      "name": "Quickest Routes",
-      "artists": [
-        "Shoreline Mafia",
-        "Disco Lines",
-        "OHGEESY",
-        "Fenix Flexin"
-      ],
-      "album": "Disco Mafia Pack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d8cf41977c96786bee8de4b3",
-      "uri": "spotify:track:0HNYsGGjrvPQsaXR6sFnVB",
-      "duration_ms": 134400
-    },
-    {
-      "played_at": "2026-09-14T12:50:21.029Z",
-      "name": "love hate",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
-      "duration_ms": 116080
-    },
-    {
-      "played_at": "2026-09-14T14:31:15.127Z",
-      "name": "love hate",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
-      "duration_ms": 116080
-    },
-    {
-      "played_at": "2026-09-14T14:45:42.318Z",
-      "name": "Yung Nigga Shit",
-      "artists": [
-        "Glokk40Spaz",
-        "2wo2imes"
-      ],
-      "album": "2wo Glokks",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
-      "duration_ms": 135510
-    },
-    {
-      "played_at": "2026-09-14T18:20:31.080Z",
-      "name": "Ski",
-      "artists": [
-        "Young Stoner Life",
-        "Young Thug",
-        "Gunna"
-      ],
-      "album": "Slime Language 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
-      "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1",
-      "duration_ms": 152333
-    },
-    {
-      "played_at": "2026-09-14T18:23:13.458Z",
-      "name": "Magnolia",
-      "artists": [
-        "Playboi Carti"
-      ],
-      "album": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-      "uri": "spotify:track:1e1JKLEDKP7hEQzJfNAgPl",
-      "duration_ms": 181812
-    },
-    {
-      "played_at": "2026-09-14T21:28:18.517Z",
-      "name": "rises the moon",
-      "artists": [
-        "Liana Flores"
-      ],
-      "album": "recently",
-      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
-      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
-      "duration_ms": 161929
-    },
-    {
-      "played_at": "2026-09-14T21:32:32.157Z",
-      "name": "Falling Behind",
-      "artists": [
-        "Laufey"
-      ],
-      "album": "Everything I Know About Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
-      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
-      "duration_ms": 173640
-    },
     {
       "played_at": "2026-09-14T21:39:31.109Z",
       "name": "Rotten Apple",
@@ -23020,6 +22926,97 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
       "uri": "spotify:track:0tKGheuEeXHSDz55C35MpL",
       "duration_ms": 185000
+    },
+    {
+      "played_at": "2026-11-24T02:58:34.285Z",
+      "name": "Dreiton",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:79tsuz5Op5KSX58nST1BZT",
+      "duration_ms": 497000
+    },
+    {
+      "played_at": "2026-11-24T03:03:47.719Z",
+      "name": "Like That (feat. Gucci Mane)",
+      "artists": [
+        "Doja Cat",
+        "Gucci Mane"
+      ],
+      "album": "Hot Pink",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed",
+      "uri": "spotify:track:4EivmOT13NMpNSfTKn9p4s",
+      "duration_ms": 163167
+    },
+    {
+      "played_at": "2026-11-24T03:20:38.532Z",
+      "name": "Like That (feat. Gucci Mane)",
+      "artists": [
+        "Doja Cat",
+        "Gucci Mane"
+      ],
+      "album": "Hot Pink",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed",
+      "uri": "spotify:track:4EivmOT13NMpNSfTKn9p4s",
+      "duration_ms": 163167
+    },
+    {
+      "played_at": "2026-11-24T03:23:09.725Z",
+      "name": "U could tëll",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:4QDkb8jDDi2M9MWyQbF6UL",
+      "duration_ms": 148793
+    },
+    {
+      "played_at": "2026-11-24T03:26:53.124Z",
+      "name": "Money Twërk",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "4L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3b6e029c7313c6d0f9ccc4b",
+      "uri": "spotify:track:5swUIbecpzLt2yR8gTsx0b",
+      "duration_ms": 139311
+    },
+    {
+      "played_at": "2026-11-24T03:46:34.653Z",
+      "name": "Out thë way",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Lyfë",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
+      "uri": "spotify:track:6IyoLWzljeR3ldQo4KWHT6",
+      "duration_ms": 150241
+    },
+    {
+      "played_at": "2026-11-24T03:51:22.594Z",
+      "name": "Freak Show",
+      "artists": [
+        "Punkinloveee",
+        "h3artcrush"
+      ],
+      "album": "Freak Show",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731260df83530414843056418e",
+      "uri": "spotify:track:03KRZpV8xqp0tjxB7EsuBe",
+      "duration_ms": 125387
+    },
+    {
+      "played_at": "2026-11-24T03:53:42.883Z",
+      "name": "plastic",
+      "artists": [
+        "Punkinloveee"
+      ],
+      "album": "plastic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ab6d97f36bed3e165f380a5",
+      "uri": "spotify:track:6wGM54Fj2JcuSFamPhXJwh",
+      "duration_ms": 139993
     }
   ]
 }
