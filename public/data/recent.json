@@ -1,198 +1,6 @@
 {
-  "updated_at": "2026-11-24T19:50:48.448Z",
+  "updated_at": "2026-11-25T16:37:14.698Z",
   "plays": [
-    {
-      "played_at": "2026-09-15T11:22:26.982Z",
-      "name": "Rotten Apple",
-      "artists": [
-        "Alice In Chains"
-      ],
-      "album": "Jar Of Flies",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
-      "uri": "spotify:track:7Fm3NhbAYHvTQUhboim9FB",
-      "duration_ms": 418466
-    },
-    {
-      "played_at": "2026-09-15T12:47:47.860Z",
-      "name": "love hate",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
-      "duration_ms": 116080
-    },
-    {
-      "played_at": "2026-09-15T12:50:54.641Z",
-      "name": "40 - Dj Ess Mix",
-      "artists": [
-        "evilgiane",
-        "xaviersobased",
-        "Nettspend",
-        "DJ Ess"
-      ],
-      "album": "40 (Dj Ess Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f9c9b0b2db022e06914155a",
-      "uri": "spotify:track:1Ik9cfzeFLGzGPr3g6G1jz",
-      "duration_ms": 81658
-    },
-    {
-      "played_at": "2026-09-15T12:52:00.610Z",
-      "name": "Love",
-      "artists": [
-        "Slimepayn"
-      ],
-      "album": "Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa044a176e05be7e53ffd83a",
-      "uri": "spotify:track:6MU4ZZI091j8Zzu6WaEUJx",
-      "duration_ms": 65488
-    },
-    {
-      "played_at": "2026-09-15T12:53:20.371Z",
-      "name": "bishop",
-      "artists": [
-        "xaviersobased",
-        "chaosysl"
-      ],
-      "album": "xav on tour",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373a2982a9f7f624cc023c114",
-      "uri": "spotify:track:6taCk31VfqpiVqKBwErLEH",
-      "duration_ms": 79281
-    },
-    {
-      "played_at": "2026-09-15T12:54:36.193Z",
-      "name": "funuhyuh",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "funuhyuh",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd89db8dbbc422daefa55432",
-      "uri": "spotify:track:6jwCUzXJwNLaP1rnU0fJTz",
-      "duration_ms": 75347
-    },
-    {
-      "played_at": "2026-09-15T12:56:52.289Z",
-      "name": "im w rain",
-      "artists": [
-        "phreshboyswag"
-      ],
-      "album": "im w rain",
-      "image": "https://i.scdn.co/image/ab67616d0000b27334907bbcab84444aba9abc77",
-      "uri": "spotify:track:6C5ARCIIzjYAzC4WnzUhDr",
-      "duration_ms": 135697
-    },
-    {
-      "played_at": "2026-09-15T12:59:09.752Z",
-      "name": "Fool",
-      "artists": [
-        "OsamaSon"
-      ],
-      "album": "Jump Out",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
-      "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
-      "duration_ms": 125562
-    },
-    {
-      "played_at": "2026-09-15T13:00:35.071Z",
-      "name": "Easter Pink",
-      "artists": [
-        "fakemink"
-      ],
-      "album": "Easter Pink",
-      "image": "https://i.scdn.co/image/ab67616d0000b273148b32e65eb2564ea53b5f74",
-      "uri": "spotify:track:6RM6SBmaiv1ouUxh9nmQLj",
-      "duration_ms": 84846
-    },
-    {
-      "played_at": "2026-09-15T13:05:54.879Z",
-      "name": "satanic",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "install",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f992ead5ae4ab2f9e71721b5",
-      "uri": "spotify:track:5UkaaXK9Peo7WBZ3ckq1sk",
-      "duration_ms": 68623
-    },
-    {
-      "played_at": "2026-09-15T13:07:30.720Z",
-      "name": "open the door",
-      "artists": [
-        "phreshboyswag"
-      ],
-      "album": "open the door",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bfad686f153fc6f1a4b56e6a",
-      "uri": "spotify:track:4zVObaSKVFFcQSCvz38IJF",
-      "duration_ms": 69892
-    },
-    {
-      "played_at": "2026-09-15T13:08:44.657Z",
-      "name": "yh i kno",
-      "artists": [
-        "phreshboyswag",
-        "xaviersobased"
-      ],
-      "album": "yh i kno",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b8455b509a647be1280efe98",
-      "uri": "spotify:track:2G2F2XiqrldCbTVNUmzKKg",
-      "duration_ms": 73467
-    },
-    {
-      "played_at": "2026-09-15T13:09:54.128Z",
-      "name": "Made It Home",
-      "artists": [
-        "nettspend 2"
-      ],
-      "album": "Nettspend 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731a11a521fdb7b2399bb28280",
-      "uri": "spotify:track:421uMfcvWbKuOSOXC5tmn5",
-      "duration_ms": 69009
-    },
-    {
-      "played_at": "2026-09-15T13:11:48.713Z",
-      "name": "bologna 2",
-      "artists": [
-        "boolymon"
-      ],
-      "album": "bologna 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b27382b5bc10886c453dd09c505b",
-      "uri": "spotify:track:7iqmgC6GFsiwkfb01jRVPm",
-      "duration_ms": 114102
-    },
-    {
-      "played_at": "2026-09-15T13:13:57.039Z",
-      "name": "Ref",
-      "artists": [
-        "OsamaSon"
-      ],
-      "album": "Jump Out",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
-      "uri": "spotify:track:1Rza5aDdB05TcKpfz8oKtQ",
-      "duration_ms": 89637
-    },
-    {
-      "played_at": "2026-09-15T13:16:03.301Z",
-      "name": "Shut Up",
-      "artists": [
-        "Nettspend"
-      ],
-      "album": "BAD ASS F*CKING KID",
-      "image": "https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914",
-      "uri": "spotify:track:7iZGpuboJPQQGH07EprPnR",
-      "duration_ms": 125799
-    },
-    {
-      "played_at": "2026-09-15T13:18:08.363Z",
-      "name": "linda",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:13wrJv0PR9a8qQWBZBVXic",
-      "duration_ms": 124586
-    },
     {
       "played_at": "2026-09-15T13:19:47.317Z",
       "name": "megalodon",
@@ -23025,6 +22833,195 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
       "uri": "spotify:track:4QDkb8jDDi2M9MWyQbF6UL",
       "duration_ms": 148793
+    },
+    {
+      "played_at": "2026-11-24T20:24:45.276Z",
+      "name": "Out thë way",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Lyfë",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
+      "uri": "spotify:track:6IyoLWzljeR3ldQo4KWHT6",
+      "duration_ms": 150241
+    },
+    {
+      "played_at": "2026-11-24T20:28:40.754Z",
+      "name": "Like That (feat. Gucci Mane)",
+      "artists": [
+        "Doja Cat",
+        "Gucci Mane"
+      ],
+      "album": "Hot Pink",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed",
+      "uri": "spotify:track:4EivmOT13NMpNSfTKn9p4s",
+      "duration_ms": 163167
+    },
+    {
+      "played_at": "2026-11-24T20:31:10.081Z",
+      "name": "U could tëll",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:4QDkb8jDDi2M9MWyQbF6UL",
+      "duration_ms": 148793
+    },
+    {
+      "played_at": "2026-11-24T20:32:40.545Z",
+      "name": "Wet Hands",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:1MLZMrjfwiT5ll5vjIwwU7",
+      "duration_ms": 90000
+    },
+    {
+      "played_at": "2026-11-24T20:37:45.494Z",
+      "name": "Take It Easy - Live at The Forum, Los Angeles, CA, 10/20-22/1976",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Hotel California (40th Anniversary Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105",
+      "uri": "spotify:track:3vtyxtDrkeiayOBUcKqdhS",
+      "duration_ms": 287533
+    },
+    {
+      "played_at": "2026-11-24T20:53:00.706Z",
+      "name": "One Step Closer",
+      "artists": [
+        "Linkin Park"
+      ],
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "uri": "spotify:track:3K4HG9evC7dg3N0R9cYqk4",
+      "duration_ms": 157333
+    },
+    {
+      "played_at": "2026-11-24T23:57:18.301Z",
+      "name": "Nutshell",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Jar Of Flies",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+      "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-11-25T01:07:18.365Z",
+      "name": "All Along the Watchtower",
+      "artists": [
+        "Jimi Hendrix"
+      ],
+      "album": "Electric Ladyland",
+      "image": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
+      "uri": "spotify:track:2aoo2jlRnM3A0NyLQqMN2f",
+      "duration_ms": 240800
+    },
+    {
+      "played_at": "2026-11-25T01:09:44.348Z",
+      "name": "Money Twërk",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "4L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3b6e029c7313c6d0f9ccc4b",
+      "uri": "spotify:track:5swUIbecpzLt2yR8gTsx0b",
+      "duration_ms": 139311
+    },
+    {
+      "played_at": "2026-11-25T01:12:15.127Z",
+      "name": "Out thë way",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Lyfë",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
+      "uri": "spotify:track:6IyoLWzljeR3ldQo4KWHT6",
+      "duration_ms": 150241
+    },
+    {
+      "played_at": "2026-11-25T01:52:58.075Z",
+      "name": "Sorry Bout That",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "4L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3b6e029c7313c6d0f9ccc4b",
+      "uri": "spotify:track:5G9CRx8UPvVfZe1L8gXKT0",
+      "duration_ms": 186017
+    },
+    {
+      "played_at": "2026-11-25T02:00:27.620Z",
+      "name": "Moonlight on the River",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a",
+      "uri": "spotify:track:2OXn0rzeFW9h2BUViGlW3A",
+      "duration_ms": 422613
+    },
+    {
+      "played_at": "2026-11-25T02:04:48.133Z",
+      "name": "Warmth",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:5tcpY8RPLxJ9X7O5AFFZLQ",
+      "duration_ms": 239379
+    },
+    {
+      "played_at": "2026-11-25T02:10:21.126Z",
+      "name": "Blind Spots",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
+      "duration_ms": 332500
+    },
+    {
+      "played_at": "2026-11-25T02:12:52.323Z",
+      "name": "snowfall (Slowed + Reverb)",
+      "artists": [
+        "Øneheart",
+        "reidenshi"
+      ],
+      "album": "snowfall (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f174c80242142ad9306df3b",
+      "uri": "spotify:track:4VkEkljlOC5cMbRMhREO5E",
+      "duration_ms": 150660
+    },
+    {
+      "played_at": "2026-11-25T02:17:06.722Z",
+      "name": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "album": "Synchronicity (Remastered 2003)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "duration_ms": 253920
+    },
+    {
+      "played_at": "2026-11-25T02:22:10.420Z",
+      "name": "Harvest Moon",
+      "artists": [
+        "Neil Young"
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ccaa7931619cf504014a987",
+      "uri": "spotify:track:7sCHy8QQUz3CRvUMp53Cbm",
+      "duration_ms": 303213
     }
   ]
 }
