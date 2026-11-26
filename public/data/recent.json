@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-26T11:45:51.867Z",
+  "updated_at": "2026-11-26T20:48:03.135Z",
   "plays": [
-    {
-      "played_at": "2026-09-16T10:56:21.597Z",
-      "name": "rises the moon",
-      "artists": [
-        "Liana Flores"
-      ],
-      "album": "recently",
-      "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2",
-      "uri": "spotify:track:2k47MKPoBLFbKwqP796ZAA",
-      "duration_ms": 161929
-    },
     {
       "played_at": "2026-09-16T11:03:20.527Z",
       "name": "Rotten Apple",
@@ -23020,6 +23009,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
       "uri": "spotify:track:6cr6UDpkjEaMQ80OjWqEBQ",
       "duration_ms": 348760
+    },
+    {
+      "played_at": "2026-11-26T20:17:07.205Z",
+      "name": "Money Twërk",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "4L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3b6e029c7313c6d0f9ccc4b",
+      "uri": "spotify:track:5swUIbecpzLt2yR8gTsx0b",
+      "duration_ms": 139311
     }
   ]
 }
