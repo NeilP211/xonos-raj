@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:24:59.674Z",
+  "generated_at": "2026-11-27T15:56:19.760Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -657,19 +657,19 @@
         },
         {
           "rank": 3,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 4,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
           "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        },
+        {
+          "rank": 4,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 5,
@@ -1307,6 +1307,18 @@
         },
         {
           "rank": 33,
+          "name": "Breathe (In the Air)",
+          "artists": [
+            "Pink Floyd"
+          ],
+          "album": "The Dark Side of the Moon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+          "uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53",
+          "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53",
+          "duration_ms": 169560
+        },
+        {
+          "rank": 34,
           "name": "Rotten Apple",
           "artists": [
             "Alice In Chains"
@@ -1318,7 +1330,7 @@
           "duration_ms": 418466
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Nuketown",
           "artists": [
             "Ski Mask The Slump God",
@@ -1331,7 +1343,7 @@
           "duration_ms": 166400
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "fukumean",
           "artists": [
             "Gunna"
@@ -1341,18 +1353,6 @@
           "uri": "spotify:track:4rXLjWdF2ZZpXCVTfWcshS",
           "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
           "duration_ms": 125040
-        },
-        {
-          "rank": 36,
-          "name": "Breathe (In the Air)",
-          "artists": [
-            "Pink Floyd"
-          ],
-          "album": "The Dark Side of the Moon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
-          "uri": "spotify:track:2ctvdKmETyOzPb2GiJJT53",
-          "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53",
-          "duration_ms": 169560
         },
         {
           "rank": 37,
@@ -1393,6 +1393,18 @@
         },
         {
           "rank": 40,
+          "name": "I'll Wait For You",
+          "artists": [
+            "Frankie Avalon"
+          ],
+          "album": "A Whole Lotta Frankie",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735eecc920324cd6f17cfddb7f",
+          "uri": "spotify:track:1WsLTImrHpuxenqh0fchva",
+          "url": "https://open.spotify.com/track/1WsLTImrHpuxenqh0fchva",
+          "duration_ms": 174940
+        },
+        {
+          "rank": 41,
           "name": "Magnolia",
           "artists": [
             "Playboi Carti"
@@ -1404,7 +1416,7 @@
           "duration_ms": 181812
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Hoe Shit",
           "artists": [
             "Shoreline Mafia",
@@ -1417,7 +1429,7 @@
           "duration_ms": 168000
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Nun Major",
           "artists": [
             "Shoreline Mafia"
@@ -1427,18 +1439,6 @@
           "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
           "url": "https://open.spotify.com/track/18pwD0HrweX8oCgIkayRb4",
           "duration_ms": 151836
-        },
-        {
-          "rank": 43,
-          "name": "I'll Wait For You",
-          "artists": [
-            "Frankie Avalon"
-          ],
-          "album": "A Whole Lotta Frankie",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735eecc920324cd6f17cfddb7f",
-          "uri": "spotify:track:1WsLTImrHpuxenqh0fchva",
-          "url": "https://open.spotify.com/track/1WsLTImrHpuxenqh0fchva",
-          "duration_ms": 174940
         },
         {
           "rank": 44,
@@ -1716,19 +1716,19 @@
         },
         {
           "rank": 24,
-          "name": "Pantera",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
-          "genres": [],
-          "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        },
-        {
-          "rank": 25,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "rank": 25,
+          "name": "Pantera",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
+          "genres": [],
+          "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
           "rank": 26,
@@ -1836,6 +1836,14 @@
         },
         {
           "rank": 39,
+          "name": "Bon Jovi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
+          "genres": [],
+          "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "rank": 40,
           "name": "Charles Mingus",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe43b629d257d42a86c71323d",
           "genres": [],
@@ -1843,20 +1851,12 @@
           "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "The Dave Brubeck Quartet",
           "image": "https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e",
           "genres": [],
           "uri": "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7",
           "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        },
-        {
-          "rank": 41,
-          "name": "Bon Jovi",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
-          "genres": [],
-          "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         },
         {
           "rank": 42,

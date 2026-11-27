@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-27T03:24:59.871Z",
+  "updated_at": "2026-11-27T15:56:19.879Z",
   "plays": [
-    {
-      "played_at": "2026-09-17T16:58:39.492Z",
-      "name": "Magic Johnson",
-      "artists": [
-        "ian"
-      ],
-      "album": "Valedictorian [Deluxe]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3d9d6750279f6b9b9c9ead9",
-      "uri": "spotify:track:4oPLjuY1WgGTL0Ja1doDOn",
-      "duration_ms": 137158
-    },
-    {
-      "played_at": "2026-09-17T17:25:00.121Z",
-      "name": "Gët Busy",
-      "artists": [
-        "Yeat"
-      ],
-      "album": "Up 2 Më",
-      "image": "https://i.scdn.co/image/ab67616d0000b27337e87168ba4bc06413a2fc27",
-      "uri": "spotify:track:0SHO7NVnp3U5NFc9YWkPCR",
-      "duration_ms": 157779
-    },
     {
       "played_at": "2026-09-17T17:31:46.868Z",
       "name": "wokeuplikethis*",
@@ -23000,6 +22978,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e3f0d7744b15a4587c388020",
       "uri": "spotify:track:7E5pDQN3D93OxPak6Esnw7",
       "duration_ms": 172386
+    },
+    {
+      "played_at": "2026-11-27T03:03:02.735Z",
+      "name": "Caravan",
+      "artists": [
+        "John Wasson"
+      ],
+      "album": "Whiplash (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736fce4a71d3973d3bbb12e8d7",
+      "uri": "spotify:track:2Xtsv7BUMrNodQWH2JPOc0",
+      "duration_ms": 555000
+    },
+    {
+      "played_at": "2026-11-27T07:09:13.953Z",
+      "name": "Chris",
+      "artists": [
+        "C418"
+      ],
+      "album": "Minecraft - Volume Alpha",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
+      "uri": "spotify:track:6DWDh2228j0yXcDQBQtq2t",
+      "duration_ms": 87750
     }
   ]
 }
