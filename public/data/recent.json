@@ -1,121 +1,6 @@
 {
-  "updated_at": "2026-11-28T00:56:16.963Z",
+  "updated_at": "2026-11-28T11:14:19.415Z",
   "plays": [
-    {
-      "played_at": "2026-09-18T10:58:43.300Z",
-      "name": "Everything In Its Right Place",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "Kid A",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-      "duration_ms": 251426
-    },
-    {
-      "played_at": "2026-09-18T11:06:53.589Z",
-      "name": "Falling Behind",
-      "artists": [
-        "Laufey"
-      ],
-      "album": "Everything I Know About Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
-      "uri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
-      "duration_ms": 173640
-    },
-    {
-      "played_at": "2026-09-18T11:19:36.244Z",
-      "name": "love hate",
-      "artists": [
-        "xaviersobased"
-      ],
-      "album": "with 2 (hosted by d9lton)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-      "uri": "spotify:track:7LqHM8vXewc8jxsM7VBVUj",
-      "duration_ms": 116080
-    },
-    {
-      "played_at": "2026-09-18T11:21:42.200Z",
-      "name": "Fool",
-      "artists": [
-        "OsamaSon"
-      ],
-      "album": "Jump Out",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
-      "uri": "spotify:track:2zhOFpI6w9Dyt3d5wpFWSE",
-      "duration_ms": 125562
-    },
-    {
-      "played_at": "2026-09-18T11:23:46.993Z",
-      "name": "Swamp",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "Glokk Files",
-      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
-      "uri": "spotify:track:0oiaNKkZsnzrSM0zXxh5tm",
-      "duration_ms": 85524
-    },
-    {
-      "played_at": "2026-09-18T11:24:59.202Z",
-      "name": "Yung Nigga Shit",
-      "artists": [
-        "Glokk40Spaz",
-        "2wo2imes"
-      ],
-      "album": "2wo Glokks",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
-      "duration_ms": 135510
-    },
-    {
-      "played_at": "2026-09-18T14:22:43.924Z",
-      "name": "Touchable",
-      "artists": [
-        "Remble"
-      ],
-      "album": "IT’S REMBLE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364ea80bd530e9c46bf86d592",
-      "uri": "spotify:track:24iwskv8LDFMYRZ6Sr9iyw",
-      "duration_ms": 122647
-    },
-    {
-      "played_at": "2026-09-18T15:26:45.219Z",
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "artists": [
-        "Shoreline Mafia",
-        "Rob Vicious",
-        "Fenix Flexin",
-        "Master Kato",
-        "OHGEESY"
-      ],
-      "album": "Bands (feat. Ohgeesy, Fenix Flexin & Master Kato)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6bac8c3edf77fbb1d8bf13d",
-      "uri": "spotify:track:5SPFs9BVtMVJWFpkNcQDB8",
-      "duration_ms": 174335
-    },
-    {
-      "played_at": "2026-09-18T15:29:14.334Z",
-      "name": "Make No Sense",
-      "artists": [
-        "YoungBoy Never Broke Again"
-      ],
-      "album": "AI YoungBoy 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734a92eb0e4fcbe2fb6e1208e5",
-      "uri": "spotify:track:6klLvorLoo1sxvZcjJIY8I",
-      "duration_ms": 148629
-    },
-    {
-      "played_at": "2026-09-18T15:31:45.209Z",
-      "name": "Fighting My Demons",
-      "artists": [
-        "Ken Carson"
-      ],
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "uri": "spotify:track:2c7sRekhMGlj7u1WIIzoQu",
-      "duration_ms": 150401
-    },
     {
       "played_at": "2026-09-18T15:35:15.343Z",
       "name": "RATHER LIE (with The Weeknd)",
@@ -22994,6 +22879,117 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a6f6056c9ded5242ca245c56",
       "uri": "spotify:track:7yJFsHn1OOpV9Q7b0Uofd0",
       "duration_ms": 145750
+    },
+    {
+      "played_at": "2026-11-28T01:02:03.292Z",
+      "name": "Rosemary",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:4FEr6dIdH6EqLKR0jB560J",
+      "duration_ms": 413346
+    },
+    {
+      "played_at": "2026-11-28T01:05:18.160Z",
+      "name": "Out thë way",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Lyfë",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
+      "uri": "spotify:track:6IyoLWzljeR3ldQo4KWHT6",
+      "duration_ms": 150241
+    },
+    {
+      "played_at": "2026-11-28T01:08:12.317Z",
+      "name": "Like That (feat. Gucci Mane)",
+      "artists": [
+        "Doja Cat",
+        "Gucci Mane"
+      ],
+      "album": "Hot Pink",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed",
+      "uri": "spotify:track:4EivmOT13NMpNSfTKn9p4s",
+      "duration_ms": 163167
+    },
+    {
+      "played_at": "2026-11-28T01:10:40.600Z",
+      "name": "U could tëll",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Up 2 Më",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6da6fd52ffda0dba216b66",
+      "uri": "spotify:track:4QDkb8jDDi2M9MWyQbF6UL",
+      "duration_ms": 148793
+    },
+    {
+      "played_at": "2026-11-28T04:06:58.635Z",
+      "name": "Out thë way",
+      "artists": [
+        "Yeat"
+      ],
+      "album": "Lyfë",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738373f87eba4f2880e92fb962",
+      "uri": "spotify:track:6IyoLWzljeR3ldQo4KWHT6",
+      "duration_ms": 150241
+    },
+    {
+      "played_at": "2026-11-28T04:19:30.327Z",
+      "name": "Harvest Moon",
+      "artists": [
+        "Neil Young"
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ccaa7931619cf504014a987",
+      "uri": "spotify:track:7sCHy8QQUz3CRvUMp53Cbm",
+      "duration_ms": 303213
+    },
+    {
+      "played_at": "2026-11-28T05:05:16.671Z",
+      "name": "GOTHEX - ultra slowed",
+      "artists": [
+        "N!GHTvisiøn"
+      ],
+      "album": "GOTHEX (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c95d3d678acbffcd4ad1cdfa",
+      "uri": "spotify:track:3CtS89Mk0ffp5e9gJ4tW7Q",
+      "duration_ms": 181775
+    },
+    {
+      "played_at": "2026-11-28T06:03:32.564Z",
+      "name": "Wherever I May Roam (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
+      "uri": "spotify:track:745sNpjWbAxo2MA2zSYbyD",
+      "duration_ms": 404333
+    },
+    {
+      "played_at": "2026-11-28T06:13:17.029Z",
+      "name": "Ball Tongue",
+      "artists": [
+        "Korn"
+      ],
+      "album": "Korn",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737153b1cf6ee990c2a9fa46cc",
+      "uri": "spotify:track:5pbfZdAP7xUu354ZQBhTS2",
+      "duration_ms": 268533
+    },
+    {
+      "played_at": "2026-11-28T06:19:53.102Z",
+      "name": "For Whom The Bell Tolls (Remastered)",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Deluxe Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
+      "uri": "spotify:track:51YZAJhOwIC5Gg3jMbAmhZ",
+      "duration_ms": 309973
     }
   ]
 }
